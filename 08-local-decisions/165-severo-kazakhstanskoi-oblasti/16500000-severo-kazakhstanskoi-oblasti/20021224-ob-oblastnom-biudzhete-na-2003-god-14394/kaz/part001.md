@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
+source: https://zan.gov.kz/client/#!/doc/14394/kaz/12.06.2003
 ---
 
 ## 2003 жылға арналған Солтүстiк Қазақстан облысының бюджетi
@@ -30,7 +30,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Түсімдер</td>
-<td>11 474 267</td>
+<td>11 979 094</td>
 </tr>
 <tr>
 <td></td>
@@ -38,7 +38,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Кірістер</td>
-<td>4 035 286</td>
+<td>4 105 286</td>
 </tr>
 <tr>
 <td>1</td>
@@ -46,7 +46,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>САЛЫҚТЫҚ ТҮСIМДЕР</td>
-<td>4 021 558</td>
+<td>4 091 558</td>
 </tr>
 <tr>
 <td></td>
@@ -54,7 +54,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Әлеуметтiк салық</td>
-<td>3 787 712</td>
+<td>3 857 712</td>
 </tr>
 <tr>
 <td></td>
@@ -62,7 +62,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>1</td>
 <td></td>
 <td>Әлеуметтiк салық</td>
-<td>3 787 712</td>
+<td>3 857 712</td>
 </tr>
 <tr>
 <td></td>
@@ -70,7 +70,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>1</td>
 <td>Әлеуметтiк салық</td>
-<td>3 787 712</td>
+<td>3 857 712</td>
 </tr>
 <tr>
 <td></td>
@@ -102,7 +102,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>САЛЫҚТЫҚ ЕМЕС ТҮСIМДЕР</td>
-<td>2 500</td>
+<td>13 728</td>
 </tr>
 <tr>
 <td></td>
@@ -214,7 +214,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Алынған ресми трансферттер</td>
-<td>6 324 498</td>
+<td>6 759 325</td>
 </tr>
 <tr>
 <td></td>
@@ -222,7 +222,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>6 324 498</td>
+<td>6 759 325</td>
 </tr>
 <tr>
 <td></td>
@@ -230,7 +230,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>1</td>
 <td></td>
 <td>Республикалық бюджеттен түсетiн трансферттер</td>
-<td>6 324 498</td>
+<td>6 759 325</td>
 </tr>
 <tr>
 <td></td>
@@ -238,7 +238,15 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>1</td>
 <td>Ағымдағы</td>
-<td>118 949</td>
+<td>215 872</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td>Күрделі жөндеулер</td>
+<td>337 904</td>
 </tr>
 <tr>
 <td></td>
@@ -355,7 +363,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>II. Шығыстар</td>
-<td>11 651 542</td>
+<td>12 156 369</td>
 </tr>
 <tr>
 <td></td>
@@ -363,7 +371,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Шығындар</td>
-<td>10 618 542</td>
+<td>11 133 369</td>
 </tr>
 <tr>
 <td>1</td>
@@ -371,7 +379,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>270 637</td>
+<td>279 041</td>
 </tr>
 <tr>
 <td></td>
@@ -379,7 +387,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>142 081</td>
+<td>148 246</td>
 </tr>
 <tr>
 <td></td>
@@ -419,7 +427,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>105</td>
 <td></td>
 <td>Әкiм аппараты</td>
-<td>131 800</td>
+<td>137 965</td>
 </tr>
 <tr>
 <td></td>
@@ -427,7 +435,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>2</td>
 <td>Жергiлiктi деңгейдегi әкiмшiлiк шығындар</td>
-<td>93 800</td>
+<td>97 965</td>
 </tr>
 <tr>
 <td></td>
@@ -435,7 +443,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>50</td>
 <td>Әкiм аппаратының материалдық-техникалық базасын нығайту және ақпараттандыру</td>
-<td>33 000</td>
+<td>30 000</td>
 </tr>
 <tr>
 <td></td>
@@ -443,7 +451,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>74</td>
 <td>Әкім аппаратының материалдық-техникалық базасын нығайту</td>
-<td>5 000</td>
+<td>10 000</td>
 </tr>
 <tr>
 <td></td>
@@ -451,7 +459,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Қаржылық қызмет</td>
-<td>128 556</td>
+<td>130 795</td>
 </tr>
 <tr>
 <td></td>
@@ -475,7 +483,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>259</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын коммуналдық меншiк атқарушы органы</td>
-<td>21 390</td>
+<td>22 710</td>
 </tr>
 <tr>
 <td></td>
@@ -483,7 +491,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>2</td>
 <td>Жергiлiктi деңгейдегi әкiмшiлiк шығындар</td>
-<td>9 900</td>
+<td>11 220</td>
 </tr>
 <tr>
 <td></td>
@@ -507,7 +515,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>260</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын қаржы атқарушы органы</td>
-<td>91 540</td>
+<td>92 459</td>
 </tr>
 <tr>
 <td></td>
@@ -515,7 +523,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>2</td>
 <td>Жергiлiктi деңгейдегi әкiмшiлiк шығындар</td>
-<td>89 540</td>
+<td>89 570</td>
 </tr>
 <tr>
 <td></td>
@@ -523,7 +531,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>70</td>
 <td>Коммуналдық меншікті атқарушы органдардың материалдық-техникалық базасын нығайту</td>
-<td>2 000</td>
+<td>2 889</td>
 </tr>
 <tr>
 <td>2</td>
@@ -531,7 +539,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Қорғаныс</td>
-<td>294 618</td>
+<td>295 618</td>
 </tr>
 <tr>
 <td></td>
@@ -563,7 +571,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Төтенше жағдайлар жөнiндегi жұмыстарды ұйымдастыру</td>
-<td>281 381</td>
+<td>282 381</td>
 </tr>
 <tr>
 <td></td>
@@ -571,7 +579,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>105</td>
 <td></td>
 <td>Әкiм аппараты</td>
-<td>281 381</td>
+<td>282 381</td>
 </tr>
 <tr>
 <td></td>
@@ -579,7 +587,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>31</td>
 <td>Жергiлiктi деңгейдегі жұмылдыру дайындығы жөнiндегi шаралар</td>
-<td>25 533</td>
+<td>26 533</td>
 </tr>
 <tr>
 <td></td>
@@ -587,7 +595,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>32</td>
 <td>Жергiлiктi деңгейдегі төтенше жағдайларды жою</td>
-<td>253 966</td>
+<td>253 841</td>
 </tr>
 <tr>
 <td></td>
@@ -595,7 +603,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>62</td>
 <td>Жергілікті деңгейдегі төтенше жағдайларды жою</td>
-<td>1 882</td>
+<td>2 007</td>
 </tr>
 <tr>
 <td>3</td>
@@ -603,7 +611,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Қоғамдық тәртiп және қауiпсiздiк</td>
-<td>238 438</td>
+<td>241 438</td>
 </tr>
 <tr>
 <td></td>
@@ -611,7 +619,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Құқық қорғау қызметi</td>
-<td>238 262</td>
+<td>241 262</td>
 </tr>
 <tr>
 <td></td>
@@ -619,7 +627,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>251</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын iшкi iстер атқарушы органы</td>
-<td>238 262</td>
+<td>241 262</td>
 </tr>
 <tr>
 <td></td>
@@ -627,7 +635,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>2</td>
 <td>Жергiлiктi деңгейдегi әкiмшiлiк шығындар</td>
-<td>193 105</td>
+<td>198 855</td>
 </tr>
 <tr>
 <td></td>
@@ -651,7 +659,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>70</td>
 <td>Ішкі істер органдарының материалдық-техникалық базасын нығайту</td>
-<td>20 950</td>
+<td>18 200</td>
 </tr>
 <tr>
 <td></td>
@@ -683,7 +691,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Білiм беру</td>
-<td>757 478</td>
+<td>769 847</td>
 </tr>
 <tr>
 <td></td>
@@ -691,7 +699,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Жалпы бастауыш, жалпы негiзгi, жалпы орта бiлiм беру</td>
-<td>564 934</td>
+<td>571 612</td>
 </tr>
 <tr>
 <td></td>
@@ -699,7 +707,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>263</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын бiлiм, мәдениет, спорт және туризм атқарушы органы</td>
-<td>564 934</td>
+<td>571 612</td>
 </tr>
 <tr>
 <td></td>
@@ -707,7 +715,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>20</td>
 <td>Жергiлiктi деңгейде жалпы бiлiм беретiн оқыту</td>
-<td>428 001</td>
+<td>435 689</td>
 </tr>
 <tr>
 <td></td>
@@ -731,7 +739,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>61</td>
 <td>Жергiлiктi деңгейде балалар мен жас өспiрiмдерге қосымша бiлiм беру бағдарламасын іске асыру</td>
-<td>42 229</td>
+<td>42 329</td>
 </tr>
 <tr>
 <td></td>
@@ -755,7 +763,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>72</td>
 <td>Жалпы бастауыш, жалпы негiзгi, жалпы орта бiлiм беру мекемелерiнiң техникалық базасын нығайту</td>
-<td>4 940</td>
+<td>3 830</td>
 </tr>
 <tr>
 <td></td>
@@ -763,7 +771,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Бастауыш кәсiптік бiлiм беру</td>
-<td>57 539</td>
+<td>57 858</td>
 </tr>
 <tr>
 <td></td>
@@ -771,7 +779,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>263</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын бiлiм, мәдениет, спорт және туризм атқарушы органы</td>
-<td>57 539</td>
+<td>57 858</td>
 </tr>
 <tr>
 <td></td>
@@ -779,7 +787,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>31</td>
 <td>Жергiлiктi деңгейде бастапқы кәсiптік бiлiм беру</td>
-<td>56 539</td>
+<td>56 858</td>
 </tr>
 <tr>
 <td></td>
@@ -795,7 +803,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Орта кәсiптік бiлiм беру</td>
-<td>91 841</td>
+<td>97 358</td>
 </tr>
 <tr>
 <td></td>
@@ -819,7 +827,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>263</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын бiлiм, мәдениет, спорт және туризм атқарушы органы</td>
-<td>79 550</td>
+<td>85 067</td>
 </tr>
 <tr>
 <td></td>
@@ -827,7 +835,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>8</td>
 <td>Жергiлiктi деңгейде орта кәсiби бiлiм беру мамандарын даярлау</td>
-<td>79 550</td>
+<td>85 067</td>
 </tr>
 <tr>
 <td></td>
@@ -835,7 +843,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Қосымша кәсiби бiлiм беру</td>
-<td>21 823</td>
+<td>21 932</td>
 </tr>
 <tr>
 <td></td>
@@ -891,7 +899,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>263</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын бiлiм, мәдениет, спорт және туризм атқарушы органы</td>
-<td>9 046</td>
+<td>9 146</td>
 </tr>
 <tr>
 <td></td>
@@ -899,7 +907,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>11</td>
 <td>Жергiлiктi деңгейде кадрлардың бiлiктiлiгiн арттыру және қайта даярлау</td>
-<td>9 046</td>
+<td>9 146</td>
 </tr>
 <tr>
 <td></td>
@@ -907,7 +915,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Бiлiм беру саласындағы өзге де қызметтер</td>
-<td>21 332</td>
+<td>21 087</td>
 </tr>
 <tr>
 <td></td>
@@ -915,7 +923,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>263</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын бiлiм, мәдениет, спорт және туризм атқарушы органы</td>
-<td>21 332</td>
+<td>21 087</td>
 </tr>
 <tr>
 <td></td>
@@ -931,7 +939,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>64</td>
 <td>Бiлiм беретiн өзге де ұйымдардың материалдық-техникалық базасын нығайту</td>
-<td>4 332</td>
+<td>4 087</td>
 </tr>
 <tr>
 <td>5</td>
@@ -939,7 +947,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Денсаулық сақтау</td>
-<td>1 124 394</td>
+<td>1 143 377</td>
 </tr>
 <tr>
 <td></td>
@@ -971,7 +979,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Халықтың денсаулығын қорғау</td>
-<td>384 586</td>
+<td>384 436</td>
 </tr>
 <tr>
 <td></td>
@@ -979,7 +987,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>254</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын денсаулық сақтау атқарушы органы</td>
-<td>384 586</td>
+<td>384 436</td>
 </tr>
 <tr>
 <td></td>
@@ -1011,7 +1019,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>39</td>
 <td>Санитарлық-эпидемиологиялық ахуалды қамтамасыз ету</td>
-<td>61 937</td>
+<td>61 787</td>
 </tr>
 <tr>
 <td></td>
@@ -1035,7 +1043,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Мамандандырылған медициналық көмек</td>
-<td>331 073</td>
+<td>331 553</td>
 </tr>
 <tr>
 <td></td>
@@ -1043,7 +1051,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>254</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын денсаулық сақтау атқарушы органы</td>
-<td>331 073</td>
+<td>331 553</td>
 </tr>
 <tr>
 <td></td>
@@ -1067,7 +1075,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>47</td>
 <td>Онкологиялық ауруларға мамандандырылған медициналық көмек көрсету</td>
-<td>40 637</td>
+<td>40 487</td>
 </tr>
 <tr>
 <td></td>
@@ -1075,7 +1083,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>48</td>
 <td>Алкогольдiк, нашақорлық және токсикологиялық тәуелдi ауруларға мамандандырылған медициналық көмек көрсету</td>
-<td>62 993</td>
+<td>62 843</td>
 </tr>
 <tr>
 <td></td>
@@ -1091,7 +1099,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>64</td>
 <td>Туберкулез ұйымдары мен аудандық ауруханалардың құрылысы</td>
-<td>1 100</td>
+<td>1 880</td>
 </tr>
 <tr>
 <td></td>
@@ -1163,7 +1171,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Денсаулық сақтау саласындағы өзге де қызметтер</td>
-<td>171 018</td>
+<td>189 671</td>
 </tr>
 <tr>
 <td></td>
@@ -1171,7 +1179,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>254</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын денсаулық сақтау атқарушы органы</td>
-<td>171 018</td>
+<td>189 671</td>
 </tr>
 <tr>
 <td></td>
@@ -1179,7 +1187,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>2</td>
 <td>Жергiлiктi деңгейдегi әкiмшiлiк шығындар</td>
-<td>13 485</td>
+<td>14 263</td>
 </tr>
 <tr>
 <td></td>
@@ -1201,9 +1209,25 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td></td>
+<td>52</td>
+<td>Жергілікті деңгейде денсаулық сақтау объектілерін сақтау</td>
+<td>106</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td>55</td>
 <td>Коммуналдық меншiкке жататын денсаулық сақтау объектiлерiне күрделi жөндеу</td>
-<td>23 808</td>
+<td>41 127</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>56</td>
+<td>Денсаулық сақтау ұйымдарының материалдық-техникалық базасын нығайту</td>
+<td>450</td>
 </tr>
 <tr>
 <td></td>
@@ -1219,7 +1243,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Әлеуметтiк қамтамасыз ету және әлеуметтiк көмек</td>
-<td>835 053</td>
+<td>1 120 597</td>
 </tr>
 <tr>
 <td></td>
@@ -1227,7 +1251,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Әлеуметтiк қамтамасыз ету</td>
-<td>787 143</td>
+<td>789 187</td>
 </tr>
 <tr>
 <td></td>
@@ -1235,14 +1259,14 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>258</td>
 <td></td>
 <td>Еңбек және халықты әлеуметтiк қорғаудың атқарушы органы</td>
-<td>755 837</td>
+<td>757 597</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>31</td>
-<td>Арнайы мемлекеттiк жәрдемақылар</td>
+<td>Арнайы мемлекеттік жәрдемақылар</td>
 <td>540 000</td>
 </tr>
 <tr>
@@ -1251,7 +1275,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>32</td>
 <td>Жергiлiктi деңгейде интернаттық тұрпатты мекемелер арқылы көрсетiлетiн әлеуметтiк қамтамасыз ету</td>
-<td>215 837</td>
+<td>217 597</td>
 </tr>
 <tr>
 <td></td>
@@ -1259,7 +1283,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>263</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын бiлiм, мәдениет, спорт және туризм атқарушы органы</td>
-<td>31 306</td>
+<td>31 590</td>
 </tr>
 <tr>
 <td></td>
@@ -1267,7 +1291,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>33</td>
 <td>Балаларды әлеуметтiк қамтамасыз ету</td>
-<td>27 606</td>
+<td>27 890</td>
 </tr>
 <tr>
 <td></td>
@@ -1291,7 +1315,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
-<td>17 051</td>
+<td>31 691</td>
 </tr>
 <tr>
 <td></td>
@@ -1299,7 +1323,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>258</td>
 <td></td>
 <td>Еңбек және халықты әлеуметтiк қорғаудың атқарушы органы</td>
-<td>17 051</td>
+<td>31 691</td>
 </tr>
 <tr>
 <td></td>
@@ -1315,7 +1339,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>51</td>
 <td>Жергілікті өкілетті органдардың шешімімен азаматтардың жеке санаттарына берілетін әлеуметтік төлемдер</td>
-<td>8 000</td>
+<td>22 640</td>
 </tr>
 <tr>
 <td></td>
@@ -1331,7 +1355,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек саласындағы өзге де қызметтер</td>
-<td>30 859</td>
+<td>299 719</td>
 </tr>
 <tr>
 <td></td>
@@ -1339,7 +1363,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>258</td>
 <td></td>
 <td>Еңбек және халықты әлеуметтiк қорғаудың атқарушы органы</td>
-<td>30 859</td>
+<td>299 719</td>
 </tr>
 <tr>
 <td></td>
@@ -1363,7 +1387,15 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>40</td>
 <td>Әлеуметтiк қамтамасыз ету объектiлерiне күрделi жөндеу</td>
-<td>6 268</td>
+<td>4 508</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>53</td>
+<td>Оралмандар отбасына тұрғын үй сатып алу</td>
+<td>269 520</td>
 </tr>
 <tr>
 <td></td>
@@ -1371,7 +1403,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>70</td>
 <td>Еңбек және халықты әлеуметтік қорғаудың атқарушы органының материалдық-техникалық базасын нығайту</td>
-<td>1 550</td>
+<td>2 650</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1411,7 +1443,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Мәдениет, спорт және ақпараттық кеңiстiк</td>
-<td>261 880</td>
+<td>264 757</td>
 </tr>
 <tr>
 <td></td>
@@ -1419,7 +1451,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
-<td>91 719</td>
+<td>94 596</td>
 </tr>
 <tr>
 <td></td>
@@ -1427,7 +1459,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>263</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын бiлiм, мәдениет, спорт және туризм атқарушы органы</td>
-<td>91 719</td>
+<td>94 596</td>
 </tr>
 <tr>
 <td></td>
@@ -1443,7 +1475,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>43</td>
 <td>Жергiлiктi деңгейде ойын-сауық шараларын өткiзу</td>
-<td>27 600</td>
+<td>30 477</td>
 </tr>
 <tr>
 <td></td>
@@ -1747,7 +1779,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>2</td>
 <td>Жергiлiктi деңгейдегi әкiмшiлiк шығындар</td>
-<td>33 603</td>
+<td>33 549</td>
 </tr>
 <tr>
 <td></td>
@@ -1763,7 +1795,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>70</td>
 <td>Ауыл шаруашылық атқарушы органдардың материалдық-техникалық базасын нығайту</td>
-<td>3 262</td>
+<td>3 316</td>
 </tr>
 <tr>
 <td>11</td>
@@ -1867,7 +1899,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>644 752</td>
+<td>733 064</td>
 </tr>
 <tr>
 <td></td>
@@ -1899,7 +1931,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>640 252</td>
+<td>728 564</td>
 </tr>
 <tr>
 <td></td>
@@ -1907,7 +1939,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>105</td>
 <td></td>
 <td>Әкiм аппараты</td>
-<td>154 988</td>
+<td>174 375</td>
 </tr>
 <tr>
 <td></td>
@@ -1923,7 +1955,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>52</td>
 <td>Жергiлiктi атқарушы органдар резервi</td>
-<td>69 597</td>
+<td>83 758</td>
 </tr>
 <tr>
 <td></td>
@@ -1931,7 +1963,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>61</td>
 <td>Өкiлеттiк шығындар</td>
-<td>3 787</td>
+<td>6 787</td>
 </tr>
 <tr>
 <td></td>
@@ -1939,7 +1971,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>64</td>
 <td>Мемлекеттік коммуналдық кәсіпорындардың жарғылық қорына жарналар</td>
-<td>4 300</td>
+<td>6 200</td>
 </tr>
 <tr>
 <td></td>
@@ -1947,7 +1979,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>71</td>
 <td>Республикалық маңызы бар іс-шараларға аймақтардың қатысуы</td>
-<td>62 304</td>
+<td>62 630</td>
 </tr>
 <tr>
 <td></td>
@@ -1955,7 +1987,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>263</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын бiлiм, мәдениет, спорт және туризм атқарушы органы</td>
-<td>33 504</td>
+<td>33 536</td>
 </tr>
 <tr>
 <td></td>
@@ -1963,7 +1995,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>2</td>
 <td>Жергiлiктi деңгейдегi әкiмшiлiк шығындар</td>
-<td>31 125</td>
+<td>31 592</td>
 </tr>
 <tr>
 <td></td>
@@ -1971,7 +2003,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>34</td>
 <td>Есеп жүргiзу қызметтерiмен қамтамасыз ету</td>
-<td>2 379</td>
+<td>1 944</td>
 </tr>
 <tr>
 <td></td>
@@ -1979,7 +2011,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>272</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын экономика, шағын және орта бизнестi қолдау атқарушы органы</td>
-<td>47 170</td>
+<td>48 063</td>
 </tr>
 <tr>
 <td></td>
@@ -1987,7 +2019,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>2</td>
 <td>Жергiлiктi деңгейдегi әкiмшiлiк шығыстар</td>
-<td>44 530</td>
+<td>45 423</td>
 </tr>
 <tr>
 <td></td>
@@ -2003,7 +2035,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>273</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын инфрақұрылым және құрылыс атқарушы органы</td>
-<td>397 150</td>
+<td>465 150</td>
 </tr>
 <tr>
 <td></td>
@@ -2019,7 +2051,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>31</td>
 <td>Коммуналдық меншiк объектiлерiн салу</td>
-<td>310 000</td>
+<td>365 958</td>
 </tr>
 <tr>
 <td></td>
@@ -2027,7 +2059,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>36</td>
 <td>Коммуналдық меншiк объектiлерiне күрделi жөндеу</td>
-<td>70 200</td>
+<td>82 242</td>
 </tr>
 <tr>
 <td></td>
@@ -2043,7 +2075,15 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>2</td>
 <td>Жергiлiктi деңгейдегi әкiмшiлiк шығыстар</td>
-<td>7 440</td>
+<td>7 280</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>70</td>
+<td>Жергілікті бюджеттен қаржыландырылатын тұрғын үй-коммуналдық, жол шаруашылығы және көлік атқарушы органының материалдық-техникалық базасын нығайту</td>
+<td>160</td>
 </tr>
 <tr>
 <td>15</td>
@@ -2051,7 +2091,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Ресми трансферттер</td>
-<td>5 539 131</td>
+<td>5 633 469</td>
 </tr>
 <tr>
 <td></td>
@@ -2059,7 +2099,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>105</td>
 <td></td>
 <td>Әкiм аппараты</td>
-<td>5 539 131</td>
+<td>5 633 469</td>
 </tr>
 <tr>
 <td></td>
@@ -2067,7 +2107,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>54</td>
 <td>Облыстық бюджеттен алынған трансферттер</td>
-<td>5 539 131</td>
+<td>5 633 469</td>
 </tr>
 <tr>
 <td></td>
@@ -2075,7 +2115,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Несиелер</td>
-<td>1 033 000</td>
+<td>1 023 000</td>
 </tr>
 <tr>
 <td>10</td>
@@ -2115,7 +2155,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>83 000</td>
+<td>73 000</td>
 </tr>
 <tr>
 <td></td>
@@ -2123,7 +2163,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Кәсіпкерлік қызметті қолдау және бәсекелестікті қорғау</td>
-<td>63 000</td>
+<td>53 000</td>
 </tr>
 <tr>
 <td></td>
@@ -2131,7 +2171,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>272</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын экономика, шағын және орта бизнесті қолдау, мемлекеттік сатып алу атқарушы органы</td>
-<td>63 000</td>
+<td>53 000</td>
 </tr>
 <tr>
 <td></td>
@@ -2139,7 +2179,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>80</td>
 <td>Жергiлiктi деңгейде шағын кәсiпкерлiктi дамыту үшiн несие беру</td>
-<td>63 000</td>
+<td>53 000</td>
 </tr>
 <tr>
 <td></td>
@@ -2195,7 +2235,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Түсімдер</td>
-<td></td>
+<td>950 000</td>
 </tr>
 <tr>
 <td>6</td>
@@ -2487,9 +2527,9 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 
 > *Облыстық мәслихаттың*  
 > *2002 жылғы 24 желтоқсандағы*  
-> *N 22/3 шешіміне 4 қосымша<*>*
+> *N 22/3 шешіміне 4 қосымша <*>*
 
-> *Ескерту. 4 қосымша жаңа редакцияда - СҚО Мәслихатының 2003 жылғы 13 ақпандағы N 23/1 шешімімен.*
+> *Ескерту. 4 қосымша жаңа редакцияда - СҚО Мәслихатының 2003 жылғы 13 ақпандағы N 23/1 , 2003 жылғы 13 маусымдағы N 26/3 шешімдерімен.*
 
 ## 2003 жылға арналған облыстық бюджеттiң ағымдағы бюджеттiк бағдарламалар тiзбесi
 
@@ -2516,7 +2556,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>А. Ағымдағы бюджеттiк бағдарламалар</td>
-<td>9 646 897</td>
+<td>9 799 669</td>
 </tr>
 <tr>
 <td></td>
@@ -2524,7 +2564,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Шығыстар</td>
-<td>9 646 897</td>
+<td>9 799 669</td>
 </tr>
 <tr>
 <td>1</td>
@@ -2532,7 +2572,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>220 347</td>
+<td>225 862</td>
 </tr>
 <tr>
 <td></td>
@@ -2540,7 +2580,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>103 781</td>
+<td>107 946</td>
 </tr>
 <tr>
 <td></td>
@@ -2572,7 +2612,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>105</td>
 <td></td>
 <td>Әкiм аппараты</td>
-<td>93 800</td>
+<td>97 965</td>
 </tr>
 <tr>
 <td></td>
@@ -2580,7 +2620,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>2</td>
 <td>Жергiлiктi деңгейдегi әкiмшiлiк шығындар</td>
-<td>93 800</td>
+<td>97 965</td>
 </tr>
 <tr>
 <td></td>
@@ -2588,7 +2628,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Қаржылық қызмет</td>
-<td>116 566</td>
+<td>117 916</td>
 </tr>
 <tr>
 <td></td>
@@ -2612,7 +2652,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>259</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын коммуналдық меншiк атқарушы органы</td>
-<td>11 400</td>
+<td>12 720</td>
 </tr>
 <tr>
 <td></td>
@@ -2620,7 +2660,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>2</td>
 <td>Жергілікті деңгейдегі әкімшілік шығындар</td>
-<td>9 900</td>
+<td>11 220</td>
 </tr>
 <tr>
 <td></td>
@@ -2636,7 +2676,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>260</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын қаржы атқарушы органы</td>
-<td>89 540</td>
+<td>89 570</td>
 </tr>
 <tr>
 <td></td>
@@ -2644,7 +2684,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>2</td>
 <td>Жергiлiктi деңгейдегi әкiмшiлiк шығындар</td>
-<td>89 540</td>
+<td>89 570</td>
 </tr>
 <tr>
 <td>2</td>
@@ -2652,7 +2692,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Қорғаныс</td>
-<td>292 736</td>
+<td>293 611</td>
 </tr>
 <tr>
 <td></td>
@@ -2684,7 +2724,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Төтенше жағдайлар жөнiндегi жұмыстарды ұйымдастыру</td>
-<td>279 499</td>
+<td>280 374</td>
 </tr>
 <tr>
 <td></td>
@@ -2692,7 +2732,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>105</td>
 <td></td>
 <td>Әкiм аппараты</td>
-<td>279 499</td>
+<td>280 374</td>
 </tr>
 <tr>
 <td></td>
@@ -2700,7 +2740,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>31</td>
 <td>Жергілікті деңгейдегі жұмылдыру дайындығы жөніндегі шаралар</td>
-<td>25 533</td>
+<td>26 533</td>
 </tr>
 <tr>
 <td></td>
@@ -2708,7 +2748,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>32</td>
 <td>Жергiлiктi деңгейде төтенше жағдайларды жою</td>
-<td>253 966</td>
+<td>253 841</td>
 </tr>
 <tr>
 <td>3</td>
@@ -2716,7 +2756,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Қоғамдық тәртiп және қауiпсiздiк</td>
-<td>211 745</td>
+<td>217 495</td>
 </tr>
 <tr>
 <td></td>
@@ -2724,7 +2764,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Құқық қорғау қызметi</td>
-<td>211 569</td>
+<td>217 319</td>
 </tr>
 <tr>
 <td></td>
@@ -2732,7 +2772,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>251</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын iшкi iстер атқарушы органы</td>
-<td>211 569</td>
+<td>217 319</td>
 </tr>
 <tr>
 <td></td>
@@ -2740,7 +2780,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>2</td>
 <td>Жергiлiктi деңгейдегi әкiмшiлiк шығыстар</td>
-<td>193 105</td>
+<td>198 855</td>
 </tr>
 <tr>
 <td></td>
@@ -2780,7 +2820,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>549 051</td>
+<td>557 258</td>
 </tr>
 <tr>
 <td></td>
@@ -2788,7 +2828,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Жалпы бастауыш, жалпы негiзгi, жалпы орта бiлiм беру</td>
-<td>470 680</td>
+<td>478 468</td>
 </tr>
 <tr>
 <td></td>
@@ -2796,7 +2836,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>263</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын бiлiм, мәдениет, спорт және туризм атқарушы органы</td>
-<td>470 680</td>
+<td>478 468</td>
 </tr>
 <tr>
 <td></td>
@@ -2804,7 +2844,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>20</td>
 <td>Жергiлiктi деңгейде жалпы бiлiм беретiн оқыту</td>
-<td>428 001</td>
+<td>435 689</td>
 </tr>
 <tr>
 <td></td>
@@ -2812,7 +2852,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>61</td>
 <td>Жергiлiктi деңгейде балалар мен жас өспiрiмдер үшiн қосымша бiлiм беру бағдарламасын іске асыру</td>
-<td>42 229</td>
+<td>42 329</td>
 </tr>
 <tr>
 <td></td>
@@ -2828,7 +2868,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Бастауыш кәсiптік бiлiм беру</td>
-<td>56 539</td>
+<td>56 858</td>
 </tr>
 <tr>
 <td></td>
@@ -2836,7 +2876,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>263</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын бiлiм, мәдениет, спорт және туризм атқарушы органы</td>
-<td>56 539</td>
+<td>56 858</td>
 </tr>
 <tr>
 <td></td>
@@ -2844,7 +2884,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>31</td>
 <td>Жергiлiктi деңгейде бастапқы кәсiптік бiлiм беру</td>
-<td>56 539</td>
+<td>56 858</td>
 </tr>
 <tr>
 <td></td>
@@ -2852,7 +2892,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Қосымша кәсiптiк бiлiм беру</td>
-<td>21 832</td>
+<td>21 932</td>
 </tr>
 <tr>
 <td></td>
@@ -2908,7 +2948,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>263</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын бiлiм, мәдениет, спорт және туризм атқарушы органы</td>
-<td>9 046</td>
+<td>9 146</td>
 </tr>
 <tr>
 <td></td>
@@ -2916,7 +2956,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>11</td>
 <td>Жергiлiктi деңгейде кадрлардың бiлiктiлiгiн арттыру және қайта даярлау</td>
-<td>9 046</td>
+<td>9 146</td>
 </tr>
 <tr>
 <td>5</td>
@@ -2924,7 +2964,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Денсаулық сақтау</td>
-<td>999 486</td>
+<td>999 814</td>
 </tr>
 <tr>
 <td></td>
@@ -2956,7 +2996,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Халықтың денсаулығын қорғау</td>
-<td>384 586</td>
+<td>384 436</td>
 </tr>
 <tr>
 <td></td>
@@ -2964,7 +3004,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>254</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын денсаулық сақтау атқарушы органы</td>
-<td>384 586</td>
+<td>384 436</td>
 </tr>
 <tr>
 <td></td>
@@ -2996,7 +3036,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>39</td>
 <td>Санитарлық-эпидемиологиялық ахуалды қамтамасыз ету</td>
-<td>61 937</td>
+<td>61 787</td>
 </tr>
 <tr>
 <td></td>
@@ -3020,7 +3060,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Мамандандырылған медициналық көмек</td>
-<td>329 973</td>
+<td>329 673</td>
 </tr>
 <tr>
 <td></td>
@@ -3028,7 +3068,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>254</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын денсаулық сақтау атқарушы органы</td>
-<td>329 973</td>
+<td>329 673</td>
 </tr>
 <tr>
 <td></td>
@@ -3052,7 +3092,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>47</td>
 <td>Онкологиялық ауруларға мамандандырылған көмек көрсету</td>
-<td>40 637</td>
+<td>40 487</td>
 </tr>
 <tr>
 <td></td>
@@ -3060,7 +3100,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>48</td>
 <td>Алкогольдiк, нашақорлық және токсикологиялық тәуелдi ауруларға мамандандырылған медициналық көмек көрсету</td>
-<td>62 993</td>
+<td>62 843</td>
 </tr>
 <tr>
 <td></td>
@@ -3111,9 +3151,9 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>23 150</td>
 </tr>
 <tr>
-<td>5</td>
-<td>5</td>
-<td>251</td>
+<td></td>
+<td></td>
+<td></td>
 <td>31</td>
 <td>Әскери қызметшiлерге, құқық қорғау органдарының қызметкерлерiне және олардың отбасы мүшелерiне стационарлық медициналық көмек көрсету</td>
 <td>23 150</td>
@@ -3140,7 +3180,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Денсаулық сақтау саласындағы өзге де қызметтер</td>
-<td>47 210</td>
+<td>47 988</td>
 </tr>
 <tr>
 <td></td>
@@ -3148,7 +3188,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>254</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын денсаулық сақтау атқарушы органы</td>
-<td>47 210</td>
+<td>47 988</td>
 </tr>
 <tr>
 <td></td>
@@ -3156,7 +3196,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>2</td>
 <td>Жергiлiктi деңгейдегi әкiмшiлiк шығындар</td>
-<td>13 485</td>
+<td>14 263</td>
 </tr>
 <tr>
 <td></td>
@@ -3180,7 +3220,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Әлеуметтiк қамтамасыз ету және әлеуметтiк көмек</td>
-<td>823 535</td>
+<td>840 219</td>
 </tr>
 <tr>
 <td></td>
@@ -3188,7 +3228,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Әлеуметтiк қамтамасыз ету</td>
-<td>783 443</td>
+<td>785 487</td>
 </tr>
 <tr>
 <td></td>
@@ -3196,7 +3236,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>258</td>
 <td></td>
 <td>Еңбек және халықты әлеуметтiк қорғаудың атқарушы органы</td>
-<td>755 837</td>
+<td>757 597</td>
 </tr>
 <tr>
 <td></td>
@@ -3212,7 +3252,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>32</td>
 <td>Жергiлiктi деңгейде интернаттық тұрпатты мекемелер арқылы көрсетiлетiн әлеуметтiк қамтамасыз ету</td>
-<td>215 837</td>
+<td>217 597</td>
 </tr>
 <tr>
 <td></td>
@@ -3220,7 +3260,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>263</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын бiлiм, мәдениет, спорт және туризм атқарушы органы</td>
-<td>27 606</td>
+<td>27 890</td>
 </tr>
 <tr>
 <td></td>
@@ -3228,7 +3268,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>33</td>
 <td>Балаларды әлеуметтiк қамтамасыз ету</td>
-<td>27 606</td>
+<td>27 890</td>
 </tr>
 <tr>
 <td></td>
@@ -3236,7 +3276,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек</td>
-<td>17 051</td>
+<td>31 691</td>
 </tr>
 <tr>
 <td></td>
@@ -3244,7 +3284,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>258</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын еңбек және халықты әлеуметтiк қорғаудың атқарушы органы</td>
-<td>17 051</td>
+<td>31 691</td>
 </tr>
 <tr>
 <td></td>
@@ -3260,7 +3300,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>51</td>
 <td>Жергілікті өкілетті органдардың шешімдерімен азаматтардың жеке санаттарына берілетін әлеуметтік төлемдер</td>
-<td>8 000</td>
+<td>22 640</td>
 </tr>
 <tr>
 <td></td>
@@ -3308,7 +3348,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Мәдениет, спорт және ақпараттық кеңiстiк</td>
-<td>240 039</td>
+<td>242 916</td>
 </tr>
 <tr>
 <td></td>
@@ -3316,7 +3356,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Мәдениет саласындағы қызмет</td>
-<td>89 869</td>
+<td>92 746</td>
 </tr>
 <tr>
 <td></td>
@@ -3324,7 +3364,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>263</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын бiлiм, мәдениет, спорт және туризм атқарушы органы</td>
-<td>89 869</td>
+<td>92 746</td>
 </tr>
 <tr>
 <td></td>
@@ -3340,7 +3380,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>43</td>
 <td>Жергiлiктi деңгейде ойын-сауық шараларын өткiзу</td>
-<td>27 600</td>
+<td>30 477</td>
 </tr>
 <tr>
 <td></td>
@@ -3500,7 +3540,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Ауыл, су, орман, балық шаруашылығы және қоршаған ортаны қорғау</td>
-<td>171 359</td>
+<td>171 305</td>
 </tr>
 <tr>
 <td></td>
@@ -3580,7 +3620,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Ауыл, су, орман, балық шаруашылығы және қоршаған ортаны қорғау саласындағы өзге де қызметтер</td>
-<td>35 603</td>
+<td>35 549</td>
 </tr>
 <tr>
 <td></td>
@@ -3588,7 +3628,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>257</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын ауыл шаруашылығы атқару органы</td>
-<td>35 603</td>
+<td>35 549</td>
 </tr>
 <tr>
 <td></td>
@@ -3596,7 +3636,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>2</td>
 <td>Жергiлiктi деңгейдегi әкiмшiлiк шығындар</td>
-<td>33 603</td>
+<td>33 549</td>
 </tr>
 <tr>
 <td></td>
@@ -3668,7 +3708,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>257 612</td>
+<td>275 864</td>
 </tr>
 <tr>
 <td></td>
@@ -3700,7 +3740,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>253 112</td>
+<td>271 364</td>
 </tr>
 <tr>
 <td></td>
@@ -3708,7 +3748,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>105</td>
 <td></td>
 <td>Әкiм аппараты</td>
-<td>150 688</td>
+<td>168 175</td>
 </tr>
 <tr>
 <td></td>
@@ -3724,7 +3764,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>52</td>
 <td>Табиғи және техногендiк сипаттағы төтенше жағдайларды жою үшiн облыстың, Астана және Алматы қалаларының жергiлiктi атқарушы органының резервi</td>
-<td>69 597</td>
+<td>83 758</td>
 </tr>
 <tr>
 <td></td>
@@ -3732,7 +3772,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>61</td>
 <td>Өкiлеттiк шығындар</td>
-<td>3 787</td>
+<td>6 787</td>
 </tr>
 <tr>
 <td></td>
@@ -3740,7 +3780,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>71</td>
 <td>Аймақтардың республикалық маңызы бар iс-шараларына қатысу</td>
-<td>62 304</td>
+<td>62 630</td>
 </tr>
 <tr>
 <td></td>
@@ -3748,7 +3788,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>263</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын бiлiм, мәдениет, спорт және туризм атқарушы органы</td>
-<td>33 504</td>
+<td>33 536</td>
 </tr>
 <tr>
 <td></td>
@@ -3756,7 +3796,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>2</td>
 <td>Жергiлiктi деңгейдегi әкiмшiлiк шығындар</td>
-<td>31 125</td>
+<td>31 592</td>
 </tr>
 <tr>
 <td></td>
@@ -3764,7 +3804,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>34</td>
 <td>Есеп жүргiзу қызметтерiмен қамтамасыз ету</td>
-<td>2 379</td>
+<td>1 944</td>
 </tr>
 <tr>
 <td></td>
@@ -3772,7 +3812,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>272</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын экономика, шағын және орта бизнестi қолдау атқарушы органы</td>
-<td>44 530</td>
+<td>45 423</td>
 </tr>
 <tr>
 <td></td>
@@ -3780,7 +3820,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>2</td>
 <td>Жергiлiктi деңгейдегi әкiмшiлiк шығындар</td>
-<td>44 530</td>
+<td>45 423</td>
 </tr>
 <tr>
 <td></td>
@@ -3804,7 +3844,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>274</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын тұрғын үй-коммуналдық және жол шаруашылығы атқарушы органдары</td>
-<td>7 440</td>
+<td>7 280</td>
 </tr>
 <tr>
 <td></td>
@@ -3812,7 +3852,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>2</td>
 <td>Жергiлiктi деңгейдегi әкiмшiлiк шығындар</td>
-<td>7 440</td>
+<td>7 280</td>
 </tr>
 <tr>
 <td>15</td>
@@ -3820,7 +3860,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Ресми трансферттер</td>
-<td>5 539 131</td>
+<td>5 633 469</td>
 </tr>
 <tr>
 <td></td>
@@ -3828,7 +3868,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>105</td>
 <td></td>
 <td>Әкiм аппараты</td>
-<td>5 539 131</td>
+<td>5 633 469</td>
 </tr>
 <tr>
 <td></td>
@@ -3836,7 +3876,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>54</td>
 <td>Облыстық бюджеттен, Астана және Алматы қалалары бюджеттерiнен берiлетiн трансферттер</td>
-<td>5 539 131</td>
+<td>5 633 469</td>
 </tr>
 <tr>
 <td></td>
@@ -3946,9 +3986,9 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 
 > *Облыстық мәслихаттың*  
 > *2002 жылғы 24 желтоқсандағы*  
-> *N 22/3 шешіміне 5 қосымша<*>*
+> *N 22/3 шешіміне 5 қосымша <*>*
 
-> *Ескерту. 5 қосымша жаңа редакцияда - СҚО Мәслихатының 2003 жылғы 13 ақпандағы N 23/1 шешімімен.*
+> *Ескерту. 5 қосымша жаңа редакцияда - СҚО Мәслихатының 2003 жылғы 13 ақпандағы N 23/1 , 2003 жылғы 13 маусымдағы N 26/3 шешімдерімен.*
 
 ## 2003 жылға арналған облыстық бюджет дамуындағы бюджеттiк бағдарламалар тiзбесi
 
@@ -3978,7 +4018,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Б. Дамудың бюджеттiк бағдарламалары</td>
-<td>2 004 645</td>
+<td>2 356 700</td>
 </tr>
 <tr>
 <td></td>
@@ -3986,7 +4026,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Шығындар</td>
-<td>971 645</td>
+<td>1 333 700</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3994,7 +4034,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>50 290</td>
+<td>53 179</td>
 </tr>
 <tr>
 <td></td>
@@ -4002,7 +4042,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>50 290</td>
+<td>53 179</td>
 </tr>
 <tr>
 <td></td>
@@ -4026,7 +4066,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>105</td>
 <td></td>
 <td>Әкім аппараты</td>
-<td>38 000</td>
+<td>40 000</td>
 </tr>
 <tr>
 <td></td>
@@ -4034,7 +4074,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>50</td>
 <td>Әкім аппаратының әкімшілік ғимараттарына күрделі жөндеу</td>
-<td>33 000</td>
+<td>30 000</td>
 </tr>
 <tr>
 <td></td>
@@ -4042,7 +4082,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>74</td>
 <td>Әкім аппаратының материалдық-техникалық базасын нығайту</td>
-<td>5 000</td>
+<td>10 000</td>
 </tr>
 <tr>
 <td></td>
@@ -4066,7 +4106,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>260</td>
 <td></td>
 <td>Жергілікті бюджеттен қаржыландырылатын қаржы атқарушы органы</td>
-<td>2 000</td>
+<td>2 889</td>
 </tr>
 <tr>
 <td></td>
@@ -4074,7 +4114,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>70</td>
 <td>Қаржы атқарушы органының материалдық-техникалық базасын нығайту</td>
-<td>2 000</td>
+<td>2 889</td>
 </tr>
 <tr>
 <td>2</td>
@@ -4082,7 +4122,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Қорғаныс</td>
-<td>1 882</td>
+<td>2 007</td>
 </tr>
 <tr>
 <td></td>
@@ -4090,7 +4130,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Төтенше жағдайлар жөніндегі жұмыстарды ұйымдастыру</td>
-<td>1 882</td>
+<td>2 007</td>
 </tr>
 <tr>
 <td></td>
@@ -4098,7 +4138,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>105</td>
 <td></td>
 <td>Әкім аппараты</td>
-<td>1 882</td>
+<td>2 007</td>
 </tr>
 <tr>
 <td></td>
@@ -4106,7 +4146,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>62</td>
 <td>Төтенше жағдайларды жою жөніндегі ұйымдардың материалдық-техникалық базасын нығайту</td>
-<td>1 882</td>
+<td>2 007</td>
 </tr>
 <tr>
 <td>3</td>
@@ -4114,7 +4154,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Қоғамдық тәртiп және қауiпсiздiк</td>
-<td>26 693</td>
+<td>23 943</td>
 </tr>
 <tr>
 <td></td>
@@ -4122,7 +4162,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Құқық қорғау қызметi</td>
-<td>26 693</td>
+<td>23 943</td>
 </tr>
 <tr>
 <td></td>
@@ -4130,7 +4170,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>251</td>
 <td></td>
 <td>Жергілікті бюджеттен қаржыландырылатын ішкі істер атқарушы органы</td>
-<td>26 693</td>
+<td>23 943</td>
 </tr>
 <tr>
 <td></td>
@@ -4146,7 +4186,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>70</td>
 <td>Ішкі істер органдарының материалдық-техникалық базасын нығайту</td>
-<td>20 950</td>
+<td>18 200</td>
 </tr>
 <tr>
 <td>4</td>
@@ -4154,7 +4194,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>208 427</td>
+<td>212 589</td>
 </tr>
 <tr>
 <td></td>
@@ -4162,7 +4202,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Жалпы бастауыш, жалпы негiзгi, жалпы орта бiлiм беру</td>
-<td>94 254</td>
+<td>93 144</td>
 </tr>
 <tr>
 <td></td>
@@ -4170,7 +4210,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>263</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын бiлiм, мәдениет, спорт және туризм атқарушы органы</td>
-<td>94 254</td>
+<td>93 144</td>
 </tr>
 <tr>
 <td></td>
@@ -4202,7 +4242,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>72</td>
 <td>Жалпы бастауыш, жалпы негiзгi, жалпы орта бiлiм беру мекемелердің материалдық-техникалық базасын нығайту</td>
-<td>4 940</td>
+<td>3 830</td>
 </tr>
 <tr>
 <td></td>
@@ -4234,7 +4274,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Орта кәсiптік бiлiм беру</td>
-<td>91 841</td>
+<td>97 358</td>
 </tr>
 <tr>
 <td></td>
@@ -4258,7 +4298,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>263</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын бiлiм, мәдениет, спорт және туризм атқарушы органы</td>
-<td>79 550</td>
+<td>85 067</td>
 </tr>
 <tr>
 <td></td>
@@ -4266,7 +4306,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>8</td>
 <td>Жергілікті деңгейде орта кәсіби білім беру мамандарын даярлау</td>
-<td>79 550</td>
+<td>85 067</td>
 </tr>
 <tr>
 <td></td>
@@ -4274,7 +4314,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Білім беру саласындағы өзге де қызметтер</td>
-<td>21 332</td>
+<td>21 087</td>
 </tr>
 <tr>
 <td></td>
@@ -4282,7 +4322,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>263</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын бiлiм, мәдениет, спорт және туризм атқарушы органы</td>
-<td>21 332</td>
+<td>21 087</td>
 </tr>
 <tr>
 <td></td>
@@ -4298,7 +4338,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>64</td>
 <td>Өзге де білім беретін ұйымдардың материалдық-техникалық базасын нығайту</td>
-<td>4 332</td>
+<td>4 087</td>
 </tr>
 <tr>
 <td>5</td>
@@ -4306,7 +4346,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Денсаулық сақтау</td>
-<td>124 908</td>
+<td>143 563</td>
 </tr>
 <tr>
 <td></td>
@@ -4314,7 +4354,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Мамандандырылған медициналық көмек</td>
-<td>1 100</td>
+<td>1 880</td>
 </tr>
 <tr>
 <td></td>
@@ -4322,7 +4362,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>254</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын денсаулық сақтау атқарушы органы</td>
-<td>1 100</td>
+<td>1 880</td>
 </tr>
 <tr>
 <td></td>
@@ -4330,7 +4370,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>64</td>
 <td>Туберкулез ұйымдары мен аудандық ауруханалар құрылысы</td>
-<td>1 100</td>
+<td>1 880</td>
 </tr>
 <tr>
 <td></td>
@@ -4338,7 +4378,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Денсаулық сақтау саласындағы өзге де қызметтер</td>
-<td>123 808</td>
+<td>141 683</td>
 </tr>
 <tr>
 <td></td>
@@ -4346,7 +4386,15 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>254</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын денсаулық сақтау органы</td>
-<td>123 808</td>
+<td>141 683</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>52</td>
+<td>Жергілікті деңгейде денсаулық сақтау объектілерін салу</td>
+<td>106</td>
 </tr>
 <tr>
 <td></td>
@@ -4354,7 +4402,15 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>55</td>
 <td>Коммуналдық меншiкке жататын денсаулық сақтау объектiлерiне күрделi жөндеу</td>
-<td>23 808</td>
+<td>41 127</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>56</td>
+<td>Денсаулық сақтау ұйымдарының материалдық-техникалық базасын нығайту</td>
+<td>450</td>
 </tr>
 <tr>
 <td></td>
@@ -4370,7 +4426,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Әлеуметтiк қамсыздандыру және әлеуметтiк көмек</td>
-<td>11 518</td>
+<td>208 378</td>
 </tr>
 <tr>
 <td></td>
@@ -4410,7 +4466,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Әлеуметтiк көмек саласындағы өзге де қызметтер</td>
-<td>7 818</td>
+<td>276 678</td>
 </tr>
 <tr>
 <td></td>
@@ -4418,7 +4474,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>258</td>
 <td></td>
 <td>Еңбек және халықты әлеуметтiк қорғаудың атқарушы органы</td>
-<td>7 818</td>
+<td>276 678</td>
 </tr>
 <tr>
 <td></td>
@@ -4426,7 +4482,15 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>40</td>
 <td>Әлеуметтік қамтамасыз ету объектілеріне күрделі жөндеу</td>
-<td>6 268</td>
+<td>4 508</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>53</td>
+<td>Оралмандар отбасына тұрғын үй сатып алу</td>
+<td>269 520</td>
 </tr>
 <tr>
 <td></td>
@@ -4434,7 +4498,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>70</td>
 <td>Еңбек және халықты әлеуметтік қорғау атқарушы органының материалдық-техникалық базасын нығайту</td>
-<td>1 550</td>
+<td>2 650</td>
 </tr>
 <tr>
 <td>7</td>
@@ -4546,7 +4610,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Ауыл, су, орман, балық шаруашылығы және қоршаған ортаны қорғау</td>
-<td>9 646</td>
+<td>9 700</td>
 </tr>
 <tr>
 <td></td>
@@ -4578,7 +4642,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Ауыл, су, орман, балық шаруашылығы және қоршаған ортаны қорғау салаларындағы өзге де қызметтер</td>
-<td>6 262</td>
+<td>6 316</td>
 </tr>
 <tr>
 <td></td>
@@ -4602,7 +4666,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>257</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын ормандарды және хайуанаттар әлемін қорғау жөніндегі ауыл шаруашылығының атқарушы органы</td>
-<td>3 262</td>
+<td>3 316</td>
 </tr>
 <tr>
 <td></td>
@@ -4610,7 +4674,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>70</td>
 <td>Ормандарды және хайуанаттар әлемін қорғау жөніндегі ауыл шаруашылығы атқарушы органының материалдық-техникалық нығайту</td>
-<td>3 262</td>
+<td>3 316</td>
 </tr>
 <tr>
 <td>11</td>
@@ -4618,7 +4682,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Өнеркәсіп және құрылыс</td>
-<td>3 262</td>
+<td>12 300</td>
 </tr>
 <tr>
 <td></td>
@@ -4682,7 +4746,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>387 140</td>
+<td>457 200</td>
 </tr>
 <tr>
 <td></td>
@@ -4690,7 +4754,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>387 140</td>
+<td>457 200</td>
 </tr>
 <tr>
 <td></td>
@@ -4698,7 +4762,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>105</td>
 <td></td>
 <td>Әкім аппараты</td>
-<td>4 300</td>
+<td>6 200</td>
 </tr>
 <tr>
 <td></td>
@@ -4706,7 +4770,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>64</td>
 <td>Мемлекеттік коммуналдық кәсіпорындардың жарғылық қорына жарналар</td>
-<td>4 300</td>
+<td>6 200</td>
 </tr>
 <tr>
 <td></td>
@@ -4730,7 +4794,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>273</td>
 <td></td>
 <td>Жергiлiктi бюджеттен қаржыландырылатын инфрақұрылымдар және құрылыс атқарушы органы</td>
-<td>380 200</td>
+<td>448 200</td>
 </tr>
 <tr>
 <td></td>
@@ -4738,7 +4802,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>31</td>
 <td>Коммуналдық меншік объектілерін салу</td>
-<td>310 000</td>
+<td>365 958</td>
 </tr>
 <tr>
 <td></td>
@@ -4746,7 +4810,23 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>36</td>
 <td>Коммуналдық меншік объектілеріне күрделі жөндеу</td>
-<td>70 200</td>
+<td>70 242</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>274</td>
+<td></td>
+<td>Жергiлiктi бюджеттен қаржыландырылатын тұрғын үй-коммуналдық, жол шаруашылығының және көліктің атқарушы органы</td>
+<td>160</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>70</td>
+<td>Тұрғын үй-коммуналдық, жол шаруашылығының және көліктің атқарушы органының материалдық-техникалық базасын нығайту</td>
+<td>160</td>
 </tr>
 <tr>
 <td></td>
@@ -4754,7 +4834,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>НЕСИЕЛЕР</td>
-<td>1 033 000</td>
+<td>1 023 000</td>
 </tr>
 <tr>
 <td>10</td>
@@ -4794,7 +4874,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>83 000</td>
+<td>73 000</td>
 </tr>
 <tr>
 <td></td>
@@ -4802,7 +4882,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td></td>
 <td>Кәсіпкерлік қызметті қолдау және бәсекелестікті қорғау</td>
-<td>63 000</td>
+<td>53 000</td>
 </tr>
 <tr>
 <td></td>
@@ -4810,7 +4890,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td>272</td>
 <td></td>
 <td>Жергілікті бюджеттен қаржыландырылатын экономика, шағын және орта бизнесті қолдау атқарушы органы</td>
-<td>63 000</td>
+<td>53 000</td>
 </tr>
 <tr>
 <td></td>
@@ -4818,7 +4898,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 <td></td>
 <td>80</td>
 <td>Жергілікті деңгейдегі шағын кәсіпкерлікті дамыту үшін несие беру</td>
-<td>63 000</td>
+<td>53 000</td>
 </tr>
 <tr>
 <td></td>
@@ -4953,7 +5033,7 @@ source: https://zan.gov.kz/client/#!/doc/14394/kaz/13.02.2003
 
 > *Облыстық мәслихаттың*  
 > *2002 жылғы 24 желтоқсандағы*  
-> *N 22/3 шешіміне 7 қосымша<*>*
+> *N 22/3 шешіміне 7 қосымша <*>*
 
 > *Ескерту. СҚО Мәслихатының 2002 жылғы 24 желтоқсандағы N 22/3 шешімі 7 қосымшамен толықтырылды - СҚО Мәслихатының 2003 жылғы 13 ақпандағы N 23/1 шешімімен.*
 
