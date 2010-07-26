@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/50084/kaz/31.03.2010
+source: https://zan.gov.kz/client/#!/doc/50084/kaz/26.07.2010
 ---
 
 ## 2012 жылға арналған селолық округ әкім аппараттары бойынша қаржыландыру көлемі
