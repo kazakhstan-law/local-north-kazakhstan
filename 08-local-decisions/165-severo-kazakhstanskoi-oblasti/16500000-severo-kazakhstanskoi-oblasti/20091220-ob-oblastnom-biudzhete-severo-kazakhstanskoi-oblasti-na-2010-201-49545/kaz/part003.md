@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/49545/kaz/16.09.2010
+source: https://zan.gov.kz/client/#!/doc/49545/kaz/25.10.2010
 ---
 
 ## 2012 жылға арналған Солтүстiк Қазақстан облыстық бюджетi

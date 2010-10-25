@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/49545/rus/16.09.2010
+source: https://zan.gov.kz/client/#!/doc/49545/rus/25.10.2010
 ---
 
 ## Северо-Казахстанский областной бюджет на 2012 год
@@ -2033,7 +2033,7 @@ source: https://zan.gov.kz/client/#!/doc/49545/rus/16.09.2010
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Администра тор</td>
+<td colspan="4">Администратор</td>
 </tr>
 <tr>
 <td></td>
@@ -2044,7 +2044,7 @@ source: https://zan.gov.kz/client/#!/doc/49545/rus/16.09.2010
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Под програм ма</td>
+<td colspan="2">Подпрограмма</td>
 </tr>
 <tr>
 <td></td>
@@ -2074,7 +2074,7 @@ source: https://zan.gov.kz/client/#!/doc/49545/rus/16.09.2010
 <td></td>
 <td></td>
 <td>102</td>
-<td>Резерв местного исполнительного органа областина исполнение обязательств по решению судов</td>
+<td>Резерв местного исполнительного органа области на исполнение обязательств по решению судов</td>
 <td>-483,6</td>
 </tr>
 <tr>
@@ -2094,7 +2094,7 @@ source: https://zan.gov.kz/client/#!/doc/49545/rus/16.09.2010
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Администра тор</td>
+<td colspan="4">Администратор</td>
 </tr>
 <tr>
 <td></td>
