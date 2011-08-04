@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/57101/kaz/22.06.2011
+source: https://zan.gov.kz/client/#!/doc/57101/kaz/04.08.2011
 ---
 
 ## Мағжан Жұмабаев ауданы селолық округтерінің 2013 жылға арналған бюджеттік бағдарламалары
