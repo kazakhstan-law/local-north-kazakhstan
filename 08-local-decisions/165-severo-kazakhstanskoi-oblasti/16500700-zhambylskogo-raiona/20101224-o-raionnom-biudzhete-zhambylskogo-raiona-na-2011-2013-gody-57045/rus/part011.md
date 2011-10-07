@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/57045/rus/28.07.2011
+source: https://zan.gov.kz/client/#!/doc/57045/rus/07.10.2011
 ---
 
 ## Расходы по сельским округам Жамбылского района на 2013 год
@@ -10,7 +10,11 @@ source: https://zan.gov.kz/client/#!/doc/57045/rus/28.07.2011
 <table>
 <tr>
 <td colspan="4">Функциональная группа</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td rowspan="4">
+Сумма
+(тысяч
+тенге)
+</td>
 </tr>
 <tr>
 <td></td>
@@ -593,7 +597,11 @@ source: https://zan.gov.kz/client/#!/doc/57045/rus/28.07.2011
 <table>
 <tr>
 <td colspan="4">Функциональная группа</td>
-<td rowspan="4">Сумма (тысяч тенге)</td>
+<td rowspan="4">
+Сумма
+(тысяч
+тенге)
+</td>
 </tr>
 <tr>
 <td></td>
