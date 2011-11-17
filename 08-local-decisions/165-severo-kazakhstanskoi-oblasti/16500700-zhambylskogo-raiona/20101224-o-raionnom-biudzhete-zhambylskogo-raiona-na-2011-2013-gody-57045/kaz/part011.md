@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/57045/kaz/07.10.2011
+source: https://zan.gov.kz/client/#!/doc/57045/kaz/17.11.2011
 ---
 
 ## Селолық округтер бойынша 2013 жылға арналған шығындар
