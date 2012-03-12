@@ -1,14 +1,20 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
+source: https://zan.gov.kz/client/#!/doc/62743/rus/12.03.2012
 ---
 
 ## Бюджет Акжарского района на 2012 год
 
+> *Сноска. Приложение 1 в редакции решения маслихата Акжарского района Северо-Казахстанской области от 12.03.2012 N 2-2 (вводится в действие с 01.01.2012)*
+
 <table>
 <tr>
 <td colspan="4">Категория</td>
-<td rowspan="4">Сумма тыс. тенге</td>
+<td rowspan="3">
+Сумма,
+тысяч
+тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -18,12 +24,6 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td colspan="2">Подкласс</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Наименование</td>
 </tr>
 <tr>
 <th>1</th>
@@ -37,7 +37,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>ДОХОДЫ</td>
-<td>1964963</td>
+<td>2039655</td>
 </tr>
 <tr>
 <td>1</td>
@@ -65,42 +65,42 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>3</td>
 <td></td>
 <td>Социальный налог</td>
-<td>124108</td>
+<td>124086</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Социальный налог</td>
-<td>124108</td>
+<td>124086</td>
 </tr>
 <tr>
 <td></td>
 <td>4</td>
 <td></td>
 <td>Налоги на собственность</td>
-<td>104642</td>
+<td>109445</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>1</td>
 <td>Налоги на имущество</td>
-<td>70852</td>
+<td>76852</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Земельный налог</td>
-<td>5600</td>
+<td>4593</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>4</td>
 <td>Налог на транспортные средства</td>
-<td>14990</td>
+<td>14800</td>
 </tr>
 <tr>
 <td></td>
@@ -114,21 +114,21 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>5</td>
 <td></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
-<td>19927</td>
+<td>15146</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Акцизы</td>
-<td>1631</td>
+<td>1350</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>3</td>
 <td>Поступления за использование природных и других ресурсов</td>
-<td>15000</td>
+<td>10500</td>
 </tr>
 <tr>
 <td></td>
@@ -233,49 +233,31 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>1704832</td>
+<td>1779524</td>
 </tr>
 <tr>
 <td></td>
 <td>2</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>1704832</td>
+<td>1779524</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Трансферты из областного бюджета</td>
-<td>1704832</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Целевые текущие трансферты</td>
-<td>158774</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Целевые трансферты на развитие</td>
-<td>142621</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Субвенция</td>
-<td>1403437</td>
+<td>1779524</td>
 </tr>
 </table>
 
 <table>
 <tr>
 <td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма тысяч тенге</td>
+<td rowspan="5">
+Сумма,
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -313,7 +295,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>Затраты</td>
-<td>1964963</td>
+<td>2045518,6</td>
 </tr>
 <tr>
 <td>01</td>
@@ -321,7 +303,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>195633</td>
+<td>195263</td>
 </tr>
 <tr>
 <td>01</td>
@@ -329,7 +311,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>174310</td>
+<td>173940</td>
 </tr>
 <tr>
 <td>01</td>
@@ -337,7 +319,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>112</td>
 <td></td>
 <td>Аппарат маслихата района (города областного значения)</td>
-<td>13866</td>
+<td>13496</td>
 </tr>
 <tr>
 <td>01</td>
@@ -353,7 +335,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>112</td>
 <td>003</td>
 <td>Капитальные расходы государственного органа</td>
-<td>2000</td>
+<td>1630</td>
 </tr>
 <tr>
 <td>01</td>
@@ -624,7 +606,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>2</td>
 <td>471</td>
 <td>063</td>
-<td>Повышение оплаты труда учителям, прошедшим повышение квалификации по учебным программам автономной организации образования «Назарбаев интеллектуальные школы» за счет трансфертов из республиканского бюджета</td>
+<td>Повышение оплаты труда учителям, прошедшим повышение квалификации по учебным программам АОО «Назарбаев интеллектуальные школы» за счет трансфертов из республиканского бюджета</td>
 <td>1104</td>
 </tr>
 <tr>
@@ -660,14 +642,6 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>99037</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>467</td>
-<td>037</td>
-<td>За счет средств местного бюджета</td>
-<td>99037</td>
-</tr>
-<tr>
 <td>04</td>
 <td>9</td>
 <td>471</td>
@@ -676,7 +650,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>21523</td>
 </tr>
 <tr>
-<td>8504</td>
+<td>04</td>
 <td>9</td>
 <td>471</td>
 <td>009</td>
@@ -783,14 +757,6 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>06</td>
 <td>2</td>
 <td>451</td>
-<td>016</td>
-<td>За счет средств местного бюджета</td>
-<td>13887</td>
-</tr>
-<tr>
-<td>06</td>
-<td>2</td>
-<td>451</td>
 <td>017</td>
 <td>Обеспечение нуждающихся инвалидов обязательными гигиеническими средствами и предоставление услуг специалистами жестового языка, индивидуальными помощниками в соответствии с индивидуальной программой реабилитации инвалида</td>
 <td>2470</td>
@@ -841,7 +807,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>64222</td>
+<td>140058,5</td>
 </tr>
 <tr>
 <td>07</td>
@@ -849,7 +815,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>Жилищное хозяйство</td>
-<td>2800</td>
+<td>78086,5</td>
 </tr>
 <tr>
 <td>07</td>
@@ -857,7 +823,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>458</td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>2800</td>
+<td>3394,5</td>
 </tr>
 <tr>
 <td>07</td>
@@ -865,7 +831,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>458</td>
 <td>003</td>
 <td>Организация сохранения государственного жилищного фонда</td>
-<td>800</td>
+<td>894,5</td>
 </tr>
 <tr>
 <td>07</td>
@@ -873,7 +839,26 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>458</td>
 <td>004</td>
 <td>Обеспечение жильем отдельных категорий граждан</td>
-<td>2000</td>
+<td>2500</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>467</td>
+<td></td>
+<td>Отдел строительства района (города областного значения)</td>
+<td>74692</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>022</td>
+<td>
+Строительство и (или) приобретение жилья и развитие инженерно-
+коммуникационной инфраструктуры в рамках Программы занятости 2020
+</td>
+<td>74692</td>
 </tr>
 <tr>
 <td>07</td>
@@ -881,7 +866,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>Коммунальное хозяйство</td>
-<td>46399</td>
+<td>46949</td>
 </tr>
 <tr>
 <td>07</td>
@@ -889,7 +874,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td>2815</td>
+<td>3265</td>
 </tr>
 <tr>
 <td>07</td>
@@ -897,7 +882,23 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>123</td>
 <td>014</td>
 <td>Организация водоснабжения населенных пунктов</td>
-<td>2815</td>
+<td>3265</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>458</td>
+<td></td>
+<td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
+<td>100</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>012</td>
+<td>Функционирование системы водоснабжения и водоотведения</td>
+<td>100</td>
 </tr>
 <tr>
 <td>07</td>
@@ -1137,7 +1138,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
-<td>52152</td>
+<td>52172,3</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1145,7 +1146,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>Сельское хозяйство</td>
-<td>28805</td>
+<td>28825,3</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1153,7 +1154,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>474</td>
 <td></td>
 <td>Отдел сельского хозяйства и ветеринарии района (города областного значения)</td>
-<td>28805</td>
+<td>28825,3</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1177,7 +1178,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>474</td>
 <td>099</td>
 <td>Реализация мер по оказанию социальной поддержки специалистов</td>
-<td>6396</td>
+<td>6416,3</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1441,7 +1442,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>2131</td>
+<td>7199,8</td>
 </tr>
 <tr>
 <td>15</td>
@@ -1449,7 +1450,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>Трансферты</td>
-<td>2131</td>
+<td>7199,8</td>
 </tr>
 <tr>
 <td>15</td>
@@ -1457,15 +1458,23 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>452</td>
 <td></td>
 <td>Отдел финансов района (города областного значения)</td>
+<td>7199,8</td>
+</tr>
+<tr>
+<td>15</td>
+<td>1</td>
+<td>452</td>
+<td>024</td>
+<td>Целевые текущие трансферты в вышестоящие бюджеты в связи с передачей функций государственных органов из нижестоящего уровня государственного управления в вышестоящий</td>
 <td>2131</td>
 </tr>
 <tr>
 <td>15</td>
 <td>1</td>
 <td>452</td>
-<td>007</td>
-<td>Бюджетные изъятия</td>
-<td>2131</td>
+<td>006</td>
+<td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
+<td>5 068,8</td>
 </tr>
 <tr>
 <td></td>
@@ -1473,7 +1482,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>Ш. Чистое бюджетное кредитование</td>
-<td>17389</td>
+<td>17418</td>
 </tr>
 <tr>
 <td></td>
@@ -1481,7 +1490,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>Бюджетные кредиты</td>
-<td>21843</td>
+<td>21872</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1489,7 +1498,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
-<td>21843</td>
+<td>21872</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1497,7 +1506,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>Сельское хозяйство</td>
-<td>21843</td>
+<td>21872</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1505,7 +1514,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>474</td>
 <td></td>
 <td>Отдел сельского хозяйства и ветеринарии района (города областного значения)</td>
-<td>21843</td>
+<td>21872</td>
 </tr>
 <tr>
 <td>10</td>
@@ -1513,14 +1522,13 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>467</td>
 <td>009</td>
 <td>Бюджетные кредиты для реализации мер социальной поддержки специалистов</td>
-<td>21843</td>
+<td>21872</td>
 </tr>
 <tr>
 <td colspan="5">Категория</td>
 <td rowspan="5">
-Сумма
-(тыс.
-тенге)
+Сумма,
+тысяч тенге
 </td>
 </tr>
 <tr>
@@ -1591,7 +1599,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>-17389</td>
+<td>-23281,6</td>
 </tr>
 <tr>
 <td></td>
@@ -1599,7 +1607,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита</td>
-<td>17389</td>
+<td>23281,6</td>
 </tr>
 <tr>
 <td>7</td>
@@ -1626,24 +1634,15 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>21843</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>3</td>
-<td>Займы,получаемые местным исполнительным органом района (города областного значения)</td>
-<td>21843</td>
-</tr>
-<tr>
 <td colspan="5">Функциональная группа</td>
 <td rowspan="5">
-Сумма
-(тыс.
-тенге)
+Сумма,
+тысяч тенге
 </td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">функциональная подгруппа</td>
+<td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
@@ -1701,7 +1700,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
-<td></td>
+<td>5892,6</td>
 </tr>
 <tr>
 <td></td>
@@ -1709,7 +1708,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>01</td>
 <td></td>
 <td>Остатки бюджетных средств</td>
-<td></td>
+<td>5892,6</td>
 </tr>
 <tr>
 <td></td>
@@ -1717,15 +1716,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td>1</td>
 <td>Свободные остатки бюджетных средств</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Свободные остатки бюджетных средств</td>
-<td></td>
+<td>5892,6</td>
 </tr>
 </table>
 
@@ -4625,27 +4616,41 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 
 ## ПЕРЕЧЕНЬ бюджетных программ каждого аульного (сельского) округа на 2012 год
 
+> *Сноска. Приложение 4 в редакции решения маслихата Акжарского района Северо-Казахстанской области от 12.03.2012 N 2-2 (вводится в действие с 01.01.2012)*
+
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="5">Сумма тысяч тенге</td>
+<td colspan="6">Функциональная группа</td>
+<td rowspan="6">
+Сумма
+тысяч
+тенге
+</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">функциональная подгруппа</td>
+<td colspan="5">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="3">Администратор бюджетных программ</td>
+<td colspan="4">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Программа</td>
+<td colspan="3">Программа</td>
 </tr>
 <tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Подпрограмма</td>
+</tr>
+<tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4657,11 +4662,13 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <th>2</th>
 <th>3</th>
 <th>4</th>
+<th></th>
 <th>5</th>
 <th>6</th>
 </tr>
 <tr>
 <td>1</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4673,6 +4680,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>1</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
 <td>103792</td>
 </tr>
@@ -4680,6 +4688,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>123</td>
+<td></td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>103792</td>
@@ -4689,10 +4698,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>001</td>
-<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного(сельского) округа</td>
+<td></td>
+<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>103792</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4701,6 +4712,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4713,10 +4725,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ленинградский</td>
 <td>15517</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4729,10 +4743,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алкатерекский</td>
 <td>7952</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4745,10 +4761,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Кенащинский</td>
 <td>7950</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4761,10 +4779,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Майский</td>
 <td>7101</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4777,10 +4797,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Новосельский</td>
 <td>7975</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4793,6 +4815,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Уялинский</td>
 <td>7051</td>
 </tr>
@@ -4801,34 +4824,39 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>17838</td>
+<td>18288</td>
 </tr>
 <tr>
 <td></td>
 <td>2</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Коммунальное хозяйство</td>
-<td>2815</td>
+<td>3265</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
 <td></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
-<td>2815</td>
+<td>3265</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>014</td>
+<td></td>
 <td>Организация водоснабжения населенных пунктов</td>
-<td>2815</td>
+<td>3265</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4837,6 +4865,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4849,10 +4878,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Майский</td>
 <td>460</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4865,10 +4896,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Восходский</td>
 <td>460</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4878,7 +4911,17 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 </tr>
 <tr>
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Талшыкский</td>
+<td>450</td>
+</tr>
+<tr>
+<td></td>
 <td>3</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
@@ -4889,6 +4932,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>008</td>
+<td></td>
 <td>Освещение улиц населенных пунктов</td>
 <td>4837</td>
 </tr>
@@ -4897,10 +4941,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>в том числе в разрезе аульных (сельских) округов</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4913,6 +4959,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ленинградский</td>
 <td>1017</td>
 </tr>
@@ -4921,10 +4968,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Айсаринский</td>
 <td>128</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4937,10 +4986,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Кулыкольский</td>
 <td>214</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4953,10 +5004,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Кишикаройский</td>
 <td>264</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4969,10 +5022,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Акжаркынский</td>
 <td>171</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4985,10 +5040,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Восходский</td>
 <td>193</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5001,6 +5058,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>009</td>
+<td></td>
 <td>Обеспечение санитарии населенных пунктов</td>
 <td>2501</td>
 </tr>
@@ -5009,10 +5067,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>в том числе в разрезе аульных (сельских) округов</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5025,10 +5085,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ленинградский</td>
 <td>535</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5041,10 +5103,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алкатерекский</td>
 <td>161</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5057,6 +5121,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Кенащинский</td>
 <td>107</td>
 </tr>
@@ -5065,10 +5130,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Кишикаройский</td>
 <td>107</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5081,10 +5148,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Акжаркынский</td>
 <td>107</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5097,10 +5166,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Восходский</td>
 <td>107</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5113,6 +5184,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>010</td>
+<td></td>
 <td>Содержание мест захоронений и погребение безродных</td>
 <td>150</td>
 </tr>
@@ -5121,10 +5193,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>в том числе в разрезе аульных (сельских) округов</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5137,6 +5211,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ленинградский</td>
 <td>100</td>
 </tr>
@@ -5145,6 +5220,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>011</td>
+<td></td>
 <td>Благоустройство и озеленение населенных пунктов</td>
 <td>7535</td>
 </tr>
@@ -5153,10 +5229,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>в том числе в разрезе аульных (сельских) округов</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5169,10 +5247,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ленинградский</td>
 <td>535</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5185,10 +5265,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Кишикаройский</td>
 <td>400</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5201,10 +5283,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Восходский</td>
 <td>400</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5217,12 +5301,14 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
 <td>28 911</td>
 </tr>
 <tr>
 <td></td>
 <td>1</td>
+<td></td>
 <td></td>
 <td></td>
 <td>Деятельность в области культуры</td>
@@ -5233,6 +5319,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td>123</td>
 <td></td>
+<td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>28 911</td>
 </tr>
@@ -5241,6 +5328,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>006</td>
+<td></td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
 <td>28 911</td>
 </tr>
@@ -5249,10 +5337,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>в том числе в разрезе аульных (сельских) округов</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5265,10 +5355,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Ленинградский</td>
 <td>9 847</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5281,10 +5373,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Алкатерекский</td>
 <td>2 909</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5297,10 +5391,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Кенащинский</td>
 <td>3 321</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5313,10 +5409,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Майский</td>
 <td>783</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5329,10 +5427,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Новосельский</td>
 <td>1952</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5345,11 +5445,13 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Уялинский</td>
 <td>625</td>
 </tr>
 <tr>
 <td>12</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5361,6 +5463,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>1</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Автомобильный транспорт</td>
 <td>1700</td>
 </tr>
@@ -5368,6 +5471,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>123</td>
+<td></td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>1700</td>
@@ -5377,6 +5481,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>013</td>
+<td></td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, аулах (селах) аульных (сельских) округах</td>
 <td>1700</td>
 </tr>
@@ -5385,10 +5490,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>в том числе в разрезе аульных (сельских) округов</td>
 <td></td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5401,11 +5508,13 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Новосельский</td>
 <td>1500</td>
 </tr>
 <tr>
 <td>13</td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5417,6 +5526,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td>9</td>
 <td></td>
 <td></td>
+<td></td>
 <td>Прочие</td>
 <td>2440</td>
 </tr>
@@ -5424,6 +5534,7 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>123</td>
+<td></td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, аула (села), аульного (сельского) округа</td>
 <td>2440</td>
@@ -5433,10 +5544,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td>040</td>
+<td></td>
 <td>Реализация мероприятий для решения вопросов обустройства аульных (сельских) округов в реализацию мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов» за счет целевых трансфертов из республиканского бюджета</td>
 <td>2440</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5449,10 +5562,12 @@ source: https://zan.gov.kz/client/#!/doc/62743/rus/20.12.2011
 <td></td>
 <td></td>
 <td></td>
+<td></td>
 <td>Талшикский</td>
 <td>1640</td>
 </tr>
 <tr>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
