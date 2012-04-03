@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62635/rus/24.02.2012
+source: https://zan.gov.kz/client/#!/doc/62635/rus/03.04.2012
 ---
 
 ## Северо-Казахстанский областной бюджет на 2014 год
