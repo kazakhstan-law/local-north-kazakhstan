@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62812/rus/16.04.2012
+source: https://zan.gov.kz/client/#!/doc/62812/rus/06.08.2012
 ---
 
 ## Бюджетные программы сельских округов района Магжана Жумабаева на 2014 год
