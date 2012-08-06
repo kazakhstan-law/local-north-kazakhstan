@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62813/kaz/16.04.2012
+source: https://zan.gov.kz/client/#!/doc/62813/kaz/06.08.2012
 ---
 
 ## Жамбыл ауданының селолық округтері бойынша 2014 жылға шығындар

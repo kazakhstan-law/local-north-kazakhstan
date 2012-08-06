@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62813/rus/16.04.2012
+source: https://zan.gov.kz/client/#!/doc/62813/rus/06.08.2012
 ---
 
 ## Расходы по сельским округам Жамбылского района на 2014 год
