@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/62968/rus/16.04.2012
+source: https://zan.gov.kz/client/#!/doc/62968/rus/06.08.2012
 ---
 
 ## Направление свободных остатков бюджетных средств, сложившихся на 1 января 2012 года
