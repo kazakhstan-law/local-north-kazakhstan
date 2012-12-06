@@ -1,11 +1,11 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
+source: https://zan.gov.kz/client/#!/doc/62572/kaz/06.12.2012
 ---
 
 ## 2012 жылға Қызылжар ауданының бюджетi
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Қызылжар аудандық мәслихатының 2012.11.05 N 8/1 Шешімімен (2012.01.01 бастап қолданысқа енгзіледі)*
+> *Ескерту. 1-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Қызылжар аудандық мәслихатының 2012.12.06 N 9/1 Шешімімен (2012.01.01 бастап қолданысқа енгзіледі)*
 
 <table>
 <tr>
@@ -39,7 +39,7 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td></td>
 <td>1) Кiрiстер</td>
-<td>4 156 576,2</td>
+<td>4 126 756,6</td>
 </tr>
 <tr>
 <td>1</td>
@@ -249,21 +249,21 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>3 721 520</td>
+<td>3 691 700,4</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>3 721 520</td>
+<td>3 691 700,4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетiн трансферттер</td>
-<td>3 721 520</td>
+<td>3 691 700,4</td>
 </tr>
 </table>
 
@@ -299,7 +299,7 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td></td>
 <td>2) Шығындар</td>
-<td>4 251 586,9</td>
+<td>4 221 767,3</td>
 </tr>
 <tr>
 <td>1</td>
@@ -495,14 +495,14 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>2 209 040</td>
+<td>2 200 269</td>
 </tr>
 <tr>
 <td></td>
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>214 131</td>
+<td>213 869</td>
 </tr>
 <tr>
 <td></td>
@@ -516,7 +516,7 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td>021</td>
 <td>Республикалық бюджеттен берілетін нысаналы трансферттер есебінен балабақшалар, шағын орталықтар, мектеп интернаттары: жалпы үлгідегі, арнайы (түзету), дарынды балалар үшін мамандандырылған, жетім балалар мен ата-аналарының қамқорынсыз қалған балалар үшін ұйымдарының, кәмелеттік жасқа толмағандарды бейімдеу орталықтары тәрбиешілеріне біліктілік санаты үшін қосымша ақының мөлшерін ұлғайту</td>
-<td>787</td>
+<td>525</td>
 </tr>
 <tr>
 <td></td>
@@ -544,14 +544,14 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>1 992 045</td>
+<td>1 983 536</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>003</td>
 <td>Жалпы білім беру</td>
-<td>1 818 068,4</td>
+<td>1 818 053,4</td>
 </tr>
 <tr>
 <td></td>
@@ -565,14 +565,14 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td>063</td>
 <td>Республикалық бюджеттен берілетін трансферттер есебінен «Назарбаев Зияткерлік мектептері» ДБҰ-ның оқу бағдарламалары бойынша біліктілікті арттырудан өткен мұғалімдерге еңбекақыны арттыру</td>
-<td>1 876</td>
+<td>722</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>064</td>
 <td>Бастауыш, негізгі орта, жалпыға бірдей орта білім беру ұйымдарының (дарынды балаларға арналған мамандандырылған (жалпы үлгідегі, арнайы (түзету); жетім балаларға және ата-анасының қамқорлығынсыз қалған балаларға арналған ұйымдар): мектептердің, мектеп-интернаттарының мұғалімдеріне біліктілік санаты үшін қосымша ақы мөлшерін республикалық бюджеттен берілетін трансферттер есебінен ұлғайту</td>
-<td>30 821</td>
+<td>26 195</td>
 </tr>
 <tr>
 <td></td>
@@ -607,7 +607,7 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td>015</td>
 <td>Республикалық бюджеттен берілетін трансферттер есебінен жетім баланы (жетім балаларды) және ата-аналарының қамқорынсыз қалған баланы (балаларды) күтіп-ұстауға асыраушыларына ай сайынғы ақшалай қаражат төлемдері</td>
-<td>14 400</td>
+<td>11 686</td>
 </tr>
 <tr>
 <td></td>
@@ -726,7 +726,7 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>684 917</td>
+<td>665 150,1</td>
 </tr>
 <tr>
 <td></td>
@@ -747,35 +747,35 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>26 387</td>
+<td>25 006,4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>027</td>
 <td>Жұмыспен қамту-2020 бағдарламасы бойынша ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу және абаттандыру</td>
-<td>26 387</td>
+<td>25 006,4</td>
 </tr>
 <tr>
 <td></td>
 <td>458</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>15 000</td>
+<td>14 553</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>041</td>
 <td>Жұмыспен қамту-2020 бағдарламасы бойынша ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу және абаттандыру</td>
-<td>15 000</td>
+<td>14 553</td>
 </tr>
 <tr>
 <td></td>
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>87 768,7</td>
+<td>81 554,6</td>
 </tr>
 <tr>
 <td></td>
@@ -796,7 +796,7 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td>019</td>
 <td>Тұрғын үй салу</td>
-<td>17 551,4</td>
+<td>17 537,3</td>
 </tr>
 <tr>
 <td></td>
@@ -811,13 +811,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>072</td>
 <td>Жұмыспен қамту-2020 бағдарламасы шеңберінде тұрғын жай салу және (немесе) сатып алу және инженерлік коммуникациялық инфрақұрылымдарды дамыту (немесе) сатып алу</td>
 <td>51 316</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>074</td>
-<td>Жұмыспен қамту 2020 бағдарламасының екінші бағыты шеңберінде жетіспейтін инженерлік-коммуникациялық инфрақұрылымды дамытуға мен жайластыруға</td>
-<td>6 200</td>
 </tr>
 <tr>
 <td></td>
@@ -852,14 +845,14 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>467</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) құрылыс бөлімі</td>
-<td>397 503,3</td>
+<td>385 778,3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>006</td>
 <td>Сумен жабдықтау және су бұру жүйесін дамыту</td>
-<td>397 503,3</td>
+<td>385 778,3</td>
 </tr>
 <tr>
 <td></td>
@@ -964,14 +957,14 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>455</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) мәдениет және тілдерді дамыту бөлімі</td>
-<td>21 993</td>
+<td>22 593</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>003</td>
 <td>Мәдени-демалыс жұмысын қолдау</td>
-<td>21 993</td>
+<td>22 593</td>
 </tr>
 <tr>
 <td></td>
@@ -1034,7 +1027,7 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>455</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) мәдениет және тілдерді дамыту бөлімі</td>
-<td>9 755</td>
+<td>9 155</td>
 </tr>
 <tr>
 <td></td>
@@ -1055,7 +1048,7 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td>032</td>
 <td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td>2 000</td>
+<td>1 400</td>
 </tr>
 <tr>
 <td></td>
@@ -1111,14 +1104,14 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td></td>
 <td>Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td>62 713</td>
+<td>61 417</td>
 </tr>
 <tr>
 <td></td>
 <td>474</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) ауыл шаруашылығы және ветеринария бөлімі</td>
-<td>34 624</td>
+<td>33 328</td>
 </tr>
 <tr>
 <td></td>
@@ -1153,7 +1146,7 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td>099</td>
 <td>Мамандардың әлеуметтік көмек көрсетуі жөніндегі шараларды іске асыру</td>
-<td>12 546</td>
+<td>11 250</td>
 </tr>
 <tr>
 <td></td>
@@ -1377,21 +1370,21 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td></td>
 <td>Трансферттер</td>
-<td>61 106,9</td>
+<td>61 121,0</td>
 </tr>
 <tr>
 <td></td>
 <td>452</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) қаржы бөлімі</td>
-<td>61 106,9</td>
+<td>61 121,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>006</td>
 <td>Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
-<td>58 975,9</td>
+<td>58 990,0</td>
 </tr>
 <tr>
 <td></td>
@@ -3788,7 +3781,7 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 
 ## 2012 жылға Қызылжар ауданының ауылдық (селолық) округтерiнiң бюджеттiк бағдарламалары
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Қызылжар аудандық мәслихатының 2012.11.05 N 8/1 Шешімімен (2012.01.01 бастап қолданысқа енгзіледі)*
+> *Ескерту. 4-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Қызылжар аудандық мәслихатының 2012.12.06 N 9/1 Шешімімен (2012.01.01 бастап қолданысқа енгзіледі)*
 
 <table>
 <tr>
@@ -3822,7 +3815,7 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td></td>
 <td>Барлығы</td>
-<td>163 714,5</td>
+<td>162 333,9</td>
 </tr>
 <tr>
 <td>1</td>
@@ -3878,21 +3871,21 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td>45 331</td>
+<td>43 950,4</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>45 331</td>
+<td>43 950,4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>027</td>
 <td>Жұмыспен қамту-2020 бағдарламасы бойынша ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу және абаттандыру</td>
-<td>26 387</td>
+<td>25 006,4</td>
 </tr>
 <tr>
 <td></td>
@@ -3991,33 +3984,215 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 
 <table>
 <tr>
-<td colspan="10">соның iшiнде</td>
+<td colspan="5">соның iшiнде</td>
 </tr>
 <tr>
 <td>
 Архан
 гелка
 </td>
-<td>
-Асано
-во
-</td>
-<td>
-Бере
-зово
-</td>
+<td>Асаново</td>
+<td>Березово</td>
 <td>Бескөл</td>
+<td>Бугровое</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td>9 559</td>
+<td>10 324</td>
+<td>10 996</td>
+<td>31 536</td>
+<td>9 888</td>
+</tr>
+<tr>
+<td>7 868</td>
+<td>9 407</td>
+<td>10 364</td>
+<td>11 326</td>
+<td>9 433</td>
+</tr>
+<tr>
+<td>7 868</td>
+<td>9 407</td>
+<td>10 364</td>
+<td>11 326</td>
+<td>9 433</td>
+</tr>
+<tr>
+<td>7 818</td>
+<td>8 801</td>
+<td>10 172</td>
+<td>11 036</td>
+<td>9 383</td>
+</tr>
+<tr>
+<td>50</td>
+<td>606</td>
+<td>192</td>
+<td>290</td>
+<td>50</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>702</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>702</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>702</td>
+<td></td>
+</tr>
+<tr>
+<td>470</td>
+<td>417</td>
+<td>632</td>
+<td>12 008</td>
+<td>455</td>
+</tr>
+<tr>
+<td>470</td>
+<td>417</td>
+<td>632</td>
+<td>12 008</td>
+<td>455</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>470</td>
+<td>417</td>
+<td>632</td>
+<td>6 846</td>
+<td>455</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>4 962</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>200</td>
+<td></td>
+</tr>
+<tr>
+<td>1 221</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1 221</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>1 221</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>0</td>
+<td>500</td>
+<td>0</td>
+<td>5500</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0</td>
+<td>500</td>
+<td>0</td>
+<td>5500</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>500</td>
+<td></td>
+<td>5500</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>2000</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>2000</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>2000</td>
+<td></td>
+</tr>
+</table>
+
+кестенің жалғасы
+
+<table>
+<tr>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td>Вагулино</td>
 <td>
-Бугро
-вое
-</td>
-<td>
-Вагу
-лино
-</td>
-<td>
-Вино
-гра
+Виногра
 дово
 </td>
 <td>
@@ -4034,26 +4209,16 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 </td>
 </tr>
 <tr>
-<td colspan="10"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
-<td>9 559</td>
-<td>10 324</td>
-<td>10 996</td>
-<td>31 536</td>
-<td>9 888</td>
-<td>41 479</td>
+<td>40 098,4</td>
 <td>9 395</td>
 <td>12 345,7</td>
 <td>17 304,8</td>
 <td>10 887</td>
 </tr>
 <tr>
-<td>7 868</td>
-<td>9 407</td>
-<td>10 364</td>
-<td>11 326</td>
-<td>9 433</td>
 <td>8 445</td>
 <td>8 194</td>
 <td>8 884</td>
@@ -4061,11 +4226,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>8 557</td>
 </tr>
 <tr>
-<td>7 868</td>
-<td>9 407</td>
-<td>10 364</td>
-<td>11 326</td>
-<td>9 433</td>
 <td>8 445</td>
 <td>8 194</td>
 <td>8 884</td>
@@ -4073,11 +4233,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>8 557</td>
 </tr>
 <tr>
-<td>7 818</td>
-<td>8 801</td>
-<td>10 172</td>
-<td>11 036</td>
-<td>9 383</td>
 <td>7 975</td>
 <td>8 144</td>
 <td>8 884</td>
@@ -4085,11 +4240,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>8 387</td>
 </tr>
 <tr>
-<td>50</td>
-<td>606</td>
-<td>192</td>
-<td>290</td>
-<td>50</td>
 <td>470</td>
 <td>50</td>
 <td></td>
@@ -4100,20 +4250,10 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>702</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
 <td>0</td>
 <td>688</td>
 </tr>
 <tr>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>702</td>
-<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -4124,56 +4264,31 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td></td>
 <td></td>
-<td>702</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>688</td>
 </tr>
 <tr>
-<td>470</td>
-<td>417</td>
-<td>632</td>
-<td>12 008</td>
-<td>455</td>
-<td>27 884</td>
+<td>26 503,4</td>
 <td>1 201</td>
 <td>998</td>
 <td>750</td>
 <td>516</td>
 </tr>
 <tr>
-<td>470</td>
-<td>417</td>
-<td>632</td>
-<td>12 008</td>
-<td>455</td>
-<td>27 884</td>
+<td>26 503,4</td>
 <td>1 201</td>
 <td>998</td>
 <td>750</td>
 <td>516</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>26 387</td>
+<td>25 006,4</td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>967</td>
 <td>777</td>
 <td>885</td>
@@ -4181,11 +4296,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 </tr>
 <tr>
-<td>470</td>
-<td>417</td>
-<td>632</td>
-<td>6 846</td>
-<td>455</td>
 <td>530</td>
 <td>424</td>
 <td>113</td>
@@ -4196,11 +4306,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td></td>
 <td></td>
-<td>4 962</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>150</td>
 <td></td>
 </tr>
@@ -4208,20 +4313,10 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td></td>
 <td></td>
-<td>200</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>1 221</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
 <td>3 208</td>
 <td>0</td>
 <td>2 463,7</td>
@@ -4229,11 +4324,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>1 126</td>
 </tr>
 <tr>
-<td>1 221</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
 <td>3 208</td>
 <td>0</td>
 <td>2 464</td>
@@ -4241,11 +4331,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>1 126</td>
 </tr>
 <tr>
-<td>1 221</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td>3 208</td>
 <td></td>
 <td>2 463,7</td>
@@ -4254,11 +4339,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 </tr>
 <tr>
 <td>0</td>
-<td>500</td>
-<td>0</td>
-<td>5500</td>
-<td>0</td>
-<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -4266,22 +4346,12 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 </tr>
 <tr>
 <td>0</td>
-<td>500</td>
-<td>0</td>
-<td>5500</td>
-<td>0</td>
-<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>500</td>
-<td></td>
-<td>5500</td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4294,11 +4364,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4306,18 +4371,8 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>2000</td>
-<td>0</td>
 <td>1942</td>
 <td>0</td>
 <td>0</td>
@@ -4325,11 +4380,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>0</td>
 </tr>
 <tr>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>2000</td>
-<td>0</td>
 <td>1942</td>
 <td>0</td>
 <td>0</td>
@@ -4337,11 +4387,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>2000</td>
-<td></td>
 <td>1942</td>
 <td></td>
 <td></td>
@@ -4553,22 +4598,26 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 
 <table>
 <tr>
-<td colspan="10">соның iшiнде</td>
+<td colspan="5">соның iшiнде</td>
 </tr>
 <tr>
 <td>Лесной</td>
 <td>Налобино</td>
-<td>Новоникольск</td>
-<td>Петерфельд</td>
-<td>Прибрежное</td>
-<td>Рассвет</td>
-<td>Рощинск</td>
-<td>Светлопольск</td>
-<td>Соколовка</td>
-<td>Якорь</td>
+<td>
+Новони
+кольск
+</td>
+<td>
+Петер
+фельд
+</td>
+<td>
+Прибреж
+ное
+</td>
 </tr>
 <tr>
-<td colspan="10"></td>
+<td colspan="5"></td>
 </tr>
 <tr>
 <td>13 052,1</td>
@@ -4576,11 +4625,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>11 992</td>
 <td>11 061</td>
 <td>10 200</td>
-<td>10 814</td>
-<td>14 482</td>
-<td>8 404</td>
-<td>18 669</td>
-<td>12 380</td>
 </tr>
 <tr>
 <td>7 817</td>
@@ -4588,11 +4632,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>8 899</td>
 <td>10 050</td>
 <td>9 380</td>
-<td>9 942</td>
-<td>9 503</td>
-<td>8 010</td>
-<td>11 081</td>
-<td>7 911</td>
 </tr>
 <tr>
 <td>7 817</td>
@@ -4600,11 +4639,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>8 899</td>
 <td>10 050</td>
 <td>9 380</td>
-<td>9 942</td>
-<td>9 503</td>
-<td>8 010</td>
-<td>11 081</td>
-<td>7 911</td>
 </tr>
 <tr>
 <td>7 647</td>
@@ -4612,11 +4646,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>8 547</td>
 <td>10 000</td>
 <td>9 330</td>
-<td>9 892</td>
-<td>9 399</td>
-<td>7 960</td>
-<td>11 031</td>
-<td>7 861</td>
 </tr>
 <tr>
 <td>170</td>
@@ -4624,11 +4653,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>352</td>
 <td>50</td>
 <td>50</td>
-<td>50</td>
-<td>104</td>
-<td>50</td>
-<td>50</td>
-<td>50</td>
 </tr>
 <tr>
 <td>0</td>
@@ -4636,11 +4660,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>0</td>
 <td>674</td>
 <td>800</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
 </tr>
 <tr>
 <td>0</td>
@@ -4648,11 +4667,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>0</td>
 <td>674</td>
 <td>800</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
 </tr>
 <tr>
 <td></td>
@@ -4660,11 +4674,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td>674</td>
 <td>800</td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>305</td>
@@ -4672,11 +4681,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>303</td>
 <td>337</td>
 <td>20</td>
-<td>434</td>
-<td>385</td>
-<td>394</td>
-<td>688</td>
-<td>305</td>
 </tr>
 <tr>
 <td>305</td>
@@ -4684,11 +4688,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>303</td>
 <td>337</td>
 <td>20</td>
-<td>434</td>
-<td>385</td>
-<td>394</td>
-<td>688</td>
-<td>305</td>
 </tr>
 <tr>
 <td></td>
@@ -4696,18 +4695,8 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4720,18 +4709,8 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>303</td>
 <td>337</td>
 <td>20</td>
-<td>434</td>
-<td>385</td>
-<td>394</td>
-<td>488</td>
-<td>305</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4744,6 +4723,207 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr>
+<td>4 930,1</td>
+<td>0</td>
+<td>2 790</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>4 930,1</td>
+<td>0</td>
+<td>2 790</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>4 930,1</td>
+<td></td>
+<td>2 790</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</table>
+
+кестенің жалғасы
+
+<table>
+<tr>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td>Рассвет</td>
+<td>Рощинск</td>
+<td>
+Светло
+польск
+</td>
+<td>
+Соко
+ловка
+</td>
+<td>Якорь</td>
+</tr>
+<tr>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td>10 814</td>
+<td>14 482</td>
+<td>8 404</td>
+<td>18 669</td>
+<td>12 380</td>
+</tr>
+<tr>
+<td>9 942</td>
+<td>9 503</td>
+<td>8 010</td>
+<td>11 081</td>
+<td>7 911</td>
+</tr>
+<tr>
+<td>9 942</td>
+<td>9 503</td>
+<td>8 010</td>
+<td>11 081</td>
+<td>7 911</td>
+</tr>
+<tr>
+<td>9 892</td>
+<td>9 399</td>
+<td>7 960</td>
+<td>11 031</td>
+<td>7 861</td>
+</tr>
+<tr>
+<td>50</td>
+<td>104</td>
+<td>50</td>
+<td>50</td>
+<td>50</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>434</td>
+<td>385</td>
+<td>394</td>
+<td>688</td>
+<td>305</td>
+</tr>
+<tr>
+<td>434</td>
+<td>385</td>
+<td>394</td>
+<td>688</td>
+<td>305</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>434</td>
+<td>385</td>
+<td>394</td>
+<td>488</td>
+<td>305</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td></td>
 <td></td>
 <td></td>
@@ -4751,11 +4931,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 </tr>
 <tr>
-<td>4 930,1</td>
-<td>0</td>
-<td>2 790</td>
-<td>0</td>
-<td>0</td>
 <td>438</td>
 <td>4 094</td>
 <td>0</td>
@@ -4763,11 +4938,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>4 164</td>
 </tr>
 <tr>
-<td>4 930,1</td>
-<td>0</td>
-<td>2 790</td>
-<td>0</td>
-<td>0</td>
 <td>438</td>
 <td>4 094</td>
 <td>0</td>
@@ -4775,11 +4945,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>4 164</td>
 </tr>
 <tr>
-<td>4 930,1</td>
-<td></td>
-<td>2 790</td>
-<td></td>
-<td></td>
 <td>438</td>
 <td>4 094</td>
 <td></td>
@@ -4787,11 +4952,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>4 164</td>
 </tr>
 <tr>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
 <td>0</td>
 <td>500</td>
 <td>0</td>
@@ -4799,11 +4959,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>0</td>
 </tr>
 <tr>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
 <td>0</td>
 <td>500</td>
 <td>0</td>
@@ -4816,11 +4971,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
@@ -4828,18 +4978,8 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td>500</td>
 <td></td>
@@ -4847,11 +4987,6 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td></td>
 </tr>
 <tr>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
 <td>0</td>
 <td>0</td>
 <td>0</td>
@@ -4862,20 +4997,10 @@ source: https://zan.gov.kz/client/#!/doc/62572/kaz/05.11.2012
 <td>0</td>
 <td>0</td>
 <td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
-<td>0</td>
 <td>1943</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
