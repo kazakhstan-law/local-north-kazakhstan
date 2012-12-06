@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/62817/kaz/08.11.2012
+source: https://zan.gov.kz/client/#!/doc/62817/kaz/06.12.2012
 ---
 
 ## 2012 жылдың 1 қаңтарында құрылған бюджеттік қаражаттың бос қалдықтарын бағыттау
