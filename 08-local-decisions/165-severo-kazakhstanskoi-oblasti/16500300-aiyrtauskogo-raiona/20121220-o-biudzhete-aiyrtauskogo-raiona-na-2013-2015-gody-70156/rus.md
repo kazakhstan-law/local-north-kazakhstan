@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/70156/rus/29.03.2013
+source: https://zan.gov.kz/client/#!/doc/70156/rus/18.06.2013
 ---
 
 # О бюджете Айыртауского района на 2013-2015 годы
