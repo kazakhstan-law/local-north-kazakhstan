@@ -1,5 +1,5 @@
 ---
-version_id: AI70351_1
+version_id: AI70351_3
 act_code: '70351'
 language: rus
 title: О Правилах оказания жилищной помощи малообеспеченныи семьям (гражданам), проживающим в районе Шал акына
@@ -11,9 +11,9 @@ type_codes:
 approved_by:
 - '165010000002'
 approval_date: 2012-12-20
-version_date: 2012-12-20
+version_date: 2013-07-04
 registry_number: '70351'
-source: https://zan.gov.kz/client/#!/doc/70351/rus/20.12.2012
+source: https://zan.gov.kz/client/#!/doc/70351/rus/04.07.2013
 ---
 
 # О Правилах оказания жилищной помощи малообеспеченныи семьям (гражданам), проживающим в районе Шал акына
