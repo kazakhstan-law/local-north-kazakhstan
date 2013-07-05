@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/70094/kaz/28.06.2013
+source: https://zan.gov.kz/client/#!/doc/70094/kaz/05.07.2013
 ---
 
 ## 2015 жылға Қызылжар ауданының ауылдық (селолық) округтерiнiң бюджеттiк бағдарламалары

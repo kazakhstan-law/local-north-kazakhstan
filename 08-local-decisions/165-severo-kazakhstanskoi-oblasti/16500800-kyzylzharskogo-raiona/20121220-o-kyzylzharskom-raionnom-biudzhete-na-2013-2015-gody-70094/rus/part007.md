@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/70094/rus/28.06.2013
+source: https://zan.gov.kz/client/#!/doc/70094/rus/05.07.2013
 ---
 
 ## Бюджетные программы аульных (сельских) округов Кызылжарского района на 2014 год
