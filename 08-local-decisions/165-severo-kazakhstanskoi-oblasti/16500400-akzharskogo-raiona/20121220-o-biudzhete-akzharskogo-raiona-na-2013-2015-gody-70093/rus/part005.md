@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/70093/rus/28.03.2013
+source: https://zan.gov.kz/client/#!/doc/70093/rus/10.07.2013
 ---
 
 ## ПЕРЕЧЕНЬ бюджетных программ каждого аульного (сельского) округа на 2014 год
