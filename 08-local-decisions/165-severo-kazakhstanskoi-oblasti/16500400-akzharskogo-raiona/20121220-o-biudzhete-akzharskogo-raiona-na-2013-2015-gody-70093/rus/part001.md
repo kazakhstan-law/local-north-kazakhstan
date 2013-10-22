@@ -1,27 +1,29 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/70093/rus/09.10.2013
+source: https://zan.gov.kz/client/#!/doc/70093/rus/22.10.2013
 ---
 
 ## Бюджет Акжарского района на 2013 год
 
-> *Сноска. Приложение 1 в редакции решения маслихата Акжарского района Северо-Казахстанской области от 9.10.2013 N 14-1 (вводится в действие с 01.01.2013)*
+> *Сноска. Приложение 1 в редакции решения маслихата Акжарского района Северо-Казахстанской области от 22.10.2013 N 15-1 (вводится в действие с 01.01.2013)*
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
-<td>Сумма тысяч тенге</td>
+<td colspan="3">Категория</td>
+<td rowspan="3">Наименование</td>
+<td rowspan="3">Сумма тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
-<td></td>
+<td colspan="2">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Подкласс</td>
-<td></td>
+<td>
+Под-
+класс
+</td>
 </tr>
 <tr>
 <th>1</th>
@@ -35,7 +37,7 @@ source: https://zan.gov.kz/client/#!/doc/70093/rus/09.10.2013
 <td></td>
 <td></td>
 <td>ДОХОДЫ</td>
-<td>1835470</td>
+<td>1835481,7</td>
 </tr>
 <tr>
 <td>1</td>
@@ -161,14 +163,14 @@ source: https://zan.gov.kz/client/#!/doc/70093/rus/09.10.2013
 <td></td>
 <td></td>
 <td>HЕHАЛОГОВЫЕ ПОСТУПЛЕHИЯ</td>
-<td>3315</td>
+<td>3326,7</td>
 </tr>
 <tr>
 <td></td>
 <td>1</td>
 <td></td>
 <td>Доходы от государственной собственности</td>
-<td>800</td>
+<td>811,7</td>
 </tr>
 <tr>
 <td></td>
@@ -176,6 +178,20 @@ source: https://zan.gov.kz/client/#!/doc/70093/rus/09.10.2013
 <td>5</td>
 <td>Доходы от аренды имущества, находящегося в государственной собственности</td>
 <td>800</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>7</td>
+<td>Вознаграждения по кредитам, выданные из государственного бюджета</td>
+<td>11,7</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Вознаграждения по бюджетным кредитам, выданные из местного бюджета физическим лицам</td>
+<td>11,7</td>
 </tr>
 <tr>
 <td></td>
@@ -251,36 +267,30 @@ source: https://zan.gov.kz/client/#!/doc/70093/rus/09.10.2013
 
 <table>
 <tr>
-<td colspan="5">Функциональная группа</td>
-<td rowspan="6">Сумма тысяч тенге</td>
-</tr>
-<tr>
-<td colspan="5">Функциональная подгруппа</td>
+<td colspan="4">Функциональная группа</td>
+<td rowspan="4">Наименование</td>
+<td rowspan="4">Сумма тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="3">Администратор бюджетных программ</td>
+<td colspan="3">Функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="2">Программа</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="2">
+Администра-
+тор бюджетных программ
+</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Наименование</td>
+<td>
+Програм-
+ма
+</td>
 </tr>
 <tr>
 <td></td>
@@ -288,7 +298,7 @@ source: https://zan.gov.kz/client/#!/doc/70093/rus/09.10.2013
 <td></td>
 <td></td>
 <td>Затраты</td>
-<td>1842088,7</td>
+<td>1842100,4</td>
 </tr>
 <tr>
 <td>01</td>
@@ -1459,6 +1469,38 @@ source: https://zan.gov.kz/client/#!/doc/70093/rus/09.10.2013
 <td>107</td>
 </tr>
 <tr>
+<td>14</td>
+<td></td>
+<td></td>
+<td></td>
+<td>Обслуживание долга</td>
+<td>11,7</td>
+</tr>
+<tr>
+<td>14</td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Обслуживание долга</td>
+<td>11,7</td>
+</tr>
+<tr>
+<td>14</td>
+<td>1</td>
+<td>452</td>
+<td></td>
+<td>Отдел финансов района (города областного значения)</td>
+<td>11,7</td>
+</tr>
+<tr>
+<td>14</td>
+<td>1</td>
+<td>452</td>
+<td>013</td>
+<td>Обслуживание долга местных исполнительных органов по выплате вознаграждений и иных платежей по займам из областного бюджета</td>
+<td>11,7</td>
+</tr>
+<tr>
 <td>15</td>
 <td></td>
 <td></td>
@@ -1504,7 +1546,7 @@ source: https://zan.gov.kz/client/#!/doc/70093/rus/09.10.2013
 <td></td>
 <td></td>
 <td>Ш. Чистое бюджетное кредитование</td>
-<td>53014</td>
+<td>53014,3</td>
 </tr>
 <tr>
 <td></td>
@@ -1549,7 +1591,7 @@ source: https://zan.gov.kz/client/#!/doc/70093/rus/09.10.2013
 <tr>
 <td colspan="4">Категория</td>
 <td rowspan="3">Наименование</td>
-<td rowspan="3"></td>
+<td rowspan="3">Сумма тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -1566,7 +1608,7 @@ source: https://zan.gov.kz/client/#!/doc/70093/rus/09.10.2013
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>4109</td>
+<td>4108,7</td>
 </tr>
 <tr>
 <td></td>
@@ -1574,7 +1616,7 @@ source: https://zan.gov.kz/client/#!/doc/70093/rus/09.10.2013
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>4109</td>
+<td>4108,7</td>
 </tr>
 <tr>
 <td></td>
@@ -1582,7 +1624,7 @@ source: https://zan.gov.kz/client/#!/doc/70093/rus/09.10.2013
 <td>1</td>
 <td></td>
 <td>Погашение бюджетных кредитов,выданных из государственного бюджета</td>
-<td>4109</td>
+<td>4108,7</td>
 </tr>
 <tr>
 <td></td>
@@ -1598,7 +1640,7 @@ source: https://zan.gov.kz/client/#!/doc/70093/rus/09.10.2013
 <td></td>
 <td></td>
 <td>V. Дефицит (профицит) бюджета</td>
-<td>-59632,7</td>
+<td>-59633,0</td>
 </tr>
 <tr>
 <td></td>
@@ -1606,12 +1648,12 @@ source: https://zan.gov.kz/client/#!/doc/70093/rus/09.10.2013
 <td></td>
 <td></td>
 <td>VI. Финансирование дефицита</td>
-<td>59632,7</td>
+<td>59633,0</td>
 </tr>
 <tr>
 <td colspan="4">Категория</td>
 <td rowspan="4">Наименование</td>
-<td rowspan="4"></td>
+<td rowspan="4">Сумма тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
@@ -1655,24 +1697,23 @@ source: https://zan.gov.kz/client/#!/doc/70093/rus/09.10.2013
 <tr>
 <td colspan="4">Функциональная группа</td>
 <td rowspan="4">Наименование</td>
-<td rowspan="4"></td>
+<td rowspan="4">Сумма тысяч тенге</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
-<td colspan="3">
-функциональ-
-ная подгруппа
-</td>
+<td colspan="3">функциональная подгруппа</td>
 </tr>
 <tr>
 <td rowspan="2"></td>
-<td colspan="2">Администратор бюджетных программ</td>
+<td colspan="2">
+Администра-
+тор бюджетных программ
+</td>
 </tr>
 <tr>
 <td></td>
 <td>
-Про-
-грам
+Програм-
 ма
 </td>
 </tr>
@@ -1682,7 +1723,7 @@ source: https://zan.gov.kz/client/#!/doc/70093/rus/09.10.2013
 <td></td>
 <td></td>
 <td>Погашение займа</td>
-<td>4109</td>
+<td>4108,7</td>
 </tr>
 <tr>
 <td></td>
@@ -1690,7 +1731,7 @@ source: https://zan.gov.kz/client/#!/doc/70093/rus/09.10.2013
 <td></td>
 <td></td>
 <td>Погашение займа</td>
-<td>4109</td>
+<td>4108,7</td>
 </tr>
 <tr>
 <td></td>
@@ -1698,7 +1739,7 @@ source: https://zan.gov.kz/client/#!/doc/70093/rus/09.10.2013
 <td>452</td>
 <td></td>
 <td>Отдел финансов района (города областного значения)</td>
-<td>4109</td>
+<td>4108,7</td>
 </tr>
 <tr>
 <td></td>
@@ -1706,12 +1747,12 @@ source: https://zan.gov.kz/client/#!/doc/70093/rus/09.10.2013
 <td></td>
 <td>008</td>
 <td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
-<td>4109</td>
+<td>4108,7</td>
 </tr>
 <tr>
 <td colspan="4">Категория</td>
 <td rowspan="4">Наименование</td>
-<td rowspan="4"></td>
+<td rowspan="4">Сумма тысяч тенге</td>
 </tr>
 <tr>
 <td></td>
