@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/76718/rus/25.06.2014
+source: https://zan.gov.kz/client/#!/doc/76718/rus/18.07.2014
 ---
 
 # О бюджете города Петропавловска на 2014-2016 годы
