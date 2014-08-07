@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76586/kaz/25.06.2014
+source: https://zan.gov.kz/client/#!/doc/76586/kaz/07.08.2014
 ---
 
 ## 2016 жылға арналған Солтүстік Қазақстан облыстық бюджет
