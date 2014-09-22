@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76808/kaz/26.06.2014
+source: https://zan.gov.kz/client/#!/doc/76808/kaz/22.09.2014
 ---
 
 ## 2014 жылға Мамлют аудандық бюджет
