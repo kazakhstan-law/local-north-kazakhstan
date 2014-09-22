@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76881/kaz/30.06.2014
+source: https://zan.gov.kz/client/#!/doc/76881/kaz/22.09.2014
 ---
 
 ## Мағжан Жұмабаев ауданының ауылдық округтерінің 2016 жылға арналған бюджеттік бағдарламалары
