@@ -1,11 +1,15 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
+source: https://zan.gov.kz/client/#!/doc/76778/kaz/19.11.2014
 ---
 
-## 2014 жылға Қызылжар ауданының ауылдық округтерiнiң бюджеттiк бағдарламалары
+> *Аудандық мәслихаттың*  
+> *2013 жылғы 25 желтоқсандағы*  
+> *№ 22/1 шешіміне 4-қосымша*
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Қызылжар ауданы мәслихатының 23.09.2014 N 32/1 шешімімен (01.01.2014 бастап қолданысқа енгізіледі)*
+# 2014 жылға Қызылжар ауданының ауылдық округтерiнiң бюджеттiк бағдарламалары
+
+> *Ескерту. 4-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Қызылжар ауданы мәслихатының 19.11.2014 N 33/4 шешімімен (01.01.2014 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -13,144 +17,562 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2" rowspan="4">Барлығы</td>
-<td colspan="18">соның ішінде</td>
-<td></td>
-<td></td>
-<td></td>
+<td rowspan="4">Барлығы</td>
+<td>соның iшiнде</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
-<td colspan="3">Әкімші</td>
-<td colspan="2" rowspan="3">Архангелка</td>
-<td colspan="3" rowspan="3">Асаново</td>
-<td colspan="2" rowspan="3">Березово</td>
-<td colspan="2" rowspan="3">Бескөл</td>
-<td rowspan="3">Бугровое</td>
-<td colspan="3" rowspan="3">Вагулино</td>
-<td colspan="2" rowspan="3">Виноградово</td>
-<td colspan="2" rowspan="3">Куйбышево</td>
-<td rowspan="3">Қызылжар</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="3">Әкiмшi</td>
+<td rowspan="3">Архангелка</td>
 </tr>
 <tr>
 <td rowspan="2"></td>
 <td colspan="2">Бағдарлама</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td>Атауы</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th colspan="20">5</th>
-<th></th>
-<th></th>
-<th></th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>Барлығы</td>
-<td colspan="2">163 009,4</td>
-<td colspan="2">12 648,8</td>
-<td colspan="3">12 639,3</td>
-<td colspan="2">18 808,0</td>
-<td colspan="2">39 437,1</td>
-<td>11 068,2</td>
-<td colspan="3">23 148,0</td>
-<td colspan="2">11 555,0</td>
-<td colspan="2">19 633,0</td>
-<td>14 072,0</td>
-<td></td>
-<td></td>
-<td></td>
+<td>165 595,6</td>
+<td>12 888,6</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
-<td>Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td colspan="2">92 344</td>
-<td colspan="2">8 151</td>
-<td colspan="3">9 496</td>
-<td colspan="2">12 170</td>
-<td colspan="2">13 921</td>
-<td>8 672</td>
-<td colspan="3">12 119</td>
-<td colspan="2">7 807</td>
-<td colspan="2">10 682</td>
-<td>9 326</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td>93 918</td>
+<td>8 481</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">92 344</td>
-<td colspan="2">8 151</td>
-<td colspan="3">9 496</td>
-<td colspan="2">12 170</td>
-<td colspan="2">13 921</td>
-<td>8 672</td>
-<td colspan="3">12 119</td>
-<td colspan="2">7 807</td>
-<td colspan="2">10 682</td>
-<td>9 326</td>
-<td></td>
-<td></td>
-<td></td>
+<td>93 918</td>
+<td>8 481</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">88 498</td>
-<td colspan="2">8 151</td>
-<td colspan="3">9 496</td>
-<td colspan="2">12 170</td>
-<td colspan="2">13 921</td>
-<td>8 672</td>
-<td colspan="3">8 273</td>
-<td colspan="2">7 807</td>
-<td colspan="2">10 682</td>
-<td>9 326</td>
-<td></td>
-<td></td>
-<td></td>
+<td>89 072</td>
+<td>8 481</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>032</td>
 <td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td colspan="2">3 846</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>4 846</td>
 <td></td>
-<td colspan="3">3 846</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+</tr>
+<tr>
+<td>4</td>
 <td></td>
 <td></td>
+<td>Бiлiм беру</td>
+<td>3 880</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>3 880</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>005</td>
+<td>Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
+<td>3 880</td>
+<td></td>
+</tr>
+<tr>
+<td>7</td>
+<td></td>
+<td></td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
+<td>25 221,5</td>
+<td>900</td>
+</tr>
+<tr>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>25 221,5</td>
+<td>900</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>014</td>
+<td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
+<td>2 053,5</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>008</td>
+<td>Елді мекендердегі көшелерді жарықтандыру</td>
+<td>18 875</td>
+<td>740</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td>1 798</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>011</td>
+<td>Елді мекендерді абаттандыру мен көгалдандыру</td>
+<td>2 495</td>
+<td>160</td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
+<td></td>
+<td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
+<td>16 691</td>
+<td>1 345</td>
+</tr>
+<tr>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>16 691</td>
+<td>1 345</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>006</td>
+<td>Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
+<td>16 691</td>
+<td>1 345</td>
+</tr>
+<tr>
+<td>12</td>
+<td></td>
+<td></td>
+<td>Көлiк және коммуникация</td>
+<td>1 000</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>1 000</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>013</td>
+<td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td>1 000</td>
+<td></td>
+</tr>
+<tr>
+<td>13</td>
+<td></td>
+<td></td>
+<td>Басқалар</td>
+<td>24 885,1</td>
+<td>2 162,6</td>
+</tr>
+<tr>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>24 885,1</td>
+<td>2 162,6</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>040</td>
+<td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td>24 885,1</td>
+<td>2 162,6</td>
+</tr>
+</table>
+
+Кестенің жалғасы
+
+<table>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Асаново</td>
+<td>Березово</td>
+<td>Бескөл</td>
+<td>Бугровое</td>
+<td>Вагулино</td>
+<td>Виноградово</td>
+<td>Куйбышево</td>
+<td>Қызылжар</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12 609,3</td>
+<td>18 808</td>
+<td>42 727,3</td>
+<td>11 068,2</td>
+<td>22 668,5</td>
+<td>11 276,8</td>
+<td>19 868</td>
+<td>13 680,9</td>
+</tr>
+<tr>
+<td>9 496</td>
+<td>12 170</td>
+<td>13 921</td>
+<td>8 772</td>
+<td>13 043</td>
+<td>7 777</td>
+<td>10 952</td>
+<td>9 306</td>
+</tr>
+<tr>
+<td>9 496</td>
+<td>12 170</td>
+<td>13 921</td>
+<td>8 772</td>
+<td>13 043</td>
+<td>7 777</td>
+<td>10 952</td>
+<td>9 306</td>
+</tr>
+<tr>
+<td>9 496</td>
+<td>12 170</td>
+<td>13 921</td>
+<td>8 772</td>
+<td>8 197</td>
+<td>7 777</td>
+<td>10 952</td>
+<td>9 306</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>4 846</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>0</td>
+<td>446</td>
+<td>730</td>
+<td>0</td>
+<td>1 927</td>
+<td>0</td>
+<td>0</td>
+<td>777</td>
+</tr>
+<tr>
+<td>0</td>
+<td>446</td>
+<td>730</td>
+<td>0</td>
+<td>1 927</td>
+<td>0</td>
+<td>0</td>
+<td>777</td>
+</tr>
+<tr>
+<td></td>
+<td>446</td>
+<td>730</td>
+<td></td>
+<td>1 927</td>
+<td></td>
+<td></td>
+<td>777</td>
+</tr>
+<tr>
+<td>1 392</td>
+<td>2 187</td>
+<td>16 351</td>
+<td>468</td>
+<td>904</td>
+<td>1 556,5</td>
+<td>729</td>
+<td>734</td>
+</tr>
+<tr>
+<td>1 392</td>
+<td>2 187</td>
+<td>16 351</td>
+<td>468</td>
+<td>904</td>
+<td>1 556,5</td>
+<td>729</td>
+<td>734</td>
+</tr>
+<tr>
+<td></td>
+<td>1 019</td>
+<td></td>
+<td></td>
+<td>289</td>
+<td>745,5</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>882</td>
+<td>1 008</td>
+<td>13 688</td>
+<td>308</td>
+<td>455</td>
+<td>651</td>
+<td>569</td>
+<td>574</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1 798</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>510</td>
+<td>160</td>
+<td>865</td>
+<td>160</td>
+<td>160</td>
+<td>160</td>
+<td>160</td>
+<td>160</td>
+</tr>
+<tr>
+<td>0</td>
+<td>2 583</td>
+<td>0</td>
+<td>0</td>
+<td>5 068</td>
+<td>0</td>
+<td>6 657</td>
+<td>1 038</td>
+</tr>
+<tr>
+<td>0</td>
+<td>2 583</td>
+<td>0</td>
+<td>0</td>
+<td>5 068</td>
+<td>0</td>
+<td>6 657</td>
+<td>1 038</td>
+</tr>
+<tr>
+<td></td>
+<td>2 583</td>
+<td></td>
+<td></td>
+<td>5 068</td>
+<td></td>
+<td>6 657</td>
+<td>1 038</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>1 000</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>1 000</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1 000</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1 721,3</td>
+<td>1 422</td>
+<td>10 725,3</td>
+<td>1 828,2</td>
+<td>1 726,5</td>
+<td>1 943,3</td>
+<td>1 530</td>
+<td>1 825,9</td>
+</tr>
+<tr>
+<td>1 721,3</td>
+<td>1 422</td>
+<td>10 725,3</td>
+<td>1 828,2</td>
+<td>1 726,5</td>
+<td>1 943,3</td>
+<td>1 530</td>
+<td>1 825,9</td>
+</tr>
+<tr>
+<td>1 721,3</td>
+<td>1 422</td>
+<td>10 725,3</td>
+<td>1 828,2</td>
+<td>1 726,5</td>
+<td>1 943,3</td>
+<td>1 530</td>
+<td>1 825,9</td>
+</tr>
+</table>
+
+## 2014 жылға Қызылжар ауданының ауылдық округтерiнiң бюджеттiк бағдарламалары
+
+<table>
+<tr>
+<td>Функцио налдық топ</td>
+<td></td>
+<td></td>
+<td></td>
+<td rowspan="4">Барлығы</td>
+<td>соның iшiнде</td>
+<td></td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="3">Әкiмшi</td>
+<td rowspan="3">Лесной</td>
+<td rowspan="3">Налобино</td>
+</tr>
+<tr>
+<td rowspan="2"></td>
+<td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td></td>
+<td>Атауы</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Барлығы</td>
+<td>144 887,9</td>
+<td>14 815,1</td>
+<td>12 987,8</td>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td>96 896</td>
+<td>8 109</td>
+<td>10 451</td>
+</tr>
+<tr>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>96 896</td>
+<td>8 109</td>
+<td>10 451</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>001</td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>96 896</td>
+<td>8 109</td>
+<td>10 451</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>032</td>
+<td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
+<td>0</td>
 <td></td>
 <td></td>
 </tr>
@@ -158,56 +580,26 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 <td>4</td>
 <td></td>
 <td></td>
-<td>Білім беру</td>
-<td colspan="2">3 880</td>
-<td colspan="2">0</td>
-<td colspan="3">0</td>
-<td colspan="2">446</td>
-<td colspan="2">730</td>
+<td>Бiлiм беру</td>
+<td>1 903</td>
 <td>0</td>
-<td colspan="3">1 927</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td>777</td>
-<td></td>
-<td></td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">3 880</td>
-<td colspan="2">0</td>
-<td colspan="3">0</td>
-<td colspan="2">446</td>
-<td colspan="2">730</td>
+<td>1 903</td>
 <td>0</td>
-<td colspan="3">1 927</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td>777</td>
-<td></td>
-<td></td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>005</td>
 <td>Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
-<td colspan="2">3 880</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">446</td>
-<td colspan="2">730</td>
-<td></td>
-<td colspan="3">1 927</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>777</td>
-<td></td>
+<td>1 903</td>
 <td></td>
 <td></td>
 </tr>
@@ -216,55 +608,25 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 <td></td>
 <td></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">26 266</td>
-<td colspan="2">960</td>
-<td colspan="3">1 422</td>
-<td colspan="2">2 187</td>
-<td colspan="2">16 351</td>
-<td>568</td>
-<td colspan="3">1 668</td>
-<td colspan="2">1 582</td>
-<td colspan="2">764</td>
-<td>764</td>
-<td></td>
-<td></td>
-<td></td>
+<td>7 158</td>
+<td>709</td>
+<td>602</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">26 266</td>
-<td colspan="2">960</td>
-<td colspan="3">1 422</td>
-<td colspan="2">2 187</td>
-<td colspan="2">16 351</td>
-<td>568</td>
-<td colspan="3">1 668</td>
-<td colspan="2">1 582</td>
-<td colspan="2">764</td>
-<td>764</td>
-<td></td>
-<td></td>
-<td></td>
+<td>7 158</td>
+<td>709</td>
+<td>602</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>014</td>
 <td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
-<td colspan="2">2 843</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">1 019</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3">1 053</td>
-<td colspan="2">771</td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td>0</td>
 <td></td>
 <td></td>
 </tr>
@@ -272,37 +634,17 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 <td></td>
 <td></td>
 <td>008</td>
-<td>Елді мекендерде көшелерді жарықтандыру</td>
-<td colspan="2">19 130</td>
-<td colspan="2">800</td>
-<td colspan="3">912</td>
-<td colspan="2">1 008</td>
-<td colspan="2">13 688</td>
-<td>408</td>
-<td colspan="3">455</td>
-<td colspan="2">651</td>
-<td colspan="2">604</td>
-<td>604</td>
-<td></td>
-<td></td>
-<td></td>
+<td>Елді мекендердегі көшелерді жарықтандыру</td>
+<td>5 558</td>
+<td>549</td>
+<td>442</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>009</td>
 <td>Елді мекендердің санитариясын қамтамасыз ету</td>
-<td colspan="2">1 798</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">1 798</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td>0</td>
 <td></td>
 <td></td>
 </tr>
@@ -311,131 +653,61 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 <td></td>
 <td>011</td>
 <td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">2 495</td>
-<td colspan="2">160</td>
-<td colspan="3">510</td>
-<td colspan="2">160</td>
-<td colspan="2">865</td>
+<td>1 600</td>
 <td>160</td>
-<td colspan="3">160</td>
-<td colspan="2">160</td>
-<td colspan="2">160</td>
 <td>160</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td>8</td>
 <td></td>
 <td></td>
-<td>Мәдениет, спорт, туризм және ақпараттық кеңістік</td>
-<td colspan="2">16 921</td>
-<td colspan="2">1 375</td>
-<td colspan="3">0</td>
-<td colspan="2">2 583</td>
-<td colspan="2">0</td>
+<td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
+<td>22 651</td>
+<td>4 212</td>
 <td>0</td>
-<td colspan="3">5 268</td>
-<td colspan="2">0</td>
-<td colspan="2">6 657</td>
-<td>1 038</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">16 921</td>
-<td colspan="2">1 375</td>
-<td colspan="3">0</td>
-<td colspan="2">2 583</td>
-<td colspan="2">0</td>
+<td>22 651</td>
+<td>4 212</td>
 <td>0</td>
-<td colspan="3">5 268</td>
-<td colspan="2">0</td>
-<td colspan="2">6 657</td>
-<td>1 038</td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>006</td>
 <td>Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
-<td colspan="2">16 921</td>
-<td colspan="2">1 375</td>
-<td colspan="3"></td>
-<td colspan="2">2 583</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3">5 268</td>
-<td colspan="2"></td>
-<td colspan="2">6 657</td>
-<td>1 038</td>
-<td></td>
-<td></td>
+<td>22 651</td>
+<td>4 212</td>
 <td></td>
 </tr>
 <tr>
 <td>12</td>
 <td></td>
 <td></td>
-<td>Көлік және коммуникация</td>
-<td colspan="2">500</td>
-<td colspan="2">0</td>
-<td colspan="3">0</td>
-<td colspan="2">0</td>
-<td colspan="2">500</td>
+<td>Көлiк және коммуникация</td>
 <td>0</td>
-<td colspan="3">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
 <td>0</td>
-<td></td>
-<td></td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">500</td>
-<td colspan="2">0</td>
-<td colspan="3">0</td>
-<td colspan="2">0</td>
-<td colspan="2">500</td>
 <td>0</td>
-<td colspan="3">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
 <td>0</td>
-<td></td>
-<td></td>
-<td></td>
+<td>0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>013</td>
 <td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td colspan="2">500</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2">500</td>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td></td>
+<td>0</td>
 <td></td>
 <td></td>
 </tr>
@@ -444,500 +716,304 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td colspan="2">23 098,4</td>
-<td colspan="2">2 162,8</td>
-<td colspan="3">1 721,3</td>
-<td colspan="2">1 422,0</td>
-<td colspan="2">7 935,1</td>
-<td>1 828,2</td>
-<td colspan="3">2 166,0</td>
-<td colspan="2">2 166,0</td>
-<td colspan="2">1 530,0</td>
-<td>2 167,0</td>
-<td></td>
-<td></td>
-<td></td>
+<td>16 279,9</td>
+<td>1 785,1</td>
+<td>1 934,8</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">23 098,4</td>
-<td colspan="2">2 162,8</td>
-<td colspan="3">1 721,3</td>
-<td colspan="2">1 422,0</td>
-<td colspan="2">7 935,1</td>
-<td>1 828,2</td>
-<td colspan="3">2 166,0</td>
-<td colspan="2">2 166,0</td>
-<td colspan="2">1 530,0</td>
-<td>2 167,0</td>
-<td></td>
-<td></td>
-<td></td>
+<td>16 279,9</td>
+<td>1 785,1</td>
+<td>1 934,8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>040</td>
-<td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске іске асыру</td>
-<td colspan="2">23 098,4</td>
-<td colspan="2">2 162,8</td>
-<td colspan="3">1 721,3</td>
-<td colspan="2">1 422,0</td>
-<td colspan="2">7 935,1</td>
-<td>1 828,2</td>
-<td colspan="3">2 166,0</td>
-<td colspan="2">2 166,0</td>
-<td colspan="2">1 530,0</td>
-<td>2 167,0</td>
+<td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td>16 279,9</td>
+<td>1 785,1</td>
+<td>1 934,8</td>
+</tr>
+</table>
+
+Кестенің жалғасы
+
+<table>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr>
-<td>Функционалдық топ</td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2" rowspan="4">Барлығы</td>
-<td colspan="18">соның ішінде</td>
-<td></td>
-<td></td>
+<td>Новоникольск</td>
+<td>Петерфельд</td>
+<td>Прибрежное</td>
+<td>Рассвет</td>
+<td>Рощинск</td>
+<td>Светлопольск</td>
+<td>Соколовка</td>
+<td>Якорь</td>
 </tr>
 <tr>
-<td rowspan="3"></td>
-<td colspan="4">Әкімші</td>
-<td colspan="2" rowspan="3">Лесной</td>
-<td rowspan="3">Налобино</td>
-<td colspan="2" rowspan="3">Новоникольск</td>
-<td colspan="2" rowspan="3">Петерфельд</td>
-<td colspan="3" rowspan="3">Прибрежное</td>
-<td rowspan="3">Рассвет</td>
-<td colspan="2" rowspan="3">Рощинск</td>
-<td colspan="2" rowspan="3">Светлопольск</td>
-<td colspan="4" rowspan="3">Соколовка</td>
-<td rowspan="3">Якорь</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="3">Бағдарлама</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="2">Атауы</td>
-</tr>
-<tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th colspan="2">4</th>
-<th colspan="20">5</th>
-<th></th>
-<th></th>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Барлығы</td>
-<td colspan="2">147 025,6</td>
-<td colspan="2">15 197,0</td>
-<td>12 987,8</td>
-<td colspan="2">13 900,7</td>
-<td colspan="2">13 987,9</td>
-<td colspan="3">13 100,1</td>
-<td>13 667,9</td>
-<td colspan="2">17 640,0</td>
-<td colspan="2">10 774,1</td>
-<td colspan="4">19 729,0</td>
-<td>16 041,1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
-<td>1</td>
-<td></td>
-<td></td>
-<td colspan="2">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td colspan="2">96 896</td>
-<td colspan="2">8 109</td>
-<td>10 451</td>
-<td colspan="2">8 978</td>
-<td colspan="2">10 420</td>
-<td colspan="3">10 070</td>
+<td>13 850,7</td>
+<td>13 966,9</td>
+<td>13 014,1</td>
+<td>13 573,9</td>
+<td>16 816,5</td>
+<td>10 754,1</td>
+<td>19 084,1</td>
+<td>16 024,7</td>
+</tr>
+<tr>
+<td>8 978</td>
+<td>10 420</td>
+<td>10 070</td>
 <td>10 635</td>
-<td colspan="2">10 165</td>
-<td colspan="2">8 416</td>
-<td colspan="4">11 505</td>
+<td>10 165</td>
+<td>8 416</td>
+<td>11 505</td>
 <td>8 147</td>
 </tr>
 <tr>
-<td></td>
-<td>123</td>
-<td></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">96 896</td>
-<td colspan="2">8 109</td>
-<td>10 451</td>
-<td colspan="2">8 978</td>
-<td colspan="2">10 420</td>
-<td colspan="3">10 070</td>
+<td>8 978</td>
+<td>10 420</td>
+<td>10 070</td>
 <td>10 635</td>
-<td colspan="2">10 165</td>
-<td colspan="2">8 416</td>
-<td colspan="4">11 505</td>
+<td>10 165</td>
+<td>8 416</td>
+<td>11 505</td>
+<td>8 147</td>
+</tr>
+<tr>
+<td>8 978</td>
+<td>10 420</td>
+<td>10 070</td>
+<td>10 635</td>
+<td>10 165</td>
+<td>8 416</td>
+<td>11 505</td>
 <td>8 147</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>001</td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">96 896</td>
-<td colspan="2">8 109</td>
-<td>10 451</td>
-<td colspan="2">8 978</td>
-<td colspan="2">10 420</td>
-<td colspan="3">10 070</td>
-<td>10 635</td>
-<td colspan="2">10 165</td>
-<td colspan="2">8 416</td>
-<td colspan="4">11 505</td>
-<td>8 147</td>
-</tr>
-<tr>
 <td></td>
 <td></td>
-<td>032</td>
-<td colspan="2">Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td colspan="2">0</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td colspan="2">Білім беру</td>
-<td colspan="2">1 937</td>
-<td colspan="2">0</td>
 <td>0</td>
-<td colspan="2">0</td>
-<td colspan="2">1 166</td>
-<td colspan="3">771</td>
+<td>1 166</td>
+<td>737</td>
 <td>0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="4">0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0</td>
+<td>1 166</td>
+<td>737</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
-<td>123</td>
-<td></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">1 937</td>
-<td colspan="2">0</td>
-<td>0</td>
-<td colspan="2">0</td>
-<td colspan="2">1 166</td>
-<td colspan="3">771</td>
-<td>0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="4">0</td>
-<td>0</td>
-</tr>
-<tr>
+<td>1 166</td>
+<td>737</td>
 <td></td>
 <td></td>
-<td>005</td>
-<td colspan="2">Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
-<td colspan="2">1 937</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">1 166</td>
-<td colspan="3">771</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
 <td></td>
 </tr>
 <tr>
-<td>7</td>
-<td></td>
-<td></td>
-<td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">7 475</td>
-<td colspan="2">709</td>
-<td>602</td>
-<td colspan="2">329</td>
-<td colspan="2">829</td>
-<td colspan="3">930</td>
-<td>776</td>
-<td colspan="2">778</td>
-<td colspan="2">779</td>
-<td colspan="4">829</td>
+<td>279</td>
+<td>808</td>
+<td>878</td>
+<td>682</td>
+<td>698</td>
+<td>759</td>
+<td>829</td>
 <td>914</td>
 </tr>
 <tr>
-<td></td>
-<td>123</td>
-<td></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">7 475</td>
-<td colspan="2">709</td>
-<td>602</td>
-<td colspan="2">329</td>
-<td colspan="2">829</td>
-<td colspan="3">930</td>
-<td>776</td>
-<td colspan="2">778</td>
-<td colspan="2">779</td>
-<td colspan="4">829</td>
+<td>279</td>
+<td>808</td>
+<td>878</td>
+<td>682</td>
+<td>698</td>
+<td>759</td>
+<td>829</td>
 <td>914</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>014</td>
-<td colspan="2">Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
-<td colspan="2">0</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>008</td>
-<td colspan="2">Елді мекендерде көшелерді жарықтандыру</td>
-<td colspan="2">5 875</td>
-<td colspan="2">549</td>
-<td>442</td>
-<td colspan="2">169</td>
-<td colspan="2">669</td>
-<td colspan="3">770</td>
-<td>616</td>
-<td colspan="2">618</td>
-<td colspan="2">619</td>
-<td colspan="4">669</td>
+<td>119</td>
+<td>648</td>
+<td>718</td>
+<td>522</td>
+<td>538</td>
+<td>599</td>
+<td>669</td>
 <td>754</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>009</td>
-<td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
-<td colspan="2">0</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>011</td>
-<td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td colspan="2">1 600</td>
-<td colspan="2">160</td>
 <td>160</td>
-<td colspan="2">160</td>
-<td colspan="2">160</td>
-<td colspan="3">160</td>
 <td>160</td>
-<td colspan="2">160</td>
-<td colspan="2">160</td>
-<td colspan="4">160</td>
+<td>160</td>
+<td>160</td>
+<td>160</td>
+<td>160</td>
+<td>160</td>
 <td>160</td>
 </tr>
 <tr>
-<td>8</td>
-<td></td>
-<td></td>
-<td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңістік</td>
-<td colspan="2">22 651</td>
-<td colspan="2">4 212</td>
+<td>2 717</td>
 <td>0</td>
-<td colspan="2">2 717</td>
-<td colspan="2">0</td>
-<td colspan="3">0</td>
+<td>0</td>
 <td>471</td>
-<td colspan="2">4 530</td>
-<td colspan="2">0</td>
-<td colspan="4">5 228</td>
+<td>4 530</td>
+<td>0</td>
+<td>5 228</td>
 <td>5 493</td>
 </tr>
 <tr>
-<td></td>
-<td>123</td>
-<td></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">22 651</td>
-<td colspan="2">4 212</td>
+<td>2 717</td>
 <td>0</td>
-<td colspan="2">2 717</td>
-<td colspan="2">0</td>
-<td colspan="3">0</td>
+<td>0</td>
 <td>471</td>
-<td colspan="2">4 530</td>
-<td colspan="2">0</td>
-<td colspan="4">5 228</td>
+<td>4 530</td>
+<td>0</td>
+<td>5 228</td>
 <td>5 493</td>
 </tr>
 <tr>
+<td>2 717</td>
 <td></td>
 <td></td>
-<td>006</td>
-<td colspan="2">Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
-<td colspan="2">22 651</td>
-<td colspan="2">4 212</td>
-<td></td>
-<td colspan="2">2 717</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td>471</td>
-<td colspan="2">4 530</td>
-<td colspan="2"></td>
-<td colspan="4">5 228</td>
+<td>4 530</td>
+<td></td>
+<td>5 228</td>
 <td>5 493</td>
 </tr>
 <tr>
-<td>12</td>
-<td></td>
-<td></td>
-<td colspan="2">Көлік және коммуникация</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
 <td>0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="3">0</td>
 <td>0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="4">0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
-<td></td>
-<td>123</td>
-<td></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
 <td>0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="3">0</td>
 <td>0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="4">0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>013</td>
-<td colspan="2">Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td colspan="2">0</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="4"></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr>
-<td>13</td>
-<td></td>
-<td></td>
-<td colspan="2">Басқалар</td>
-<td colspan="2">18 066,6</td>
-<td colspan="2">2 167,0</td>
-<td>1 934,8</td>
-<td colspan="2">1 876,7</td>
-<td colspan="2">1 572,9</td>
-<td colspan="3">1 329,1</td>
+<td>1 876,7</td>
+<td>1 572,9</td>
+<td>1 329,1</td>
 <td>1 785,9</td>
-<td colspan="2">2 167,0</td>
-<td colspan="2">1 579,1</td>
-<td colspan="4">2 167,0</td>
-<td>1 487,1</td>
+<td>1 423,5</td>
+<td>1 579,1</td>
+<td>1 522,1</td>
+<td>1 470,7</td>
 </tr>
 <tr>
-<td></td>
-<td>123</td>
-<td></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">18 066,6</td>
-<td colspan="2">2 167,0</td>
-<td>1 934,8</td>
-<td colspan="2">1 876,7</td>
-<td colspan="2">1 572,9</td>
-<td colspan="3">1 329,1</td>
+<td>1 876,7</td>
+<td>1 572,9</td>
+<td>1 329,1</td>
 <td>1 785,9</td>
-<td colspan="2">2 167,0</td>
-<td colspan="2">1 579,1</td>
-<td colspan="4">2 167,0</td>
-<td>1 487,1</td>
+<td>1 423,5</td>
+<td>1 579,1</td>
+<td>1 522,1</td>
+<td>1 470,7</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>040</td>
-<td colspan="2">«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске іске асыру</td>
-<td colspan="2">18 066,6</td>
-<td colspan="2">2 167,0</td>
-<td>1 934,8</td>
-<td colspan="2">1 876,7</td>
-<td colspan="2">1 572,9</td>
-<td colspan="3">1 329,1</td>
+<td>1 876,7</td>
+<td>1 572,9</td>
+<td>1 329,1</td>
 <td>1 785,9</td>
-<td colspan="2">2 167,0</td>
-<td colspan="2">1 579,1</td>
-<td colspan="4">2 167,0</td>
-<td>1 487,1</td>
+<td>1 423,5</td>
+<td>1 579,1</td>
+<td>1 522,1</td>
+<td>1 470,7</td>
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>Аудандық мәслихаттың 2013 жылғы 25 желтоқсандағы № 22/1 шешіміне 5-қосымша</td>
-</tr>
-</table>
+> *Аудандық мәслихаттың*  
+> *2013 жылғы 25 желтоқсандағы*  
+> *№ 22/1 шешіміне 5-қосымша*
 
-## 2015 жылға Қызылжар ауданының ауылдық округтерiнiң бюджеттiк бағдарламалары
+# 2015 жылға Қызылжар ауданының ауылдық округтерiнiң бюджеттiк бағдарламалары
 
 <table>
 <tr>
@@ -960,11 +1036,11 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th></th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -1108,39 +1184,15 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 <td colspan="9">соның iшiнде</td>
 </tr>
 <tr>
-<td>
-Архан-
-гелка
-</td>
-<td>
-Аса-
-ново
-</td>
-<td>
-Бере-
-зово
-</td>
+<td>Архангелка</td>
+<td>Асаново</td>
+<td>Березово</td>
 <td>Бескөл</td>
-<td>
-Бугро-
-вое
-</td>
-<td>
-Вагу-
-лино
-</td>
-<td>
-Вино-
-градово
-</td>
-<td>
-Куйбы-
-шево
-</td>
-<td>
-Қызыл-
-жар
-</td>
+<td>Бугровое</td>
+<td>Вагулино</td>
+<td>Виноградово</td>
+<td>Куйбышево</td>
+<td>Қызылжар</td>
 </tr>
 <tr>
 <td colspan="9"></td>
@@ -1379,11 +1431,11 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1528,38 +1580,14 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 </tr>
 <tr>
 <td>Лесной</td>
-<td>
-Нало-
-бино
-</td>
-<td>
-Ново-
-ни-
-кольск
-</td>
-<td>
-Петер-
-фельд
-</td>
-<td>
-При-
-бреж-
-ное
-</td>
-<td>
-Рас-
-свет
-</td>
+<td>Налобино</td>
+<td>Новоникольск</td>
+<td>Петерфельд</td>
+<td>Прибрежное</td>
+<td>Рассвет</td>
 <td>Рощинск</td>
-<td>
-Свет-
-ло-
-польск
-</td>
-<td>
-Соко-
-ловка
-</td>
+<td>Светлопольск</td>
+<td>Соколовка</td>
 <td>Якорь</td>
 </tr>
 <tr>
@@ -1795,14 +1823,11 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>Аудандық мәслихаттың 2013 жылғы 25 желтоқсандағы № 22/1 шешіміне 6-қосымша</td>
-</tr>
-</table>
+> *Аудандық мәслихаттың*  
+> *2013 жылғы 25 желтоқсандағы*  
+> *№ 22/1 шешіміне 6-қосымша*
 
-## 2016 жылға Қызылжар ауданының ауылдық округтерiнiң бюджеттiк бағдарламалары
+# 2016 жылға Қызылжар ауданының ауылдық округтерiнiң бюджеттiк бағдарламалары
 
 <table>
 <tr>
@@ -1825,11 +1850,11 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1973,36 +1998,14 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 <td colspan="9">соның iшiнде</td>
 </tr>
 <tr>
-<td>
-Архан-
-гелка
-</td>
-<td>
-Аса-
-ново
-</td>
-<td>
-Бере-
-зово
-</td>
+<td>Архангелка</td>
+<td>Асаново</td>
+<td>Березово</td>
 <td>Бескөл</td>
-<td>
-Бугро-
-вое
-</td>
-<td>
-Вагу-
-лино
-</td>
-<td>
-Вино-
-градо-
-во
-</td>
-<td>
-Куйбы-
-шево
-</td>
+<td>Бугровое</td>
+<td>Вагулино</td>
+<td>Виноградово</td>
+<td>Куйбышево</td>
 <td>Қызылжар</td>
 </tr>
 <tr>
@@ -2219,7 +2222,7 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 </tr>
 </table>
 
-2016 жылға Қызылжар ауданының ауылдық округтерiнiң бюджеттiк бағдарламалары
+## 2016 жылға Қызылжар ауданының ауылдық округтерiнiң бюджеттiк бағдарламалары
 
 <table>
 <tr>
@@ -2242,11 +2245,11 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 <td>Атауы</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -2391,41 +2394,14 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 </tr>
 <tr>
 <td>Лесной</td>
-<td>
-Нало-
-бино
-</td>
-<td>
-Ново-
-ни-
-кольск
-</td>
-<td>
-Петер-
-фельд
-</td>
-<td>
-При-
-бреж-
-ное
-</td>
-<td>
-Рас-
-свет
-</td>
-<td>
-Ро-
-щинск
-</td>
-<td>
-Свет-
-ло-
-польск
-</td>
-<td>
-Соко-
-ловка
-</td>
+<td>Налобино</td>
+<td>Новоникольск</td>
+<td>Петерфельд</td>
+<td>Прибрежное</td>
+<td>Рассвет</td>
+<td>Рощинск</td>
+<td>Светлопольск</td>
+<td>Соколовка</td>
 <td>Якорь</td>
 </tr>
 <tr>
@@ -2661,14 +2637,11 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>Аудандық мәслихаттың 2013 жылғы 25 желтоқсандағы № 22/1 шешіміне 7-қосымша</td>
-</tr>
-</table>
+> *Аудандық мәслихаттың*  
+> *2013 жылғы 25 желтоқсандағы*  
+> *№ 22/1 шешіміне 7-қосымша*
 
-## 2014 жылға арналған жергілікті бюджеттердің атқарылуы барысында секвестрлеуге жатпайтын жергілікті бюджеттік бағдарламалар тізбесі
+# 2014 жылға арналған жергілікті бюджеттердің атқарылуы барысында секвестрлеуге жатпайтын жергілікті бюджеттік бағдарламалар тізбесі
 
 <table>
 <tr>
@@ -2685,27 +2658,22 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>Аудандық мәслихаттың 2013 жылғы 25 желтоқсандағы № 22/1 шешіміне 8-қосымша</td>
-</tr>
-</table>
+> *Аудандық мәслихаттың*  
+> *2013 жылғы 25 желтоқсандағы*  
+> *№ 22/1 шешіміне 8-қосымша*
 
-## 2014 жылдың 1 қаңтарына қалыптасқан бюджеттік қаражаттың бос қалдықтары есебінен аудандық бюджет шығыстары
+# 2014 жылдың 1 қаңтарына қалыптасқан бюджеттік қаражаттың бос қалдықтары есебінен аудандық бюджет шығыстары
 
-> *Ескерту. 8-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Қызылжар ауданы мәслихатының 03.07.2014 N 28/1 шешімімен (01.01.2014 бастап қолданысқа енгізіледі)*
+> *Ескерту. 8-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Қызылжар ауданы мәслихатының 19.11.2014 N 33/4 шешімімен (01.01.2014 бастап қолданысқа енгізіледі).*
 
-Кірісті көбейту:
-
-мың, теңге
+## Кірісті көбейту:
 
 <table>
 <tr>
 <td>Санаты</td>
-<td>Класс</td>
-<td>Кіші класс</td>
-<td>Ерекше-лігі</td>
+<td>Сыныбы</td>
+<td>Ішкі сыныбы</td>
+<td>Ерекшелігі</td>
 <td>Атауы</td>
 <td>Сома</td>
 </tr>
@@ -2748,14 +2716,12 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 </tr>
 </table>
 
-Шығынды көбейту:
-
-мың, теңге
+## Шығынды көбейту:
 
 <table>
 <tr>
-<td>Функ- циа- нал- дық топ</td>
-<td>Әкім-ші</td>
+<td>Функциа-налдық топ</td>
+<td>Әкімші</td>
 <td>Бағдарлама</td>
 <td>Кіші бағдар-лама</td>
 <td>Атауы</td>
@@ -2791,7 +2757,7 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 <td></td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>7 621,7</td>
+<td>7 462,9</td>
 </tr>
 <tr>
 <td></td>
@@ -2799,7 +2765,7 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 <td>028</td>
 <td></td>
 <td>Коммуналдық шаруашылығын дамыту</td>
-<td>7 621,7</td>
+<td>7 462,9</td>
 </tr>
 <tr>
 <td></td>
@@ -2807,7 +2773,7 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 <td></td>
 <td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
-<td>7 621,7</td>
+<td>7 462,9</td>
 </tr>
 <tr>
 <td></td>
@@ -2927,7 +2893,7 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 <td></td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td>5 890,1</td>
+<td>6 048,9</td>
 </tr>
 <tr>
 <td></td>
@@ -2935,7 +2901,7 @@ source: https://zan.gov.kz/client/#!/doc/76778/kaz/23.09.2014
 <td>006</td>
 <td></td>
 <td>Нысаналы пайдаланылмаған (толық пайдаланылмаған) трансферттерді қайтару</td>
-<td>5 890,1</td>
+<td>6 048,9</td>
 </tr>
 <tr>
 <td colspan="4">Барлығы:</td>

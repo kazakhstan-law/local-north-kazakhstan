@@ -1,861 +1,1025 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/76778/rus/23.09.2014
+source: https://zan.gov.kz/client/#!/doc/76778/rus/19.11.2014
 ---
 
-## Бюджетные программы сельских округов Кызылжарского района на 2014 год
+> *Приложение 4*  
+> *к решению сессии районного маслихата*  
+> *от 25 декабря 2013 года № 22/1*
 
-> *Сноска. Приложение 4 - в редакции решения Кызылжарского районного маслихата Северо-Казахстанской области от 23.09.2014 N 32/1 (вводится в действие с 01.01.2014)*
+# Бюджетные программы сельских округов Кызылжарского района на 2014 год
+
+> *Сноска. Приложение 4 - в редакции решения Кызылжарского районного маслихата Северо-Казахстанской области от 19.11.2014 N 33/4 (вводится в действие с 01.01.2014).*
 
 <table>
 <tr>
-<td colspan="2">Функциональная группа</td>
-<td colspan="3"></td>
+<td>Функци ональная группа</td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2" rowspan="4">Всего</td>
-<td colspan="17">в том числе</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">Администратор</td>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2" rowspan="3">Архангельский</td>
-<td colspan="2" rowspan="3">Асановский</td>
-<td colspan="2" rowspan="3">Березовский</td>
-<td rowspan="3">Бескольский</td>
-<td colspan="2" rowspan="3">Бугровской</td>
-<td colspan="2" rowspan="3">Вагулинский</td>
-<td colspan="2" rowspan="3">Виноградовский</td>
-<td colspan="2" rowspan="3">Куйбышевский</td>
-<td colspan="2" rowspan="3">Кызылжарский</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>Программа</td>
-<td colspan="3"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
 <td></td>
-<td colspan="3">Наименование</td>
-</tr>
-<tr>
-<th colspan="2">1</th>
-<th colspan="3">2</th>
-<th>3</th>
-<th colspan="3">4</th>
-<th colspan="19">5</th>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="3">Всего</td>
-<td colspan="2">163 009,4</td>
-<td colspan="2">12 648,8</td>
-<td colspan="2">12 639,3</td>
-<td colspan="2">18 808,0</td>
-<td>39 437,1</td>
-<td colspan="2">11 068,2</td>
-<td colspan="2">23 148,0</td>
-<td colspan="2">11 555,0</td>
-<td colspan="2">19 633,0</td>
-<td colspan="2">14 072,0</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="3">Государственные услуги общего характера</td>
-<td colspan="2">92 344</td>
-<td colspan="2">8 151</td>
-<td colspan="2">9 496</td>
-<td colspan="2">12 170</td>
-<td>13 921</td>
-<td colspan="2">8 672</td>
-<td colspan="2">12 119</td>
-<td colspan="2">7 807</td>
-<td colspan="2">10 682</td>
-<td colspan="2">9 326</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">123</td>
-<td></td>
-<td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">92 344</td>
-<td colspan="2">8 151</td>
-<td colspan="2">9 496</td>
-<td colspan="2">12 170</td>
-<td>13 921</td>
-<td colspan="2">8 672</td>
-<td colspan="2">12 119</td>
-<td colspan="2">7 807</td>
-<td colspan="2">10 682</td>
-<td colspan="2">9 326</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>001</td>
-<td colspan="3">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">88 498</td>
-<td colspan="2">8 151</td>
-<td colspan="2">9 496</td>
-<td colspan="2">12 170</td>
-<td>13 921</td>
-<td colspan="2">8 672</td>
-<td colspan="2">8 273</td>
-<td colspan="2">7 807</td>
-<td colspan="2">10 682</td>
-<td colspan="2">9 326</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>032</td>
-<td colspan="3">Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td colspan="2">3 846</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">3 846</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="3">Образование</td>
-<td colspan="2">3 880</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">446</td>
-<td>730</td>
-<td colspan="2">0</td>
-<td colspan="2">1 927</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">777</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">123</td>
-<td></td>
-<td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">3 880</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">446</td>
-<td>730</td>
-<td colspan="2">0</td>
-<td colspan="2">1 927</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">777</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>005</td>
-<td colspan="3">Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
-<td colspan="2">3 880</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">446</td>
-<td>730</td>
-<td colspan="2"></td>
-<td colspan="2">1 927</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">777</td>
-</tr>
-<tr>
-<td colspan="2">7</td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="3">Жилищно-коммунальное хозяйство</td>
-<td colspan="2">26 266</td>
-<td colspan="2">960</td>
-<td colspan="2">1 422</td>
-<td colspan="2">2 187</td>
-<td>16 351</td>
-<td colspan="2">568</td>
-<td colspan="2">1 668</td>
-<td colspan="2">1 582</td>
-<td colspan="2">764</td>
-<td colspan="2">764</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">123</td>
-<td></td>
-<td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">26 266</td>
-<td colspan="2">960</td>
-<td colspan="2">1 422</td>
-<td colspan="2">2 187</td>
-<td>16 351</td>
-<td colspan="2">568</td>
-<td colspan="2">1 668</td>
-<td colspan="2">1 582</td>
-<td colspan="2">764</td>
-<td colspan="2">764</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>014</td>
-<td colspan="3">Организация водоснабжения населенных пунктов</td>
-<td colspan="2">2 843</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">1 019</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">1 053</td>
-<td colspan="2">771</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>008</td>
-<td colspan="3">Освещение улиц населенных пунктов</td>
-<td colspan="2">19 130</td>
-<td colspan="2">800</td>
-<td colspan="2">912</td>
-<td colspan="2">1 008</td>
-<td>13 688</td>
-<td colspan="2">408</td>
-<td colspan="2">455</td>
-<td colspan="2">651</td>
-<td colspan="2">604</td>
-<td colspan="2">604</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>009</td>
-<td colspan="3">Обеспечение санитарии населенных пунктов</td>
-<td colspan="2">1 798</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>1 798</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>011</td>
-<td colspan="3">Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">2 495</td>
-<td colspan="2">160</td>
-<td colspan="2">510</td>
-<td colspan="2">160</td>
-<td>865</td>
-<td colspan="2">160</td>
-<td colspan="2">160</td>
-<td colspan="2">160</td>
-<td colspan="2">160</td>
-<td colspan="2">160</td>
-</tr>
-<tr>
-<td colspan="2">8</td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="3">Культура, спорт, туризм и информационное пространство</td>
-<td colspan="2">16 921</td>
-<td colspan="2">1 375</td>
-<td colspan="2">0</td>
-<td colspan="2">2 583</td>
-<td>0</td>
-<td colspan="2">0</td>
-<td colspan="2">5 268</td>
-<td colspan="2">0</td>
-<td colspan="2">6 657</td>
-<td colspan="2">1 038</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">123</td>
-<td></td>
-<td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">16 921</td>
-<td colspan="2">1 375</td>
-<td colspan="2">0</td>
-<td colspan="2">2 583</td>
-<td>0</td>
-<td colspan="2">0</td>
-<td colspan="2">5 268</td>
-<td colspan="2">0</td>
-<td colspan="2">6 657</td>
-<td colspan="2">1 038</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>006</td>
-<td colspan="3">Поддержка культурно-досуговой работы на местном уровне</td>
-<td colspan="2">16 921</td>
-<td colspan="2">1 375</td>
-<td colspan="2"></td>
-<td colspan="2">2 583</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">5 268</td>
-<td colspan="2"></td>
-<td colspan="2">6 657</td>
-<td colspan="2">1 038</td>
-</tr>
-<tr>
-<td colspan="2">12</td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="3">Транспорт и коммуникации</td>
-<td colspan="2">500</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td>500</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">123</td>
-<td></td>
-<td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">500</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td>500</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>013</td>
-<td colspan="3">Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
-<td colspan="2">500</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td>500</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td colspan="3"></td>
-<td></td>
-<td colspan="3">Прочие</td>
-<td colspan="2">23 098,4</td>
-<td colspan="2">2 162,8</td>
-<td colspan="2">1 721,3</td>
-<td colspan="2">1 422,0</td>
-<td>7 935,1</td>
-<td colspan="2">1 828,2</td>
-<td colspan="2">2 166,0</td>
-<td colspan="2">2 166,0</td>
-<td colspan="2">1 530,0</td>
-<td colspan="2">2 167,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3">123</td>
-<td></td>
-<td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">23 098,4</td>
-<td colspan="2">2 162,8</td>
-<td colspan="2">1 721,3</td>
-<td colspan="2">1 422,0</td>
-<td>7 935,1</td>
-<td colspan="2">1 828,2</td>
-<td colspan="2">2 166,0</td>
-<td colspan="2">2 166,0</td>
-<td colspan="2">1 530,0</td>
-<td colspan="2">2 167,0</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td>040</td>
-<td colspan="3">Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
-<td colspan="2">23 098,4</td>
-<td colspan="2">2 162,8</td>
-<td colspan="2">1 721,3</td>
-<td colspan="2">1 422,0</td>
-<td>7 935,1</td>
-<td colspan="2">1 828,2</td>
-<td colspan="2">2 166,0</td>
-<td colspan="2">2 166,0</td>
-<td colspan="2">1 530,0</td>
-<td colspan="2">2 167,0</td>
-</tr>
-<tr>
-<td colspan="7">Функциональная группа</td>
 <td rowspan="4">Всего</td>
-<td colspan="20">в том числе</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="6">Администратор</td>
-<td colspan="2" rowspan="3">Лесной</td>
-<td colspan="2" rowspan="3">Налобинский</td>
-<td colspan="2" rowspan="3">Новоникольский</td>
-<td colspan="2" rowspan="3">Петерфельдский</td>
-<td colspan="3" rowspan="3">Прибрежный</td>
-<td colspan="2" rowspan="3">Рассветский</td>
-<td colspan="2" rowspan="3">Рощинский</td>
-<td colspan="2" rowspan="3">Светлопольский</td>
-<td colspan="2" rowspan="3">Соколовский</td>
-<td rowspan="3">Якорский</td>
+<td>Админис тратор</td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
-<td colspan="4">Программа</td>
+<td></td>
+<td>Программа</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3">Наименование</td>
-</tr>
-<tr>
-<th>1</th>
-<th colspan="2">2</th>
-<th>3</th>
-<th colspan="3">4</th>
-<th colspan="21">5</th>
-</tr>
-<tr>
 <td></td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3">Всего</td>
-<td>147 025,6</td>
-<td colspan="2">15 197,0</td>
-<td colspan="2">12 987,8</td>
-<td colspan="2">13 900,7</td>
-<td colspan="2">13 987,9</td>
-<td colspan="3">13 100,1</td>
-<td colspan="2">13 667,9</td>
-<td colspan="2">17 640,0</td>
-<td colspan="2">10 774,1</td>
-<td colspan="2">19 729,0</td>
-<td>16 041,1</td>
+<td>Наименование</td>
 </tr>
 <tr>
 <td>1</td>
-<td colspan="2"></td>
-<td></td>
-<td colspan="3">Государственные услуги общего характера</td>
-<td>96 896</td>
-<td colspan="2">8 109</td>
-<td colspan="2">10 451</td>
-<td colspan="2">8 978</td>
-<td colspan="2">10 420</td>
-<td colspan="3">10 070</td>
-<td colspan="2">10 635</td>
-<td colspan="2">10 165</td>
-<td colspan="2">8 416</td>
-<td colspan="2">11 505</td>
-<td>8 147</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">123</td>
 <td></td>
-<td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>96 896</td>
-<td colspan="2">8 109</td>
-<td colspan="2">10 451</td>
-<td colspan="2">8 978</td>
-<td colspan="2">10 420</td>
-<td colspan="3">10 070</td>
-<td colspan="2">10 635</td>
-<td colspan="2">10 165</td>
-<td colspan="2">8 416</td>
-<td colspan="2">11 505</td>
-<td>8 147</td>
+<td></td>
+<td>Всего</td>
+<td>165 595,6</td>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Государственные услуги общего характера</td>
+<td>93 918</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td>123</td>
+<td></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>93 918</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
 <td>001</td>
-<td colspan="3">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>96 896</td>
-<td colspan="2">8 109</td>
-<td colspan="2">10 451</td>
-<td colspan="2">8 978</td>
-<td colspan="2">10 420</td>
-<td colspan="3">10 070</td>
-<td colspan="2">10 635</td>
-<td colspan="2">10 165</td>
-<td colspan="2">8 416</td>
-<td colspan="2">11 505</td>
-<td>8 147</td>
+<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>89 072</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>032</td>
-<td colspan="3">Капитальные расходы подведомственных государственных учреждений и организаций</td>
+<td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
+<td>4 846</td>
+</tr>
+<tr>
+<td>4</td>
+<td></td>
+<td></td>
+<td>Образование</td>
+<td>3 880</td>
+</tr>
+<tr>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>3 880</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>005</td>
+<td>Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
+<td>3 880</td>
+</tr>
+<tr>
+<td>7</td>
+<td></td>
+<td></td>
+<td>Жилищно-коммунальное хозяйство</td>
+<td>25 221,5</td>
+</tr>
+<tr>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>25 221,5</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>014</td>
+<td>Организация водоснабжения населенных пунктов</td>
+<td>2 053,5</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>008</td>
+<td>Освещение улиц населенных пунктов</td>
+<td>18 875</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>009</td>
+<td>Обеспечение санитарии населенных пунктов</td>
+<td>1 798</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>011</td>
+<td>Благоустройство и озеленение населенных пунктов</td>
+<td>2 495</td>
+</tr>
+<tr>
+<td>8</td>
+<td></td>
+<td></td>
+<td>Культура, спорт, туризм и информационное пространство</td>
+<td>16 691</td>
+</tr>
+<tr>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>16 691</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>006</td>
+<td>Поддержка культурно-досуговой работы на местном уровне</td>
+<td>16 691</td>
+</tr>
+<tr>
+<td>12</td>
+<td></td>
+<td></td>
+<td>Транспорт и коммуникации</td>
+<td>1 000</td>
+</tr>
+<tr>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>1 000</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>013</td>
+<td>Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
+<td>1 000</td>
+</tr>
+<tr>
+<td>13</td>
+<td></td>
+<td></td>
+<td>Прочие</td>
+<td>24 885,1</td>
+</tr>
+<tr>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>24 885,1</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>040</td>
+<td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
+<td>24 885,1</td>
+</tr>
+</table>
+
+Продолжение таблицы
+
+<table>
+<tr>
+<td>в том числе</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Архангельский</td>
+<td>Асановский</td>
+<td>Березовский</td>
+<td>Бескольский</td>
+<td>Бугровской</td>
+<td>Вагулинский</td>
+<td>Виноградовский</td>
+<td>Куйбышевский</td>
+<td>Кызылжарский</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12 888,6</td>
+<td>12 609,3</td>
+<td>18 808</td>
+<td>42 727,3</td>
+<td>11 068,2</td>
+<td>22 668,5</td>
+<td>11 276,8</td>
+<td>19 868</td>
+<td>13 680,9</td>
+</tr>
+<tr>
+<td>8 481</td>
+<td>9 496</td>
+<td>12 170</td>
+<td>13 921</td>
+<td>8 772</td>
+<td>13 043</td>
+<td>7 777</td>
+<td>10 952</td>
+<td>9 306</td>
+</tr>
+<tr>
+<td>8 481</td>
+<td>9 496</td>
+<td>12 170</td>
+<td>13 921</td>
+<td>8 772</td>
+<td>13 043</td>
+<td>7 777</td>
+<td>10 952</td>
+<td>9 306</td>
+</tr>
+<tr>
+<td>8 481</td>
+<td>9 496</td>
+<td>12 170</td>
+<td>13 921</td>
+<td>8 772</td>
+<td>8 197</td>
+<td>7 777</td>
+<td>10 952</td>
+<td>9 306</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>4 846</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
 <td>0</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>0</td>
+<td>446</td>
+<td>730</td>
+<td>0</td>
+<td>1 927</td>
+<td>0</td>
+<td>0</td>
+<td>777</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>446</td>
+<td>730</td>
+<td>0</td>
+<td>1 927</td>
+<td>0</td>
+<td>0</td>
+<td>777</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>446</td>
+<td>730</td>
+<td></td>
+<td>1 927</td>
+<td></td>
+<td></td>
+<td>777</td>
+</tr>
+<tr>
+<td>900</td>
+<td>1 392</td>
+<td>2 187</td>
+<td>16 351</td>
+<td>468</td>
+<td>904</td>
+<td>1 556,5</td>
+<td>729</td>
+<td>734</td>
+</tr>
+<tr>
+<td>900</td>
+<td>1 392</td>
+<td>2 187</td>
+<td>16 351</td>
+<td>468</td>
+<td>904</td>
+<td>1 556,5</td>
+<td>729</td>
+<td>734</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1 019</td>
+<td></td>
+<td></td>
+<td>289</td>
+<td>745,5</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>740</td>
+<td>882</td>
+<td>1 008</td>
+<td>13 688</td>
+<td>308</td>
+<td>455</td>
+<td>651</td>
+<td>569</td>
+<td>574</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1 798</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>160</td>
+<td>510</td>
+<td>160</td>
+<td>865</td>
+<td>160</td>
+<td>160</td>
+<td>160</td>
+<td>160</td>
+<td>160</td>
+</tr>
+<tr>
+<td>1 345</td>
+<td>0</td>
+<td>2 583</td>
+<td>0</td>
+<td>0</td>
+<td>5 068</td>
+<td>0</td>
+<td>6 657</td>
+<td>1 038</td>
+</tr>
+<tr>
+<td>1 345</td>
+<td>0</td>
+<td>2 583</td>
+<td>0</td>
+<td>0</td>
+<td>5 068</td>
+<td>0</td>
+<td>6 657</td>
+<td>1 038</td>
+</tr>
+<tr>
+<td>1 345</td>
+<td></td>
+<td>2 583</td>
+<td></td>
+<td></td>
+<td>5 068</td>
+<td></td>
+<td>6 657</td>
+<td>1 038</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1 000</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>1 000</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>1 000</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>2 162,6</td>
+<td>1 721,3</td>
+<td>1 422</td>
+<td>10 725,3</td>
+<td>1 828,2</td>
+<td>1 726,5</td>
+<td>1 943,3</td>
+<td>1 530</td>
+<td>1 825,9</td>
+</tr>
+<tr>
+<td>2 162,6</td>
+<td>1 721,3</td>
+<td>1 422</td>
+<td>10 725,3</td>
+<td>1 828,2</td>
+<td>1 726,5</td>
+<td>1 943,3</td>
+<td>1 530</td>
+<td>1 825,9</td>
+</tr>
+<tr>
+<td>2 162,6</td>
+<td>1 721,3</td>
+<td>1 422</td>
+<td>10 725,3</td>
+<td>1 828,2</td>
+<td>1 726,5</td>
+<td>1 943,3</td>
+<td>1 530</td>
+<td>1 825,9</td>
+</tr>
+</table>
+
+## Бюджетные программы сельских округов Кызылжарского района на 2014 год
+
+<table>
+<tr>
+<td colspan="4">Функциональная группа</td>
+<td rowspan="4">Всего</td>
+<td>в том числе</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">Администратор</td>
+<td rowspan="3">Лесной</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Наименование</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>Всего</td>
+<td>144 887,9</td>
+<td>14 815,1</td>
+</tr>
+<tr>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Государственные услуги общего характера</td>
+<td>96 896</td>
+<td>8 109</td>
+</tr>
+<tr>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>96 896</td>
+<td>8 109</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>001</td>
+<td>Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>96 896</td>
+<td>8 109</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>032</td>
+<td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
+<td>0</td>
 <td></td>
 </tr>
 <tr>
 <td>4</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3">Образование</td>
-<td>1 937</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">1 166</td>
-<td colspan="3">771</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
+<td></td>
+<td>Образование</td>
+<td>1 903</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">123</td>
+<td>123</td>
 <td></td>
-<td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>1 937</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">1 166</td>
-<td colspan="3">771</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>1 903</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>005</td>
-<td colspan="3">Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
-<td>1 937</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">1 166</td>
-<td colspan="3">771</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
+<td>Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
+<td>1 903</td>
 <td></td>
 </tr>
 <tr>
 <td>7</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3">Жилищно-коммунальное хозяйство</td>
-<td>7 475</td>
-<td colspan="2">709</td>
-<td colspan="2">602</td>
-<td colspan="2">329</td>
-<td colspan="2">829</td>
-<td colspan="3">930</td>
-<td colspan="2">776</td>
-<td colspan="2">778</td>
-<td colspan="2">779</td>
-<td colspan="2">829</td>
-<td>914</td>
+<td></td>
+<td>Жилищно-коммунальное хозяйство</td>
+<td>7 158</td>
+<td>709</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">123</td>
+<td>123</td>
 <td></td>
-<td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>7 475</td>
-<td colspan="2">709</td>
-<td colspan="2">602</td>
-<td colspan="2">329</td>
-<td colspan="2">829</td>
-<td colspan="3">930</td>
-<td colspan="2">776</td>
-<td colspan="2">778</td>
-<td colspan="2">779</td>
-<td colspan="2">829</td>
-<td>914</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>7 158</td>
+<td>709</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>014</td>
-<td colspan="3">Организация водоснабжения населенных пунктов</td>
+<td>Организация водоснабжения населенных пунктов</td>
 <td>0</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>008</td>
-<td colspan="3">Освещение улиц населенных пунктов</td>
-<td>5 875</td>
-<td colspan="2">549</td>
-<td colspan="2">442</td>
-<td colspan="2">169</td>
-<td colspan="2">669</td>
-<td colspan="3">770</td>
-<td colspan="2">616</td>
-<td colspan="2">618</td>
-<td colspan="2">619</td>
-<td colspan="2">669</td>
-<td>754</td>
+<td>Освещение улиц населенных пунктов</td>
+<td>5 558</td>
+<td>549</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>009</td>
-<td colspan="3">Обеспечение санитарии населенных пунктов</td>
+<td>Обеспечение санитарии населенных пунктов</td>
 <td>0</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>011</td>
-<td colspan="3">Благоустройство и озеленение населенных пунктов</td>
+<td>Благоустройство и озеленение населенных пунктов</td>
 <td>1 600</td>
-<td colspan="2">160</td>
-<td colspan="2">160</td>
-<td colspan="2">160</td>
-<td colspan="2">160</td>
-<td colspan="3">160</td>
-<td colspan="2">160</td>
-<td colspan="2">160</td>
-<td colspan="2">160</td>
-<td colspan="2">160</td>
 <td>160</td>
 </tr>
 <tr>
 <td>8</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3">Культура, спорт, туризм и информационное пространство</td>
+<td></td>
+<td>Культура, спорт, туризм и информационное пространство</td>
 <td>22 651</td>
-<td colspan="2">4 212</td>
-<td colspan="2">0</td>
-<td colspan="2">2 717</td>
-<td colspan="2">0</td>
-<td colspan="3">0</td>
-<td colspan="2">471</td>
-<td colspan="2">4 530</td>
-<td colspan="2">0</td>
-<td colspan="2">5 228</td>
-<td>5 493</td>
+<td>4 212</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">123</td>
+<td>123</td>
 <td></td>
-<td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td>22 651</td>
-<td colspan="2">4 212</td>
-<td colspan="2">0</td>
-<td colspan="2">2 717</td>
-<td colspan="2">0</td>
-<td colspan="3">0</td>
-<td colspan="2">471</td>
-<td colspan="2">4 530</td>
-<td colspan="2">0</td>
-<td colspan="2">5 228</td>
-<td>5 493</td>
+<td>4 212</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>006</td>
-<td colspan="3">Поддержка культурно-досуговой работы на местном уровне</td>
+<td>Поддержка культурно-досуговой работы на местном уровне</td>
 <td>22 651</td>
-<td colspan="2">4 212</td>
-<td colspan="2"></td>
-<td colspan="2">2 717</td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2">471</td>
-<td colspan="2">4 530</td>
-<td colspan="2"></td>
-<td colspan="2">5 228</td>
-<td>5 493</td>
+<td>4 212</td>
 </tr>
 <tr>
 <td>12</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3">Транспорт и коммуникации</td>
+<td></td>
+<td>Транспорт и коммуникации</td>
 <td>0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="3">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">123</td>
+<td>123</td>
 <td></td>
-<td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
 <td>0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="3">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
-<td colspan="2">0</td>
 <td>0</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>013</td>
-<td colspan="3">Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
+<td>Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
 <td>0</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
 <td></td>
 </tr>
 <tr>
 <td>13</td>
-<td colspan="2"></td>
 <td></td>
-<td colspan="3">Прочие</td>
-<td>18 066,6</td>
-<td colspan="2">2 167,0</td>
-<td colspan="2">1 934,8</td>
-<td colspan="2">1 876,7</td>
-<td colspan="2">1 572,9</td>
-<td colspan="3">1 329,1</td>
-<td colspan="2">1 785,9</td>
-<td colspan="2">2 167,0</td>
-<td colspan="2">1 579,1</td>
-<td colspan="2">2 167,0</td>
-<td>1 487,1</td>
+<td></td>
+<td>Прочие</td>
+<td>16 279,9</td>
+<td>1 785,1</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">123</td>
+<td>123</td>
 <td></td>
-<td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>18 066,6</td>
-<td colspan="2">2 167,0</td>
-<td colspan="2">1 934,8</td>
-<td colspan="2">1 876,7</td>
-<td colspan="2">1 572,9</td>
-<td colspan="3">1 329,1</td>
-<td colspan="2">1 785,9</td>
-<td colspan="2">2 167,0</td>
-<td colspan="2">1 579,1</td>
-<td colspan="2">2 167,0</td>
-<td>1 487,1</td>
+<td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>16 279,9</td>
+<td>1 785,1</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td></td>
 <td>040</td>
-<td colspan="3">Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
-<td>18 066,6</td>
-<td colspan="2">2 167,0</td>
-<td colspan="2">1 934,8</td>
-<td colspan="2">1 876,7</td>
-<td colspan="2">1 572,9</td>
-<td colspan="3">1 329,1</td>
-<td colspan="2">1 785,9</td>
-<td colspan="2">2 167,0</td>
-<td colspan="2">1 579,1</td>
-<td colspan="2">2 167,0</td>
-<td>1 487,1</td>
+<td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов»</td>
+<td>16 279,9</td>
+<td>1 785,1</td>
 </tr>
 </table>
+
+Продолжение таблицы
 
 <table>
 <tr>
 <td></td>
-<td>Приложение 5 к решению сессии районного маслихата от 25 декабря 2013 года № 22/1</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Налобинский</td>
+<td>Новоникольский</td>
+<td>Петерфельдский</td>
+<td>Прибрежный</td>
+<td>Рассветский</td>
+<td>Рощинский</td>
+<td>Светлопольский</td>
+<td>Соколовский</td>
+<td>Якорский</td>
+</tr>
+<tr>
+</tr>
+<tr>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>12 987,8</td>
+<td>13 850,7</td>
+<td>13 966,9</td>
+<td>13 014,1</td>
+<td>13 573,9</td>
+<td>16 816,5</td>
+<td>10 754,1</td>
+<td>19 084,1</td>
+<td>16 024,7</td>
+</tr>
+<tr>
+<td>10 451</td>
+<td>8 978</td>
+<td>10 420</td>
+<td>10 070</td>
+<td>10 635</td>
+<td>10 165</td>
+<td>8 416</td>
+<td>11 505</td>
+<td>8 147</td>
+</tr>
+<tr>
+<td>10 451</td>
+<td>8 978</td>
+<td>10 420</td>
+<td>10 070</td>
+<td>10 635</td>
+<td>10 165</td>
+<td>8 416</td>
+<td>11 505</td>
+<td>8 147</td>
+</tr>
+<tr>
+<td>10 451</td>
+<td>8 978</td>
+<td>10 420</td>
+<td>10 070</td>
+<td>10 635</td>
+<td>10 165</td>
+<td>8 416</td>
+<td>11 505</td>
+<td>8 147</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>1 166</td>
+<td>737</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>1 166</td>
+<td>737</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>1 166</td>
+<td>737</td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>602</td>
+<td>279</td>
+<td>808</td>
+<td>878</td>
+<td>682</td>
+<td>698</td>
+<td>759</td>
+<td>829</td>
+<td>914</td>
+</tr>
+<tr>
+<td>602</td>
+<td>279</td>
+<td>808</td>
+<td>878</td>
+<td>682</td>
+<td>698</td>
+<td>759</td>
+<td>829</td>
+<td>914</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>442</td>
+<td>119</td>
+<td>648</td>
+<td>718</td>
+<td>522</td>
+<td>538</td>
+<td>599</td>
+<td>669</td>
+<td>754</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>160</td>
+<td>160</td>
+<td>160</td>
+<td>160</td>
+<td>160</td>
+<td>160</td>
+<td>160</td>
+<td>160</td>
+<td>160</td>
+</tr>
+<tr>
+<td>0</td>
+<td>2 717</td>
+<td>0</td>
+<td>0</td>
+<td>471</td>
+<td>4 530</td>
+<td>0</td>
+<td>5 228</td>
+<td>5 493</td>
+</tr>
+<tr>
+<td>0</td>
+<td>2 717</td>
+<td>0</td>
+<td>0</td>
+<td>471</td>
+<td>4 530</td>
+<td>0</td>
+<td>5 228</td>
+<td>5 493</td>
+</tr>
+<tr>
+<td></td>
+<td>2 717</td>
+<td></td>
+<td></td>
+<td>471</td>
+<td>4 530</td>
+<td></td>
+<td>5 228</td>
+<td>5 493</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>1 934,8</td>
+<td>1 876,7</td>
+<td>1 572,9</td>
+<td>1 329,1</td>
+<td>1 785,9</td>
+<td>1 423,5</td>
+<td>1 579,1</td>
+<td>1 522,1</td>
+<td>1 470,7</td>
+</tr>
+<tr>
+<td>1 934,8</td>
+<td>1 876,7</td>
+<td>1 572,9</td>
+<td>1 329,1</td>
+<td>1 785,9</td>
+<td>1 423,5</td>
+<td>1 579,1</td>
+<td>1 522,1</td>
+<td>1 470,7</td>
+</tr>
+<tr>
+<td>1 934,8</td>
+<td>1 876,7</td>
+<td>1 572,9</td>
+<td>1 329,1</td>
+<td>1 785,9</td>
+<td>1 423,5</td>
+<td>1 579,1</td>
+<td>1 522,1</td>
+<td>1 470,7</td>
 </tr>
 </table>
 
-## Бюджетные программы сельских округов Кызылжарского района на 2015 год
+> *Приложение 5*  
+> *к решению сессии районного маслихата*  
+> *от 25 декабря 2013 года № 22/1*
+
+# Бюджетные программы сельских округов Кызылжарского района на 2015 год
 
 <table>
 <tr>
@@ -878,11 +1042,11 @@ source: https://zan.gov.kz/client/#!/doc/76778/rus/23.09.2014
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1026,48 +1190,15 @@ source: https://zan.gov.kz/client/#!/doc/76778/rus/23.09.2014
 <td colspan="9">в том числе</td>
 </tr>
 <tr>
-<td>
-Архан-
-гель-
-ский
-</td>
-<td>
-Асанов-
-ский
-</td>
-<td>
-Бере-
-зов-
-ский
-</td>
-<td>
-Бес-
-коль-
-ский
-</td>
-<td>
-Бугров-
-ской
-</td>
-<td>
-Вагу-
-лин-
-ский
-</td>
-<td>
-Вино-
-градов-
-ский
-</td>
-<td>
-Куйбы-
-шев-
-ский
-</td>
-<td>
-Кызыл-
-жарский
-</td>
+<td>Архангельский</td>
+<td>Асановский</td>
+<td>Березовский</td>
+<td>Бескольский</td>
+<td>Бугровской</td>
+<td>Вагулинский</td>
+<td>Виноградовский</td>
+<td>Куйбышевский</td>
+<td>Кызылжарский</td>
 </tr>
 <tr>
 <td colspan="9"></td>
@@ -1306,11 +1437,11 @@ source: https://zan.gov.kz/client/#!/doc/76778/rus/23.09.2014
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1455,49 +1586,15 @@ source: https://zan.gov.kz/client/#!/doc/76778/rus/23.09.2014
 </tr>
 <tr>
 <td>Лесной</td>
-<td>
-Нало-
-бин-
-ский
-</td>
-<td>
-Ново-
-николь-
-ский
-</td>
-<td>
-Петер-
-фельд-
-ский
-</td>
-<td>
-При-
-бреж-
-ный
-</td>
-<td>
-Рас-
-свет-
-ский
-</td>
-<td>
-Рощин-
-ский
-</td>
-<td>
-Свет-
-лополь-
-ский
-</td>
-<td>
-Соко-
-лов-
-ский
-</td>
-<td>
-Якор-
-ский
-</td>
+<td>Налобинский</td>
+<td>Новоникольский</td>
+<td>Петерфельдский</td>
+<td>Прибрежный</td>
+<td>Рассветский</td>
+<td>Рощинский</td>
+<td>Светлопольский</td>
+<td>Соколовский</td>
+<td>Якорский</td>
 </tr>
 <tr>
 <td colspan="10"></td>
@@ -1732,14 +1829,11 @@ source: https://zan.gov.kz/client/#!/doc/76778/rus/23.09.2014
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>Приложение 6 к решению сессии районного маслихата от 25 декабря 2013 года № 22/1</td>
-</tr>
-</table>
+> *Приложение 6*  
+> *к решению сессии районного маслихата*  
+> *от 25 декабря 2013 года № 22/1*
 
-## Бюджетные программы сельских округов Кызылжарского района на 2016 год
+# Бюджетные программы сельских округов Кызылжарского района на 2016 год
 
 <table>
 <tr>
@@ -1762,11 +1856,11 @@ source: https://zan.gov.kz/client/#!/doc/76778/rus/23.09.2014
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -1910,48 +2004,15 @@ source: https://zan.gov.kz/client/#!/doc/76778/rus/23.09.2014
 <td colspan="9">в том числе</td>
 </tr>
 <tr>
-<td>
-Архан-
-гель-
-ский
-</td>
-<td>
-Аса-
-нов-
-ский
-</td>
-<td>
-Бере-
-зовский
-</td>
-<td>
-Бес-
-коль-
-ский
-</td>
-<td>
-Бугров-
-ской
-</td>
-<td>
-Вагу-
-лин-
-ский
-</td>
-<td>
-Вино-
-градов-
-ский
-</td>
-<td>
-Куйбы-
-шев-
-ский
-</td>
-<td>
-Кызыл-
-жарский
-</td>
+<td>Архангельский</td>
+<td>Асановский</td>
+<td>Березовский</td>
+<td>Бескольский</td>
+<td>Бугровской</td>
+<td>Вагулинский</td>
+<td>Виноградовский</td>
+<td>Куйбышевский</td>
+<td>Кызылжарский</td>
 </tr>
 <tr>
 <td colspan="9"></td>
@@ -2190,11 +2251,11 @@ source: https://zan.gov.kz/client/#!/doc/76778/rus/23.09.2014
 <td>Наименование</td>
 </tr>
 <tr>
-<th>1</th>
-<th>2</th>
-<th>3</th>
-<th>4</th>
-<th>5</th>
+<td>1</td>
+<td>2</td>
+<td>3</td>
+<td>4</td>
+<td>5</td>
 </tr>
 <tr>
 <td></td>
@@ -2339,49 +2400,15 @@ source: https://zan.gov.kz/client/#!/doc/76778/rus/23.09.2014
 </tr>
 <tr>
 <td>Лесной</td>
-<td>
-Нало-
-бин-
-ский
-</td>
-<td>
-Ново-
-николь-
-ский
-</td>
-<td>
-Петер-
-фельд-
-ский
-</td>
-<td>
-При-
-бреж-
-ный
-</td>
-<td>
-Рас-
-свет-
-ский
-</td>
-<td>
-Рощин-
-ский
-</td>
-<td>
-Светло-
-поль-
-ский
-</td>
-<td>
-Соко-
-лов-
-ский
-</td>
-<td>
-Якор-
-ский
-</td>
+<td>Налобинский</td>
+<td>Новоникольский</td>
+<td>Петерфельдский</td>
+<td>Прибрежный</td>
+<td>Рассветский</td>
+<td>Рощинский</td>
+<td>Светлопольский</td>
+<td>Соколовский</td>
+<td>Якорский</td>
 </tr>
 <tr>
 <td colspan="10"></td>
@@ -2616,14 +2643,11 @@ source: https://zan.gov.kz/client/#!/doc/76778/rus/23.09.2014
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>Приложение 7 к решению сессии районного маслихата от 25 декабря 2013 года № 22/1</td>
-</tr>
-</table>
+> *Приложение 7*  
+> *к решению сессии районного маслихата*  
+> *от 25 декабря 2013 года № 22/1*
 
-## Перечень местных бюджетных программ, не подлежащих секвестру в процессе исполнения местного бюджета на 2014 год
+# Перечень местных бюджетных программ, не подлежащих секвестру в процессе исполнения местного бюджета на 2014 год
 
 <table>
 <tr>
@@ -2640,26 +2664,21 @@ source: https://zan.gov.kz/client/#!/doc/76778/rus/23.09.2014
 </tr>
 </table>
 
-<table>
-<tr>
-<td></td>
-<td>Приложение 8 к решению сессии районного маслихата от 25 декабря 2013 года № 22/1</td>
-</tr>
-</table>
+> *Приложение 8*  
+> *к решению сессии районного маслихата*  
+> *от 25 декабря 2013 года № 22/1*
 
-## Расходы районного бюджета за счет свободных остатков бюджетных средств, сложившахся на 1 января 2014 года
+# Расходы районного бюджета за счет свободных остатков бюджетных средств, сложившахся на 1 января 2014 года
 
-> *Сноска. Приложение 8 в редакции решения Кызылжарского районного маслихата Северо-Казахстанской области от 03.07.2014 N 28/1 (вводится в действие с 01.01.2014)*
+> *Сноска. Приложение 8 - в редакции решения Кызылжарского районного маслихата Северо-Казахстанской области от 19.11.2014 N 33/4 (вводится в действие с 01.01.2014).*
 
-Увеличить доходы:
-
-тыс.тенге
+## Увеличить доходы:
 
 <table>
 <tr>
-<td>Кате- гория</td>
+<td>Категория</td>
 <td>Класс</td>
-<td>Под- класс</td>
+<td>Подкласс</td>
 <td>Специфика</td>
 <td>Наименование</td>
 <td>Сумма</td>
@@ -2706,14 +2725,14 @@ source: https://zan.gov.kz/client/#!/doc/76778/rus/23.09.2014
 </tr>
 </table>
 
-Увеличить расходы: тыс. тенге
+## Увеличить расходы:
 
 <table>
 <tr>
-<td>Функ- цио- наль- ная группа</td>
-<td>Админис-тра-тор</td>
-<td>Прог-рамма</td>
-<td>Подпрограмма</td>
+<td>Функциональная группа</td>
+<td>Администратор</td>
+<td>Программа</td>
+<td>Подпрограм ма</td>
 <td>Наименование</td>
 <td>Сумма</td>
 </tr>
@@ -2747,7 +2766,7 @@ source: https://zan.gov.kz/client/#!/doc/76778/rus/23.09.2014
 <td></td>
 <td></td>
 <td>Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
-<td>7 621,7</td>
+<td>7 462,9</td>
 </tr>
 <tr>
 <td></td>
@@ -2755,7 +2774,7 @@ source: https://zan.gov.kz/client/#!/doc/76778/rus/23.09.2014
 <td>028</td>
 <td></td>
 <td>Развитие коммунального хозяйства</td>
-<td>7 621,7</td>
+<td>7 462,9</td>
 </tr>
 <tr>
 <td></td>
@@ -2763,7 +2782,7 @@ source: https://zan.gov.kz/client/#!/doc/76778/rus/23.09.2014
 <td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
-<td>7 621,7</td>
+<td>7 462,9</td>
 </tr>
 <tr>
 <td></td>
@@ -2883,7 +2902,7 @@ source: https://zan.gov.kz/client/#!/doc/76778/rus/23.09.2014
 <td></td>
 <td></td>
 <td>Отдел экономики и финансов района (города областного значения)</td>
-<td>5 890,1</td>
+<td>6 048,9</td>
 </tr>
 <tr>
 <td></td>
@@ -2891,13 +2910,10 @@ source: https://zan.gov.kz/client/#!/doc/76778/rus/23.09.2014
 <td>006</td>
 <td></td>
 <td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
-<td>5 890,1</td>
+<td>6 048,9</td>
 </tr>
 <tr>
-<td>Всего:</td>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="4">Всего:</td>
 <td></td>
 <td>27 835,2</td>
 </tr>
