@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85715/kaz/19.01.2015
+source: https://zan.gov.kz/client/#!/doc/85715/kaz/01.04.2015
 ---
 
 > *Солтүстік Қазақстан облысы*  
@@ -720,5 +720,181 @@ source: https://zan.gov.kz/client/#!/doc/85715/kaz/19.01.2015
 <td></td>
 <td>003</td>
 <td colspan="7">Жалпы білім беру</td>
+</tr>
+</table>
+
+> *Солтүстік Қазақстан облысы*  
+> *Тайынша ауданы мәслихатының*  
+> *2014 жылғы 24 желтоқсандағы*  
+> *№ 244 шешіміне*  
+> *8-қосымша*
+
+# 2015 жылғы 1 қаңтарға қалыптасқан бюджет қаражатның бос қалдықтарын бағыттау және 2014 жылы толық пайдаланылмаған нысаналы трансферттерді қайтару
+
+> *Ескерту. Шешім 8-қосымшамен толықтырылды - Солтүстік Қазақстан облысы Тайынша ауданы мәслихатының 01.04.2015 № 269 шешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
+
+## Кірістер:
+
+<table>
+<tr>
+<td colspan="5">Санат</td>
+<td colspan="2">Атауы</td>
+<td rowspan="4">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">Сынып</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2" rowspan="2">
+Ішкі
+сынып
+</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
+<td>8 679,6</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="2">Бюджет қаражаты қалдықтары</td>
+<td>8 679,6</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">1</td>
+<td colspan="2">Бюджет қаражатының бос қалдықтары</td>
+<td>8 679,6</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Бюджет қаражатының бос қалдықтары</td>
+<td>8 679,6</td>
+</tr>
+<tr>
+<td colspan="5">Барлығы:</td>
+<td colspan="2"></td>
+<td>8 679,6</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td></td>
+</tr>
+</table>
+
+## Шығыстар:
+
+## Ұлғайту:
+
+<table>
+<tr>
+<td>Функцио- налдық топ</td>
+<td colspan="2">Әкімші</td>
+<td colspan="2">Бағдарлама</td>
+<td colspan="2">Атауы</td>
+<td>Атауы</td>
+</tr>
+<tr>
+<td>01</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Жалпы сипаттағы мемлекеттік қызметтер</td>
+<td>108,5</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">123</td>
+<td colspan="2"></td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкiмiнiң аппараты</td>
+<td>108,5</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>108,5</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Жергілікті бюджет қаражаты есебінен</td>
+<td>108,5</td>
+</tr>
+<tr>
+<td>07</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Тұрғын үй - коммуналдық шаруашылық</td>
+<td>7 000,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">472</td>
+<td colspan="2"></td>
+<td colspan="2">Ауданның (облыстық маңызы бар қаланың) құрылыс, сәулет және қала құрылысы бөлімі</td>
+<td>7 000,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">058</td>
+<td colspan="2">Елді мекендердегі сумен жабдықтау және су бұру жүйелерін дамыту</td>
+<td>7 000,0</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Жергілікті бюджет қаражаты есебінен</td>
+<td>7 000,0</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Трансферттер</td>
+<td>1 571,1</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">459</td>
+<td colspan="2"></td>
+<td colspan="2">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
+<td>1 571,1</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
+<td colspan="2">Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
+<td>1 571,1</td>
+</tr>
+<tr>
+<td colspan="5">Барлығы:</td>
+<td colspan="2"></td>
+<td>8 679,6</td>
 </tr>
 </table>
