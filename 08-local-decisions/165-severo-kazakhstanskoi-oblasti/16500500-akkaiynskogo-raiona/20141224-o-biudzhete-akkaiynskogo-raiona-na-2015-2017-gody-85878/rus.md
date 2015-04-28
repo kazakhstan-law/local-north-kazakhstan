@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/85878/rus/31.03.2015
+source: https://zan.gov.kz/client/#!/doc/85878/rus/28.04.2015
 ---
 
 # О бюджете Аккайынского района на 2015 - 2017 годы
