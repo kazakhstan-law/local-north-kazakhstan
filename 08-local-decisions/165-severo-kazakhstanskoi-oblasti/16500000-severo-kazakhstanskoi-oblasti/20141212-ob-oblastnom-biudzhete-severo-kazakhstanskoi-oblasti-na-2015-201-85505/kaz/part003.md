@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85505/kaz/19.03.2015
+source: https://zan.gov.kz/client/#!/doc/85505/kaz/29.06.2015
 ---
 
 > *Солтүстік Қазақстан облыстық мәслихат сессиясының*  
@@ -1624,461 +1624,461 @@ source: https://zan.gov.kz/client/#!/doc/85505/kaz/19.03.2015
 
 # 2015 жылғы 1 қаңтарға қалыптасқан бюджет қаражатының бос қалдықтары, республикалық және облыстық бюджеттердің 2014 жылы пайдаланылмаған нысаналы трансферттерін қайтару, облыстық бюджеттен берілген бюджеттік кредиттерді өтеу есебінен шығыстар
 
-> *Ескерту. Шешім 5-қосымшамен толықтырылды - Солтүстік Қазақстан облыстық мәслихатының 19.03.2015 № 33/2 шешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
+> *Ескерту. Шешім 5-қосымшамен толықтырылды - Солтүстік Қазақстан облыстық мәслихатының 19.03.2015 № 33/2 шешімімен; жаңа редакцияда - Солтүстік Қазақстан облыстық мәслихатының 29.06.2015 № 36/1 шешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
 
 ## Кірістер:
 
 <table>
 <tr>
-<td colspan="4">санаты</td>
-<td colspan="2"></td>
+<td colspan="9">санаты</td>
+<td></td>
 <td rowspan="4">Сома, мың теңге</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">сыныбы</td>
-<td colspan="2">атауы</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">кіші сыныбы</td>
 <td colspan="2"></td>
+<td colspan="7">сыныбы</td>
+<td>атауы</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>ерекшелігі</td>
 <td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5">кіші сыныбы</td>
+<td></td>
 </tr>
 <tr>
-<td>2</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">ерекшелігі</td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2">Салықтық емес түсiмдер</td>
+</tr>
+<tr>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Салықтық емес түсiмдер</td>
 <td>124 678,9</td>
 </tr>
 <tr>
-<td></td>
-<td>06</td>
-<td></td>
-<td></td>
-<td colspan="2">Басқа да салықтық емес түсiмдер</td>
+<td colspan="2"></td>
+<td colspan="2">06</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Басқа да салықтық емес түсiмдер</td>
 <td>124 678,9</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td colspan="2">Басқа да салықтық емес түсiмдер</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
+<td>Басқа да салықтық емес түсiмдер</td>
 <td>124 678,9</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>07</td>
-<td colspan="2">Бұрын жергілікті бюджеттен алынған, пайдаланылмаған қаражаттардың қайтарылуы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">07</td>
+<td>Бұрын жергілікті бюджеттен алынған, пайдаланылмаған қаражаттардың қайтарылуы</td>
 <td>124 660,5</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>09</td>
-<td colspan="2">Жергіліктік бюджетке түсетін салықтық емес басқа да түсімдер</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">09</td>
+<td>Жергіліктік бюджетке түсетін салықтық емес басқа да түсімдер</td>
 <td>18,4</td>
 </tr>
 <tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Трансферттердің түсімдері</td>
-<td>428 752,0</td>
+<td colspan="2">4</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Трансферттердің түсімдері</td>
+<td>428 820,7</td>
 </tr>
 <tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td></td>
-<td colspan="2">Төмен тұрған мемлекеттiк басқару органдарынан трансферттер</td>
-<td>428 752,0</td>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Төмен тұрған мемлекеттiк басқару органдарынан трансферттер</td>
+<td>428 820,7</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td></td>
-<td colspan="2">Аудандық (қалалық) бюджеттерден трансферттер</td>
-<td>428 752,0</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
+<td>Аудандық (қалалық) бюджеттерден трансферттер</td>
+<td>428 820,7</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>02</td>
-<td colspan="2">Нысаналы трансферттерді қайтару</td>
-<td>428 752,0</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">02</td>
+<td>Нысаналы трансферттерді қайтару</td>
+<td>428 820,7</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">соның ішінде:</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>соның ішінде:</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Республикалық бюджеттен:</td>
-<td>202 741,5</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Республикалық бюджеттен:</td>
+<td>202 810,2</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Айыртау ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Айыртау ауданы</td>
 <td>657,5</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Ақжар ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Ақжар ауданы</td>
 <td>5 869,1</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Аққайың ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Аққайың ауданы</td>
 <td>489,3</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Есіл ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Есіл ауданы</td>
 <td>1 111,9</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Жамбыл ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Жамбыл ауданы</td>
 <td>307,4</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Мағжан Жұмабаев ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Мағжан Жұмабаев ауданы</td>
 <td>1 359,5</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Қызылжар ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Қызылжар ауданы</td>
 <td>732,3</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Мамлют ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Мамлют ауданы</td>
 <td>22 088,9</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Ғабит Мүсірепов атындағы аудан</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Ғабит Мүсірепов атындағы аудан</td>
 <td>1 327,2</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Тайынша ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Тайынша ауданы</td>
 <td>363,5</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Тимирязев ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Тимирязев ауданы</td>
 <td>306,9</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Уәлиханов ауданы</td>
-<td>18 819,1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Уәлиханов ауданы</td>
+<td>18 887,8</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Шал ақын ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Шал ақын ауданы</td>
 <td>4 047,2</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Петропавл қаласы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Петропавл қаласы</td>
 <td>145 261,7</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Облыстық бюджеттен:</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Облыстық бюджеттен:</td>
 <td>226 010,5</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Айыртау ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Айыртау ауданы</td>
 <td>1 161,6</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Ақжар ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Ақжар ауданы</td>
 <td>350,2</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Аққайың ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Аққайың ауданы</td>
 <td>1 153,5</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Есіл ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Есіл ауданы</td>
 <td>7 655,3</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Мағжан Жұмабаев ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Мағжан Жұмабаев ауданы</td>
 <td>1 191,7</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Қызылжар ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Қызылжар ауданы</td>
 <td>17 014,3</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Мамлют ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Мамлют ауданы</td>
 <td>9,8</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Ғабит Мүсірепов атындағы аудан</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Ғабит Мүсірепов атындағы аудан</td>
 <td>3 382,9</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Тайынша ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Тайынша ауданы</td>
 <td>1 207,6</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Тимирязев ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Тимирязев ауданы</td>
 <td>1 007,9</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Уәлиханов ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Уәлиханов ауданы</td>
 <td>15,2</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Шал ақын ауданы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Шал ақын ауданы</td>
 <td>0,1</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Петропавл қаласы</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Петропавл қаласы</td>
 <td>191 860,4</td>
 </tr>
 <tr>
-<td colspan="4">санаты</td>
-<td colspan="2"></td>
+<td colspan="9">санаты</td>
+<td></td>
 <td rowspan="4">Сома, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">сыныбы</td>
-<td colspan="2">атауы</td>
+<td colspan="8">сыныбы</td>
+<td>атауы</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="4"></td>
+<td colspan="4">кіші сыныбы</td>
 <td></td>
-<td colspan="2">кіші сыныбы</td>
-<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>ерекшелігі</td>
+<td colspan="4"></td>
 <td colspan="2"></td>
+<td colspan="2">ерекшелігі</td>
+<td></td>
 </tr>
 <tr>
 <td>5</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Бюджеттік кредиттерді өтеу</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Бюджеттік кредиттерді өтеу</td>
 <td>68 655,5</td>
 </tr>
 <tr>
 <td></td>
-<td>01</td>
-<td></td>
-<td></td>
-<td colspan="2">Бюджеттік кредиттерді өтеу</td>
+<td colspan="4">01</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Бюджеттік кредиттерді өтеу</td>
 <td>68 655,5</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td colspan="2">Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td>Мемлекеттік бюджеттен берілген бюджеттік кредиттерді өтеу</td>
 <td>68 655,5</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>03</td>
-<td colspan="2">Аудандардың (облыстық маңызы бар қалалардың) жергілікті атқарушы органдарына облыстық бюджеттен берілген бюджеттік кредиттерді өтеу</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2">03</td>
+<td>Аудандардың (облыстық маңызы бар қалалардың) жергілікті атқарушы органдарына облыстық бюджеттен берілген бюджеттік кредиттерді өтеу</td>
 <td>68 655,5</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">соның ішінде:</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>соның ішінде:</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Айыртау ауданы</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Айыртау ауданы</td>
 <td>13 655,5</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Петропавл қаласы</td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Петропавл қаласы</td>
 <td>55 000</td>
 </tr>
 <tr>
 <td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
-<td>333 207,2</td>
-</tr>
-<tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td></td>
-<td colspan="2">Бюджет қаражаты қалдықтары</td>
-<td>333 207,2</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>333 207,2</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>01</td>
-<td colspan="2">Бюджет қаражатының бос қалдықтары</td>
-<td>333 207,2</td>
-</tr>
-<tr>
-<td colspan="4">Барлығы:</td>
+<td colspan="4"></td>
 <td colspan="2"></td>
-<td>955 293,6</td>
+<td colspan="2"></td>
+<td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
+<td>333 207,2</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4">01</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td>Бюджет қаражаты қалдықтары</td>
+<td>333 207,2</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>333 207,2</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="4"></td>
+<td colspan="2"></td>
+<td colspan="2">01</td>
+<td>Бюджет қаражатының бос қалдықтары</td>
+<td>333 207,2</td>
+</tr>
+<tr>
+<td colspan="9">Барлығы:</td>
+<td></td>
+<td>955 362,3</td>
 </tr>
 </table>
 
@@ -2087,343 +2087,335 @@ source: https://zan.gov.kz/client/#!/doc/85505/kaz/19.03.2015
 <table>
 <tr>
 <td>Функцио- налдық топ</td>
-<td>Әкімшісі</td>
-<td>Бағдарлама</td>
-<td colspan="2">Кіші бағдарлама</td>
+<td colspan="5">Әкімшісі</td>
+<td colspan="2">Бағдарлама</td>
+<td>Кіші бағдарлама</td>
 <td>Атауы</td>
 <td>Сома, мың теңге</td>
 </tr>
 <tr>
 <td>4</td>
-<td>271</td>
-<td></td>
+<td colspan="5">271</td>
 <td colspan="2"></td>
+<td></td>
 <td>Облыстың құрылыс басқармасы</td>
 <td>163 260,9</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="5"></td>
+<td colspan="2">037</td>
 <td></td>
-<td>037</td>
-<td colspan="2"></td>
 <td>Білім беру объектілерін салу және реконструкциялау</td>
 <td>163 260,9</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2">015</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
 <td>163 260,9</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>соның ішінде:</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>Мамлют ауданы Мамлютка қ. жұмысшы кентінде 300 орынға арналған мектеп құрылысы</td>
 <td>163 260,9</td>
 </tr>
 <tr>
 <td>5</td>
-<td>271</td>
-<td></td>
+<td colspan="5">271</td>
 <td colspan="2"></td>
+<td></td>
 <td>Облыстың құрылыс басқармасы</td>
-<td>8 335,7</td>
+<td>8 334,7</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="5"></td>
+<td colspan="2">038</td>
 <td></td>
-<td>038</td>
-<td colspan="2"></td>
 <td>Денсаулық сақтау объектілерін салу және реконструкциялау</td>
-<td>8 335,7</td>
+<td>8 334,7</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2">015</td>
-<td>Жергілікті бюджет қаражаты есебінен</td>
-<td>8 335,7</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td>015</td>
+<td>Жергілікті бюджет қаражаты есебінен</td>
+<td>8 334,7</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td></td>
 <td>соның ішінде:</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>Есіл ауданы Явленка с. ауысымына 250 келімге арналған аудандық емхана салу</td>
 <td>4 560,6</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>Шал ақын ауданы Сергеевка қ. ауысымына 250 келімге арналған емхана салу</td>
 <td>3 773,1</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
-<td>CҚО Петропавл қ. Солтүстік-Қазақстан медициналық колледжі үшін 500 орынға арналған жатақхана салуға ЖСҚ әзірлеу</td>
-<td>1</td>
-</tr>
-<tr>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2"></td>
 <td>СҚО Қызылжар ауданының Бәйтерек а. фельдшерлік-акушерлік пункт салуға ЖСҚ әзірлеу</td>
 <td>1</td>
 </tr>
 <tr>
 <td>7</td>
-<td>279</td>
-<td></td>
+<td colspan="5">279</td>
 <td colspan="2"></td>
+<td></td>
 <td>Облыстың энергетика және тұрғын үй-коммуналдық шаруашылық басқармасы</td>
 <td>238 000</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="5"></td>
+<td colspan="2">113</td>
 <td></td>
-<td>113</td>
-<td colspan="2"></td>
 <td>Жергілікті бюджеттерден берілетін ағымдағы нысаналы трансферттер</td>
 <td>238 000</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>соның ішінде:</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>Петропавл қаласы</td>
 <td>238 000</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>Сумен жабдықтау және су бұру жүйесінің жұмыс істеуі</td>
 <td>40 000</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>Көшелерді жарықтандыру үшін электр энергиясын беру</td>
 <td>60 000</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>Көшені жарықтандыру желілерін пайдалану және техникалық қызмет көрсету</td>
 <td>20 000</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>Электр қондырғыларына жедел пайдалану қызметін көрсету</td>
 <td>2 700</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>Жаяужолды жинайтын техниканы пайдалану арқылы қаланың жаяужолдарын, көшелерін, саябақтарды, гүлзарларды, алаңдарды қолмен жинау</td>
 <td>66 000</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>Мәйітханаға белгісіз жағдайларда өлгендерді жеткізуге тәуліктік кезекшілік</td>
 <td>3 000</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>Гүлбақшаларды орнату (отырғызу)</td>
 <td>20 000</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>&quot;Мәңгілік алау&quot; мемориалын газбен толтыру</td>
 <td>2 300</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>Бұрқақтарды жөндеу, ұстау және дайындау</td>
 <td>4 000</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>Бағдаршам объектілерін пайдалану</td>
 <td>20 000</td>
 </tr>
 <tr>
 <td>Функцио- налдық топ</td>
-<td>Әкімшісі</td>
-<td>Бағдарлама</td>
-<td colspan="2">Кіші бағдарлама</td>
+<td colspan="5">Әкімшісі</td>
+<td colspan="2">Бағдарлама</td>
+<td>Кіші бағдарлама</td>
 <td>Атауы</td>
 <td>Сома, мың теңге</td>
 </tr>
 <tr>
 <td>12</td>
-<td>268</td>
-<td></td>
+<td colspan="5">268</td>
 <td colspan="2"></td>
+<td></td>
 <td>Облыстың жолаушылар көлігі және автомобиль жолдары басқармасы</td>
-<td>124 122,5</td>
+<td>124 123,5</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="5"></td>
+<td colspan="2">113</td>
 <td></td>
-<td>113</td>
-<td colspan="2"></td>
 <td>Жергілікті бюджеттерден берілетін ағымдағы нысаналы трансферттер</td>
-<td>124 122,5</td>
+<td>124 123,5</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>соның ішінде:</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>Петропавл қаласы</td>
-<td>124 122,5</td>
+<td>124 123,5</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>Петропавл қ. қара жолдардың ұсақтас төселген жабынын ағымдағы жөндеу</td>
-<td>63 122,5</td>
+<td>63 123,5</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>Жол белгілерін орнату</td>
 <td>20 000</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>Көшелерінің жүретін бөлігін ағымдағы жөндеу</td>
 <td>41 000</td>
 </tr>
 <tr>
 <td>12</td>
-<td>271</td>
-<td></td>
+<td colspan="5">271</td>
 <td colspan="2"></td>
+<td></td>
 <td>Облыстың құрылыс басқармасы</td>
 <td>1 412,1</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="5"></td>
+<td colspan="2">080</td>
 <td></td>
-<td>080</td>
-<td colspan="2"></td>
 <td>Мамандандырылған халыққа қызмет көрсету орталықтарын құру</td>
 <td>1 412,1</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="2">015</td>
+<td colspan="5"></td>
+<td colspan="2"></td>
+<td>015</td>
 <td>Жергілікті бюджет қаражаты есебінен</td>
 <td>1 412,1</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="5"></td>
 <td colspan="2"></td>
+<td></td>
 <td>Петропавл қаласындағы мамандандырылған халыққа қызмет көрсету орталығының құрылысы</td>
 <td>1 412,1</td>
 </tr>
 <tr>
 <td>15</td>
-<td>257</td>
-<td></td>
+<td colspan="5">257</td>
 <td colspan="2"></td>
+<td></td>
 <td>Облыстың қаржы басқармасы</td>
-<td>420 162,4</td>
+<td>420 231,1</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="5"></td>
+<td colspan="2">011</td>
 <td></td>
-<td>011</td>
-<td colspan="2"></td>
 <td>Нысаналы пайдаланылмаған (толық пайдаланылмаған) трансферттерді қайтару</td>
-<td>420 162,4</td>
+<td>420 231,1</td>
 </tr>
 <tr>
-<td colspan="5">Барлығы:</td>
+<td colspan="9">Барлығы:</td>
 <td></td>
-<td>955 293,6</td>
+<td>955 362,3</td>
 </tr>
 </table>
