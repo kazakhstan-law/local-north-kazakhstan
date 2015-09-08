@@ -1,71 +1,72 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
+source: https://zan.gov.kz/client/#!/doc/85726/kaz/08.09.2015
 ---
 
 > *2014 жылғы 25 желтоқсандағы № 32-1*  
-> *Солтүстік Қазақстан облысының Ақжар аудандық мәслихаттың шешіміне*  
-> *4 қосымша*
+> *Солтүстік Қазақстан облысының*  
+> *Ақжар аудандық мәслихаттың*  
+> *шешіміне 4 қосымша*
 
 # Әр ауылдық округтердің 2015 жылға арналған бюджеттік бағдарламаларының ТІЗБЕСІ
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Ақжар ауданы мәслихатының 31.03.2015 № 34-2 шешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
+> *Ескерту. 4-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Ақжар ауданы мәслихатының 08.09.2015 № 37-1 шешімімен (01.01.2015 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
-<td colspan="6">Функционалдық топ АТАУЫ</td>
+<td colspan="5">Функционалдық топ АТАУЫ</td>
 <td rowspan="4">Сомасы мың теңге</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
-<td colspan="5">Кіші функция</td>
+<td colspan="4">Кіші функция</td>
 </tr>
 <tr>
 <td rowspan="2"></td>
-<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Бағдарлама</td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>110462</td>
+<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td>110385</td>
 </tr>
 <tr>
 <td></td>
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>110462</td>
+<td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
+<td>110385</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
-<td>110462</td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
+<td>110385</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>001</td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>110462</td>
+<td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>110385</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">соның ішінде ауылдық округтер шеңберінде</td>
+<td>соның ішінде ауылдық округтер шеңберінде</td>
 <td></td>
 </tr>
 <tr>
@@ -73,23 +74,23 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Талшық</td>
-<td>13744</td>
+<td>Талшық</td>
+<td>13644</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Ленинград</td>
-<td>15841</td>
+<td>Ленинград</td>
+<td>16094</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Айсары</td>
+<td>Айсары</td>
 <td>6118</td>
 </tr>
 <tr>
@@ -97,7 +98,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Алқатерек</td>
+<td>Алқатерек</td>
 <td>7741</td>
 </tr>
 <tr>
@@ -105,15 +106,15 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Қулыкөл</td>
-<td>8189</td>
+<td>Қулыкөл</td>
+<td>7839</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Кенашы</td>
+<td>Кенашы</td>
 <td>8929</td>
 </tr>
 <tr>
@@ -121,7 +122,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Кішіқарой</td>
+<td>Кішіқарой</td>
 <td>9422</td>
 </tr>
 <tr>
@@ -129,7 +130,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Май</td>
+<td>Май</td>
 <td>8247</td>
 </tr>
 <tr>
@@ -137,7 +138,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Ақжарқын</td>
+<td>Ақжарқын</td>
 <td>8598</td>
 </tr>
 <tr>
@@ -145,15 +146,15 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Новосел</td>
-<td>8494</td>
+<td>Новосел</td>
+<td>8614</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Восход</td>
+<td>Восход</td>
 <td>7082</td>
 </tr>
 <tr>
@@ -161,7 +162,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Ұялы</td>
+<td>Ұялы</td>
 <td>8057</td>
 </tr>
 <tr>
@@ -169,39 +170,39 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>21490</td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
+<td>22614,5</td>
 </tr>
 <tr>
 <td></td>
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Тұрғын үй шаруашылығы</td>
-<td>1039</td>
+<td>Тұрғын үй шаруашылығы</td>
+<td>1024,4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
-<td>1039</td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл (село), ауылдық (селолық) округ әкімінің аппараты</td>
+<td>1024,4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>027</td>
-<td colspan="2">Жұмыспен қамту-2020 бағдарламасы бойынша ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу және абаттандыру</td>
-<td>1039</td>
+<td>Жұмыспен қамту-2020 бағдарламасы бойынша ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу және абаттандыру</td>
+<td>1024,4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">соның ішінде ауылдық округтер шеңберінде</td>
+<td>соның ішінде ауылдық округтер шеңберінде</td>
 <td></td>
 </tr>
 <tr>
@@ -209,15 +210,15 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Кенашы</td>
-<td>1039</td>
+<td>Кенашы</td>
+<td>1024,4</td>
 </tr>
 <tr>
 <td></td>
 <td>2</td>
 <td></td>
 <td></td>
-<td colspan="2">Тұрғын үй шаруашылығы</td>
+<td>Тұрғын үй шаруашылығы</td>
 <td>4015</td>
 </tr>
 <tr>
@@ -225,7 +226,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
 <td>4015</td>
 </tr>
 <tr>
@@ -233,7 +234,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td>014</td>
-<td colspan="2">Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
+<td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
 <td>4015</td>
 </tr>
 <tr>
@@ -241,7 +242,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">соның ішінде ауылдық округтер шеңберінде</td>
+<td>соның ішінде ауылдық округтер шеңберінде</td>
 <td></td>
 </tr>
 <tr>
@@ -249,7 +250,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Кенашы</td>
+<td>Кенашы</td>
 <td>100</td>
 </tr>
 <tr>
@@ -257,7 +258,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Кішіқарой</td>
+<td>Кішіқарой</td>
 <td>615</td>
 </tr>
 <tr>
@@ -265,7 +266,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Новосел</td>
+<td>Новосел</td>
 <td>1200</td>
 </tr>
 <tr>
@@ -273,7 +274,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Май</td>
+<td>Май</td>
 <td>550</td>
 </tr>
 <tr>
@@ -281,15 +282,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Новосел</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Восход</td>
+<td>Восход</td>
 <td>550</td>
 </tr>
 <tr>
@@ -297,7 +290,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Ұялы</td>
+<td>Ұялы</td>
 <td>1000</td>
 </tr>
 <tr>
@@ -305,23 +298,23 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td>3</td>
 <td></td>
 <td></td>
-<td colspan="2">Елді-мекендерді көркейту</td>
-<td>16436</td>
+<td>Елді-мекендерді көркейту</td>
+<td>17575,1</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>008</td>
-<td colspan="2">Елді мекендерде көшелерді жарықтандыру</td>
-<td>8400</td>
+<td>Елді мекендерде көшелерді жарықтандыру</td>
+<td>9313</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">соның ішінде ауылдық округтер шеңберінде</td>
+<td>соның ішінде ауылдық округтер шеңберінде</td>
 <td></td>
 </tr>
 <tr>
@@ -329,7 +322,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Талшық</td>
+<td>Талшық</td>
 <td>3186</td>
 </tr>
 <tr>
@@ -337,15 +330,15 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Ленинград</td>
-<td>1550</td>
+<td>Ленинград</td>
+<td>2113</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Айсары</td>
+<td>Айсары</td>
 <td>270</td>
 </tr>
 <tr>
@@ -353,7 +346,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Алқатерек</td>
+<td>Алқатерек</td>
 <td>330</td>
 </tr>
 <tr>
@@ -361,15 +354,15 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Қулыкөл</td>
-<td>360</td>
+<td>Қулыкөл</td>
+<td>710</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Кенашы</td>
+<td>Кенашы</td>
 <td>450</td>
 </tr>
 <tr>
@@ -377,7 +370,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Кішіқарой</td>
+<td>Кішіқарой</td>
 <td>450</td>
 </tr>
 <tr>
@@ -385,7 +378,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Май</td>
+<td>Май</td>
 <td>164</td>
 </tr>
 <tr>
@@ -393,7 +386,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Ақжарқын</td>
+<td>Ақжарқын</td>
 <td>320</td>
 </tr>
 <tr>
@@ -401,7 +394,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Новосел</td>
+<td>Новосел</td>
 <td>450</td>
 </tr>
 <tr>
@@ -409,7 +402,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Восход</td>
+<td>Восход</td>
 <td>570</td>
 </tr>
 <tr>
@@ -417,7 +410,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Ұялы</td>
+<td>Ұялы</td>
 <td>300</td>
 </tr>
 <tr>
@@ -425,15 +418,15 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td>009</td>
-<td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>2891</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td>2771</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">соның ішінде ауылдық округтер шеңберінде</td>
+<td>соның ішінде ауылдық округтер шеңберінде</td>
 <td></td>
 </tr>
 <tr>
@@ -441,7 +434,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Талшық</td>
+<td>Талшық</td>
 <td>945</td>
 </tr>
 <tr>
@@ -449,7 +442,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Ленинград</td>
+<td>Ленинград</td>
 <td>600</td>
 </tr>
 <tr>
@@ -457,7 +450,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Айсары</td>
+<td>Айсары</td>
 <td>181</td>
 </tr>
 <tr>
@@ -465,7 +458,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Алқатерек</td>
+<td>Алқатерек</td>
 <td>181</td>
 </tr>
 <tr>
@@ -473,7 +466,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Қулыкөл</td>
+<td>Қулыкөл</td>
 <td>120</td>
 </tr>
 <tr>
@@ -481,7 +474,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Кенашы</td>
+<td>Кенашы</td>
 <td>120</td>
 </tr>
 <tr>
@@ -489,7 +482,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Кішіқарой</td>
+<td>Кішіқарой</td>
 <td>120</td>
 </tr>
 <tr>
@@ -497,7 +490,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Май</td>
+<td>Май</td>
 <td>64</td>
 </tr>
 <tr>
@@ -505,7 +498,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Ақжарқын</td>
+<td>Ақжарқын</td>
 <td>200</td>
 </tr>
 <tr>
@@ -513,7 +506,15 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Новосел</td>
+<td>Новосел</td>
+<td>0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Восход</td>
 <td>120</td>
 </tr>
 <tr>
@@ -521,15 +522,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Восход</td>
-<td>120</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Ұялы</td>
+<td>Ұялы</td>
 <td>120</td>
 </tr>
 <tr>
@@ -537,15 +530,15 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td>011</td>
-<td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>5145</td>
+<td>Елді мекендерді абаттандыру мен көгалдандыру</td>
+<td>5491,1</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">соның ішінде ауылдық округтер шеңберінде</td>
+<td>соның ішінде ауылдық округтер шеңберінде</td>
 <td></td>
 </tr>
 <tr>
@@ -553,47 +546,47 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Талшық</td>
-<td>5145</td>
+<td>Талшық</td>
+<td>5491,1</td>
 </tr>
 <tr>
 <td>8</td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>22 307</td>
+<td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
+<td>22 061</td>
 </tr>
 <tr>
 <td></td>
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Мәдениет саласындағы қызмет</td>
-<td>22 307</td>
+<td>Мәдениет саласындағы қызмет</td>
+<td>22 061</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
-<td>22 307</td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
+<td>22 061</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>006</td>
-<td colspan="2">Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
-<td>22 307</td>
+<td>Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
+<td>22 060,9</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">соның ішінде ауылдық округтер шеңберінде</td>
+<td>соның ішінде ауылдық округтер шеңберінде</td>
 <td></td>
 </tr>
 <tr>
@@ -601,15 +594,15 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Талшық</td>
-<td>647</td>
+<td>Талшық</td>
+<td>401</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Ленинград</td>
+<td>Ленинград</td>
 <td>5 191</td>
 </tr>
 <tr>
@@ -617,7 +610,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Алқатерек</td>
+<td>Алқатерек</td>
 <td>2 176</td>
 </tr>
 <tr>
@@ -625,7 +618,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Кенашы</td>
+<td>Кенашы</td>
 <td>2 872</td>
 </tr>
 <tr>
@@ -633,7 +626,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Май</td>
+<td>Май</td>
 <td>3 420</td>
 </tr>
 <tr>
@@ -641,7 +634,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Ақжарқын</td>
+<td>Ақжарқын</td>
 <td>4 087</td>
 </tr>
 <tr>
@@ -649,7 +642,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Новосел</td>
+<td>Новосел</td>
 <td>1 592</td>
 </tr>
 <tr>
@@ -657,7 +650,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Айсары</td>
+<td>Айсары</td>
 <td>2 322</td>
 </tr>
 <tr>
@@ -665,7 +658,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Көлiк және коммуникация</td>
+<td>Көлiк және коммуникация</td>
 <td>1070</td>
 </tr>
 <tr>
@@ -673,7 +666,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td>1</td>
 <td></td>
 <td></td>
-<td colspan="2">Автомобиль көлiгi</td>
+<td>Автомобиль көлiгi</td>
 <td>1070</td>
 </tr>
 <tr>
@@ -681,7 +674,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
 <td>1070</td>
 </tr>
 <tr>
@@ -689,7 +682,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td>013</td>
-<td colspan="2">Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
 <td>1070</td>
 </tr>
 <tr>
@@ -697,7 +690,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">соның ішінде (ауылдық,селолық ) округтер шеңберінде</td>
+<td>соның ішінде (ауылдық,селолық )округтер шеңберінде</td>
 <td></td>
 </tr>
 <tr>
@@ -705,7 +698,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Ленинград</td>
+<td>Ленинград</td>
 <td>535</td>
 </tr>
 <tr>
@@ -713,7 +706,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Талшық</td>
+<td>Талшық</td>
 <td>535</td>
 </tr>
 <tr>
@@ -721,39 +714,39 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Өзгелер</td>
-<td>16565</td>
+<td>Өзгелер</td>
+<td>15121</td>
 </tr>
 <tr>
 <td></td>
 <td>9</td>
 <td></td>
 <td></td>
-<td colspan="2">Өзгелер</td>
-<td>16565</td>
+<td>Өзгелер</td>
+<td>15121</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>123</td>
 <td></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
-<td>16565</td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
+<td>15121</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td>040</td>
-<td colspan="2">«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
-<td>16565</td>
+<td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске іске асыру</td>
+<td>15121</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">соның ішінде ауылдық округтер шеңберінде</td>
+<td>соның ішінде ауылдық округтер шеңберінде</td>
 <td></td>
 </tr>
 <tr>
@@ -761,7 +754,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Талшық</td>
+<td>Талшық</td>
 <td>4900</td>
 </tr>
 <tr>
@@ -769,15 +762,15 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Ленинград</td>
-<td>4465</td>
+<td>Ленинград</td>
+<td>3377</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Айсары</td>
+<td>Айсары</td>
 <td>300</td>
 </tr>
 <tr>
@@ -785,7 +778,15 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Алқатерек</td>
+<td>Алқатерек</td>
+<td>444</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Қулыкөл</td>
 <td>800</td>
 </tr>
 <tr>
@@ -793,15 +794,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Қулыкөл</td>
-<td>800</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Кенашы</td>
+<td>Кенашы</td>
 <td>600</td>
 </tr>
 <tr>
@@ -809,7 +802,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Кішіқарой</td>
+<td>Кішіқарой</td>
 <td>1000</td>
 </tr>
 <tr>
@@ -817,7 +810,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Май</td>
+<td>Май</td>
 <td>500</td>
 </tr>
 <tr>
@@ -825,7 +818,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Ақжарқын</td>
+<td>Ақжарқын</td>
 <td>700</td>
 </tr>
 <tr>
@@ -833,7 +826,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Новосел</td>
+<td>Новосел</td>
 <td>1000</td>
 </tr>
 <tr>
@@ -841,7 +834,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Восход</td>
+<td>Восход</td>
 <td>600</td>
 </tr>
 <tr>
@@ -849,7 +842,7 @@ source: https://zan.gov.kz/client/#!/doc/85726/kaz/31.03.2015
 <td></td>
 <td></td>
 <td></td>
-<td colspan="2">Ұялы</td>
+<td>Ұялы</td>
 <td>900</td>
 </tr>
 </table>
