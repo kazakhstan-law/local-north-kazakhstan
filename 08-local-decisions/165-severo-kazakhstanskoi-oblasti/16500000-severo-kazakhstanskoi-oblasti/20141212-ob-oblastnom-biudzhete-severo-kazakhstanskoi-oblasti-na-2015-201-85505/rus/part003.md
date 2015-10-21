@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
+source: https://zan.gov.kz/client/#!/doc/85505/rus/21.10.2015
 ---
 
 > *Приложение 3*  
@@ -1607,50 +1607,201 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </table>
 
 > *Приложение 5*  
-> *к решению сессии Северо-Казахстанского*  
-> *областного маслихата*  
+> *к решению сессии Северо-Казахстанского областного маслихата*  
 > *от 12 декабря 2014 года № 31/1*
 
 # Расходы областного бюджета за счет свободных остатков бюджетных средств, сложившихся на 1 января 2015 года, возврата целевых трансфертов республиканского и областного бюджетов, неиспользованных в 2014 году, погашения бюджетных кредитов, выданных из областного бюджета
 
-> *Сноска. Решение дополнено приложением 5 в соответствии с решением Северо-Казахстанского областного маслихата от 19.03.2015 № 33/2; в редакции решения Северо-Казахстанского областного маслихата от 29.06.2015 № 36/1 (вводится в действие с 01.01.2015).*
+> *Сноска. Решение дополнено приложением 5 в соответствии с решением Северо-Казахстанского областного маслихата от 19.03.2015 № 33/2; в редакции решения Северо-Казахстанского областного маслихата от 21.10.2015 № 38/10 (вводится в действие с 01.01.2015).*
 
 ## Доходы:
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
+<td colspan="5">Категория</td>
 <td>Наименование</td>
 <td rowspan="4">Сумма, тыс.тенге</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3">Класс</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">Подкласс</td>
 <td></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Специфика</td>
 <td></td>
 </tr>
 <tr>
-<td>2</td>
+<td colspan="2">2</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Неналоговые поступления</td>
-<td>124 678,9</td>
+<td>126 016,0</td>
 </tr>
 <tr>
+<td colspan="2"></td>
+<td>01</td>
 <td></td>
+<td></td>
+<td>Доходы от государственной собственности</td>
+<td>1 337,1</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td>7</td>
+<td></td>
+<td>Вознаграждения по кредитам, выданным из государственного бюджета</td>
+<td>1 337,1</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>03</td>
+<td>Вознаграждения по бюджетным кредитам, выданным из областного бюджета местным исполнительным органам районов (городов областного значения)</td>
+<td>1 066,8</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>в том числе:</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Айыртауский район</td>
+<td>26,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Акжарский район</td>
+<td>14,4</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Аккайынский район</td>
+<td>8,3</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Есильский район</td>
+<td>19,9</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Жамбылский район</td>
+<td>5,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>район Магжана Жумабаева</td>
+<td>2,3</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Кызылжарский район</td>
+<td>27,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Мамлютский район</td>
+<td>5,7</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>район имени Габита Мусрепова</td>
+<td>45,5</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тайыншинский район</td>
+<td>3,6</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Тимирязевский район</td>
+<td>10,4</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>Уалихановский район</td>
+<td>12,2</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>район Шал акына</td>
+<td>2,5</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td></td>
+<td>г. Петропавловск</td>
+<td>884,0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>06</td>
+<td>Вознаграждения по бюджетным кредитам, выданным из местного бюджета специализированным организациям</td>
+<td>270,3</td>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td>06</td>
 <td></td>
 <td></td>
@@ -1658,7 +1809,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>124 678,9</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -1666,7 +1817,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>124 678,9</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>07</td>
@@ -1674,7 +1825,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>124 660,5</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>09</td>
@@ -1682,39 +1833,39 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>18,4</td>
 </tr>
 <tr>
-<td>4</td>
+<td colspan="2">4</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>428 820,7</td>
+<td>428 950,7</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Трансферты из нижестоящих органов государственного управления</td>
-<td>428 820,7</td>
+<td>428 950,7</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>2</td>
 <td></td>
 <td>Трансферты из районных (городских) бюджетов</td>
-<td>428 820,7</td>
+<td>428 950,7</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>02</td>
 <td>Возврат целевых трансфертов</td>
-<td>428 820,7</td>
+<td>428 950,7</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1722,15 +1873,15 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Из республиканского бюджета:</td>
-<td>202 810,2</td>
+<td>202 940,2</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1738,7 +1889,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>657,5</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1746,7 +1897,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>5 869,1</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1754,7 +1905,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>489,3</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1762,7 +1913,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>1 111,9</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1770,7 +1921,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>307,4</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1778,7 +1929,27 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>1 359,5</td>
 </tr>
 <tr>
+<td colspan="5">Категория</td>
+<td rowspan="4">Наименование</td>
+<td rowspan="4">Сумма, тыс.тенге</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">Класс</td>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>Специфика</td>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1786,7 +1957,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>732,3</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1794,7 +1965,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>22 088,9</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1802,7 +1973,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>1 327,2</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1810,7 +1981,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>363,5</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1818,7 +1989,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>306,9</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1826,15 +1997,15 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>18 887,8</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>район Шал акына</td>
-<td>4 047,2</td>
+<td>4 177,2</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1842,7 +2013,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>145 261,7</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1850,7 +2021,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>226 010,5</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1858,7 +2029,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>1 161,6</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1866,7 +2037,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>350,2</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1874,7 +2045,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>1 153,5</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1882,7 +2053,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>7 655,3</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1890,7 +2061,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>1 191,7</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1898,7 +2069,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>17 014,3</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1906,7 +2077,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>9,8</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1914,7 +2085,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>3 382,9</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1922,7 +2093,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>1 207,6</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1930,7 +2101,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>1 007,9</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1938,7 +2109,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>15,2</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1946,7 +2117,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>0,1</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1954,62 +2125,39 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>191 860,4</td>
 </tr>
 <tr>
-<td colspan="4">Категория</td>
-<td>Наименование</td>
-<td rowspan="4">Сумма, тыс.тенге</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">Класс</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td colspan="2">Подкласс</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Специфика</td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
+<td colspan="2">5</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>68 655,5</td>
+<td>68 655,6</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>01</td>
 <td></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
-<td>68 655,5</td>
+<td>68 655,6</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>1</td>
 <td></td>
 <td>Погашение бюджетных кредитов, выданных из государственного бюджета</td>
-<td>68 655,5</td>
+<td>68 655,6</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>03</td>
 <td>Погашение бюджетных кредитов, выданных из областного бюджета местным исполнительным органам районов (городов областного значения)</td>
-<td>68 655,5</td>
+<td>68 655,6</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2017,7 +2165,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td></td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2025,7 +2173,15 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>13 655,5</td>
 </tr>
 <tr>
+<td colspan="2"></td>
 <td></td>
+<td></td>
+<td></td>
+<td>район Шал акына</td>
+<td>0,1</td>
+</tr>
+<tr>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2033,7 +2189,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>55 000,0</td>
 </tr>
 <tr>
-<td>8</td>
+<td colspan="2">8</td>
 <td></td>
 <td></td>
 <td></td>
@@ -2041,7 +2197,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>333 207,2</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>01</td>
 <td></td>
 <td></td>
@@ -2049,7 +2205,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>333 207,2</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>1</td>
 <td></td>
@@ -2057,7 +2213,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>333 207,2</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>01</td>
@@ -2065,9 +2221,9 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 <td>333 207,2</td>
 </tr>
 <tr>
-<td colspan="4">Всего:</td>
+<td colspan="5">Всего:</td>
 <td></td>
-<td>955 362,3</td>
+<td>956 829,5</td>
 </tr>
 </table>
 
@@ -2075,8 +2231,8 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 
 <table>
 <tr>
-<td>Функцио- нальная группа</td>
-<td>Админис- тратор</td>
+<td>Функци- ональная группа</td>
+<td colspan="2">Администратор</td>
 <td>Про грамма</td>
 <td>Под програм ма</td>
 <td>Наименование</td>
@@ -2084,7 +2240,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td>4</td>
-<td>271</td>
+<td colspan="2">271</td>
 <td></td>
 <td></td>
 <td>Управление строительства области</td>
@@ -2092,7 +2248,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>037</td>
 <td></td>
 <td>Строительство и реконструкция объектов образования</td>
@@ -2100,7 +2256,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
@@ -2108,7 +2264,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>в том числе:</td>
@@ -2116,7 +2272,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Строительство школы на 300 мест в рабочем поселке г. Мамлютка Мамлютского района</td>
@@ -2124,7 +2280,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td>5</td>
-<td>271</td>
+<td colspan="2">271</td>
 <td></td>
 <td></td>
 <td>Управление строительства области</td>
@@ -2132,7 +2288,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>038</td>
 <td></td>
 <td>Строительство и реконструкция объектов здравоохранения</td>
@@ -2140,7 +2296,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
@@ -2148,7 +2304,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>в том числе:</td>
@@ -2156,7 +2312,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Строительство районной поликлиники на 250 посещений в смену в с. Явленка Есильского района</td>
@@ -2164,7 +2320,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Строительство районной поликлиники на 250 посещений в смену в г.Сергеевка района Шал акына</td>
@@ -2172,7 +2328,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Разработка ПСД на строительство фельдшерско-акушерского пункта в а.Байтерек Кызылжарского района СКО</td>
@@ -2180,7 +2336,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td>7</td>
-<td>279</td>
+<td colspan="2">279</td>
 <td></td>
 <td></td>
 <td>Управление энергетики и жилищно-коммунального хозяйства области</td>
@@ -2188,7 +2344,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>113</td>
 <td></td>
 <td>Целевые текущие трансферты из местных бюджетов</td>
@@ -2196,7 +2352,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>в том числе:</td>
@@ -2204,7 +2360,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>город Петропавловск</td>
@@ -2212,7 +2368,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Функционирование системы водоснабжения и водоотведения</td>
@@ -2220,7 +2376,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Подача электроэнергии для освещения улиц</td>
@@ -2228,7 +2384,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Эксплуатация и техническое обслуживание сетей уличного освещения</td>
@@ -2236,7 +2392,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Оперативное эксплуатационное обслуживание электроустановок</td>
@@ -2244,7 +2400,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Ручная уборка тротуаров, улиц города, парков, скверов, площадей с применением тротуароуборочной техники</td>
@@ -2252,7 +2408,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Круглосуточное дежурство с доставкой умерших при невыясненных обстоятельствах в морг</td>
@@ -2260,7 +2416,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Устройство (посадка) цветников</td>
@@ -2268,7 +2424,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Заправка газом мемориала &quot;Вечный огонь&quot;</td>
@@ -2276,7 +2432,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Ремонт, содержание и подготовка фонтанов</td>
@@ -2284,39 +2440,31 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Эксплуатация светофорных объектов</td>
 <td>20 000</td>
 </tr>
 <tr>
-<td>Функцио- нальная группа</td>
-<td>Админис- тратор</td>
-<td>Про грамма</td>
-<td>Под програм ма</td>
-<td>Наименование</td>
-<td>Сумма, тыс.тенге</td>
-</tr>
-<tr>
 <td>12</td>
-<td>268</td>
+<td colspan="2">268</td>
 <td></td>
 <td></td>
 <td>Управление пассажирского транспорта и автомобильных дорог области</td>
-<td>124 123,5</td>
+<td>124 174,3</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>113</td>
 <td></td>
 <td>Целевые текущие трансферты из местных бюджетов</td>
-<td>124 123,5</td>
+<td>124 174,3</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>в том числе:</td>
@@ -2324,23 +2472,23 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>город Петропавловск</td>
-<td>124 123,5</td>
+<td>124 174,3</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Текущий ремонт щебеночного покрытия грунтовых дорог</td>
-<td>63 123,5</td>
+<td>63 174,3</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Устройство разметки дорог</td>
@@ -2348,7 +2496,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Текущий ремонт проезжей части улиц</td>
@@ -2356,7 +2504,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td>12</td>
-<td>271</td>
+<td colspan="2">271</td>
 <td></td>
 <td></td>
 <td>Управление строительства области</td>
@@ -2364,7 +2512,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>080</td>
 <td></td>
 <td>Строительство специализированных центров обслуживания населения</td>
@@ -2372,7 +2520,7 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>015</td>
 <td>За счет средств местного бюджета</td>
@@ -2380,31 +2528,63 @@ source: https://zan.gov.kz/client/#!/doc/85505/rus/17.08.2015
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>Строительство специализированного центра обслуживания населения в городе Петропавловске</td>
 <td>1 412,1</td>
 </tr>
 <tr>
-<td>15</td>
-<td>257</td>
+<td>14</td>
+<td colspan="2">257</td>
 <td></td>
 <td></td>
 <td>Управление финансов области</td>
-<td>420 231,1</td>
+<td>1 286,3</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
+<td>016</td>
 <td></td>
+<td>Обслуживание долга местных исполнительных органов по выплате вознаграждений и иных платежей по займам из республиканского бюджета</td>
+<td>1 286,3</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="2">257</td>
+<td></td>
+<td></td>
+<td>Управление финансов области</td>
+<td>420 361,1</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
 <td>011</td>
 <td></td>
 <td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
-<td>420 231,1</td>
+<td>420 361,1</td>
 </tr>
 <tr>
-<td colspan="4">Всего:</td>
+<td>16</td>
+<td colspan="2">257</td>
 <td></td>
-<td>955 362,3</td>
+<td></td>
+<td>Управление финансов области</td>
+<td>0,1</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td>015</td>
+<td></td>
+<td>Погашение долга местного исполнительного органа перед вышестоящим бюджетом</td>
+<td>0,1</td>
+</tr>
+<tr>
+<td colspan="5">Всего:</td>
+<td></td>
+<td>956 829,5</td>
 </tr>
 </table>
