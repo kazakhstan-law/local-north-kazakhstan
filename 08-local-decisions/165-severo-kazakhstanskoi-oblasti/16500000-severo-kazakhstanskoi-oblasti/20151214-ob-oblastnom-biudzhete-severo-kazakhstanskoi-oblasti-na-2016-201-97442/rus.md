@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/97442/rus/14.12.2015
+source: https://zan.gov.kz/client/#!/doc/97442/rus/21.01.2016
 ---
 
 # Об областном бюджете Северо-Казахстанской области на 2016-2018 годы
