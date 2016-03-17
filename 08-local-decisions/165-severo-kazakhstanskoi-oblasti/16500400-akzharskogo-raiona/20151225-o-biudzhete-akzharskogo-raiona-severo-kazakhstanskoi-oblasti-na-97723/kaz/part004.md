@@ -1,704 +1,728 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97723/kaz/12.02.2016
+source: https://zan.gov.kz/client/#!/doc/97723/kaz/17.03.2016
 ---
 
 > *2015 жылғы 25 желтоқсандағы № 39-1*  
-> *Ақжар аудандық мәслихаттың шешіміне*  
+> *аудандық мәслихаттың шешіміне*  
 > *4 қосымша*
 
 # Әр ауылдық округтердің 2016 жылға арналған бюджеттік бағдарламаларының ТІЗБЕСІ
 
-> *Ескерту. 4-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Ақжар аудандық мәслихатының 02.12.2016 № 42-2 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
+> *Ескерту. 4-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Ақжар аудандық мәслихатының 17.03.2016 № 43-1 шешімімен (01.01.2016 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
-<td colspan="8">Функционалдық топ АТАУЫ</td>
-<td colspan="2" rowspan="4">Сомасы мың теңге</td>
+<td colspan="5">Функционалдық топ АТАУЫ</td>
+<td rowspan="4">Сомасы мың теңге</td>
 </tr>
 <tr>
 <td rowspan="3"></td>
-<td colspan="7">Кіші функция</td>
+<td colspan="4">Кіші функция</td>
 </tr>
 <tr>
 <td rowspan="2"></td>
-<td colspan="6">Бюджеттік бағдарламалардың әкімшісі</td>
+<td colspan="3">Бюджеттік бағдарламалардың әкімшісі</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="4">Бағдарлама</td>
+<td></td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">134347</td>
+<td></td>
+<td></td>
+<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td>134777</td>
 </tr>
 <tr>
 <td></td>
 <td>1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">134347</td>
+<td></td>
+<td></td>
+<td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
+<td>134777</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
-<td colspan="2">134347</td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
+<td>134777</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">001</td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">134347</td>
+<td></td>
+<td>001</td>
+<td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>134777</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">соның ішінде ауылдық округтер шеңберінде</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>соның ішінде ауылдық округтер шеңберінде</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Талшық</td>
-<td colspan="2">16913</td>
+<td></td>
+<td></td>
+<td>Талшық</td>
+<td>17343</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Ленинград</td>
-<td colspan="2">19366</td>
+<td></td>
+<td></td>
+<td>Ленинград</td>
+<td>19366</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Айсары</td>
-<td colspan="2">7574</td>
+<td></td>
+<td></td>
+<td>Айсары</td>
+<td>7574</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Алқатерек</td>
-<td colspan="2">9187</td>
+<td></td>
+<td></td>
+<td>Алқатерек</td>
+<td>9187</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Қулыкөл</td>
-<td colspan="2">9732</td>
+<td></td>
+<td></td>
+<td>Қулыкөл</td>
+<td>9732</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Кенашы</td>
-<td colspan="2">10844</td>
+<td></td>
+<td></td>
+<td>Кенашы</td>
+<td>10844</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Кішіқарой</td>
-<td colspan="2">11310</td>
+<td></td>
+<td></td>
+<td>Кішіқарой</td>
+<td>11310</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Май</td>
-<td colspan="2">9791</td>
+<td></td>
+<td></td>
+<td>Май</td>
+<td>9791</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Ақжарқын</td>
-<td colspan="2">10327</td>
+<td></td>
+<td></td>
+<td>Ақжарқын</td>
+<td>10327</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Новосел</td>
-<td colspan="2">10461</td>
+<td></td>
+<td></td>
+<td>Новосел</td>
+<td>10461</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Восход</td>
-<td colspan="2">8701</td>
+<td></td>
+<td></td>
+<td>Восход</td>
+<td>8701</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Ұялы</td>
-<td colspan="2">10141</td>
+<td></td>
+<td></td>
+<td>Ұялы</td>
+<td>10141</td>
 </tr>
 <tr>
 <td>7</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">16482,0</td>
+<td></td>
+<td></td>
+<td>Тұрғын үй-коммуналдық шаруашылық</td>
+<td>19421,0</td>
+</tr>
+<tr>
+<td></td>
+<td>1</td>
+<td></td>
+<td></td>
+<td>Тұрғын үй шаруашылығы</td>
+<td>2939,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
+<td>2939,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>027</td>
+<td>Жұмыспен қамту 2020 жол картасы бойынша қалаларды және ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу және абаттандыру</td>
+<td>2939,0</td>
 </tr>
 <tr>
 <td></td>
 <td>2</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Тұрғын үй шаруашылығы</td>
-<td colspan="2">4070</td>
+<td></td>
+<td></td>
+<td>Коммуналдық шаруашылық</td>
+<td>4070</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
-<td colspan="2">4070</td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
+<td>4070</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">014</td>
-<td colspan="2">Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
-<td colspan="2">4070</td>
+<td></td>
+<td>014</td>
+<td>Елді мекендерді сумен жабдықтауды ұйымдастыру</td>
+<td>4070</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">соның ішінде ауылдық округтер шеңберінде</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>соның ішінде ауылдық округтер шеңберінде</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Кенашы</td>
-<td colspan="2">100</td>
+<td></td>
+<td></td>
+<td>Кенашы</td>
+<td>100</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Кішіқарой</td>
-<td colspan="2">150</td>
+<td></td>
+<td></td>
+<td>Кішіқарой</td>
+<td>150</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Новосел</td>
-<td colspan="2">1420</td>
+<td></td>
+<td></td>
+<td>Новосел</td>
+<td>1420</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Май</td>
-<td colspan="2">600</td>
+<td></td>
+<td></td>
+<td>Май</td>
+<td>600</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Восход</td>
-<td colspan="2">600</td>
+<td></td>
+<td></td>
+<td>Восход</td>
+<td>600</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Ұялы</td>
-<td colspan="2">1200</td>
+<td></td>
+<td></td>
+<td>Ұялы</td>
+<td>1200</td>
 </tr>
 <tr>
 <td></td>
 <td>3</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Елді-мекендерді көркейту</td>
-<td colspan="2">12412</td>
+<td></td>
+<td></td>
+<td>Елді-мекендерді көркейту</td>
+<td>12412</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">008</td>
-<td colspan="2">Елді мекендерде көшелерді жарықтандыру</td>
-<td colspan="2">11662</td>
+<td></td>
+<td>008</td>
+<td>Елді мекендерде көшелерді жарықтандыру</td>
+<td>11662</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">соның ішінде ауылдық округтер шеңберінде</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>соның ішінде ауылдық округтер шеңберінде</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Талшық</td>
-<td colspan="2">4669</td>
+<td></td>
+<td></td>
+<td>Талшық</td>
+<td>4669</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Ленинград</td>
-<td colspan="2">3100</td>
+<td></td>
+<td></td>
+<td>Ленинград</td>
+<td>3100</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Айсары</td>
-<td colspan="2">120</td>
+<td></td>
+<td></td>
+<td>Айсары</td>
+<td>120</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Алқатерек</td>
-<td colspan="2">480</td>
+<td></td>
+<td></td>
+<td>Алқатерек</td>
+<td>480</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Қулыкөл</td>
-<td colspan="2">523</td>
+<td></td>
+<td></td>
+<td>Қулыкөл</td>
+<td>523</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Кенашы</td>
-<td colspan="2">475</td>
+<td></td>
+<td></td>
+<td>Кенашы</td>
+<td>475</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Кішіқарой</td>
-<td colspan="2">512</td>
+<td></td>
+<td></td>
+<td>Кішіқарой</td>
+<td>512</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Май</td>
-<td colspan="2">164</td>
+<td></td>
+<td></td>
+<td>Май</td>
+<td>164</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Ақжарқын</td>
-<td colspan="2">468</td>
+<td></td>
+<td></td>
+<td>Ақжарқын</td>
+<td>468</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Новосел</td>
-<td colspan="2">345</td>
+<td></td>
+<td></td>
+<td>Новосел</td>
+<td>345</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Восход</td>
-<td colspan="2">531</td>
+<td></td>
+<td></td>
+<td>Восход</td>
+<td>531</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Ұялы</td>
-<td colspan="2">275</td>
+<td></td>
+<td></td>
+<td>Ұялы</td>
+<td>275</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">009</td>
-<td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
-<td colspan="2">750</td>
+<td></td>
+<td>009</td>
+<td>Елді мекендердің санитариясын қамтамасыз ету</td>
+<td>750</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">соның ішінде ауылдық округтер шеңберінде</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>соның ішінде ауылдық округтер шеңберінде</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Талшық</td>
-<td colspan="2">500</td>
+<td></td>
+<td></td>
+<td>Талшық</td>
+<td>500</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Қулыкөл</td>
-<td colspan="2">250</td>
+<td></td>
+<td></td>
+<td>Қулыкөл</td>
+<td>250</td>
 </tr>
 <tr>
 <td>8</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td colspan="2">28 955,0</td>
+<td></td>
+<td></td>
+<td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
+<td>28 955,0</td>
 </tr>
 <tr>
 <td></td>
 <td>1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Мәдениет саласындағы қызмет</td>
-<td colspan="2">28 955,0</td>
+<td></td>
+<td></td>
+<td>Мәдениет саласындағы қызмет</td>
+<td>28 955,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
-<td colspan="2">28 955</td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
+<td>28 955</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">006</td>
-<td colspan="2">Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
-<td colspan="2">28 955,0</td>
+<td></td>
+<td>006</td>
+<td>Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
+<td>28 955,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">соның ішінде ауылдық округтер шеңберінде</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>соның ішінде ауылдық округтер шеңберінде</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Талшық</td>
-<td colspan="2">826</td>
+<td></td>
+<td></td>
+<td>Талшық</td>
+<td>826</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Ленинград</td>
-<td colspan="2">6 574</td>
+<td></td>
+<td></td>
+<td>Ленинград</td>
+<td>6 574</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Алқатерек</td>
-<td colspan="2">2 619</td>
+<td></td>
+<td></td>
+<td>Алқатерек</td>
+<td>2 619</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Кенашы</td>
-<td colspan="2">5 724</td>
+<td></td>
+<td></td>
+<td>Кенашы</td>
+<td>5 724</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Май</td>
-<td colspan="2">4 020</td>
+<td></td>
+<td></td>
+<td>Май</td>
+<td>4 020</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Ақжарқын</td>
-<td colspan="2">4 690</td>
+<td></td>
+<td></td>
+<td>Ақжарқын</td>
+<td>4 690</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Новосел</td>
-<td colspan="2">1 838</td>
+<td></td>
+<td></td>
+<td>Новосел</td>
+<td>1 838</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Айсары</td>
-<td colspan="2">2 664</td>
+<td></td>
+<td></td>
+<td>Айсары</td>
+<td>2 664</td>
 </tr>
 <tr>
 <td>12</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Көлiк және коммуникация</td>
-<td colspan="2">1145</td>
+<td></td>
+<td></td>
+<td>Көлiк және коммуникация</td>
+<td>1145</td>
 </tr>
 <tr>
 <td></td>
 <td>1</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Автомобиль көлiгi</td>
-<td colspan="2">1145</td>
+<td></td>
+<td></td>
+<td>Автомобиль көлiгi</td>
+<td>1145</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
-<td colspan="2">1145</td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
+<td>1145</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">013</td>
-<td colspan="2">Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td colspan="2">1145</td>
+<td></td>
+<td>013</td>
+<td>Аудандық маңызы бар қалаларда, кенттерде, ауылдарда, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
+<td>1145</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">соның ішінде (ауылдық,селолық )округтер шеңберінде</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>соның ішінде (ауылдық,селолық )округтер шеңберінде</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Ленинград</td>
-<td colspan="2">572</td>
+<td></td>
+<td></td>
+<td>Ленинград</td>
+<td>572</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Талшық</td>
-<td colspan="2">573</td>
+<td></td>
+<td></td>
+<td>Талшық</td>
+<td>573</td>
 </tr>
 <tr>
 <td>13</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Өзгелер</td>
-<td colspan="2">15939</td>
+<td></td>
+<td></td>
+<td>Өзгелер</td>
+<td>15939</td>
 </tr>
 <tr>
 <td></td>
 <td>9</td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Өзгелер</td>
-<td colspan="2">15939</td>
+<td></td>
+<td></td>
+<td>Өзгелер</td>
+<td>15939</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">123</td>
-<td colspan="2"></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
-<td colspan="2">15939</td>
+<td>123</td>
+<td></td>
+<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл , ауылдық округ әкімінің аппараты</td>
+<td>15939</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2">040</td>
-<td colspan="2">«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске іске асыру</td>
-<td colspan="2">15939</td>
+<td></td>
+<td>040</td>
+<td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске іске асыру</td>
+<td>15939</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">соның ішінде ауылдық округтер шеңберінде</td>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>соның ішінде ауылдық округтер шеңберінде</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Талшық</td>
-<td colspan="2">5115</td>
+<td></td>
+<td></td>
+<td>Талшық</td>
+<td>5115</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Ленинград</td>
-<td colspan="2">4500</td>
+<td></td>
+<td></td>
+<td>Ленинград</td>
+<td>4500</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Айсары</td>
-<td colspan="2">250</td>
+<td></td>
+<td></td>
+<td>Айсары</td>
+<td>250</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Алқатерек</td>
-<td colspan="2">800</td>
+<td></td>
+<td></td>
+<td>Алқатерек</td>
+<td>800</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Қулыкөл</td>
-<td colspan="2">800</td>
+<td></td>
+<td></td>
+<td>Қулыкөл</td>
+<td>800</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Кенашы</td>
-<td colspan="2">600</td>
+<td></td>
+<td></td>
+<td>Кенашы</td>
+<td>600</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Кішіқарой</td>
-<td colspan="2">274</td>
+<td></td>
+<td></td>
+<td>Кішіқарой</td>
+<td>274</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Май</td>
-<td colspan="2">500</td>
+<td></td>
+<td></td>
+<td>Май</td>
+<td>500</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Ақжарқын</td>
-<td colspan="2">800</td>
+<td></td>
+<td></td>
+<td>Ақжарқын</td>
+<td>800</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Новосел</td>
-<td colspan="2">900</td>
+<td></td>
+<td></td>
+<td>Новосел</td>
+<td>900</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Восход</td>
-<td colspan="2">500</td>
+<td></td>
+<td></td>
+<td>Восход</td>
+<td>500</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="2"></td>
-<td colspan="2">Ұялы</td>
-<td colspan="2">900</td>
+<td></td>
+<td></td>
+<td>Ұялы</td>
+<td>900</td>
 </tr>
 </table>
 
