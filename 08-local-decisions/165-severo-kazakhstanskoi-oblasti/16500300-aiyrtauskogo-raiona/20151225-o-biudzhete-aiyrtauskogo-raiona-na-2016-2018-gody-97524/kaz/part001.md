@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97524/kaz/25.02.2016
+source: https://zan.gov.kz/client/#!/doc/97524/kaz/17.03.2016
 ---
 
 > *Айыртау аудандық мәслихатының*  
@@ -9,19 +9,19 @@ source: https://zan.gov.kz/client/#!/doc/97524/kaz/25.02.2016
 
 # 2016 жылға арналған Айыртау ауданының бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Айыртау аудандық мәслихатының 25.02.2016 № 5-47-1 шешімімен (01.01.2016 қолданысқа енеді).*
+> *Ескерту. 1- қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Айыртау аудандық мәслихатының 17.03.2016 № 5-48-1 шешімімен (01.01.2016 қолданысқа енеді).*
 
 <table>
 <tr>
 <td colspan="10">
 <table>
 <tr>
-<td colspan="4">Санаты</td>
+<td colspan="3">Санаты</td>
 <td rowspan="2">Атауы</td>
 <td rowspan="3">Сома, мың теңге</td>
 </tr>
 <tr>
-<td colspan="2" rowspan="2"></td>
+<td rowspan="2"></td>
 <td colspan="2">Сыныбы</td>
 </tr>
 <tr>
@@ -29,228 +29,228 @@ source: https://zan.gov.kz/client/#!/doc/97524/kaz/25.02.2016
 <td colspan="2">Ішкі сыныбы</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td>2</td>
 <td>3</td>
 <td>4</td>
 <td>5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td>1) Кірістер</td>
-<td>4 246 601,0</td>
+<td>4 277 093,0</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td></td>
 <td></td>
 <td>Салықтық түсімдер</td>
 <td>629 943,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td>Табыс салығы</td>
 <td>36 899,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>2</td>
 <td>Жеке табыс салығы</td>
 <td>36 899,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>03</td>
 <td></td>
 <td>Әлеуметтiк салық</td>
 <td>229 009,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td>Әлеуметтік салық</td>
 <td>229 009,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>04</td>
 <td></td>
 <td>Меншiкке салынатын салықтар</td>
 <td>185 930,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td>Мүлiкке салынатын салықтар</td>
 <td>108 252,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>3</td>
 <td>Жер салығы</td>
 <td>10 488,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>4</td>
 <td>Көлiк құралдарына салынатын салық</td>
 <td>59 700,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>5</td>
 <td>Бірыңғай жер салығы</td>
 <td>7 490,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>05</td>
 <td></td>
 <td>Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
 <td>172 405,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>2</td>
 <td>Акциздер</td>
 <td>3 530,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>3</td>
 <td>Табиғи және басқа да ресурстарды пайдаланғаны үшiн түсетiн түсiмдер</td>
 <td>150 840,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>4</td>
 <td>Кәсiпкерлiк және кәсiби қызметтi жүргiзгенi үшiн алынатын алымдар</td>
 <td>17 900,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>5</td>
 <td>Ойын бизнесіне салық</td>
 <td>135,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>08</td>
 <td></td>
 <td>Заңдық маңызы бар әрекеттерді жасағаны және (немесе) оған уәкілеттігі бар мемлекеттік органдар немесе лауазымды адамдар құжаттар бергені үшін алынатын міндетті төлемдер</td>
 <td>5 700,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td>Мемлекеттік баж</td>
 <td>5 700,0</td>
 </tr>
 <tr>
-<td colspan="2">2</td>
+<td>2</td>
 <td></td>
 <td></td>
 <td>Салықтық емес түсiмдер</td>
 <td>4 540,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td>Мемлекеттік меншіктен түсетін кірістер</td>
 <td>3 890,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>5</td>
 <td>Мемлекет меншігіндегі мүлікті жалға беруден түсетін кірістер</td>
 <td>3 890,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>06</td>
 <td></td>
 <td>Басқа да салықтық емес түсiмдер</td>
 <td>650,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td>Басқа да салықтық емес түсiмдер</td>
 <td>650,0</td>
 </tr>
 <tr>
-<td colspan="2">3</td>
+<td>3</td>
 <td></td>
 <td></td>
 <td>Негізгі капиталды сатудан түсетін түсімдер</td>
 <td>15 517,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
 <td></td>
 <td>Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
 <td>3 600,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td>Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
 <td>3 600,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>03</td>
 <td></td>
 <td>Жердi және материалдық емес активтердi сату</td>
 <td>11 917,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>1</td>
 <td>Жерді сату</td>
 <td>11 917,0</td>
 </tr>
 <tr>
-<td colspan="2">4</td>
+<td>4</td>
 <td></td>
 <td></td>
 <td>Трансферттердің түсімдері</td>
-<td>3 596 601,0</td>
+<td>3 627 093,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>02</td>
 <td></td>
 <td>Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td>3 596 601,0</td>
+<td>3 627 093,0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>2</td>
 <td>Облыстық бюджеттен түсетін трансферттер</td>
-<td>3 596 601,0</td>
+<td>3 627 093,0</td>
 </tr>
 </table>
 </td>
@@ -284,7 +284,7 @@ source: https://zan.gov.kz/client/#!/doc/97524/kaz/25.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>2) Шығындар</td>
-<td colspan="2">4 266 428,8</td>
+<td colspan="2">4 296 920,8</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
@@ -298,21 +298,21 @@ source: https://zan.gov.kz/client/#!/doc/97524/kaz/25.02.2016
 <td colspan="2">112</td>
 <td colspan="2"></td>
 <td>Аудан (облыстық маңызы бар қала) мәслихатының аппараты</td>
-<td colspan="2">14548,0</td>
+<td colspan="2">14 548,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td>Аудан (облыстық маңызы бар қала) мәслихатының қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">14548,0</td>
+<td colspan="2">14 548,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">122</td>
 <td colspan="2"></td>
 <td>Аудан (облыстық маңызы бар қала) әкімінің аппараты</td>
-<td colspan="2">88598,0</td>
+<td colspan="2">88 598,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -420,7 +420,7 @@ source: https://zan.gov.kz/client/#!/doc/97524/kaz/25.02.2016
 <td colspan="2">304,0</td>
 </tr>
 <tr>
-<td colspan="2">003</td>
+<td colspan="2">03</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Қоғамдық тәртіп, қауіпсіздіқ, құқықтық, сот, қылмыстық-атқару қызметі</td>
@@ -445,14 +445,14 @@ source: https://zan.gov.kz/client/#!/doc/97524/kaz/25.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Бiлiм беру</td>
-<td colspan="2">3 269 553,0</td>
+<td colspan="2">3 294 173,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">464</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td colspan="2">3 234 061,0</td>
+<td colspan="2">3 258 681,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -473,7 +473,7 @@ source: https://zan.gov.kz/client/#!/doc/97524/kaz/25.02.2016
 <td colspan="2"></td>
 <td colspan="2">005</td>
 <td>Ауданның (облыстық маңызы бар қаланың) мемлекеттік білім беру мекемелер үшін оқулықтар мен оқу-әдiстемелiк кешендерді сатып алу және жеткізу</td>
-<td colspan="2">34 333,0</td>
+<td colspan="2">50 407,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -522,7 +522,7 @@ source: https://zan.gov.kz/client/#!/doc/97524/kaz/25.02.2016
 <td colspan="2"></td>
 <td colspan="2">067</td>
 <td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td colspan="2">4 700,0</td>
+<td colspan="2">13 246,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -648,7 +648,7 @@ source: https://zan.gov.kz/client/#!/doc/97524/kaz/25.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">87 553,3</td>
+<td colspan="2">93 425,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -697,14 +697,14 @@ source: https://zan.gov.kz/client/#!/doc/97524/kaz/25.02.2016
 <td colspan="2">455</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) мәдениет және тілдерді дамыту бөлімі</td>
-<td colspan="2">147,0</td>
+<td colspan="2">3 156,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">024</td>
 <td>Жұмыспен қамту 2020 жол картасы бойынша қалаларды және ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу</td>
-<td colspan="2">147,0</td>
+<td colspan="2">3 156,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -746,14 +746,14 @@ source: https://zan.gov.kz/client/#!/doc/97524/kaz/25.02.2016
 <td colspan="2">464</td>
 <td colspan="2"></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td colspan="2">6 432,0</td>
+<td colspan="2">9 295,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">026</td>
 <td>Жұмыспен қамту 2020 жол картасы бойынша қалаларды және ауылдық елді мекендерді дамыту шеңберінде объектілерді жөндеу</td>
-<td colspan="2">6 432,0</td>
+<td colspan="2">9 295,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1095,7 +1095,7 @@ source: https://zan.gov.kz/client/#!/doc/97524/kaz/25.02.2016
 <td colspan="2">15</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td>Трансферттер</td>
+<td></td>
 <td colspan="2">11 310,3</td>
 </tr>
 <tr>
@@ -1156,19 +1156,17 @@ source: https://zan.gov.kz/client/#!/doc/97524/kaz/25.02.2016
 </tr>
 <tr>
 <td colspan="6">Санаты</td>
-<td>Атауы</td>
+<td rowspan="3">Атауы</td>
 <td colspan="2" rowspan="3">Сома, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="4">Сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Ішкі сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">5</td>
@@ -1200,20 +1198,17 @@ source: https://zan.gov.kz/client/#!/doc/97524/kaz/25.02.2016
 </tr>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>Атауы</td>
+<td rowspan="3">Атауы</td>
 <td colspan="2" rowspan="3">Сома, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">Әкімші</td>
-<td colspan="2"></td>
-<td></td>
+<td colspan="4">Әкімші</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бағдарлама</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1245,19 +1240,17 @@ source: https://zan.gov.kz/client/#!/doc/97524/kaz/25.02.2016
 </tr>
 <tr>
 <td colspan="6">Санаты</td>
-<td>Атауы</td>
+<td rowspan="3">Атауы</td>
 <td colspan="2" rowspan="3">Сома, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="4">Сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Ішкі сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">6</td>
@@ -1285,7 +1278,7 @@ source: https://zan.gov.kz/client/#!/doc/97524/kaz/25.02.2016
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>5) Бюджеттің тапшылығы (профициті)</td>
-<td colspan="2">--41 863,8</td>
+<td colspan="2">-41 863,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1317,20 +1310,17 @@ source: https://zan.gov.kz/client/#!/doc/97524/kaz/25.02.2016
 </tr>
 <tr>
 <td colspan="6">Функционалдық топ</td>
-<td>Атауы</td>
+<td rowspan="3">Атауы</td>
 <td colspan="2" rowspan="3">Сома, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2">Әкімші</td>
-<td colspan="2"></td>
-<td></td>
+<td colspan="4">Әкімші</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Бағдарлама</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">16</td>
@@ -1355,19 +1345,17 @@ source: https://zan.gov.kz/client/#!/doc/97524/kaz/25.02.2016
 </tr>
 <tr>
 <td colspan="6">Санаты</td>
-<td>Атауы</td>
+<td rowspan="3">Атауы</td>
 <td colspan="2" rowspan="3">Сома, мың теңге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="4">Сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Ішкі сыныбы</td>
-<td></td>
 </tr>
 <tr>
 <td colspan="2">8</td>
