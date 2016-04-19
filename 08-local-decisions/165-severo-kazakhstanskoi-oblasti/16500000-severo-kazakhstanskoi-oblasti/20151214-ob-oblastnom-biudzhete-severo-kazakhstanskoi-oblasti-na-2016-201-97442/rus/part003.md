@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/97442/rus/15.03.2016
+source: https://zan.gov.kz/client/#!/doc/97442/rus/19.04.2016
 ---
 
 > *Приложение 3*  
@@ -1607,851 +1607,966 @@ source: https://zan.gov.kz/client/#!/doc/97442/rus/15.03.2016
 </table>
 
 > *Приложение 5*  
-> *к решению сессии Северо-Казахстанского областного маслихата*  
+> *к решению сессии*  
+> *Северо-Казахстанского областного маслихата*  
 > *от 14 декабря 2015 года № 40/1*
 
 # Расходы областного бюджета за счет свободных остатков бюджетных средств, сложившихся на начало финансового года, возврата целевых трансфертов республиканского и областного бюджетов, неиспользованных в 2015 году
 
-> *Сноска. Решение дополнено приложением 5 в соответствии с решением Северо-Казахстанского областного маслихата от 15.03.2016 № 42/8 (вводится в действие с 01.01.2016).*
+> *Сноска. Приложение 5 - в редакции решения маслихата Северо-Казахстанской области от 19.04.2016 № 2/1 (вводится в действие с 01.01.2016).*
 
 ## Доходы:
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
-<td>Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="12">Категория</td>
+<td colspan="9" rowspan="4">Наименование</td>
+<td colspan="7" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">Класс</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="9">Класс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2">Подкласс</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="6">Подкласс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Специфика</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Специфика</td>
 </tr>
 <tr>
-<td>2</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Неналоговые поступления</td>
-<td>5 873,8</td>
+<td colspan="3">2</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Неналоговые поступления</td>
+<td colspan="7">20 216,8</td>
 </tr>
 <tr>
-<td></td>
-<td>06</td>
-<td></td>
-<td></td>
-<td>Прочие неналоговые поступления</td>
-<td>5 873,8</td>
+<td colspan="3"></td>
+<td colspan="3">06</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Прочие неналоговые поступления</td>
+<td colspan="7">20 216,8</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td>Прочие неналоговые поступления</td>
-<td>5 873,8</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">1</td>
+<td colspan="3"></td>
+<td colspan="9">Прочие неналоговые поступления</td>
+<td colspan="7">20 216,8</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>07</td>
-<td>Возврат неиспользованных средств, ранее полученных из местного бюджета</td>
-<td>5 816,1</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">07</td>
+<td colspan="9">Возврат неиспользованных средств, ранее полученных из местного бюджета</td>
+<td colspan="7">5 816,1</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>09</td>
-<td>Другие неналоговые поступления в местный бюджет</td>
-<td>57,7</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">09</td>
+<td colspan="9">Другие неналоговые поступления в местный бюджет</td>
+<td colspan="7">14 400,7</td>
 </tr>
 <tr>
-<td>4</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Поступления трансфертов</td>
-<td>323 806,1</td>
+<td colspan="3">4</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Поступления трансфертов</td>
+<td colspan="7">325 306,1</td>
 </tr>
 <tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td></td>
-<td>Трансферты из нижестоящих органов государственного управления</td>
-<td>323 806,1</td>
+<td colspan="3"></td>
+<td colspan="3">01</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Трансферты из нижестоящих органов государственного управления</td>
+<td colspan="7">325 306,1</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>2</td>
-<td></td>
-<td>Трансферты из районных (городских) бюджетов</td>
-<td>323 806,1</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">2</td>
+<td colspan="3"></td>
+<td colspan="9">Трансферты из районных (городских) бюджетов</td>
+<td colspan="7">325 306,1</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>02</td>
-<td>Возврат целевых трансфертов</td>
-<td>309 719,9</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">02</td>
+<td colspan="9">Возврат целевых трансфертов</td>
+<td colspan="7">280 059,0</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>в том числе:</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">в том числе:</td>
+<td colspan="7"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Из республиканского бюджета:</td>
-<td>234 269,0</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Из республиканского бюджета:</td>
+<td colspan="7">204 608,1</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Айыртауский район</td>
-<td>6,9</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Айыртауский район</td>
+<td colspan="7">6,9</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Акжарский район</td>
-<td>23 491,6</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Акжарский район</td>
+<td colspan="7">23 491,6</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аккайынский район</td>
-<td>706,1</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Аккайынский район</td>
+<td colspan="7">706,1</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Есильский район</td>
-<td>12 347,7</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Есильский район</td>
+<td colspan="7">12 347,7</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбылский район</td>
-<td>299,4</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Жамбылский район</td>
+<td colspan="7">299,4</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Магжана Жумабаева</td>
-<td>5 523,6</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Магжана Жумабаева</td>
+<td colspan="7">5 523,6</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кызылжарский район</td>
-<td>24 306,4</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Кызылжарский район</td>
+<td colspan="7">24 306,4</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Мамлютский район</td>
-<td>8 638,0</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Мамлютский район</td>
+<td colspan="7">8 167,2</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>район имени Габита Мусрепова</td>
-<td>34,1</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">район имени Габита Мусрепова</td>
+<td colspan="7">34,1</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тайыншинский район</td>
-<td>18 817,9</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Тайыншинский район</td>
+<td colspan="7">18 325,2</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тимирязевский район</td>
-<td>2 798,1</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Тимирязевский район</td>
+<td colspan="7">2 798,1</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Уалихановский район</td>
-<td>932,2</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Уалихановский район</td>
+<td colspan="7">932,2</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>район Шал акына</td>
-<td>966,9</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">район Шал акына</td>
+<td colspan="7">966,9</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>город Петропавловск</td>
-<td>135 400,1</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">город Петропавловск</td>
+<td colspan="3">106 702,7</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Из областного бюджета:</td>
-<td>75 450,9</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Из областного бюджета:</td>
+<td colspan="3">75 450,9</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Айыртауский район</td>
-<td>0,4</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Айыртауский район</td>
+<td colspan="3">0,4</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аккайынский район</td>
-<td>0,6</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Аккайынский район</td>
+<td colspan="3">0,6</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Есильский район</td>
-<td>0,4</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Есильский район</td>
+<td colspan="3">0,4</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбылский район</td>
-<td>0,2</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Жамбылский район</td>
+<td colspan="3">0,2</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Магжана Жумабаева</td>
-<td>2 351,7</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Магжана Жумабаева</td>
+<td colspan="3">2 351,7</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кызылжарский район</td>
-<td>896,7</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Кызылжарский район</td>
+<td colspan="3">896,7</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Мамлютский район</td>
-<td>0,7</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Мамлютский район</td>
+<td colspan="3">0,7</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>район имени Габита Мусрепова</td>
-<td>0,2</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">район имени Габита Мусрепова</td>
+<td colspan="3">0,2</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тайыншинский район</td>
-<td>140,1</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Тайыншинский район</td>
+<td colspan="3">140,1</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Уалихановский район</td>
-<td>7 863,2</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Уалихановский район</td>
+<td colspan="3">7 863,2</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Шал акына</td>
-<td>0,5</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Шал акына</td>
+<td colspan="3">0,5</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>город Петропавловск</td>
-<td>64 196,2</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">город Петропавловск</td>
+<td colspan="3">64 196,2</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>03</td>
-<td>Возврат, использованных не по целевому назначению целевых трансфертов</td>
-<td>14 085</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">03</td>
+<td colspan="9">Возврат, использованных не по целевому назначению целевых трансфертов</td>
+<td colspan="3">15 585</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>в том числе:</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">в том числе:</td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Акжарский район</td>
-<td>14 085</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Акжарский район</td>
+<td colspan="3">14 085</td>
 </tr>
 <tr>
-<td colspan="4">Категория</td>
-<td>Наименование</td>
-<td rowspan="4">Сумма, тысяч тенге</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="9">Кызылжарский район</td>
+<td colspan="3">1 500</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">Класс</td>
-<td></td>
+<td colspan="14">Категория</td>
+<td colspan="7" rowspan="4">Наименование</td>
+<td colspan="3" rowspan="4">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td colspan="2">Подкласс</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="11">Класс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Специфика</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="9">Подкласс</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>14</td>
-<td>Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов на развитие, выделенных в истекшем финансовом году, разрешенных доиспользовать по решению Правительства Республики Казахстан</td>
-<td>1,2</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6">Специфика</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>в том числе:</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6">14</td>
+<td colspan="7">Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов на развитие, выделенных в истекшем финансовом году, разрешенных доиспользовать по решению Правительства Республики Казахстан</td>
+<td colspan="3">1,2</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аккайынский район</td>
-<td>0,1</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="7">в том числе:</td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>город Петропавловск</td>
-<td>1,1</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="7">Аккайынский район</td>
+<td colspan="3">0,1</td>
 </tr>
 <tr>
-<td>8</td>
-<td></td>
-<td></td>
-<td></td>
-<td>Используемые остатки бюджетных средств</td>
-<td>126 829</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="7">город Петропавловск</td>
+<td colspan="3">1,1</td>
 </tr>
 <tr>
-<td></td>
-<td>01</td>
-<td></td>
-<td></td>
-<td>Остатки бюджетных средств</td>
-<td>126 829</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6">16</td>
+<td colspan="7">Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов, выделенных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан</td>
+<td colspan="3">29 660,9</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td>1</td>
-<td></td>
-<td>Свободные остатки бюджетных средств</td>
-<td>126 829</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="7">в том числе:</td>
+<td colspan="3"></td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td>01</td>
-<td>Свободные остатки бюджетных средств</td>
-<td>126 829</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="7">Мамлютский район</td>
+<td colspan="3">470,8</td>
 </tr>
 <tr>
-<td colspan="4">Всего:</td>
-<td></td>
-<td>456 508,9</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="7">Тайыншинский район</td>
+<td colspan="3">492,7</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="7">город Петропавловск</td>
+<td colspan="3">28 697,4</td>
+</tr>
+<tr>
+<td colspan="3">5</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="7">Погашение бюджетных кредитов</td>
+<td colspan="3">56 728,9</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="7">Погашение бюджетных кредитов</td>
+<td colspan="3">56 728,9</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">2</td>
+<td colspan="6"></td>
+<td colspan="7">Возврат сумм бюджетных кредитов</td>
+<td colspan="5">56 728,9</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6">04</td>
+<td colspan="7">Возврат из бюджетов районов (городов областного значения) неиспользованных бюджетных кредитов, выданных из областного бюджета</td>
+<td colspan="5">56 728,9</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="7">в том числе:</td>
+<td colspan="5"></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="7">город Петропавловск</td>
+<td colspan="5">56 728,9</td>
+</tr>
+<tr>
+<td colspan="3">8</td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="7">Используемые остатки бюджетных средств</td>
+<td colspan="5">126 829</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">01</td>
+<td colspan="3"></td>
+<td colspan="6"></td>
+<td colspan="7">Остатки бюджетных средств</td>
+<td colspan="5">126 829</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3">1</td>
+<td colspan="6"></td>
+<td colspan="7">Свободные остатки бюджетных средств</td>
+<td colspan="5">126 829</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="6">01</td>
+<td colspan="7">Свободные остатки бюджетных средств</td>
+<td colspan="5">126 829</td>
+</tr>
+<tr>
+<td colspan="14">Всего:</td>
+<td colspan="7"></td>
+<td colspan="5">529 080,8</td>
 </tr>
 </table>
 
-## Расходы:
+Расходы:
 
 <table>
 <tr>
-<td>Функцио- нальная группа</td>
-<td>Админис- тратор</td>
-<td>Про грамма</td>
+<td colspan="7">Функцио- нальная группа</td>
+<td colspan="4">Админис- тратор</td>
+<td colspan="4">Про грамма</td>
 <td>Под програм ма</td>
-<td>Наименование</td>
-<td>Сумма, тысяч тенге</td>
+<td colspan="7">Наименование</td>
+<td colspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td>1</td>
-<td>257</td>
+<td colspan="7">1</td>
+<td colspan="4">257</td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td>Управление финансов области</td>
-<td>7 000</td>
+<td colspan="7">Управление финансов области</td>
+<td colspan="3">7 000</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4">001</td>
 <td></td>
-<td></td>
-<td>001</td>
-<td></td>
-<td>Услуги по реализации государственной политики в области исполнения местного бюджета и управления коммунальной собственностью области</td>
-<td>7 000</td>
+<td colspan="7">Услуги по реализации государственной политики в области исполнения местного бюджета и управления коммунальной собственностью области</td>
+<td colspan="3">7 000</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td>015</td>
-<td>За счет средств местного бюджета</td>
-<td>7 000</td>
+<td colspan="7">За счет средств местного бюджета</td>
+<td colspan="3">7 000</td>
 </tr>
 <tr>
-<td>2</td>
-<td>120</td>
+<td colspan="7">2</td>
+<td colspan="4">120</td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td>Аппарат акима области</td>
-<td>29 084,1</td>
+<td colspan="7">Аппарат акима области</td>
+<td colspan="3">29 084,1</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4">012</td>
 <td></td>
-<td></td>
-<td>012</td>
-<td></td>
-<td>Мобилизационная подготовка и мобилизация областного масштаба</td>
-<td>29 084,1</td>
+<td colspan="7">Мобилизационная подготовка и мобилизация областного масштаба</td>
+<td colspan="3">29 084,1</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td>015</td>
-<td>За счет средств местного бюджета</td>
-<td>29 084,1</td>
+<td colspan="7">За счет средств местного бюджета</td>
+<td colspan="3">29 084,1</td>
 </tr>
 <tr>
-<td>7</td>
-<td>253</td>
+<td colspan="7">7</td>
+<td colspan="4">253</td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td>Управление здравоохранения области</td>
-<td>17 328</td>
+<td colspan="7">Управление здравоохранения области</td>
+<td colspan="3">17 328</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4">047</td>
 <td></td>
-<td></td>
-<td>047</td>
-<td></td>
-<td>Ремонт объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
-<td>17 328</td>
+<td colspan="7">Ремонт объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
+<td colspan="3">17 328</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td>015</td>
-<td>За счет средств местного бюджета</td>
-<td>17 328</td>
+<td colspan="7">За счет средств местного бюджета</td>
+<td colspan="3">17 328</td>
 </tr>
 <tr>
-<td>7</td>
-<td>256</td>
+<td colspan="7">7</td>
+<td colspan="4">256</td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td>Управление координации занятости и социальных программ области</td>
-<td>1 756</td>
+<td colspan="7">Управление координации занятости и социальных программ области</td>
+<td colspan="3">1 756</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4">043</td>
 <td></td>
-<td></td>
-<td>043</td>
-<td></td>
-<td>Ремонт объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
-<td>1 756</td>
+<td colspan="7">Ремонт объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
+<td colspan="3">1 756</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td>015</td>
-<td>За счет средств местного бюджета</td>
-<td>1 756</td>
+<td colspan="7">За счет средств местного бюджета</td>
+<td colspan="3">1 756</td>
 </tr>
 <tr>
-<td>7</td>
-<td>261</td>
+<td colspan="7">7</td>
+<td colspan="4">261</td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td>Управление образования области</td>
-<td>77 012</td>
+<td colspan="7">Управление образования области</td>
+<td colspan="3">77 012</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4">062</td>
 <td></td>
-<td></td>
-<td>062</td>
-<td></td>
-<td>Целевые текущие трансферты бюджетам районов (городов областного значения) на развитие городов и сельских населенных пунктов в рамках Дорожной карты занятости 2020</td>
-<td>64 019</td>
+<td colspan="7">Целевые текущие трансферты бюджетам районов (городов областного значения) на развитие городов и сельских населенных пунктов в рамках Дорожной карты занятости 2020</td>
+<td colspan="3">64 019</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td>015</td>
-<td>За счет средств местного бюджета</td>
-<td>64 019</td>
+<td colspan="7">За счет средств местного бюджета</td>
+<td colspan="3">64 019</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>в том числе:</td>
-<td></td>
+<td colspan="7">в том числе:</td>
+<td colspan="3"></td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Айыртауский район</td>
-<td>2 863</td>
+<td colspan="7">Айыртауский район</td>
+<td colspan="3">2 863</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Акжарский район</td>
-<td>10 348</td>
+<td colspan="7">Акжарский район</td>
+<td colspan="3">10 348</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Аккайынский район</td>
-<td>1 440</td>
+<td colspan="7">Аккайынский район</td>
+<td colspan="3">1 440</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Есильский район</td>
-<td>5 895</td>
+<td colspan="7">Есильский район</td>
+<td colspan="3">5 895</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Жамбылский район</td>
-<td>508</td>
+<td colspan="7">Жамбылский район</td>
+<td colspan="3">508</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Кызылжарский район</td>
-<td>3 241</td>
+<td colspan="7">Кызылжарский район</td>
+<td colspan="3">3 241</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Мамлютский район</td>
-<td>5 516</td>
+<td colspan="7">Мамлютский район</td>
+<td colspan="3">5 516</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тайыншинский район</td>
-<td>5 718</td>
+<td colspan="7">Тайыншинский район</td>
+<td colspan="3">5 718</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Тимирязевский район</td>
-<td>8 436</td>
+<td colspan="7">Тимирязевский район</td>
+<td colspan="3">8 436</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Уалихановский район</td>
-<td>8 610</td>
+<td colspan="7">Уалихановский район</td>
+<td colspan="3">8 610</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>район Шал акына</td>
-<td>4 345</td>
+<td colspan="7">район Шал акына</td>
+<td colspan="3">4 345</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>город Петропавловск</td>
-<td>7 099</td>
+<td colspan="7">город Петропавловск</td>
+<td colspan="3">7 099</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4">064</td>
 <td></td>
-<td></td>
-<td>064</td>
-<td></td>
-<td>Ремонт объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
-<td>12 993</td>
+<td colspan="7">Ремонт объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
+<td colspan="3">12 993</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td>015</td>
-<td>За счет средств местного бюджета</td>
-<td>12 993</td>
+<td colspan="7">За счет средств местного бюджета</td>
+<td colspan="3">12 993</td>
 </tr>
 <tr>
-<td>7</td>
-<td>273</td>
+<td colspan="7">7</td>
+<td colspan="4">273</td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td>Управление культуры, архивов и документации области</td>
-<td>21 994</td>
+<td colspan="7">Управление культуры, архивов и документации области</td>
+<td colspan="3">21 994</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4">015</td>
 <td></td>
-<td></td>
+<td colspan="7">Целевые текущие трансферты бюджетам районов (городов областного значения) на развитие городов и сельских населенных пунктов в рамках Дорожной карты занятости 2020</td>
+<td colspan="3">16 564</td>
+</tr>
+<tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td>015</td>
-<td></td>
-<td>Целевые текущие трансферты бюджетам районов (городов областного значения) на развитие городов и сельских населенных пунктов в рамках Дорожной карты занятости 2020</td>
-<td>16 564</td>
+<td colspan="7">За счет средств местного бюджета</td>
+<td colspan="3">16 564</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td></td>
+<td colspan="7">в том числе по районам:</td>
+<td colspan="3"></td>
+</tr>
+<tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td></td>
+<td colspan="7">Айыртауский</td>
+<td colspan="3">3 009</td>
+</tr>
+<tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td></td>
+<td colspan="7">Акжарский</td>
+<td colspan="3">2 939</td>
+</tr>
+<tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="7">имени Габита Мусрепова</td>
+<td colspan="3">2 620</td>
+</tr>
+<tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
+<td></td>
+<td colspan="7">Уалихановский</td>
+<td colspan="3">7 996</td>
+</tr>
+<tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4">016</td>
+<td></td>
+<td colspan="7">Ремонт объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
+<td colspan="3">5 430</td>
+</tr>
+<tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td>015</td>
-<td>За счет средств местного бюджета</td>
-<td>16 564</td>
+<td colspan="7">За счет средств местного бюджета</td>
+<td colspan="3">5 430</td>
 </tr>
 <tr>
+<td colspan="7">7</td>
+<td colspan="4">285</td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>в том числе по районам:</td>
-<td></td>
+<td colspan="7">Управление физической культуры и спорта области</td>
+<td colspan="3">1 739</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4">010</td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Айыртауский</td>
-<td>3 009</td>
+<td colspan="7">Ремонт объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
+<td colspan="3">1 739</td>
 </tr>
 <tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Акжарский</td>
-<td>2 939</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>имени Габита Мусрепова</td>
-<td>2 620</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td>Уалихановский</td>
-<td>7 996</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>016</td>
-<td></td>
-<td>Ремонт объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
-<td>5 430</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4"></td>
 <td>015</td>
-<td>За счет средств местного бюджета</td>
-<td>5 430</td>
+<td colspan="7">За счет средств местного бюджета</td>
+<td colspan="3">1 739</td>
 </tr>
 <tr>
-<td>7</td>
-<td>285</td>
+<td colspan="7">15</td>
+<td colspan="4">257</td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td>Управление физической культуры и спорта области</td>
-<td>1 739</td>
+<td colspan="7">Управление финансов области</td>
+<td colspan="3">316 438,8</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4">011</td>
 <td></td>
-<td></td>
-<td>010</td>
-<td></td>
-<td>Ремонт объектов в рамках развития городов и сельских населенных пунктов по Дорожной карте занятости 2020</td>
-<td>1 739</td>
+<td colspan="7">Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
+<td colspan="3">256 848,7</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4">017</td>
 <td></td>
-<td></td>
-<td></td>
-<td>015</td>
-<td>За счет средств местного бюджета</td>
-<td>1 739</td>
+<td colspan="7">Возврат, использованных не по целевому назначению целевых трансфертов</td>
+<td colspan="3">29 928</td>
 </tr>
 <tr>
-<td>15</td>
-<td>257</td>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4">052</td>
 <td></td>
-<td></td>
-<td>Управление финансов области</td>
-<td>300 595,8</td>
+<td colspan="7">Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов на развитие, выделенных в истекшем финансовом году, разрешенных доиспользовать по решению Правительства Республики Казахстан</td>
+<td colspan="3">1,2</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4">053</td>
 <td></td>
-<td></td>
-<td>011</td>
-<td></td>
-<td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
-<td>286 509,6</td>
+<td colspan="7">Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов, выделенных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан</td>
+<td colspan="3">29 660,9</td>
 </tr>
 <tr>
+<td colspan="7">16</td>
+<td colspan="4">257</td>
+<td colspan="4"></td>
 <td></td>
-<td></td>
-<td>017</td>
-<td></td>
-<td>Возврат, использованных не по целевому назначению целевых трансфертов</td>
-<td>14 085</td>
+<td colspan="7">Управление финансов области</td>
+<td colspan="3">56 728,9</td>
 </tr>
 <tr>
+<td colspan="7"></td>
+<td colspan="4"></td>
+<td colspan="4">018</td>
 <td></td>
-<td></td>
-<td>052</td>
-<td></td>
-<td>Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов на развитие, выделенных в истекшем финансовом году, разрешенных доиспользовать по решению Правительства Республики Казахстан</td>
-<td>1,2</td>
+<td colspan="7">Возврат неиспользованных бюджетных кредитов, выданных из республиканского бюджета</td>
+<td colspan="3">56 728,9</td>
 </tr>
 <tr>
-<td colspan="4">Всего:</td>
-<td></td>
-<td>456 508,9</td>
+<td colspan="16">Всего:</td>
+<td colspan="7"></td>
+<td colspan="3">529 080,8</td>
 </tr>
 </table>
