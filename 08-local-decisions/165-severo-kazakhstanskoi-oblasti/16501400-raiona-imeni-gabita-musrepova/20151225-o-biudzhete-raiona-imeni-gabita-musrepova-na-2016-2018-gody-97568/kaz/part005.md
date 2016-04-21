@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97568/kaz/18.03.2016
+source: https://zan.gov.kz/client/#!/doc/97568/kaz/21.04.2016
 ---
 
 > *Аудан мәслихатының*  
