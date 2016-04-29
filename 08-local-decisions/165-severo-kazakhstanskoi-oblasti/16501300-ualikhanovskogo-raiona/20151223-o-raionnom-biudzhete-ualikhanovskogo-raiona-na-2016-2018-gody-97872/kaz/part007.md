@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97872/kaz/24.03.2016
+source: https://zan.gov.kz/client/#!/doc/97872/kaz/29.04.2016
 ---
 
 > *Уәлиханов аудандық маслихатының*  
