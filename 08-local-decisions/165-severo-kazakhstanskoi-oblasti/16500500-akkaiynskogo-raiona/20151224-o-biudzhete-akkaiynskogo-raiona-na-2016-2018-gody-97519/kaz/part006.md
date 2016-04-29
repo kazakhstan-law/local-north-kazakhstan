@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/97519/kaz/18.03.2016
+source: https://zan.gov.kz/client/#!/doc/97519/kaz/29.04.2016
 ---
 
 > *Аққайың ауданы мәслихатының*  
