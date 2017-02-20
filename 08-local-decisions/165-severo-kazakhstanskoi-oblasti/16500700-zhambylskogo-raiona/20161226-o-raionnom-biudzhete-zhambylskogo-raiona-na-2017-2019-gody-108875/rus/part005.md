@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/108875/rus/26.12.2016
+source: https://zan.gov.kz/client/#!/doc/108875/rus/20.02.2017
 ---
 
 > *Приложение 5*  
@@ -9,783 +9,876 @@ source: https://zan.gov.kz/client/#!/doc/108875/rus/26.12.2016
 
 # Расходы по сельским округам Жамбылского района на 2017 год
 
+> *Сноска. Приложение 5 - в редакции решения Жамбылского районного маслихата Северо-Казахстанской области от 20.02.2017 № 9/3 (вводится в действие с 01.01.2017).*
+
 <table>
 <tr>
 <td>Функциональная группа</td>
 <td>Администратор</td>
 <td>Программа</td>
 <td colspan="3">Наименование</td>
-<td colspan="2">Сумма (тысяч тенге)</td>
+<td>Сумма (тысяч тенге)</td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td></td>
 <td colspan="3">Государственные услуги общего характера</td>
-<td colspan="2">177 907</td>
+<td>188 510</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
 <td></td>
 <td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">177 907</td>
+<td>188 510</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td colspan="3">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">171 607</td>
+<td>171 772</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">в том числе:</td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Архангельский сельский округ</td>
-<td colspan="2">16 714</td>
+<td>16 794</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Благовещенский сельский округ</td>
-<td colspan="2">17 532</td>
+<td>17 272</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Жамбылский сельский округ</td>
-<td colspan="2">11 009</td>
+<td>11 089</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Казанский сельский округ</td>
-<td colspan="2">10 541</td>
+<td>10 541</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Кайранкольский сельский округ</td>
-<td colspan="2">12 629</td>
+<td>12 629</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Кладбинский сельский округ</td>
-<td colspan="2">13 894</td>
+<td>13 974</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Майбалыкский сельский округ</td>
-<td colspan="2">12 087</td>
+<td>12 167</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Мирный сельский округ</td>
-<td colspan="2">12 491</td>
+<td>12 651</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Озерный сельский округ</td>
-<td colspan="2">9 580</td>
+<td>9 580</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Первомайский сельский округ</td>
-<td colspan="2">12 749</td>
+<td>12 614</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Пресновский сельский округ</td>
-<td colspan="2">22 261</td>
+<td>22 261</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Пресноредутский сельский округ</td>
-<td colspan="2">11 519</td>
+<td>11 599</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Троицкий сельский округ</td>
-<td colspan="2">8 601</td>
+<td>8 601</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>022</td>
 <td colspan="3">Капитальные расходы государственного органа</td>
-<td colspan="2">6 300</td>
+<td>16 738</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">в том числе:</td>
-<td colspan="2"></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Архангельский сельский округ</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Благовещенский сельский округ</td>
+<td>460</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Жамбылский сельский округ</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Казанский сельский округ</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Кайранкольский сельский округ</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Кладбинский сельский округ</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Майбалыкский сельский округ</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Мирный сельский округ</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Озерный сельский округ</td>
+<td>8 848</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Первомайский сельский округ</td>
+<td>415</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Пресновский сельский округ</td>
-<td colspan="2">6 300</td>
+<td>5 215</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Пресноредутский сельский округ</td>
+<td>200</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3">Троицкий сельский округ</td>
+<td>200</td>
 </tr>
 <tr>
 <td>04</td>
 <td></td>
 <td></td>
 <td colspan="3">Образование</td>
-<td colspan="2">11 844</td>
+<td>5 803</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
 <td></td>
 <td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">11 844</td>
+<td>5 803</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>005</td>
 <td colspan="3">Организация бесплатного подвоза учащихся до школы и обратно в сельской местности</td>
-<td colspan="2">11 844</td>
+<td>5 803</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">в том числе:</td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Архангельский сельский округ</td>
-<td colspan="2">990</td>
+<td>490</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Благовещенский сельский округ</td>
-<td colspan="2">712</td>
+<td>347</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Жамбылский сельский округ</td>
-<td colspan="2">1 651</td>
+<td>805</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Казанский сельский округ</td>
-<td colspan="2">588</td>
+<td>283</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Кайранкольский сельский округ</td>
-<td colspan="2">793</td>
+<td>388</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Кладбинский сельский округ</td>
-<td colspan="2">1 086</td>
+<td>536</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Майбалыкский сельский округ</td>
-<td colspan="2">1 172</td>
+<td>577</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Мирный сельский округ</td>
-<td colspan="2">872</td>
+<td>427</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Озерный сельский округ</td>
-<td colspan="2">786</td>
+<td>381</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Первомайский сельский округ</td>
-<td colspan="2">752</td>
+<td>367</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Пресновский сельский округ</td>
-<td colspan="2">743</td>
+<td>363</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Пресноредутский сельский округ</td>
-<td colspan="2">821</td>
+<td>406</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Троицкий сельский округ</td>
-<td colspan="2">878</td>
+<td>433</td>
 </tr>
 <tr>
 <td>07</td>
 <td></td>
 <td></td>
 <td colspan="3">Жилищно-коммунальное хозяйство</td>
-<td colspan="2">22 094</td>
+<td>27 519</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
 <td></td>
 <td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">22 094</td>
+<td>27 519</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>008</td>
 <td colspan="3">Освещение улиц населенных пунктов</td>
-<td colspan="2">15 772</td>
+<td>20 172</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">в том числе:</td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Архангельский сельский округ</td>
-<td colspan="2">260</td>
+<td>260</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Благовещенский сельский округ</td>
-<td colspan="2">2 400</td>
+<td>2 400</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Жамбылский сельский округ</td>
-<td colspan="2">260</td>
+<td>260</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Казанский сельский округ</td>
-<td colspan="2">510</td>
+<td>510</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Кайранкольский сельский округ</td>
-<td colspan="2">380</td>
+<td>380</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Кладбинский сельский округ</td>
-<td colspan="2">514</td>
+<td>514</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Майбалыкский сельский округ</td>
-<td colspan="2">1 190</td>
+<td>1 190</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Мирный сельский округ</td>
-<td colspan="2">222</td>
+<td>222</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Озерный сельский округ</td>
-<td colspan="2">230</td>
+<td>230</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Первомайский сельский округ</td>
-<td colspan="2">380</td>
+<td>380</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Пресновский сельский округ</td>
-<td colspan="2">9 000</td>
+<td>13 400</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Пресноредутский сельский округ</td>
-<td colspan="2">331</td>
+<td>331</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Троицкий сельский округ</td>
-<td colspan="2">95</td>
+<td>95</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>009</td>
 <td colspan="3">Обеспечение санитарии населенных пунктов</td>
-<td colspan="2">3 000</td>
+<td>3 000</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">в том числе:</td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Архангельский сельский округ</td>
-<td colspan="2">200</td>
+<td>200</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Благовещенский сельский округ</td>
-<td colspan="2">300</td>
+<td>300</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Жамбылский сельский округ</td>
-<td colspan="2">120</td>
+<td>120</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Казанский сельский округ</td>
-<td colspan="2">200</td>
+<td>200</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Кайранкольский сельский округ</td>
-<td colspan="2">250</td>
+<td>250</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Кладбинский сельский округ</td>
-<td colspan="2">210</td>
+<td>210</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Майбалыкский сельский округ</td>
-<td colspan="2">200</td>
+<td>200</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Мирный сельский округ</td>
-<td colspan="2">240</td>
+<td>240</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Озерный сельский округ</td>
-<td colspan="2">150</td>
+<td>150</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Первомайский сельский округ</td>
-<td colspan="2">210</td>
+<td>210</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Пресновский сельский округ</td>
-<td colspan="2">640</td>
+<td>640</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Пресноредутский сельский округ</td>
-<td colspan="2">160</td>
+<td>160</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Троицкий сельский округ</td>
-<td colspan="2">120</td>
+<td>120</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>010</td>
 <td colspan="3">Содержание мест захоронений и погребение безродных</td>
-<td colspan="2">172</td>
+<td>172</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">в том числе:</td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Пресновский сельский округ</td>
-<td colspan="2">172</td>
+<td>172</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>011</td>
 <td colspan="3">Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">3 150</td>
+<td>4 175</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">в том числе:</td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Пресновский сельский округ</td>
-<td colspan="2">3 150</td>
+<td>4 175</td>
 </tr>
 <tr>
 <td>08</td>
 <td></td>
 <td></td>
 <td colspan="3">Культура, спорт, туризм и информационное пространство</td>
-<td colspan="2">31 824</td>
+<td>31 824</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
 <td></td>
 <td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">31 824</td>
+<td>31 824</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>006</td>
 <td colspan="3">Поддержка культурно-досуговой работы на местном уровне</td>
-<td colspan="2">31 824</td>
+<td>31 824</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">в том числе:</td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Архангельский сельский округ</td>
-<td colspan="2">1 641</td>
+<td>1 641</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Благовещенский сельский округ</td>
-<td colspan="2">11 409</td>
+<td>11 409</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Казанский сельский округ</td>
-<td colspan="2">5 446</td>
+<td>5 446</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Кайранкольский сельский округ</td>
-<td colspan="2">1 251</td>
+<td>1 251</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Кладбинский сельский округ</td>
-<td colspan="2">2 221</td>
+<td>2 221</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Майбалыкский сельский округ</td>
-<td colspan="2">5 701</td>
+<td>5 701</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Мирный сельский округ</td>
-<td colspan="2">356</td>
+<td>356</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Пресновский сельский округ</td>
-<td colspan="2">3 799</td>
+<td>3 799</td>
 </tr>
 <tr>
 <td>12</td>
 <td></td>
 <td></td>
 <td colspan="3">Транспорт и коммуникации</td>
-<td colspan="2">4 000</td>
+<td>4 000</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
 <td></td>
 <td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">4 000</td>
+<td>4 000</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>013</td>
 <td colspan="3">Обеспечение функционирования автомобильных дорог в городах районного значения, поселках, селах, сельских округах</td>
-<td colspan="2">4 000</td>
+<td>4 000</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">в том числе:</td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Пресновский сельский округ</td>
-<td colspan="2">4 000</td>
+<td>4 000</td>
 </tr>
 <tr>
 <td>13</td>
 <td></td>
 <td></td>
 <td colspan="3">Прочие</td>
-<td colspan="2">21 654</td>
+<td>21 654</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
 <td></td>
 <td colspan="3">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td colspan="2">21 654</td>
+<td>21 654</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>040</td>
 <td colspan="3">Реализация мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
-<td colspan="2">21 654</td>
+<td>21 654</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">в том числе:</td>
-<td colspan="2"></td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Архангельский сельский округ</td>
-<td colspan="2">1 432</td>
+<td>1 432</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Благовещенский сельский округ</td>
-<td colspan="2">3 306</td>
+<td>3 306</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Жамбылский сельский округ</td>
-<td colspan="2">818</td>
+<td>818</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Казанский сельский округ</td>
-<td colspan="2">971</td>
+<td>971</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Кайранкольский сельский округ</td>
-<td colspan="2">1 384</td>
+<td>1 384</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Кладбинский сельский округ</td>
-<td colspan="2">1 569</td>
+<td>1 569</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Майбалыкский сельский округ</td>
-<td colspan="2">908</td>
+<td>908</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Мирный сельский округ</td>
-<td colspan="2">1 366</td>
+<td>1 366</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Озерный сельский округ</td>
-<td colspan="2">964</td>
+<td>964</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Первомайский сельский округ</td>
-<td colspan="2">928</td>
+<td>928</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Пресновский сельский округ</td>
-<td colspan="2">6 501</td>
+<td>6 501</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Пресноредутский сельский округ</td>
-<td colspan="2">789</td>
+<td>789</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Троицкий сельский округ</td>
-<td colspan="2">718</td>
+<td>718</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="3">Всего</td>
-<td colspan="2">269 323</td>
+<td>279 310</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="3"></td>
+<td></td>
 </tr>
 </table>
 
@@ -2147,5 +2240,272 @@ source: https://zan.gov.kz/client/#!/doc/108875/rus/26.12.2016
 <td>13</td>
 <td colspan="3">Троицкий сельский округ</td>
 <td>34</td>
+</tr>
+</table>
+
+> *Приложение 9*  
+> *к решению маслихата Жамбылского района*  
+> *от 26 декабря 2016 года № 7/1*
+
+# Расходы районного бюджета за счет свободных остатков бюджетных средств, сложившихся на 1 января 2017 года, и возврата целевых трансфертов республиканского и областного бюджетов, Национального фонда Республики Казахстан неиспользованных в 2016 году
+
+> *Сноска. Решение дополнено приложением 9 в соответствии с решением Жамбылского районного маслихата Северо-Казахстанской области от 20.02.2017 № 9/3 (вводится в действие с 01.01.2017).*
+
+<table>
+<tr>
+<td>Функциональная группа</td>
+<td colspan="2">Администратор</td>
+<td colspan="2">Программа</td>
+<td colspan="6">Наименование</td>
+<td colspan="2">Сумма (тысяч тенге)</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Государственные услуги общего характера</td>
+<td colspan="2">27 989,6</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">122</td>
+<td colspan="2"></td>
+<td colspan="6">Аппарат акима района (города областного значения)</td>
+<td colspan="2">19 059,6</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
+<td colspan="6">Услуги по обеспечению деятельности акима района (города областного значения)</td>
+<td colspan="2">4 763,6</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">003</td>
+<td colspan="6">Капитальные расходы государственного органа</td>
+<td colspan="2">14 296</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">123</td>
+<td colspan="2"></td>
+<td colspan="6">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td colspan="2">855</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
+<td colspan="6">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td colspan="2">640</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">022</td>
+<td colspan="6">Капитальные расходы государственного органа</td>
+<td colspan="2">215</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">458</td>
+<td colspan="2"></td>
+<td colspan="6">Отдел жилищно-коммунального хозяйства, пассажирского транспорта и автомобильных дорог района (города областного значения)</td>
+<td colspan="2">8 075</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">013</td>
+<td colspan="6">Капитальные расходы государственного органа</td>
+<td colspan="2">8 075</td>
+</tr>
+<tr>
+<td>02</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Оборона</td>
+<td colspan="2">2 565</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">122</td>
+<td colspan="2"></td>
+<td colspan="6">Аппарат акима района (города областного значения)</td>
+<td colspan="2">2 565</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">005</td>
+<td colspan="6">Мероприятия в рамках исполнения всеобщей воинской обязанности</td>
+<td colspan="2">1 065</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
+<td colspan="6">Предупреждение и ликвидация чрезвычайных ситуаций масштаба района (города областного значения)</td>
+<td colspan="2">1 500</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Жилищно - коммунальное хозяйство</td>
+<td colspan="2">4 125</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">123</td>
+<td colspan="2"></td>
+<td colspan="6">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td colspan="2">4 125</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">008</td>
+<td colspan="6">Освещение улиц населенных пунктов</td>
+<td colspan="2">3 100</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">011</td>
+<td colspan="6">Благоустройство и озеленение населенных пунктов</td>
+<td colspan="2">1 025</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Культура, спорт, туризм и информационное пространство</td>
+<td colspan="2">900</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">455</td>
+<td colspan="2"></td>
+<td colspan="6">Отдел культуры и развития языков района (города областного значения)</td>
+<td colspan="2">900</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
+<td colspan="6">Функционирование районных (городских) библиотек</td>
+<td colspan="2">900</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Сельское, водное, лесное, рыбное хозяйство, особо охраняемые природные территории, охрана окружающей среды и животного мира, земельные отношения</td>
+<td colspan="2">6 600</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">473</td>
+<td colspan="2"></td>
+<td colspan="6">Отдел ветеринарии района (города областного значения)</td>
+<td colspan="2">1 300</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">010</td>
+<td colspan="6">Проведение мероприятий по идентификации сельскохозяйственных животных</td>
+<td colspan="2">1 300</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">463</td>
+<td colspan="2"></td>
+<td colspan="6">Отдел земельных отношений района (города областного значения)</td>
+<td colspan="2">5 300</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">007</td>
+<td colspan="6">Капитальные расходы государственного органа</td>
+<td colspan="2">5 300</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">Трансферты</td>
+<td colspan="2">12090,6</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">459</td>
+<td colspan="2"></td>
+<td colspan="6">Отдел экономики и финансов района (города областного значения)</td>
+<td colspan="2">12090,6</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
+<td colspan="6">Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
+<td colspan="2">12090,6</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="6">итого</td>
+<td colspan="2">54 270,2</td>
+</tr>
+</table>
+
+> *Приложение 10*  
+> *к решению маслихата Жамбылского района*  
+> *от 26 декабря 2016 года № 7/1*
+
+# Использование (доиспользование) в 2017 году неиспользованных (недоиспользованных) сумм целевых трансфертов на развитие, выделенных из областного бюджета в 2016 году, с соблюдением их целевого назначения
+
+> *Сноска. Решение дополнено приложением 10 в соответствии с решением Жамбылского районного маслихата Северо-Казахстанской области от 20.02.2017 № 9/3 (вводится в действие с 01.01.2017).*
+
+<table>
+<tr>
+<td colspan="2">Функциональная группа</td>
+<td colspan="2">Администратор</td>
+<td colspan="2">Программа</td>
+<td colspan="5">Наименование</td>
+<td colspan="3">Сумма (тысяч тенге)</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5">Итого</td>
+<td colspan="3">26337</td>
+</tr>
+<tr>
+<td colspan="2">7</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="5">Жилищно - коммунальное хозяйство</td>
+<td colspan="3">26337</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">472</td>
+<td colspan="2"></td>
+<td colspan="5">Отдел строительства, архитектуры и градостроительства района (города областного значения)</td>
+<td colspan="3">26337</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">072</td>
+<td colspan="5">Строительство служебного жилища, развитие инженерно-коммуникационной инфраструктуры и строительство, достройка общежитий для молодежи в рамках Программы развития продуктивной занятости и массового предпринимательства</td>
+<td colspan="3">26337</td>
 </tr>
 </table>
