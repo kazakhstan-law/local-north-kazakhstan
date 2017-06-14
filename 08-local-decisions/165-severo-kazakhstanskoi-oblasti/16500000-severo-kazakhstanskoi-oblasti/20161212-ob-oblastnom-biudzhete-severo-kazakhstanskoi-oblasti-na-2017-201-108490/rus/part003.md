@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/108490/rus/11.04.2017
+source: https://zan.gov.kz/client/#!/doc/108490/rus/14.06.2017
 ---
 
 > *Приложение 3 к решению сессии*  
@@ -1712,593 +1712,590 @@ source: https://zan.gov.kz/client/#!/doc/108490/rus/11.04.2017
 
 # Расходы областного бюджета на 2017 год за счет возврата неиспользованных (недоиспользованных) в 2016 году целевых трансфертов из областного бюджета и республиканского бюджета, в том числе за счет целевого трансферта из Национального фонда Республики Казахстан
 
-> *Сноска. Решение дополнено приложением 5 в соответствии с решением маслихата Северо-Казахстанской области от 23.02.2017 № 11/5 (вводится в действие с 01.01.2017); в редакции - решения Северо-Казахстанского областного маслихата от 11.04.2017 № 13/23 (вводится в действие с 01.01.2017).*
+> *Сноска. Решение дополнено приложением 5 в соответствии с решением маслихата Северо-Казахстанской области от 23.02.2017 № 11/5 (вводится в действие с 01.01.2017); в редакции - решения Северо-Казахстанского областного маслихата от 14.06.2017 № 14/3 (вводится в действие с 01.01.2017).*
 
 ## Доходы:
 
 <table>
 <tr>
-<td colspan="4">Категория</td>
-<td>Наименование</td>
+<td colspan="8">Категория</td>
+<td colspan="3" rowspan="4">Наименование</td>
 <td rowspan="4">Сумма, тыс.тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
-<td></td>
+<td colspan="7">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Подкласс</td>
-<td></td>
+<td colspan="6">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>Специфика</td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="3">Специфика</td>
 </tr>
 <tr>
 <td>2</td>
 <td></td>
-<td></td>
-<td></td>
-<td>Неналоговые поступления</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Неналоговые поступления</td>
 <td>77 736,8</td>
 </tr>
 <tr>
 <td></td>
 <td>06</td>
-<td></td>
-<td></td>
-<td>Прочие неналоговые поступления</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Прочие неналоговые поступления</td>
 <td>77 736,8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>1</td>
-<td></td>
-<td>Прочие неналоговые поступления</td>
+<td colspan="3">1</td>
+<td colspan="3"></td>
+<td colspan="3">Прочие неналоговые поступления</td>
 <td>77 736,8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>07</td>
-<td>Возврат неиспользованных средств, ранее полученных из местного бюджета</td>
+<td colspan="3"></td>
+<td colspan="3">07</td>
+<td colspan="3">Возврат неиспользованных средств, ранее полученных из местного бюджета</td>
 <td>8 816,7</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>09</td>
-<td>Другие неналоговые поступления в местный бюджет</td>
+<td colspan="3"></td>
+<td colspan="3">09</td>
+<td colspan="3">Другие неналоговые поступления в местный бюджет</td>
 <td>68 920,1</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
-<td></td>
-<td></td>
-<td>Поступления трансфертов</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Поступления трансфертов</td>
 <td>299 165,8</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
-<td></td>
-<td></td>
-<td>Трансферты из нижестоящих органов государственного управления</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Трансферты из нижестоящих органов государственного управления</td>
 <td>299 165,8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>2</td>
-<td></td>
-<td>Трансферты из районных (городских) бюджетов</td>
+<td colspan="3">2</td>
+<td colspan="3"></td>
+<td colspan="3">Трансферты из районных (городских) бюджетов</td>
 <td>299 165,8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>02</td>
-<td>Возврат целевых трансфертов</td>
+<td colspan="3"></td>
+<td colspan="3">02</td>
+<td colspan="3">Возврат целевых трансфертов</td>
 <td>180 414,9</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>в том числе:</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">в том числе:</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Из республиканского бюджета:</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Из республиканского бюджета:</td>
 <td>149 468,2</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Айыртауский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Айыртауский район</td>
 <td>6 585,5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Акжарский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Акжарский район</td>
 <td>7 996,7</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Аккайынский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Аккайынский район</td>
 <td>16 256,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Есильский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Есильский район</td>
 <td>8 685,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Жамбылский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Жамбылский район</td>
 <td>6 475,1</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Магжана Жумабаева</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Магжана Жумабаева</td>
 <td>10 497,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Кызылжарский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Кызылжарский район</td>
 <td>8 829,8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Мамлютский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Мамлютский район</td>
 <td>18 700,2</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>район имени Габита Мусрепова</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">район имени Габита Мусрепова</td>
 <td>8 426,6</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Тайыншинский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Тайыншинский район</td>
 <td>10 737,3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Тимирязевский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Тимирязевский район</td>
 <td>7 578,8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Уалихановский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Уалихановский район</td>
 <td>16 600,2</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>район Шал акына</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">район Шал акына</td>
 <td>7 466,1</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>город Петропавловск</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">город Петропавловск</td>
 <td>14 633,9</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Из областного бюджета:</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Из областного бюджета:</td>
 <td>30 946,7</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Айыртауский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Айыртауский район</td>
 <td>1 391,3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Акжарский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Акжарский район</td>
 <td>2 761,1</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Аккайынский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Аккайынский район</td>
 <td>185,4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Есильский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Есильский район</td>
 <td>124,4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Жамбылский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Жамбылский район</td>
 <td>2 987,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Магжана Жумабаева</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Магжана Жумабаева</td>
 <td>1 781,5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Кызылжарский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Кызылжарский район</td>
 <td>2 778,7</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Мамлютский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Мамлютский район</td>
 <td>164,1</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>район имени Габита Мусрепова</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">район имени Габита Мусрепова</td>
 <td>1 723,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Тайыншинский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Тайыншинский район</td>
 <td>2 396,9</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Тимирязевский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Тимирязевский район</td>
 <td>360,9</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Уалихановский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Уалихановский район</td>
 <td>5 669,7</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Шал акына</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Шал акына</td>
 <td>0,4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>город Петропавловск</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">город Петропавловск</td>
 <td>8 622,3</td>
 </tr>
 <tr>
-<td colspan="4">Категория</td>
-<td rowspan="4">Наименование</td>
+<td colspan="8">Категория</td>
+<td colspan="3" rowspan="4">Наименование</td>
 <td rowspan="4">Сумма, тыс.тенге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Класс</td>
+<td colspan="7">Класс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Подкласс</td>
+<td colspan="6">Подкласс</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>Специфика</td>
+<td colspan="3"></td>
+<td colspan="3">Специфика</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>03</td>
-<td>Возврат использованных не по целевому назначению целевых трансфертов</td>
+<td colspan="3"></td>
+<td colspan="3">03</td>
+<td colspan="3">Возврат использованных не по целевому назначению целевых трансфертов</td>
 <td>39 753</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>в том числе:</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">в том числе:</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Кызылжарский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Кызылжарский район</td>
 <td>4 320</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>город Петропавловск</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">город Петропавловск</td>
 <td>35 433</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>14</td>
-<td>Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов на развитие, выделенных в истекшем финансовом году, разрешенных доиспользовать по решению Правительства Республики Казахстан</td>
+<td colspan="3"></td>
+<td colspan="3">14</td>
+<td colspan="3">Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов на развитие, выделенных в истекшем финансовом году, разрешенных доиспользовать по решению Правительства Республики Казахстан</td>
 <td>331,4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>в том числе:</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">в том числе:</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Магжана Жумабаева</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Магжана Жумабаева</td>
 <td>331,4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>16</td>
-<td>Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов, выделенных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан</td>
+<td colspan="3"></td>
+<td colspan="3">16</td>
+<td colspan="3">Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов, выделенных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан</td>
 <td>78 666,5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>в том числе:</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">в том числе:</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Айыртауский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Айыртауский район</td>
 <td>4 452,3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Акжарский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Акжарский район</td>
 <td>12 633,2</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Аккайынский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Аккайынский район</td>
 <td>6 091,8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Есильский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Есильский район</td>
 <td>9,1</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Жамбылский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Жамбылский район</td>
 <td>2 628,5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Магжана Жумабаева</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Магжана Жумабаева</td>
 <td>1 460,8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Кызылжарский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Кызылжарский район</td>
 <td>31 473,2</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Мамлютский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Мамлютский район</td>
 <td>265,1</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>район имени Габита Мусрепова</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">район имени Габита Мусрепова</td>
 <td>5 736,3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Тайыншинский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Тайыншинский район</td>
 <td>4 289,9</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Тимирязевский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Тимирязевский район</td>
 <td>2 086,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>Уалихановский район</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Уалихановский район</td>
 <td>4 357,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>район Шал акына</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">район Шал акына</td>
 <td>3 179,0</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td>город Петропавловск</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">город Петропавловск</td>
 <td>4,3</td>
 </tr>
 <tr>
 <td>8</td>
 <td></td>
-<td></td>
-<td></td>
-<td>Используемые остатки бюджетных средств</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Используемые остатки бюджетных средств</td>
 <td>85 133</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
-<td></td>
-<td></td>
-<td>Остатки бюджетных средств</td>
+<td colspan="3"></td>
+<td colspan="3"></td>
+<td colspan="3">Остатки бюджетных средств</td>
 <td>85 133</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>1</td>
-<td></td>
-<td>Свободные остатки бюджетных средств</td>
+<td colspan="3">1</td>
+<td colspan="3"></td>
+<td colspan="3">Свободные остатки бюджетных средств</td>
 <td>85 133</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>01</td>
-<td>Свободные остатки бюджетных средств</td>
+<td colspan="3"></td>
+<td colspan="3">01</td>
+<td colspan="3">Свободные остатки бюджетных средств</td>
 <td>85 133</td>
 </tr>
 <tr>
-<td colspan="4">Всего:</td>
-<td></td>
+<td colspan="8">Всего:</td>
+<td colspan="3"></td>
 <td>462 035,6</td>
 </tr>
 </table>
@@ -2308,71 +2305,71 @@ source: https://zan.gov.kz/client/#!/doc/108490/rus/11.04.2017
 <table>
 <tr>
 <td>Функциональная группа</td>
-<td>Администратор</td>
-<td>Про грамма</td>
-<td>Под программа</td>
-<td>Наименование</td>
+<td colspan="3">Администратор</td>
+<td>Программа</td>
+<td colspan="2">Подпрограмма</td>
+<td colspan="4">Наименование</td>
 <td>Сумма, тыс.тенге</td>
 </tr>
 <tr>
 <td>2</td>
-<td>736</td>
+<td colspan="3">736</td>
 <td></td>
-<td></td>
-<td>Управление по мобилизационной подготовке и гражданской защите области</td>
+<td colspan="2"></td>
+<td colspan="4">Управление по мобилизационной подготовке и гражданской защите области</td>
 <td>21 350</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="3"></td>
 <td>005</td>
-<td></td>
-<td>Мобилизационная подготовка и мобилизация областного масштаба</td>
+<td colspan="2"></td>
+<td colspan="4">Мобилизационная подготовка и мобилизация областного масштаба</td>
 <td>21 350</td>
 </tr>
 <tr>
 <td>15</td>
-<td>257</td>
+<td colspan="3">257</td>
 <td></td>
-<td></td>
-<td>Управление финансов области</td>
+<td colspan="2"></td>
+<td colspan="4">Управление финансов области</td>
 <td>440 685,6</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="3"></td>
 <td>011</td>
-<td></td>
-<td>Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
-<td>305 738,5</td>
+<td colspan="2"></td>
+<td colspan="4">Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
+<td>305 282,9</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="3"></td>
 <td>017</td>
-<td></td>
-<td>Возврат, использованных не по целевому назначению целевых трансфертов</td>
+<td colspan="2"></td>
+<td colspan="4">Возврат, использованных не по целевому назначению целевых трансфертов</td>
 <td>39 753</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="3"></td>
 <td>052</td>
-<td></td>
-<td>Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов на развитие, выделенных в истекшем финансовом году, разрешенных доиспользовать по решению Правительства Республики Казахстан</td>
+<td colspan="2"></td>
+<td colspan="4">Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов на развитие, выделенных в истекшем финансовом году, разрешенных доиспользовать по решению Правительства Республики Казахстан</td>
 <td>331,4</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="3"></td>
 <td>053</td>
-<td></td>
-<td>Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов, выделенных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан</td>
-<td>94 862,7</td>
+<td colspan="2"></td>
+<td colspan="4">Возврат сумм неиспользованных (недоиспользованных) целевых трансфертов, выделенных из республиканского бюджета за счет целевого трансферта из Национального фонда Республики Казахстан</td>
+<td>95 318,3</td>
 </tr>
 <tr>
-<td colspan="4">Всего:</td>
-<td></td>
+<td colspan="7">Всего:</td>
+<td colspan="4"></td>
 <td>462 035,6</td>
 </tr>
 </table>
