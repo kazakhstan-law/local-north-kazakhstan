@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108866/kaz/03.05.2017
+source: https://zan.gov.kz/client/#!/doc/108866/kaz/21.06.2017
 ---
 
 > *Аудандық мәслихат сессиясының*  
