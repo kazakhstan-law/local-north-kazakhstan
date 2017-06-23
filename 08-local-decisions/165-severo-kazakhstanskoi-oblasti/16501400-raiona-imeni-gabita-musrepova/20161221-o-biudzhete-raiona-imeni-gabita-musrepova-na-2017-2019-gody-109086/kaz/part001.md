@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
+source: https://zan.gov.kz/client/#!/doc/109086/kaz/23.06.2017
 ---
 
 > *Аудан маслихатының*  
@@ -9,7 +9,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 
 # Ғабит Мүсірепов атындағы ауданның 2017 жылға арналған бюджеті
 
-> *Ескерту. 1- қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Ғабит Мүсірепов атындағы ауданы мәслихатының 15.05.2017 № 11-3 шешімімен (01.01.2017 бастап қолданысқа енгізіледі).*
+> *Ескерту. 1-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Ғабит Мүсірепов атындағы ауданы мәслихатының 23.06.2017 № 12-3 шешімімен (01.01.2017 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -233,10 +233,10 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 
 <table>
 <tr>
-<td rowspan="5">Функцио-налдық топ</td>
+<td rowspan="5">Функционалдық топ</td>
 <td rowspan="5">Кіші функция</td>
-<td rowspan="5">Бюджеттік бағдарла-малардың әкімшісі</td>
-<td rowspan="5">Бағда-рлама</td>
+<td rowspan="5">Бюджеттік бағдарламалардың әкімшісі</td>
+<td rowspan="5">Бағдарлама</td>
 <td rowspan="5">Атауы</td>
 <td rowspan="5">Сома (мың теңге)</td>
 </tr>
@@ -262,7 +262,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>422 935,8</td>
+<td>414 526</td>
 </tr>
 <tr>
 <td></td>
@@ -270,7 +270,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td></td>
 <td></td>
 <td>Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td>372 393,8</td>
+<td>364 184</td>
 </tr>
 <tr>
 <td></td>
@@ -318,7 +318,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td>123</td>
 <td></td>
 <td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>241 933,6</td>
+<td>233 723,8</td>
 </tr>
 <tr>
 <td></td>
@@ -326,7 +326,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td></td>
 <td>001</td>
 <td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>225 590,6</td>
+<td>225 592,6</td>
 </tr>
 <tr>
 <td></td>
@@ -334,23 +334,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td></td>
 <td>022</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
-<td>8 133,2</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>032</td>
-<td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td>1 500</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>106</td>
-<td>Әлеуметтік, табиғи және техногендік сипаттағы төтенше жағдайларды жою үшін жергілікті атқарушы органның төтенше резерві есебінен іс-шаралар өткізу</td>
-<td>6 709,8</td>
+<td>8 131,2</td>
 </tr>
 <tr>
 <td></td>
@@ -382,7 +366,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td></td>
 <td></td>
 <td>Жалпы сипаттағы өзге де мемлекеттiк қызметтер</td>
-<td>50 250</td>
+<td>50 050</td>
 </tr>
 <tr>
 <td></td>
@@ -390,7 +374,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td>458</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>20 110</td>
+<td>19 910</td>
 </tr>
 <tr>
 <td></td>
@@ -407,14 +391,6 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td>013</td>
 <td>Мемлекеттік органның күрделі шығыстары</td>
 <td>6 000</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>106</td>
-<td>Әлеуметтік, табиғи және техногендік сипаттағы төтенше жағдайларды жою үшін жергілікті атқарушы органның төтенше резерві есебінен іс-шаралар өткізу</td>
-<td>200</td>
 </tr>
 <tr>
 <td></td>
@@ -534,7 +510,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td></td>
 <td></td>
 <td>Бiлiм беру</td>
-<td>3 379 754,7</td>
+<td>3 377 673,2</td>
 </tr>
 <tr>
 <td></td>
@@ -598,7 +574,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>2 908 147</td>
+<td>2 872 672,2</td>
 </tr>
 <tr>
 <td></td>
@@ -614,7 +590,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td></td>
 <td>006</td>
 <td>Балаларға қосымша білім беру</td>
-<td>101 159</td>
+<td>65 684,2</td>
 </tr>
 <tr>
 <td></td>
@@ -622,7 +598,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td>465</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) дене шынықтыру және спорт бөлімі</td>
-<td>38 109,4</td>
+<td>73 584,2</td>
 </tr>
 <tr>
 <td></td>
@@ -630,7 +606,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td></td>
 <td>017</td>
 <td>Балалар мен жасөспірімдерге спорт бойынша қосымша білім беру</td>
-<td>38 109,4</td>
+<td>73 584,2</td>
 </tr>
 <tr>
 <td></td>
@@ -638,7 +614,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td></td>
 <td></td>
 <td>Бiлiм беру саласындағы өзге де қызметтер</td>
-<td>171 798</td>
+<td>169 716,5</td>
 </tr>
 <tr>
 <td></td>
@@ -646,7 +622,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td>464</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>171 798</td>
+<td>169 716,5</td>
 </tr>
 <tr>
 <td></td>
@@ -694,7 +670,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td></td>
 <td>067</td>
 <td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td>49 421</td>
+<td>47 339,5</td>
 </tr>
 <tr>
 <td>06</td>
@@ -1054,7 +1030,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td></td>
 <td></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>228 512,8</td>
+<td>232 094,3</td>
 </tr>
 <tr>
 <td></td>
@@ -1067,26 +1043,10 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <tr>
 <td></td>
 <td></td>
-<td>123</td>
-<td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>39 760</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>006</td>
-<td>Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
-<td>39 760</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
 <td>455</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) мәдениет және тілдерді дамыту бөлімі</td>
-<td>43 633,5</td>
+<td>83 393,5</td>
 </tr>
 <tr>
 <td></td>
@@ -1094,7 +1054,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td></td>
 <td>003</td>
 <td>Мәдени-демалыс жұмысын қолдау</td>
-<td>43 633,5</td>
+<td>83 393,5</td>
 </tr>
 <tr>
 <td></td>
@@ -1102,7 +1062,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td></td>
 <td></td>
 <td>Спорт</td>
-<td>29 253</td>
+<td>31 334,5</td>
 </tr>
 <tr>
 <td></td>
@@ -1110,7 +1070,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td>465</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) дене шынықтыру және спорт бөлімі</td>
-<td>29 253</td>
+<td>31 334,5</td>
 </tr>
 <tr>
 <td></td>
@@ -1142,7 +1102,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td></td>
 <td>032</td>
 <td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td>9 362</td>
+<td>11 443,5</td>
 </tr>
 <tr>
 <td></td>
@@ -1198,7 +1158,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td></td>
 <td></td>
 <td>Мәдениет, спорт, туризм және ақпараттық кеңiстiктi ұйымдастыру жөнiндегi өзге де қызметтер</td>
-<td>35 050,3</td>
+<td>36 550,3</td>
 </tr>
 <tr>
 <td></td>
@@ -1206,7 +1166,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td>455</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) мәдениет және тілдерді дамыту бөлімі</td>
-<td>13 567</td>
+<td>15 067</td>
 </tr>
 <tr>
 <td></td>
@@ -1230,7 +1190,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td></td>
 <td>032</td>
 <td>Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
-<td>3 260</td>
+<td>4 760</td>
 </tr>
 <tr>
 <td></td>
@@ -1505,7 +1465,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>68 126,2</td>
+<td>75 036</td>
 </tr>
 <tr>
 <td></td>
@@ -1537,7 +1497,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td></td>
 <td></td>
 <td>Басқалар</td>
-<td>59 267,2</td>
+<td>66 177</td>
 </tr>
 <tr>
 <td></td>
@@ -1561,7 +1521,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td>459</td>
 <td></td>
 <td>Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td>15 867,2</td>
+<td>22 777</td>
 </tr>
 <tr>
 <td></td>
@@ -1569,7 +1529,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td></td>
 <td>012</td>
 <td>Ауданның (облыстық маңызы бар қаланың) жергілікті атқарушы органының резерві</td>
-<td>15 867,2</td>
+<td>22 777</td>
 </tr>
 <tr>
 <td></td>
@@ -1689,7 +1649,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td>Сынып</td>
 <td>Сыныпша</td>
 <td>Атауы</td>
-<td>Сома (мың тенге)</td>
+<td>Сома(мың тенге)</td>
 </tr>
 <tr>
 <td>5</td>
@@ -1788,12 +1748,12 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td>78 280</td>
 </tr>
 <tr>
-<td rowspan="5">Функцио-налдық топ</td>
+<td rowspan="5">Функционалдық топ</td>
 <td rowspan="5">Кіші функция</td>
-<td rowspan="5">Бюджеттік бағдарла-малардың әкімшісі</td>
-<td rowspan="5">Бағдар-лама</td>
+<td rowspan="5">Бюджеттік бағдарламалардың әкімшісі</td>
+<td rowspan="5">Бағдарлама</td>
 <td rowspan="5">Атауы</td>
-<td rowspan="5">Сома (мың тенге)</td>
+<td rowspan="5">Сома(мың тенге)</td>
 </tr>
 <tr>
 </tr>
@@ -1833,7 +1793,7 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td>сынып</td>
 <td>сыныпша</td>
 <td>Атауы</td>
-<td>Сома (мың тенге)</td>
+<td>Сома(мың тенге)</td>
 </tr>
 <tr>
 <td>8</td>
@@ -4997,5 +4957,206 @@ source: https://zan.gov.kz/client/#!/doc/109086/kaz/15.05.2017
 <td></td>
 <td>3</td>
 <td colspan="5">Жалпы білім беру</td>
+</tr>
+</table>
+
+> *Аудандық мәслихаттың*  
+> *2016 жылғы 21 желтоқсандағы*  
+> *№ 8-1 шешіміне 5 қосымша*
+
+# 2017 жылға ауданның ауылдық округтер бюджеттік бағдарламалар тізімі
+
+> *мың.теңге*
+
+<table>
+<tr>
+<td>№</td>
+<td colspan="2">Атауы</td>
+<td colspan="3">Ауылдық округ әкімі аппаратының жұмыс істеуіне шығындар</td>
+<td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
+<td colspan="2">Жергілікті деңгейде мәдени-демалыс жұмысын қолдау үшін шығындар</td>
+<td colspan="2">Елді мекендерде су тарту жүйесін ұйымдастыруға шығындар</td>
+<td colspan="2">«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске іске асыру</td>
+<td colspan="2">Барлығы</td>
+</tr>
+<tr>
+<td>1</td>
+<td colspan="2">Андреев ауылдық округі</td>
+<td colspan="3">11497</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">355</td>
+<td colspan="2">1000</td>
+<td colspan="2">12852</td>
+</tr>
+<tr>
+<td>2</td>
+<td colspan="2">Бірлік ауылдық округі</td>
+<td colspan="3">11025</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1000</td>
+<td colspan="2">12025</td>
+</tr>
+<tr>
+<td>3</td>
+<td colspan="2">Возвышен ауылдық округі</td>
+<td colspan="3">9049</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">1000</td>
+<td colspan="2">10049</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="2">Дружба ауылдық округі</td>
+<td colspan="3">10143</td>
+<td colspan="2">0</td>
+<td colspan="2"></td>
+<td colspan="2">600</td>
+<td colspan="2"></td>
+<td colspan="2">10743</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="2">Көкалажар ауылдық округі</td>
+<td colspan="3">10145</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">10145</td>
+</tr>
+<tr>
+<td>6</td>
+<td colspan="2">Қырымбет ауылдық округі</td>
+<td colspan="3">9461</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">9461</td>
+</tr>
+<tr>
+<td>7</td>
+<td colspan="2">Ломоносов ауылдық округі</td>
+<td colspan="3">10400</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">600</td>
+<td colspan="2">1000</td>
+<td colspan="2">12000</td>
+</tr>
+<tr>
+<td>8</td>
+<td colspan="2">Нежинка ауылдық округі</td>
+<td colspan="3">12666</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">212</td>
+<td colspan="2">0</td>
+<td colspan="2">12878</td>
+</tr>
+<tr>
+<td>9</td>
+<td colspan="2">Новоселовка ауылдық округі</td>
+<td colspan="3">12571</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">306</td>
+<td colspan="2">1000</td>
+<td colspan="2">13877</td>
+</tr>
+<tr>
+<td>10</td>
+<td colspan="2">Новоишим ауылдық округі</td>
+<td colspan="3">33343</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">18900</td>
+<td colspan="2">52243</td>
+</tr>
+<tr>
+<td>11</td>
+<td colspan="2">Рузаев ауылдық округі</td>
+<td colspan="3">23677</td>
+<td colspan="2"></td>
+<td colspan="2">21219</td>
+<td colspan="2"></td>
+<td colspan="2">5000</td>
+<td colspan="2">49896</td>
+</tr>
+<tr>
+<td>12</td>
+<td colspan="2">Тахтаброд ауылдық округі</td>
+<td colspan="3">11854</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">2000</td>
+<td colspan="2">13854</td>
+</tr>
+<tr>
+<td>13</td>
+<td colspan="2">Салқынкөл ауылдық округі</td>
+<td colspan="3">8777</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">4000</td>
+<td colspan="2">12777</td>
+</tr>
+<tr>
+<td>14</td>
+<td colspan="2">Червонный ауылдық округі</td>
+<td colspan="3">10310</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">4500</td>
+<td colspan="2">14810</td>
+</tr>
+<tr>
+<td>15</td>
+<td colspan="2">Чистополье ауылдық округі</td>
+<td colspan="3">19867</td>
+<td colspan="2"></td>
+<td colspan="2">20041</td>
+<td colspan="2"></td>
+<td colspan="2">3000</td>
+<td colspan="2">42908</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="2">Шөптікөл ауылдық округі</td>
+<td colspan="3">12097</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">360</td>
+<td colspan="2">1000</td>
+<td colspan="2">13457</td>
+</tr>
+<tr>
+<td>17</td>
+<td colspan="2">Шұқыркөл ауылдық округі</td>
+<td colspan="3">10483</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">283</td>
+<td colspan="2">0</td>
+<td colspan="2">10766</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2">Барлығы</td>
+<td colspan="3">227365</td>
+<td colspan="2">0</td>
+<td colspan="2">41260</td>
+<td colspan="2">2716</td>
+<td colspan="2">43400</td>
+<td colspan="2">314741</td>
 </tr>
 </table>
