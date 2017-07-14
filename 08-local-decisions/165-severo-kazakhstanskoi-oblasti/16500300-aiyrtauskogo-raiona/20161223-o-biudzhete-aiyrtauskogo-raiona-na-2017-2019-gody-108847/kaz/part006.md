@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108847/kaz/05.05.2017
+source: https://zan.gov.kz/client/#!/doc/108847/kaz/14.07.2017
 ---
 
 > *Айыртау аудандық мәслихатының 2016 жылғы*  
@@ -318,7 +318,7 @@ source: https://zan.gov.kz/client/#!/doc/108847/kaz/05.05.2017
 
 # 2017 жылға арналған ауылдық округтар бойынша жергілікті өзін-өзі басқару органдарына берілетін трансферттердің бөлуі
 
-> *Ескерту. 8-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Айыртау аудандық мәслихатының 05.05.2017 № 6-10-2 шешімімен (01.01.2017 қолданысқа енеді).*
+> *Ескерту. 8-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Айыртау аудандық мәслихатының 14.07.2017 № 6-11-2 шешімімен (01.01.2017 қолданысқа енеді).*
 
 <table>
 <tr>
@@ -349,21 +349,21 @@ source: https://zan.gov.kz/client/#!/doc/108847/kaz/05.05.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттер</td>
-<td colspan="2">54 289,7</td>
+<td colspan="2">56 709,7</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">459</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) экономика және қаржы бөлімі</td>
-<td colspan="2">54 289,7</td>
+<td colspan="2">56 709,7</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">051</td>
 <td colspan="2">Жергілікті өзін-өзі басқару органдарына берілетін трансферттер</td>
-<td colspan="2">54 289,7</td>
+<td colspan="2">56 709,7</td>
 </tr>
 <tr>
 <td></td>
@@ -377,7 +377,7 @@ source: https://zan.gov.kz/client/#!/doc/108847/kaz/05.05.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Арықбалық ауылдық округі әкімінің аппараты</td>
-<td colspan="2">2 360,0</td>
+<td colspan="2">2 460,0</td>
 </tr>
 <tr>
 <td></td>
@@ -391,7 +391,7 @@ source: https://zan.gov.kz/client/#!/doc/108847/kaz/05.05.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Володар ауылдық округі әкімінің аппараты</td>
-<td colspan="2">27 868,0</td>
+<td colspan="2">29 618,0</td>
 </tr>
 <tr>
 <td></td>
@@ -426,14 +426,14 @@ source: https://zan.gov.kz/client/#!/doc/108847/kaz/05.05.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қаратал ауылдық округі әкімінің аппараты</td>
-<td colspan="2">2 056,1</td>
+<td colspan="2">2 086,1</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Қамсақты ауылдық округі әкімінің аппараты</td>
-<td colspan="2">2 553,4</td>
+<td colspan="2">2 643,4</td>
 </tr>
 <tr>
 <td></td>
@@ -447,7 +447,7 @@ source: https://zan.gov.kz/client/#!/doc/108847/kaz/05.05.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Лобанов ауылдық округі әкімінің аппараты</td>
-<td colspan="2">1 980,3</td>
+<td colspan="2">2 340,3</td>
 </tr>
 <tr>
 <td></td>
@@ -461,14 +461,14 @@ source: https://zan.gov.kz/client/#!/doc/108847/kaz/05.05.2017
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Сырымбет ауылдық округі әкімінің аппараты</td>
-<td colspan="2">2 283,3</td>
+<td colspan="2">2 343,3</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Украин ауылдық округі әкімінің аппараты</td>
-<td colspan="2">1 351,1</td>
+<td colspan="2">1 381,1</td>
 </tr>
 </table>
 
