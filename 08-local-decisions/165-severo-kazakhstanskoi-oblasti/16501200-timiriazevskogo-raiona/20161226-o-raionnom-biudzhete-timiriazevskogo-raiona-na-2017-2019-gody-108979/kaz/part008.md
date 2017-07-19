@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108979/kaz/15.06.2017
+source: https://zan.gov.kz/client/#!/doc/108979/kaz/19.07.2017
 ---
 
 > *Тимирязев аудандық мәслихатының*  
