@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108490/kaz/14.06.2017
+source: https://zan.gov.kz/client/#!/doc/108490/kaz/29.08.2017
 ---
 
 > *Солтүстік Қазақстан облыстық*  
@@ -1725,591 +1725,591 @@ source: https://zan.gov.kz/client/#!/doc/108490/kaz/14.06.2017
 
 # Облыстық бюджеттен және республикалық бюджеттен берілген 2016 жылы пайдаланылмаған (түгел пайдаланылмаған) нысаналы трансферттерді қайтару есебінен, оның ішінде Қазақстан Республикасының Ұлттық қорынан берілген нысаналы трансферттер есебінен 2017 жылға арналған облыстық бюджет шығыстары
 
-> *Ескерту. Шешім 5- қосымшамен толықтырылды - Солтүстік Қазақстан облыстық мәслихатының 23.02.2017 № 11/5 шешімімен (01.01.2017 бастап қолданысқа енгізіледі); жаңа редакцияда - Солтүстік Қазақстан облыстық мәслихатының 14.06.2017 № 14/3 шешімімен (01.01.2017 бастап қолданысқа енгізіледі).*
+> *Ескерту. Шешім 5- қосымшамен толықтырылды - Солтүстік Қазақстан облысы мәслихатының 23.02.2017 № 11/5 шешімімен (01.01.2017 бастап қолданысқа енгізіледі); жаңа редакцияда - Солтүстік Қазақстан облыстық мәслихатының 29.08.2017 № 15/3 шешімімен (01.01.2017 бастап қолданысқа енгізіледі).*
 
 ## Кірістер:
 
 <table>
 <tr>
-<td colspan="4">Санаты</td>
+<td colspan="7">Санаты</td>
 <td rowspan="4">Атауы</td>
 <td rowspan="4">Сома, мың теңге</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="3"></td>
+<td colspan="4">Сыныбы</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
-<td></td>
-<td colspan="2">Кіші сыныбы</td>
+<td colspan="3">Кіші сыныбы</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td>Ерекшелігі</td>
+<td colspan="2">Ерекшелігі</td>
 </tr>
 <tr>
-<td>2</td>
+<td colspan="3">2</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Салықтық емес түсiмдер</td>
 <td>77 736,8</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="3"></td>
 <td>06</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Басқа да салықтық емес түсiмдер</td>
 <td>77 736,8</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="3"></td>
 <td></td>
 <td>1</td>
-<td></td>
+<td colspan="2"></td>
 <td>Басқа да салықтық емес түсiмдер</td>
 <td>77 736,8</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td>07</td>
+<td colspan="2">07</td>
 <td>Бұрын жергілікті бюджеттен алынған, пайдаланылмаған қаражаттардың қайтарылуы</td>
 <td>8 816,7</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td>09</td>
+<td colspan="2">09</td>
 <td>Жергіліктік бюджетке түсетін салықтық емес басқа да түсімдер</td>
 <td>68 920,1</td>
 </tr>
 <tr>
-<td>4</td>
+<td colspan="3">4</td>
 <td></td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Трансферттердің түсімдері</td>
-<td>299 165,8</td>
+<td>299 271,7</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="3"></td>
 <td>01</td>
 <td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Төмен тұрған мемлекеттiк басқару органдарынан трансферттер</td>
-<td>299 165,8</td>
+<td>299 271,7</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="3"></td>
 <td></td>
 <td>2</td>
-<td></td>
+<td colspan="2"></td>
 <td>Аудандық (қалалық) бюджеттерден трансферттер</td>
-<td>299 165,8</td>
+<td>299 271,7</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td>02</td>
+<td colspan="2">02</td>
 <td>Нысаналы трансферттерді қайтару</td>
-<td>180 414,9</td>
+<td>180 520,8</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>соның ішінде:</td>
 <td></td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Республикалық бюджеттен:</td>
-<td>149 468,2</td>
+<td>149 574,1</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Айыртау ауданы</td>
-<td>6 585,5</td>
+<td>6 691,4</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Ақжар ауданы</td>
 <td>7 996,7</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Аққайың ауданы</td>
 <td>16 256</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Есіл ауданы</td>
 <td>8 685</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Жамбыл ауданы</td>
 <td>6 475,1</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Мағжан Жұмабаев ауданы</td>
-<td>10 497,0</td>
+<td>10 497</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Қызылжар ауданы</td>
 <td>8 829,8</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Мамлют ауданы</td>
 <td>18 700,2</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Ғабит Мүсірепов атындағы аудан</td>
 <td>8 426,6</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Тайынша ауданы</td>
 <td>10 737,3</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Тимирязев ауданы</td>
 <td>7 578,8</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Уәлиханов ауданы</td>
 <td>16 600,2</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Шал ақын ауданы</td>
 <td>7 466,1</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Петропавл қаласы</td>
 <td>14 633,9</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Облыстық бюджеттен:</td>
 <td>30 946,7</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Айыртау ауданы</td>
 <td>1 391,3</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Ақжар ауданы</td>
 <td>2 761,1</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Аққайың ауданы</td>
 <td>185,4</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Есіл ауданы</td>
 <td>124,4</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Жамбыл ауданы</td>
-<td>2 987,0</td>
+<td>2 987</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Мағжан Жұмабаев ауданы</td>
 <td>1 781,5</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Қызылжар ауданы</td>
 <td>2 778,7</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Мамлют ауданы</td>
 <td>164,1</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Ғабит Мүсірепов атындағы аудан</td>
-<td>1 723,0</td>
+<td>1 723</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Тайынша ауданы</td>
 <td>2 396,9</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Тимирязев ауданы</td>
 <td>360,9</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Уәлиханов ауданы</td>
 <td>5 669,7</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Шал ақын ауданы</td>
 <td>0,4</td>
 </tr>
 <tr>
+<td colspan="3"></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
 <td>Петропавл қаласы</td>
 <td>8 622,3</td>
 </tr>
 <tr>
-<td colspan="4">Санаты</td>
+<td colspan="7">Санаты</td>
 <td rowspan="4">Атауы</td>
 <td rowspan="4">Сома, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">Сыныбы</td>
+<td colspan="6">Сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">Кіші сыныбы</td>
+<td colspan="5">Кіші сыныбы</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>Ерекшелігі</td>
+<td colspan="3"></td>
+<td colspan="2">Ерекшелігі</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>03</td>
+<td colspan="3"></td>
+<td colspan="2">03</td>
 <td>Нысаналы мақсатқа сай пайдаланылмаған нысаналы трансферттерді қайтару</td>
 <td>39 753</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>соның ішінде:</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>Қызылжар ауданы</td>
 <td>4 320</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>Петропавл қаласы</td>
 <td>35 433</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>14</td>
+<td colspan="3"></td>
+<td colspan="2">14</td>
 <td>Қазақстан Республикасы Үкіметінің шешімі бойынша толық пайдалануға рұқсат етілген, өткен қаржы жылында бөлінген, пайдаланылмаған (түгел пайдаланылмаған) нысаналы даму трансферттерінің сомасын қайтару</td>
 <td>331,4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>соның ішінде:</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>Мағжан Жұмабаев ауданы</td>
 <td>331,4</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>16</td>
+<td colspan="3"></td>
+<td colspan="2">16</td>
 <td>Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен республикалық бюджеттен бөлінген пайдаланылмаған (түгел пайдаланылмаған) нысаналы трансферттердің сомасын қайтару</td>
 <td>78 666,5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>соның ішінде:</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>Айыртау ауданы</td>
 <td>4 452,3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>Ақжар ауданы</td>
 <td>12 633,2</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>Аққайың ауданы</td>
 <td>6 091,8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>Есіл ауданы</td>
 <td>9,1</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>Жамбыл ауданы</td>
 <td>2 628,5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>Мағжан Жұмабаев ауданы</td>
 <td>1 460,8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>Қызылжар ауданы</td>
 <td>31 473,2</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>Мамлют ауданы</td>
 <td>265,1</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>Ғабит Мүсірепов атындағы аудан</td>
 <td>5 736,3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>Тайынша ауданы</td>
 <td>4 289,9</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>Тимирязев ауданы</td>
-<td>2 086,0</td>
+<td>2 086</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>Уәлиханов ауданы</td>
-<td>4 357,0</td>
+<td>4 357</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>Шал ақын ауданы</td>
-<td>3 179,0</td>
+<td>3 179</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>Петропавл қаласы</td>
 <td>4,3</td>
 </tr>
 <tr>
 <td>8</td>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>Бюджет қаражатының пайдаланылатын қалдықтары</td>
 <td>85 133</td>
 </tr>
 <tr>
 <td></td>
 <td>01</td>
-<td></td>
-<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
 <td>Бюджет қаражаты қалдықтары</td>
 <td>85 133</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>1</td>
-<td></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td>Бюджет қаражатының бос қалдықтары</td>
 <td>85 133</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>01</td>
+<td colspan="3"></td>
+<td colspan="2">01</td>
 <td>Бюджет қаражатының бос қалдықтары</td>
 <td>85 133</td>
 </tr>
 <tr>
-<td colspan="4">Барлығы:</td>
+<td colspan="7">Барлығы:</td>
 <td></td>
-<td>462 035,6</td>
+<td>462 141,5</td>
 </tr>
 </table>
 
@@ -2318,71 +2318,71 @@ source: https://zan.gov.kz/client/#!/doc/108490/kaz/14.06.2017
 <table>
 <tr>
 <td>Функционалдық топ</td>
-<td>Әкімшісі</td>
+<td colspan="3">Әкімшісі</td>
 <td>Бағдарлама</td>
 <td>Кіші бағдарлама</td>
-<td>Атауы</td>
+<td colspan="2">Атауы</td>
 <td>Сома, мың теңге</td>
 </tr>
 <tr>
 <td>2</td>
-<td>736</td>
+<td colspan="3">736</td>
 <td></td>
 <td></td>
-<td>Облыстың жұмылдыру даярлығы және азаматтық қорғау басқармасы</td>
+<td colspan="2">Облыстың жұмылдыру даярлығы және азаматтық қорғау басқармасы</td>
 <td>21 350</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="3"></td>
 <td>005</td>
 <td></td>
-<td>Облыстық ауқымдағы жұмылдыру дайындығы және жұмылдыру</td>
+<td colspan="2">Облыстық ауқымдағы жұмылдыру дайындығы және жұмылдыру</td>
 <td>21 350</td>
 </tr>
 <tr>
 <td>15</td>
-<td>257</td>
+<td colspan="3">257</td>
 <td></td>
 <td></td>
-<td>Облыстың қаржы басқармасы</td>
-<td>440 685,6</td>
+<td colspan="2">Облыстың қаржы басқармасы</td>
+<td>440 791,5</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="3"></td>
 <td>011</td>
 <td></td>
-<td>Нысаналы пайдаланылмаған (толық пайдаланылмаған) трансферттерді қайтару</td>
-<td>305 282,9</td>
+<td colspan="2">Нысаналы пайдаланылмаған (толық пайдаланылмаған) трансферттерді қайтару</td>
+<td>305 388,8</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="3"></td>
 <td>017</td>
 <td></td>
-<td>Нысаналы мақсатқа сай пайдаланылмаған нысаналы трансферттерді қайтару</td>
+<td colspan="2">Нысаналы мақсатқа сай пайдаланылмаған нысаналы трансферттерді қайтару</td>
 <td>39 753</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="3"></td>
 <td>052</td>
 <td></td>
-<td>Қазақстан Республикасы Үкіметінің шешімі бойынша толық пайдалануға рұқсат етілген, өткен қаржы жылында бөлінген, пайдаланылмаған (түгел пайдаланылмаған) нысаналы даму трансферттерінің сомасын қайтару</td>
+<td colspan="2">Қазақстан Республикасы Үкіметінің шешімі бойынша толық пайдалануға рұқсат етілген, өткен қаржы жылында бөлінген, пайдаланылмаған (түгел пайдаланылмаған) нысаналы даму трансферттерінің сомасын қайтару</td>
 <td>331,4</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td colspan="3"></td>
 <td>053</td>
 <td></td>
-<td>Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен республикалық бюджеттен бөлінген пайдаланылмаған (түгел пайдаланылмаған) нысаналы трансферттердің сомасын қайтару</td>
+<td colspan="2">Қазақстан Республикасының Ұлттық қорынан берілетін нысаналы трансферт есебінен республикалық бюджеттен бөлінген пайдаланылмаған (түгел пайдаланылмаған) нысаналы трансферттердің сомасын қайтару</td>
 <td>95 318,3</td>
 </tr>
 <tr>
-<td colspan="4">Барлығы:</td>
-<td></td>
-<td>462 035,6</td>
+<td colspan="6">Барлығы:</td>
+<td colspan="2"></td>
+<td>462 141,5</td>
 </tr>
 </table>
