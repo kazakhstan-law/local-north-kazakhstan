@@ -1,608 +1,603 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108920/kaz/05.05.2017
+source: https://zan.gov.kz/client/#!/doc/108920/kaz/15.09.2017
 ---
 
-> *Уәлиханов аудандық маслихатының*  
-> *2016 жылғы 26 желтоқсандағы № 2-10 с*  
-> *шешіміне 5 қосымша*
+> *Уәлиханов аудандық мәслихатының*  
+> *2016 жылғы 26 желтоқсандағы № 2-10с*  
+> *шешіміне 2 қосымша*
 
-# ТІЗБЕ 2017 жылғы әр бір ауылдық округтің бюджеттік бағдарламалары
+# ТІЗБЕ
 
-> *Ескерту. 5-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Уәлиханов аудандық мәслихатының 05.05.2017 № 3-15 с шешімімен (01.01.2017 бастап қолданысқа енеді).*
+## 2017 жылғы әр бір ауылдық округтің бюджеттік бағдарламалары
+
+> *Ескерту. 5-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Уәлиханов аудандық мәслихатының 15.09.2017 № 2-17с шешімімен (01.01.2017 бастап қолданысқа енеді).*
 
 <table>
 <tr>
-<td colspan="3">Функционалдық топ</td>
-<td rowspan="3">Аталуы</td>
-<td rowspan="3">Сомасы, мың теңге</td>
+<td colspan="5">Функционалдық топ</td>
+<td colspan="2" rowspan="3">Аталуы</td>
+<td colspan="2" rowspan="3">Сомасы, мың теңге</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">Әкімшісі</td>
+<td colspan="4">Әкімшісі</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>Бағдарлама</td>
+<td colspan="2"></td>
+<td colspan="2">Бағдарлама</td>
 </tr>
 <tr>
-<td colspan="3">1</td>
-<td>2</td>
+<td colspan="5">1</td>
+<td colspan="2">2</td>
 <td>3</td>
 </tr>
 <tr>
 <td>1</td>
-<td></td>
-<td></td>
-<td>Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>136923</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td>137081</td>
 </tr>
 <tr>
 <td></td>
-<td>123</td>
-<td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>136923</td>
+<td colspan="2">123</td>
+<td colspan="2"></td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>137081</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>001</td>
-<td>Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>131053</td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>131221</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>әр бір ауылдық округ бөліп көрсеткенде</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">әр бір ауылдық округ бөліп көрсеткенде</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Амангелді</td>
-<td>10533</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Амангелді</td>
+<td>10305</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Ақтүйесай</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Ақтүйесай</td>
 <td>9250</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Ақбұлақ</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Ақбұлақ</td>
 <td>10707</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Бидайық</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Бидайық</td>
 <td>10532</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Қайрат</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қайрат</td>
 <td>9379</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Қарасу</td>
-<td>9458</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қарасу</td>
+<td>8920</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Қаратерек</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қаратерек</td>
 <td>9353</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Көктерек</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Көктерек</td>
 <td>11027</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Кішкенекөл</td>
-<td>30313</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Кішкенекөл</td>
+<td>31143</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Қулыкөл</td>
-<td>9538</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қулыкөл</td>
+<td>9642</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Телжан</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Телжан</td>
 <td>10963</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>022</td>
-<td>Мемлекеттік органның күрделі шығыстары</td>
-<td>5870</td>
+<td colspan="2"></td>
+<td colspan="2">022</td>
+<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
+<td>5860</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>әр бір ауылдық округ бөліп көрсеткенде</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">әр бір ауылдық округ бөліп көрсеткенде</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Амангелді</td>
+<td>140</td>
+</tr>
+<tr>
 <td></td>
-<td></td>
-<td>Амангелді</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Ақтүйесай</td>
 <td>150</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Ақтүйесай</td>
-<td>150</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Ақбұлақ</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Ақбұлақ</td>
 <td>3920</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Бидайық</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Бидайық</td>
 <td>340</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Қайрат</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қайрат</td>
 <td>150</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Қарасу</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қарасу</td>
 <td>190</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Қаратерек</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қаратерек</td>
 <td>150</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Көктерек</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Көктерек</td>
 <td>220</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Кішкенекөл</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Кішкенекөл</td>
 <td>300</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Қулыкөл</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қулыкөл</td>
 <td>150</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Телжан</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Телжан</td>
 <td>150</td>
 </tr>
 <tr>
 <td>4</td>
-<td></td>
-<td></td>
-<td>Бiлiм беру</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Бiлiм беру</td>
 <td>1102</td>
 </tr>
 <tr>
 <td></td>
-<td>123</td>
-<td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td colspan="2">123</td>
+<td colspan="2"></td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
 <td>1102</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>005</td>
-<td>Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
+<td colspan="2"></td>
+<td colspan="2">005</td>
+<td colspan="2">Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
 <td>1102</td>
 </tr>
 <tr>
 <td>7</td>
-<td></td>
-<td></td>
-<td>Тұрғын үй-коммуналдық шаруашылығы</td>
-<td>25177</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Тұрғын үй-коммуналдық шаруашылығы</td>
+<td>23711,6</td>
 </tr>
 <tr>
 <td></td>
-<td>123</td>
-<td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>10568</td>
+<td colspan="2">123</td>
+<td colspan="2"></td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>9728,5</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>027</td>
-<td>Нәтижелі жұмыспен қамтуды және жаппай кәсіпкерлікті дамыту бағдарламасы шеңберінде қалалардың және ауылдық елді мекендердің объектілерін жөндеу және абаттандыру</td>
-<td>10568</td>
+<td colspan="2"></td>
+<td colspan="2">027</td>
+<td colspan="2">Нәтижелі жұмыспен қамтуды және жаппай кәсіпкерлікті дамыту бағдарламасы шеңберінде қалалардың және ауылдық елді мекендердің объектілерін жөндеу және абаттандыру</td>
+<td>9728,5</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>әр бір ауылдық округ бөліп көрсеткенде</td>
-<td></td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Бидайық</td>
-<td>10568</td>
-</tr>
-<tr>
-<td></td>
-<td>123</td>
-<td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>14609</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>008</td>
-<td>Елді мекендерде көшелерді жарықтандыру</td>
-<td>10077</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>әр бір ауылдық округ бөліп көрсеткенде</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">әр бір ауылдық округ бөліп көрсеткенде</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Ақтүйесай</td>
-<td>968</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Бидайық</td>
+<td>9728,5</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2">123</td>
+<td colspan="2"></td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>13983,1</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="2"></td>
+<td colspan="2">008</td>
+<td colspan="2">Елді мекендерде көшелерді жарықтандыру</td>
+<td>9921,1</td>
+</tr>
+<tr>
 <td></td>
-<td>Ақбұлақ</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">әр бір ауылдық округ бөліп көрсеткенде</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Ақтүйесай</td>
+<td>908</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Ақбұлақ</td>
 <td>200</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Бидайық</td>
-<td>788</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Бидайық</td>
+<td>744,1</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Қайрат</td>
-<td>555</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қайрат</td>
+<td>528</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Қарасу</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қарасу</td>
 <td>100</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Қаратерек</td>
-<td>250</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қаратерек</td>
+<td>225</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Көктерек</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Көктерек</td>
 <td>180</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Кішкенекөл</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Кішкенекөл</td>
 <td>6271</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Қулыкөл</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қулыкөл</td>
 <td>515</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Телжан</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Телжан</td>
 <td>250</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>010</td>
-<td>Жерлеу орындарын күтіп-ұстау және туысы жоқ адамдарды жерлеу</td>
+<td colspan="2"></td>
+<td colspan="2">010</td>
+<td colspan="2">Жерлеу орындарын күтіп-ұстау және туысы жоқ адамдарды жерлеу</td>
 <td>114</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>әр бір ауылдық округ бөліп көрсеткенде</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">әр бір ауылдық округ бөліп көрсеткенде</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Кішкенекөл</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Кішкенекөл</td>
 <td>114</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>011</td>
-<td>Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>4418</td>
+<td colspan="2"></td>
+<td colspan="2">011</td>
+<td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
+<td>3948</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>әр бір ауылдық округ бөліп көрсеткенде</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">әр бір ауылдық округ бөліп көрсеткенде</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Ақбұлақ</td>
-<td>350</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Бидайық</td>
+<td>130</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Бидайық</td>
-<td>350</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td>Кішкенекөл</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Кішкенекөл</td>
 <td>3368</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Қулыкөл</td>
-<td>350</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қулыкөл</td>
+<td>450</td>
 </tr>
 <tr>
 <td>8</td>
-<td></td>
-<td></td>
-<td>Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>33464</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
+<td>34086</td>
 </tr>
 <tr>
 <td></td>
-<td>123</td>
-<td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>33464</td>
+<td colspan="2">123</td>
+<td colspan="2"></td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>34086</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>006</td>
-<td>Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
-<td>33464</td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
+<td colspan="2">Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
+<td>34086</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>әр бір ауылдық округ бөліп көрсеткенде</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">әр бір ауылдық округ бөліп көрсеткенде</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Амангелді</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Амангелді</td>
 <td>456</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Ақтүйесай</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Ақтүйесай</td>
 <td>3592</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Ақбұлақ</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Ақбұлақ</td>
 <td>5459</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Бидайық</td>
-<td>8792</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Бидайық</td>
+<td>9268</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Қайрат</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қайрат</td>
 <td>4125</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Қарасу</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қарасу</td>
 <td>449</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Қаратерек</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қаратерек</td>
 <td>429</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Көктерек</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Көктерек</td>
 <td>3389</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Қулыкөл</td>
-<td>4997</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қулыкөл</td>
+<td>5143</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Телжан</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Телжан</td>
 <td>1776</td>
 </tr>
 <tr>
 <td>13</td>
-<td></td>
-<td></td>
-<td>Өзгелер</td>
-<td>15270</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Өзгелер</td>
+<td>13963</td>
 </tr>
 <tr>
 <td></td>
-<td>123</td>
-<td></td>
-<td>Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>15270</td>
+<td colspan="2">123</td>
+<td colspan="2"></td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>13963</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>040</td>
-<td>«Өңірлерді дамыту» Бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
-<td>15270</td>
+<td colspan="2"></td>
+<td colspan="2">040</td>
+<td colspan="2">«Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру»</td>
+<td>13963</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>әр бір ауылдық округ бөліп көрсеткенде</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">әр бір ауылдық округ бөліп көрсеткенде</td>
 <td></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Ақтүйесай</td>
-<td>1520</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Ақтүйесай</td>
+<td>1199</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Ақбұлақ</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Ақбұлақ</td>
 <td>1780</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Бидайық</td>
-<td>2000</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Бидайық</td>
+<td>1524</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Кішкенекөл</td>
-<td>6410</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Кішкенекөл</td>
+<td>5900</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Қарасу</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қарасу</td>
 <td>1780</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
-<td>Көктерек</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Көктерек</td>
 <td>1780</td>
 </tr>
 </table>
