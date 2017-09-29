@@ -1,13 +1,15 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
+source: https://zan.gov.kz/client/#!/doc/108875/kaz/29.09.2017
 ---
 
-> *2016 жылғы 26 желтоқсандағы Жамбыл аудандық мәслихатының № 7/1 шешіміне 5 қосымша*
+> *2016 жылғы 26 желтоқсандағы*  
+> *Жамбыл аудандық мәслихатының № 7/1 шешіміне*  
+> *5 қосымша*
 
 # Жамбыл ауданының ауылдық округтері бойынша 2017 жылға шығыстар
 
-> *Ескерту. 5-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Жамбыл ауданы мәслихатының 27.06.2017 № 13/1 шешімімен (01.01.2017 бастап қолданықса енгізіледі).*
+> *Ескерту. 5-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Жамбыл ауданы мәслихатының 29.09.2017 № 15/1 шешімімен (01.01.2017 бастап қолданысқа енгізіледі).*
 
 <table>
 <tr>
@@ -22,21 +24,21 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td>183 836</td>
+<td>190 196</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
 <td></td>
 <td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>183 836</td>
+<td>190 196</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>001</td>
 <td colspan="2">Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td>168 733</td>
+<td>169 529</td>
 </tr>
 <tr>
 <td></td>
@@ -50,28 +52,28 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td></td>
 <td colspan="2">Архангелка ауылдық округі</td>
-<td>16 470</td>
+<td>16 501</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Благовещенка ауылдық округі</td>
-<td>16 914</td>
+<td>17 461</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Жамбыл ауылдық округі</td>
-<td>11 089</td>
+<td>11 161</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Казанка ауылдық округі</td>
-<td>10 541</td>
+<td>10 722</td>
 </tr>
 <tr>
 <td></td>
@@ -85,21 +87,21 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td></td>
 <td colspan="2">Кладбинка ауылдық округі</td>
-<td>13 770</td>
+<td>13 927</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Майбалық ауылдық округі</td>
-<td>12 167</td>
+<td>11 861</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Мирный ауылдық округі</td>
-<td>11 638</td>
+<td>11 697</td>
 </tr>
 <tr>
 <td></td>
@@ -120,14 +122,14 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td></td>
 <td colspan="2">Преснов ауылдық округі</td>
-<td>21 968</td>
+<td>22 243</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Пресноредут ауылдық округі</td>
-<td>11 599</td>
+<td>11 379</td>
 </tr>
 <tr>
 <td></td>
@@ -141,7 +143,7 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td>022</td>
 <td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td>15 103</td>
+<td>16 657</td>
 </tr>
 <tr>
 <td></td>
@@ -155,7 +157,7 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td></td>
 <td colspan="2">Архангелка ауылдық округі</td>
-<td>200</td>
+<td>468</td>
 </tr>
 <tr>
 <td></td>
@@ -190,7 +192,7 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td></td>
 <td colspan="2">Кладбинка ауылдық округі</td>
-<td>55</td>
+<td>705</td>
 </tr>
 <tr>
 <td></td>
@@ -211,7 +213,7 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td></td>
 <td colspan="2">Озерный ауылдық округі</td>
-<td>7 709</td>
+<td>7 971</td>
 </tr>
 <tr>
 <td></td>
@@ -225,7 +227,7 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td></td>
 <td colspan="2">Преснов ауылдық округі</td>
-<td>4 112</td>
+<td>4 423</td>
 </tr>
 <tr>
 <td></td>
@@ -239,28 +241,14 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td></td>
 <td colspan="2">Троицк ауылдық округі</td>
-<td>200</td>
-</tr>
-<tr>
-<td>04</td>
-<td></td>
-<td></td>
-<td colspan="2">Бiлiм беру</td>
-<td>5 803</td>
-</tr>
-<tr>
-<td></td>
-<td>123</td>
-<td></td>
-<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>5 803</td>
+<td>263</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>005</td>
-<td colspan="2">Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
-<td>5 803</td>
+<td>032</td>
+<td colspan="2">Ведомстволық бағыныстағы мемлекеттік мекемелерінің және ұйымдарының күрделі шығыстары</td>
+<td>4 010</td>
 </tr>
 <tr>
 <td></td>
@@ -274,7 +262,49 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td></td>
 <td colspan="2">Архангелка ауылдық округі</td>
-<td>490</td>
+<td>210</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Қайранкөл ауылдық округі</td>
+<td>3 800</td>
+</tr>
+<tr>
+<td>04</td>
+<td></td>
+<td></td>
+<td colspan="2">Бiлiм беру</td>
+<td>5 183</td>
+</tr>
+<tr>
+<td></td>
+<td>123</td>
+<td></td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>5 183</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>005</td>
+<td colspan="2">Ауылдық жерлерде балаларды мектепке дейін тегін алып баруды және кері алып келуді ұйымдастыру</td>
+<td>5 183</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">соның ішінде:</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Архангелка ауылдық округі</td>
+<td>364</td>
 </tr>
 <tr>
 <td></td>
@@ -288,7 +318,7 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td></td>
 <td colspan="2">Жамбыл ауылдық округі</td>
-<td>805</td>
+<td>719</td>
 </tr>
 <tr>
 <td></td>
@@ -323,7 +353,7 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td></td>
 <td colspan="2">Мирный ауылдық округі</td>
-<td>427</td>
+<td>382</td>
 </tr>
 <tr>
 <td></td>
@@ -338,13 +368,6 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td colspan="2">Первомай ауылдық округі</td>
 <td>367</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Преснов ауылдық округі</td>
-<td>363</td>
 </tr>
 <tr>
 <td></td>
@@ -365,21 +388,21 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>28 642</td>
+<td>34 077</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
 <td></td>
 <td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>28 642</td>
+<td>34 077</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>008</td>
 <td colspan="2">Елді мекендердегі көшелерді жарықтандыру</td>
-<td>20 739</td>
+<td>21 668</td>
 </tr>
 <tr>
 <td></td>
@@ -442,14 +465,7 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td></td>
 <td colspan="2">Мирный ауылдық округі</td>
-<td>222</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td></td>
-<td colspan="2">Озерный ауылдық округі</td>
-<td>230</td>
+<td>331</td>
 </tr>
 <tr>
 <td></td>
@@ -463,7 +479,7 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td></td>
 <td colspan="2">Преснов ауылдық округі</td>
-<td>14 000</td>
+<td>15 050</td>
 </tr>
 <tr>
 <td></td>
@@ -484,7 +500,7 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td>009</td>
 <td colspan="2">Елді мекендердің санитариясын қамтамасыз ету</td>
-<td>2 900</td>
+<td>2 872</td>
 </tr>
 <tr>
 <td></td>
@@ -547,7 +563,7 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td></td>
 <td colspan="2">Мирный ауылдық округі</td>
-<td>240</td>
+<td>212</td>
 </tr>
 <tr>
 <td></td>
@@ -610,7 +626,7 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td>011</td>
 <td colspan="2">Елді мекендерді абаттандыру мен көгалдандыру</td>
-<td>4 831</td>
+<td>9 365</td>
 </tr>
 <tr>
 <td></td>
@@ -623,29 +639,50 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td></td>
 <td></td>
+<td colspan="2">Благовещенка ауылдық округі</td>
+<td>300</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Казанка ауылдық округі</td>
+<td>600</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td colspan="2">Озерный ауылдық округі</td>
+<td>1 506</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
 <td colspan="2">Преснов ауылдық округі</td>
-<td>4 831</td>
+<td>6 959</td>
 </tr>
 <tr>
 <td>08</td>
 <td></td>
 <td></td>
 <td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td>24 327</td>
+<td>20 104</td>
 </tr>
 <tr>
 <td></td>
 <td>123</td>
 <td></td>
 <td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
-<td>24 327</td>
+<td>20 104</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td>006</td>
 <td colspan="2">Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
-<td>24 327</td>
+<td>20 104</td>
 </tr>
 <tr>
 <td></td>
@@ -666,28 +703,28 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td></td>
 <td colspan="2">Казанка ауылдық округі</td>
-<td>6 009</td>
+<td>5 995</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Қайранкөл ауылдық округі</td>
-<td>4 968</td>
+<td>918</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Кладбинка ауылдық округі</td>
-<td>2 221</td>
+<td>2 265</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td colspan="2">Майбалық ауылдық округі</td>
-<td>5 413</td>
+<td>5 267</td>
 </tr>
 <tr>
 <td></td>
@@ -701,7 +738,7 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td></td>
 <td colspan="2">Преснов ауылдық округі</td>
-<td>3 799</td>
+<td>3 742</td>
 </tr>
 <tr>
 <td>12</td>
@@ -869,7 +906,7 @@ source: https://zan.gov.kz/client/#!/doc/108875/kaz/27.06.2017
 <td></td>
 <td></td>
 <td colspan="2">Барлығы:</td>
-<td>270 782</td>
+<td>277 734</td>
 </tr>
 </table>
 
