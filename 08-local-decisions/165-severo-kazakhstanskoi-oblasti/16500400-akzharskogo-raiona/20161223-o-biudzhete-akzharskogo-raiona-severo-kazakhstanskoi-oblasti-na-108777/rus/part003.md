@@ -1,6 +1,6 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/108777/rus/12.09.2017
+source: https://zan.gov.kz/client/#!/doc/108777/rus/27.11.2017
 ---
 
 > *Приложение 3*  
@@ -1517,816 +1517,821 @@ source: https://zan.gov.kz/client/#!/doc/108777/rus/12.09.2017
 
 > *Приложение 4*  
 > *к решению Акжарского районного маслихата Северо-Казахстанской области*  
-> *от 23 декабря 2016 года №9-1*
+> *от 23 декабря 2016 года № 9-1*
 
-# ПЕРЕЧЕНЬ бюджетных программ каждого сельского округа на 2017 год
+# ПЕРЕЧЕНЬ
 
-> *Сноска. Приложение 4 - в редакции решения Акжарского районного маслихата Северо-Казахстанской области от 12.09.2017 № 18-1 (вводится в действие с 01.01.2017).*
+## бюджетных программ каждого сельского округа на 2017 год
+
+> *Сноска. Приложение 4 - в редакции решения Акжарского районного маслихата Северо-Казахстанской области от 27.11.2017 № 20-1 (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
-<td colspan="4">Функциональная группа</td>
+<td colspan="6">Функциональная группа</td>
 <td rowspan="4">Наименование</td>
-<td rowspan="4">Сумма тысяч тенге</td>
+<td colspan="2" rowspan="4">
+Сумма
+тысяч тенге
+</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3">функциональная подгруппа</td>
+<td colspan="5">функциональная подгруппа</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td colspan="2">Администратор бюджетных программ</td>
+<td colspan="2"></td>
+<td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>Программа</td>
 </tr>
 <tr>
 <td>1</td>
-<td>2</td>
-<td>3</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
 <td>4</td>
 <td>5</td>
-<td>6</td>
+<td colspan="2">6</td>
 </tr>
 <tr>
 <td>1</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>133394,5</td>
+<td colspan="2">137650,5</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>133394,5</td>
+<td colspan="2">137650,5</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>123</td>
+<td colspan="2"></td>
+<td colspan="2">123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>133394,5</td>
+<td colspan="2">137650,5</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима района в городе , города районного значения, поселка, села, сельского округа</td>
-<td>131024,5</td>
+<td colspan="2">132280,5</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>в том числе в разрезе сельских округов</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Талшыкский</td>
-<td>18309,4</td>
+<td colspan="2">18795,4</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Ленинградский</td>
-<td>18748,2</td>
+<td colspan="2">19398,2</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Айсаринский</td>
-<td>7830</td>
+<td colspan="2">7810</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Алкатерекский</td>
-<td>9693</td>
+<td colspan="2">9672</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Кулыкольский</td>
-<td>9874,2</td>
+<td colspan="2">10101,2</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Кенащинский</td>
-<td>10184</td>
+<td colspan="2">10261</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Кишикаройский</td>
-<td>10964,2</td>
+<td colspan="2">10936,2</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Майский</td>
-<td>6824</td>
+<td colspan="2">6802</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Акжаркынский</td>
-<td>9762,1</td>
+<td colspan="2">9739,1</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Новосельский</td>
-<td>10119,1</td>
+<td colspan="2">10093,1</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Восходский</td>
-<td>8220</td>
+<td colspan="2">8200</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Уялинский</td>
-<td>10496,3</td>
+<td colspan="2">10472,3</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>1600</td>
+<td colspan="2">1600</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>в том числе в разрезе сельских округов</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Талшыкский</td>
-<td>300</td>
+<td colspan="2">300</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Ленинградский</td>
-<td>300</td>
+<td colspan="2">300</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Кенащинский</td>
-<td>500</td>
+<td colspan="2">500</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Кулыкольский</td>
-<td>500</td>
+<td colspan="2">500</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>32</td>
 <td>Капитальные расходы подведомственных государственных учреждений и организаций</td>
-<td>770</td>
+<td colspan="2">3770</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>в том числе в разрезе сельских округов</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Талшикский</td>
-<td>270</td>
+<td colspan="2">3270</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Майский</td>
-<td>500</td>
+<td colspan="2">500</td>
 </tr>
 <tr>
 <td>7</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>17834</td>
+<td colspan="2">15174</td>
 </tr>
 <tr>
 <td></td>
-<td>2</td>
-<td></td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
 <td></td>
 <td>Коммунальное хозяйство</td>
-<td>4417</td>
+<td colspan="2">4038</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>123</td>
+<td colspan="2"></td>
+<td colspan="2">123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>4417</td>
+<td colspan="2">4038</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>014</td>
 <td>Организация водоснабжения населенных пунктов</td>
-<td>4417</td>
+<td colspan="2">4038</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>в том числе в разрезе сельских округов</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Кенащинский</td>
-<td>108</td>
+<td colspan="2">108</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Кишикаройский</td>
-<td>160</td>
+<td colspan="2">160</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Новосельский</td>
-<td>1284</td>
+<td colspan="2">1284</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Майский</td>
-<td>642</td>
+<td colspan="2">319</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Восходский</td>
-<td>479</td>
+<td colspan="2">479</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Уялинский</td>
-<td>1284</td>
+<td colspan="2">1284</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Айсаринский</td>
-<td>460</td>
+<td colspan="2">404</td>
 </tr>
 <tr>
 <td></td>
-<td>3</td>
-<td></td>
+<td colspan="2">3</td>
+<td colspan="2"></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>13417</td>
+<td colspan="2">11136</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>10887</td>
+<td colspan="2">9536</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>в том числе в разрезе сельских округов</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Талшыкский</td>
-<td>4684</td>
+<td colspan="2">4384</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Ленинградский</td>
-<td>2410</td>
+<td colspan="2">1710</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Айсаринский</td>
-<td>150</td>
+<td colspan="2">150</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Алкатерекский</td>
-<td>482</td>
+<td colspan="2">482</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Кулыкольский</td>
-<td>530</td>
+<td colspan="2">279</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Кенащинский</td>
-<td>377</td>
+<td colspan="2">277</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Кишикаройский</td>
-<td>433</td>
+<td colspan="2">433</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Майский</td>
-<td>165</td>
+<td colspan="2">165</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Акжаркынский</td>
-<td>480</td>
+<td colspan="2">480</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Новосельский</td>
-<td>346</td>
+<td colspan="2">346</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Восходский</td>
-<td>550</td>
+<td colspan="2">550</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Уялинский</td>
-<td>280</td>
+<td colspan="2">280</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>1930</td>
+<td colspan="2">1000</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>в том числе в разрезе сельских округов</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Талшыкский</td>
-<td>1930</td>
+<td colspan="2">1000</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>600</td>
+<td colspan="2">600</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>в том числе в разрезе сельских округов</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Талшыкский</td>
-<td>600</td>
+<td colspan="2">600</td>
 </tr>
 <tr>
 <td>8</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>33 644</td>
+<td colspan="2">33 623</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
 <td></td>
 <td>Деятельность в области культуры</td>
-<td>33 644</td>
+<td colspan="2">33 623</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>123</td>
+<td colspan="2"></td>
+<td colspan="2">123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>33 644</td>
+<td colspan="2">33 623</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>006</td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
-<td>33 644</td>
+<td colspan="2">33 623</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>в том числе в разрезе сельских округов</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Талшикский</td>
-<td>2 516</td>
+<td colspan="2">2 597</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Ленинградский</td>
-<td>6 899</td>
+<td colspan="2">6 875</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Айсаринский</td>
-<td>2 451</td>
+<td colspan="2">2 442</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Алкатерекский</td>
-<td>2 973</td>
+<td colspan="2">2 963</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Кенащинский</td>
-<td>6 671</td>
+<td colspan="2">6 649</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Майский</td>
-<td>4 860</td>
+<td colspan="2">4 845</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Акжаркынский</td>
-<td>5 162</td>
+<td colspan="2">5 146</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Новосельский</td>
-<td>2 112</td>
+<td colspan="2">2 106</td>
 </tr>
 <tr>
 <td>12</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>1225</td>
+<td colspan="2">1225</td>
 </tr>
 <tr>
 <td></td>
-<td>1</td>
-<td></td>
+<td colspan="2">1</td>
+<td colspan="2"></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>1225</td>
+<td colspan="2">1225</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>123</td>
+<td colspan="2"></td>
+<td colspan="2">123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>1225</td>
+<td colspan="2">1225</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения,поселках,селах,сельских округах</td>
-<td>1225</td>
+<td colspan="2">1225</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>в том числе в разрезе сельских округов</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Ленинградский</td>
-<td>600</td>
+<td colspan="2">600</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Талшикский</td>
-<td>625</td>
+<td colspan="2">625</td>
 </tr>
 <tr>
 <td>13</td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Прочие</td>
-<td>15501,8</td>
+<td colspan="2">15501,8</td>
 </tr>
 <tr>
 <td></td>
-<td>9</td>
-<td></td>
+<td colspan="2">9</td>
+<td colspan="2"></td>
 <td></td>
 <td>Прочие</td>
-<td>15501,8</td>
+<td colspan="2">15501,8</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td>123</td>
+<td colspan="2"></td>
+<td colspan="2">123</td>
 <td></td>
 <td>Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
-<td>15501,8</td>
+<td colspan="2">15501,8</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td>040</td>
 <td>Реализация мер по содействию экономическому развитию регионов в рамках Программы «Развитие регионов» до 2020 года</td>
-<td>15501,8</td>
+<td colspan="2">15501,8</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>в том числе в разрезе сельских округов</td>
-<td></td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Талшикский</td>
-<td>5000</td>
+<td colspan="2">5000</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Ленинградский</td>
-<td>3796,8</td>
+<td colspan="2">3796,8</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Айсаринский</td>
-<td>200</td>
+<td colspan="2">200</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Алкатерекский</td>
-<td>569</td>
+<td colspan="2">569</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Кулыкольский</td>
-<td>1000</td>
+<td colspan="2">1000</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Кенащинский</td>
-<td>495</td>
+<td colspan="2">495</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Кишикаройский</td>
-<td>1092,8</td>
+<td colspan="2">1092,8</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Майский</td>
-<td>446,4</td>
+<td colspan="2">446,4</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Акжаркынский</td>
-<td>913,9</td>
+<td colspan="2">913,9</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Новосельский</td>
-<td>892,9</td>
+<td colspan="2">892,9</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Восходский</td>
-<td>400</td>
+<td colspan="2">400</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
-<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 <td></td>
 <td>Уялинский</td>
-<td>695</td>
+<td colspan="2">695</td>
 </tr>
 </table>
 
@@ -3885,13 +3890,16 @@ source: https://zan.gov.kz/client/#!/doc/108777/rus/12.09.2017
 
 # Перечень бюджетных программ развития с разделением на бюджетные инвестиционные проекты и программы районного бюджета на 2017 год
 
-> *Сноска. Приложение 8 - в редакции решения Акжарского районного маслихата Северо-Казахстанской области от 12.09.2017 № 18-1 (вводится в действие с 01.01.2017).*
+> *Сноска. Приложение 8 - в редакции решения Акжарского районного маслихата Северо-Казахстанской области от 27.11.2017 № 20-1 (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
 <td colspan="4">Функциональная группа</td>
 <td rowspan="4">Наименование</td>
-<td rowspan="4">Сумма тысяч тенге</td>
+<td rowspan="4">
+Сумма
+тыс.тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -3922,7 +3930,7 @@ source: https://zan.gov.kz/client/#!/doc/108777/rus/12.09.2017
 <td></td>
 <td></td>
 <td>ВСЕГО</td>
-<td>13643,4</td>
+<td>9729,4</td>
 </tr>
 <tr>
 <td>07</td>
@@ -3930,7 +3938,7 @@ source: https://zan.gov.kz/client/#!/doc/108777/rus/12.09.2017
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>6848</td>
+<td>3889</td>
 </tr>
 <tr>
 <td></td>
@@ -3938,7 +3946,7 @@ source: https://zan.gov.kz/client/#!/doc/108777/rus/12.09.2017
 <td></td>
 <td></td>
 <td>Жилищное хозяйство</td>
-<td>6848</td>
+<td>3889</td>
 </tr>
 <tr>
 <td></td>
@@ -3946,7 +3954,7 @@ source: https://zan.gov.kz/client/#!/doc/108777/rus/12.09.2017
 <td>472</td>
 <td></td>
 <td>Отдел строительства, архитектуры и градостроительства района (города областного значения)</td>
-<td>6848</td>
+<td>3889</td>
 </tr>
 <tr>
 <td></td>
@@ -3954,14 +3962,14 @@ source: https://zan.gov.kz/client/#!/doc/108777/rus/12.09.2017
 <td></td>
 <td>003</td>
 <td>Проектирование и(или) строительство, реконструкция жилья коммунального жилищного фонда</td>
-<td>3441</td>
+<td>1870</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
-<td>003</td>
-<td>Строительство 5-этажного многоквартирного жилого дома по улице Ауэзова в с.Талшик Акжарского района,</td>
+<td></td>
+<td>Строительство 5-этажного многоквартирного жилого дома по улице Ауэзова в селе Талшик Акжарского района,</td>
 <td>1</td>
 </tr>
 <tr>
@@ -3969,8 +3977,8 @@ source: https://zan.gov.kz/client/#!/doc/108777/rus/12.09.2017
 <td></td>
 <td></td>
 <td></td>
-<td>Разработка проектно-сметной документации на строительство одноквартирных жилых домов в с.Талшик Акжарского района,</td>
-<td>3440</td>
+<td>Разработка проектно-сметной документации на строительство одноквартирных жилых домов в селе Талшик Акжарского района,</td>
+<td>1869</td>
 </tr>
 <tr>
 <td></td>
@@ -3978,14 +3986,14 @@ source: https://zan.gov.kz/client/#!/doc/108777/rus/12.09.2017
 <td></td>
 <td>004</td>
 <td>Проектирование, развитие и/или обустройство инженерно-коммуникационной инфраструктуры</td>
-<td>3407</td>
+<td>2019</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td>Строительство модульной котельни с подведением инженерно-коммуникационной инфраструктуры с благоустройством территории к 5-этажному многоквартирному жилому дому по улице Ауэзова в с.Талшик Акжарского района,</td>
+<td>Строительство модульной котельни с подведением инженерно-коммуникационной инфраструктуры с благоустройством территории к 5-этажному многоквартирному жилому дому по улице Ауэзова в селе Талшик Акжарского района,</td>
 <td>207</td>
 </tr>
 <tr>
@@ -3993,8 +4001,8 @@ source: https://zan.gov.kz/client/#!/doc/108777/rus/12.09.2017
 <td></td>
 <td></td>
 <td></td>
-<td>Разработка проектно-сметной документации на подведение инженерно-коммуникационной инфраструктуры с благоустройством территории к строящимся одноквартирным жилым домам в с.Талшик Акжарского района,</td>
-<td>3200</td>
+<td>Разработка проектно-сметной документации на подведение инженерно-коммуникационной инфраструктуры с благоустройством территории к строящимся одноквартирным жилым домам в селе Талшик Акжарского района,</td>
+<td>1812</td>
 </tr>
 <tr>
 <td>08</td>
@@ -4002,7 +4010,7 @@ source: https://zan.gov.kz/client/#!/doc/108777/rus/12.09.2017
 <td></td>
 <td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>6795,4</td>
+<td>5840,4</td>
 </tr>
 <tr>
 <td></td>
@@ -4010,7 +4018,7 @@ source: https://zan.gov.kz/client/#!/doc/108777/rus/12.09.2017
 <td></td>
 <td></td>
 <td>Спорт</td>
-<td>6795,4</td>
+<td>5840,4</td>
 </tr>
 <tr>
 <td></td>
@@ -4018,7 +4026,7 @@ source: https://zan.gov.kz/client/#!/doc/108777/rus/12.09.2017
 <td>472</td>
 <td></td>
 <td>Отдел строительства, архитектуры и градостроительства района (города областного значения)</td>
-<td>6795,4</td>
+<td>5840,4</td>
 </tr>
 <tr>
 <td></td>
@@ -4026,7 +4034,7 @@ source: https://zan.gov.kz/client/#!/doc/108777/rus/12.09.2017
 <td></td>
 <td>008</td>
 <td>Развитие объектов спорта</td>
-<td>6795,4</td>
+<td>5840,4</td>
 </tr>
 <tr>
 <td></td>
@@ -4034,7 +4042,7 @@ source: https://zan.gov.kz/client/#!/doc/108777/rus/12.09.2017
 <td></td>
 <td></td>
 <td>Разработка проектно-сметной документации с государственной экспертизой на строительство физкультурно-оздоровительного комплекса с использованием приобретенной крытой модульной сборной конструкции</td>
-<td>6795,4</td>
+<td>5840,4</td>
 </tr>
 </table>
 
@@ -4044,12 +4052,15 @@ source: https://zan.gov.kz/client/#!/doc/108777/rus/12.09.2017
 
 # Распределение общей суммы резерва местного исполнительного органа по видам резерва
 
-> *Сноска. Приложение 9 - в редакции решения Акжарского районного маслихата Северо-Казахстанской области от 12.09.2017 № 18-1 (вводится в действие с 01.01.2017).*
+> *Сноска. Приложение 9 - в редакции решения Акжарского районного маслихата Северо-Казахстанской области от 27.11.2017 № 20-1 (вводится в действие с 01.01.2017).*
 
 <table>
 <tr>
 <td colspan="9">Функциональная группа</td>
-<td rowspan="5">Сумма тысяч тенге</td>
+<td colspan="2" rowspan="5">
+Сумма
+тыс. тенге
+</td>
 </tr>
 <tr>
 <td></td>
@@ -4063,55 +4074,55 @@ source: https://zan.gov.kz/client/#!/doc/108777/rus/12.09.2017
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td colspan="6">Программа</td>
+<td colspan="2"></td>
+<td colspan="5">Программа</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="5">Наименование</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Наименование</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="5">Затраты</td>
-<td>4319</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Затраты</td>
+<td colspan="2">2295</td>
 </tr>
 <tr>
 <td>13</td>
 <td></td>
-<td></td>
-<td></td>
-<td colspan="5">Прочие</td>
-<td>4319</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Прочие</td>
+<td colspan="2">2295</td>
 </tr>
 <tr>
 <td></td>
 <td>9</td>
-<td></td>
-<td></td>
-<td colspan="5">Прочие</td>
-<td>4319</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Прочие</td>
+<td colspan="2">2295</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td>459</td>
-<td></td>
-<td colspan="5">Отдел экономики и финансов района (города областного значения)</td>
-<td>4319</td>
+<td colspan="2">459</td>
+<td colspan="2"></td>
+<td colspan="3">Отдел экономики и финансов района (города областного значения)</td>
+<td colspan="2">2295</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td></td>
-<td>012</td>
-<td colspan="5">Резерв местного исполнительного органа района (города областного значения)</td>
-<td>4319</td>
+<td colspan="2"></td>
+<td colspan="2">012</td>
+<td colspan="3">Резерв местного исполнительного органа района (города областного значения)</td>
+<td colspan="2">2295</td>
 </tr>
 </table>
 
