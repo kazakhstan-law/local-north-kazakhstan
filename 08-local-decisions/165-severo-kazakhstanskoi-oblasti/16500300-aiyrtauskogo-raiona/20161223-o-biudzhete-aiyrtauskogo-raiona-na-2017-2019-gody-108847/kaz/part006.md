@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/108847/kaz/25.10.2017
+source: https://zan.gov.kz/client/#!/doc/108847/kaz/05.12.2017
 ---
 
 > *Айыртау аудандық мәслихатының 2016 жылғы*  
