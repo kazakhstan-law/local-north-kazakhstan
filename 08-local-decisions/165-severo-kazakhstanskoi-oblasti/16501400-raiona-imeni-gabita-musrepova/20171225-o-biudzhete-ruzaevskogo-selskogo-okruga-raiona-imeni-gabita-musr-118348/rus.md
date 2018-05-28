@@ -1,5 +1,5 @@
 ---
-version_id: '118348_319121'
+version_id: '118348_363859'
 act_code: '118348'
 language: rus
 title: О бюджете Рузаевского сельского округа района имени Габита Мусрепова на 2018-2020 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '165014000002'
 approval_date: 2017-12-25
-version_date: 2018-04-11
+version_date: 2018-05-28
 registry_number: '118348'
 caused_by:
-  code: '121359'
+  code: '122904'
   title: О внесении изменения в решение маслихата района имени Габита Мусрепова от 25 декабря 2017 года № 17-3 «О бюджете Рузаевского сельского округа района имени Габита Мусрепова на 2018-2020 годы»
-  link: https://zan.gov.kz/client/#!/doc/121359/rus
-source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
+  link: https://zan.gov.kz/client/#!/doc/122904/rus
+source: https://zan.gov.kz/client/#!/doc/118348/rus/28.05.2018
 ---
 
 # О бюджете Рузаевского сельского округа района имени Габита Мусрепова на 2018-2020 годы
@@ -25,9 +25,9 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 
 1. Утвердить бюджет Рузаевского сельского округа района имени Габита Мусрепова на 2018-2020 годы согласно приложениям 1, 2 и 3 к настоящему решению соответственно, в том числе на 2018 год в следующих объемах:
 
-   1) доходы – 32 282 тысяч тенге, в том числе по:
+   1) доходы – 34 882 тысяч тенге, в том числе по:
 
-      налоговым поступлениям – 19 847 тысяч тенге;
+      налоговым поступлениям – 20 147 тысяч тенге;
 
       неналоговым поступлениям – 0;
 
@@ -35,7 +35,7 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 
       поступления трансфертов – 12 435 тысяч тенге;
 
-   2) затраты – 32 282 тысяч тенге;
+   2) затраты – 34 882 тысяч тенге;
 
    3) чистое бюджетное кредитование – 0, в том числе:
 
@@ -51,7 +51,7 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 
    5) дефицит (профицит) бюджета – 0;
 
-   6) финансирование дефицита (использование профицита) бюджета – 0:
+   6) финансирование дефицита (использование профицита) бюджета – 0, в том числе:
 
       поступление займов – 0;
 
@@ -59,7 +59,7 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 
       используемые остатки бюджетных средств - 0.
 
-> *Сноска. Пункт 1 в редакции решения маслихата района имени Габита Мусрепова Северо-Казахстанской области от 11.04.2018 № 23-2 (вводится в действие с 01.01.2018).*
+> *Сноска. Пункт 1 в редакции решения маслихата района имени Габита Мусрепова Северо-Казахстанской области от 28.05.2018 № 25-2 (вводится в действие с 01.01.2018).*
 
 2. Установить, что доходы бюджета сельского округа на 2018 год формируются в соответствии с Бюджетным кодексом Республики Казахстан от 4 декабря 2008 года за счет следующих налоговых поступлений:
 
@@ -89,100 +89,107 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 > *к решению маслихата*  
 > *от 25 декабря 2017 года № 17-3*
 
-## Бюджет на 2018 год Рузаевского сельского округа района имени Габита Мусрепова
+## Бюджет Рузаевского сельского округа района имени Габита Мусрепова на 2018 год
 
-> *Сноска. Приложение 1 в редакции решения маслихата района имени Габита Мусрепова Северо-Казахстанской области от 11.04.2018 № 23-2 (вводится в действие с 01.01.2018).*
+> *Сноска. Приложение 1 в редакции решения маслихата района имени Габита Мусрепова Северо-Казахстанской области от 28.05.2018 № 25-2 (вводится в действие с 01.01.2018).*
 
 <table>
 <tr>
-<td colspan="2">Категория</td>
+<td>Категория</td>
 <td colspan="2">Класс</td>
-<td>Подкласс</td>
-<td colspan="2">Наименование</td>
+<td colspan="2">Подкласс</td>
+<td colspan="3">Наименование</td>
 <td>Сумма (тысяч тенге)</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td></td>
-<td colspan="2">1. Доходы</td>
-<td>32 282</td>
+<td colspan="3">1. Доходы</td>
+<td>34 882</td>
 </tr>
 <tr>
+<td>1</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="3">Налоговые поступления</td>
+<td>20 147</td>
+</tr>
+<tr>
+<td>1</td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
-<td></td>
-<td colspan="2">Налоговые поступления</td>
-<td>19 847</td>
+<td colspan="3">Подоходный налог</td>
+<td>9 875</td>
 </tr>
 <tr>
+<td>1</td>
 <td colspan="2">1</td>
-<td colspan="2">1</td>
-<td></td>
-<td colspan="2">Подоходный налог</td>
-<td>9 575</td>
+<td colspan="2">2</td>
+<td colspan="3">Индивидуальный подоходный налог</td>
+<td>9 875</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">1</td>
-<td>2</td>
-<td colspan="2">Индивидуальный подоходный налог</td>
-<td>9 575</td>
-</tr>
-<tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td colspan="2">4</td>
-<td>0</td>
-<td colspan="2">Налоги на собственность</td>
+<td colspan="2">0</td>
+<td colspan="3">Налоги на собственность</td>
 <td>10 272</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td colspan="2">4</td>
 <td>1</td>
-<td colspan="2">Налоги на имущество</td>
+<td colspan="2">4</td>
+<td colspan="2">1</td>
+<td colspan="3">Налоги на имущество</td>
 <td>87</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td colspan="2">4</td>
-<td>3</td>
-<td colspan="2">Земельный налог</td>
+<td colspan="2">3</td>
+<td colspan="3">Земельный налог</td>
 <td>799</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td colspan="2">4</td>
-<td>4</td>
-<td colspan="2">Налог на транспортные средства</td>
+<td colspan="2">4</td>
+<td colspan="3">Налог на транспортные средства</td>
 <td>9 386</td>
 </tr>
 <tr>
-<td colspan="2">4</td>
+<td>4</td>
 <td colspan="2">0</td>
-<td>0</td>
-<td colspan="2">Поступления трансфертов</td>
+<td colspan="2">0</td>
+<td colspan="3">Поступления трансфертов</td>
+<td>14 735</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="2">2</td>
+<td colspan="2"></td>
+<td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
+<td>14 735</td>
+</tr>
+<tr>
+<td>4</td>
+<td colspan="2">2</td>
+<td colspan="2">3</td>
+<td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
 <td>12 435</td>
 </tr>
 <tr>
-<td colspan="2">4</td>
+<td>4</td>
 <td colspan="2">2</td>
-<td></td>
-<td colspan="2">Трансферты из вышестоящих органов государственного управления</td>
-<td>12 435</td>
-</tr>
-<tr>
-<td colspan="2">4</td>
-<td colspan="2">2</td>
-<td>3</td>
-<td colspan="2">Трансферты из районного (города областного значения) бюджета</td>
-<td>12 435</td>
+<td colspan="2">3</td>
+<td colspan="3">Целевые текущие трансферты</td>
+<td>2 300</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td>Функциональная группа</td>
+<td colspan="2">Функциональная группа</td>
 <td colspan="2">Функциональная подгруппа</td>
 <td colspan="2">Учреждение</td>
 <td>Программа</td>
@@ -190,47 +197,47 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 <td>Сумма (тысяч тенге)</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td>2. Затраты</td>
-<td>32 282</td>
+<td>34 882</td>
 </tr>
 <tr>
-<td>01</td>
+<td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>24 682</td>
+<td>24 982</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>24 682</td>
+<td>24 982</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>24 682</td>
+<td>24 982</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>24 582</td>
+<td>24 882</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>022</td>
@@ -238,23 +245,23 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 <td>100</td>
 </tr>
 <tr>
-<td>07</td>
+<td colspan="2">07</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>5 600</td>
+<td>7 900</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="2"></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>5 600</td>
+<td>7 900</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
@@ -262,23 +269,23 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 <td>5 600</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>5 240</td>
+<td>3 440</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>360</td>
+<td>4 460</td>
 </tr>
 <tr>
-<td>13</td>
+<td colspan="2">13</td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
@@ -286,7 +293,7 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 <td>2 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">9</td>
 <td colspan="2"></td>
 <td></td>
@@ -294,7 +301,7 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 <td>2 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">124</td>
 <td></td>
@@ -302,7 +309,7 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 <td>2 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td>040</td>
@@ -310,7 +317,7 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 <td>2 000</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
@@ -318,7 +325,7 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
@@ -326,7 +333,7 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
@@ -334,7 +341,7 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
@@ -342,7 +349,7 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
@@ -350,7 +357,7 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
@@ -358,7 +365,7 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
@@ -366,7 +373,7 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
@@ -374,7 +381,7 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
@@ -382,7 +389,7 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
@@ -390,7 +397,7 @@ source: https://zan.gov.kz/client/#!/doc/118348/rus/11.04.2018
 <td>0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
