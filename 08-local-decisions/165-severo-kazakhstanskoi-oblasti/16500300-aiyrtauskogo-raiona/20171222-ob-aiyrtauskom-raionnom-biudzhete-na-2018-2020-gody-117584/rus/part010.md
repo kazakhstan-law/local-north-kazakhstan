@@ -1,7 +1,108 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/117584/rus/28.09.2018
+source: https://zan.gov.kz/client/#!/doc/117584/rus/08.11.2018
 ---
+
+> *Приложение 10*  
+> *к решению Айыртауского районного маслихата*  
+> *От 22 декабря 2017 года № 6-15-1*
+
+# Распределение трансфертов органам местного самоуправления по сельским округам на 2020 год
+
+<table>
+<tr>
+<td colspan="4">Функциональная группа</td>
+<td colspan="2" rowspan="3">Наименование</td>
+<td colspan="2" rowspan="3">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td></td>
+<td>Администратор</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td>1</td>
+<td>2</td>
+<td colspan="2">3</td>
+<td colspan="2">А</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td>15</td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Трансферты</td>
+<td colspan="2">11 334,0</td>
+</tr>
+<tr>
+<td></td>
+<td>459</td>
+<td colspan="2"></td>
+<td colspan="2">Отдел экономики и финансов района (города областного значения)</td>
+<td colspan="2">11 334,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">051</td>
+<td colspan="2">Трансферты органам местного самоуправления</td>
+<td colspan="2">11 334,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">в том числе по сельским округам:</td>
+<td colspan="2"></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима Гусаковского сельского округа</td>
+<td colspan="2">3 087,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима Елецкого сельского округа</td>
+<td colspan="2">1 797,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима Каратальского сельского округа</td>
+<td colspan="2">2 370,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима Константиновского сельского округа</td>
+<td colspan="2">2 923,0</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">Аппарат акима Нижнебурлукского сельского округа</td>
+<td colspan="2">1 157,0</td>
+</tr>
+</table>
 
 > *Приложение 11*  
 > *к решению Айыртауского районного маслихата*  
