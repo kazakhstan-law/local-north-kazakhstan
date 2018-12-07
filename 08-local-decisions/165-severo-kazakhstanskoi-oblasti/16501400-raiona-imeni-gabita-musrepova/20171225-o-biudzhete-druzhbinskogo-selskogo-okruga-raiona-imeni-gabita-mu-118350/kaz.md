@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
+source: https://zan.gov.kz/client/#!/doc/118350/kaz/07.12.2018
 ---
 
 # 2018-2020 жылдарға арналған Ғабит Мүсірепов атындағы ауданы Дружба ауылдық округінің бюджеті туралы
@@ -10,13 +10,13 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 
    1) кірістер – 11 695 мың теңге:
 
-      салықтық түсімдер – 3 985 мың теңге;
+      салықтық түсімдер – 4 793,6 мың теңге;
 
       салықтық емес түсімдер – 0;
 
       негізгі капиталды сатудан түсетін түсімдер – 0;
 
-      трансферттер түсімі – 7 710 мың теңге;
+      трансферттер түсімі – 6 901,4 мың теңге;
 
    2) шығындар – 11 695 мың теңге;
 
@@ -40,9 +40,9 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 
       қарыздарды өтеу – 0;
 
-      бюджет қаражатының пайдаланылатын қалдықтары – 0.
+      бюджет қаражатының пайдаланылатын қалдықтары - 0.
 
-> *Ескерту. 1-тармақ жаңа редакцияда - Солтүстік Қазақстан облысы Ғабит Мүсірепов атындағы ауданы мәслихатының 11.10.2018 № 31-4 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-тармақ жаңа редакцияда - Солтүстік Қазақстан облысы Ғабит Мүсірепов атындағы ауданы мәслихатының 07.12.2018 № 36-2 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
 
 2. Қазақстан Республикасының 2008 жылғы 4 желтоқсандағы Бюджеттік кодексіне сәйкес, 2018 жылға арналған ауылдық округтің бюджеті келесі салықтық түсімдер есебінен қалыптастырылатындығы белгіленсін:
 
@@ -74,120 +74,120 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 
 ## 2018 жылға арналған Ғабит Мүсірепов атындағы ауданы Дружба ауылдық округінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Ғабит Мүсірепов атындағы ауданы мәслихатының 11.10.2018 № 31-4 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Ғабит Мүсірепов атындағы ауданы мәслихатының 07.12.2018 № 36-2 (01.01.2018 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
-<td colspan="2">Санаты</td>
+<td>Санаты</td>
 <td>Сыныбы</td>
-<td colspan="2">Кіші сыныбы</td>
-<td colspan="3">Атауы</td>
+<td>Кіші Сыныбы</td>
+<td colspan="4">Атауы</td>
 <td>Сома (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">1. Кiрiстер</td>
+<td></td>
+<td></td>
+<td colspan="4">1. Кiрiстер</td>
 <td>11 695</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
+<td>1</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">Салықтық түсімдер</td>
-<td>3 985</td>
+<td></td>
+<td colspan="4">Салықтық түсімдер</td>
+<td>4 793,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>01</td>
-<td colspan="2"></td>
-<td colspan="3">Табыс салығы</td>
-<td>1 192</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">2</td>
-<td colspan="3">Жеке табыс салығы</td>
-<td>1 192</td>
+<td colspan="4">Табыс салығы</td>
+<td>1 290</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
+<td></td>
+<td>2</td>
+<td colspan="4">Жеке табыс салығы</td>
+<td>1 290</td>
+</tr>
+<tr>
+<td></td>
 <td>04</td>
-<td colspan="2"></td>
-<td colspan="3">Меншiкке салынатын салықтар</td>
-<td>2 793</td>
+<td></td>
+<td colspan="4">Меншiкке салынатын салықтар</td>
+<td>3 503,6</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">1</td>
-<td colspan="3">Мүлiкке салынатын салықтар</td>
-<td>40</td>
+<td></td>
+<td>1</td>
+<td colspan="4">Мүлiкке салынатын салықтар</td>
+<td>78</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">3</td>
-<td colspan="3">Жер салығы</td>
-<td>300</td>
+<td></td>
+<td>3</td>
+<td colspan="4">Жер салығы</td>
+<td>408</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">4</td>
-<td colspan="3">Көлiк құралдарына салынатын салық</td>
-<td>2 453</td>
+<td></td>
+<td>4</td>
+<td colspan="4">Көлiк құралдарына салынатын салық</td>
+<td>3 017,6</td>
 </tr>
 <tr>
-<td colspan="2">2</td>
+<td>2</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">Салықтық емес түсімдер</td>
+<td></td>
+<td colspan="4">Салықтық емес түсімдер</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2">3</td>
+<td>3</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">Негізгі капиталды сатудан түсетін түсімдер</td>
+<td></td>
+<td colspan="4">Негізгі капиталды сатудан түсетін түсімдер</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2">4</td>
+<td>4</td>
 <td></td>
-<td colspan="2"></td>
-<td colspan="3">Трансферттердің түсімдері</td>
-<td>7 710</td>
+<td></td>
+<td colspan="4">Трансферттердің түсімдері</td>
+<td>6 901,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>02</td>
-<td colspan="2"></td>
-<td colspan="3">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
-<td>7 710</td>
-</tr>
-<tr>
-<td colspan="2"></td>
 <td></td>
-<td colspan="2">3</td>
-<td colspan="3">Аудандық (облыстық маңызы бар қаланың) бюджетінен түсетін трансферттер</td>
-<td>7 710</td>
+<td colspan="4">Мемлекеттік басқарудың жоғары тұрған органдарынан түсетін трансферттер</td>
+<td>6 901,4</td>
 </tr>
 <tr>
-<td colspan="9"></td>
+<td></td>
+<td></td>
+<td>3</td>
+<td colspan="4">Аудандық (облыстық маңызы бар қаланың) бюджетінен түсетін трансферттер</td>
+<td>6901,4</td>
 </tr>
 <tr>
-<td colspan="2">Функционалдық топ</td>
-<td>Функционалдық кіші топ</td>
-<td>Бюджеттік бағдарламалардың әкімшісі</td>
-<td colspan="2">Бағдарлама</td>
+<td colspan="8"></td>
+</tr>
+<tr>
+<td>Функцио-налдық топ</td>
+<td>Функцио-налдық кіші топ</td>
+<td>Бюджеттік бағдарла-малардың әкімшісі</td>
+<td colspan="2">Бағда-рлама</td>
 <td colspan="2">Атауы</td>
 <td>Сома (мың теңге)</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -195,7 +195,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>11 695</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
+<td>01</td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -203,7 +203,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>10 698</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>1</td>
 <td></td>
 <td colspan="2"></td>
@@ -211,7 +211,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>10 698</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
@@ -219,15 +219,15 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>10 698</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2">001</td>
-<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты қызметін қамтамасыз ету жөніндегі қызметтер</td>
 <td>10 698</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
+<td>07</td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -235,7 +235,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>185</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>2</td>
 <td></td>
 <td colspan="2"></td>
@@ -243,7 +243,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>135</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
@@ -251,7 +251,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>135</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2">014</td>
@@ -259,7 +259,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>135</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>3</td>
 <td></td>
 <td colspan="2"></td>
@@ -267,7 +267,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>50</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
@@ -275,7 +275,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>50</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2">008</td>
@@ -283,7 +283,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>50</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
+<td>13</td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -291,7 +291,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>812</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td>9</td>
 <td></td>
 <td colspan="2"></td>
@@ -299,7 +299,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>812</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
@@ -307,7 +307,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>812</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2">040</td>
@@ -315,7 +315,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>812</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -323,7 +323,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -331,7 +331,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -339,7 +339,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -347,7 +347,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -355,7 +355,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -363,7 +363,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -371,15 +371,15 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
 <td></td>
+<td></td>
 <td colspan="2"></td>
-<td colspan="2">6. Бюджет тапшылығын қаржыландыру (профицитін пайдалану)</td>
+<td colspan="2">6. Бюджеттің тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -387,7 +387,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
@@ -395,7 +395,7 @@ source: https://zan.gov.kz/client/#!/doc/118350/kaz/11.10.2018
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td></td>
 <td></td>
 <td></td>
 <td colspan="2"></td>
