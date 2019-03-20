@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/127880/kaz/06.02.2019
+source: https://zan.gov.kz/client/#!/doc/127880/kaz/20.03.2019
 ---
 
 # 2019-2021 жылдарға арналған Айыртау аудандық бюджетін бекіту туралы
