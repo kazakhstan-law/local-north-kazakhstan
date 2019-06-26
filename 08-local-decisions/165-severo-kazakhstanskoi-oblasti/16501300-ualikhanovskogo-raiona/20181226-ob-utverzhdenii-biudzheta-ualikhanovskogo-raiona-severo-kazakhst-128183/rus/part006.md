@@ -1,7 +1,330 @@
 ---
 part_of: ../rus.md
-source: https://zan.gov.kz/client/#!/doc/128183/rus/26.03.2019
+source: https://zan.gov.kz/client/#!/doc/128183/rus/26.06.2019
 ---
+
+> *Приложение 6*  
+> *к решению Уалихановского*  
+> *районного маслихата*  
+> *от 26 декабря 2018 года №2-32с*
+
+## Перечень бюджетных программ сельских округов на 2020 год
+
+<table>
+<tr>
+<td colspan="6">Функциональная группа</td>
+<td colspan="2" rowspan="3">Наименование</td>
+<td rowspan="3">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td colspan="6">1</td>
+<td colspan="2">2</td>
+<td>3</td>
+</tr>
+<tr>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Государственные услуги общего характера</td>
+<td>106750</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">123</td>
+<td></td>
+<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>106750</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>001</td>
+<td colspan="2">Услуги по обеспечению деятельности акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>106750</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">в том числе:</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Амангельдинский сельский округ</td>
+<td>10764</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Актуесайский сельский округ</td>
+<td>10423</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Акбулакский сельский округ</td>
+<td>10680</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Бидайыкский сельский округ</td>
+<td>11535</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Кайратский сельский округ</td>
+<td>10149</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Карасуский сельский округ</td>
+<td>9189</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Каратерекский сельский округ</td>
+<td>10702</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Коктерекский сельский округ</td>
+<td>11278</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Кулыкольский сельский округ</td>
+<td>10924</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Тельжанский сельский округ</td>
+<td>11106</td>
+</tr>
+<tr>
+<td colspan="3">08</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Культура, спорт, туризм и информационное пространство</td>
+<td>37916</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">123</td>
+<td></td>
+<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>37916</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>006</td>
+<td colspan="2">Поддержка культурно-досуговой работы на местном уровне</td>
+<td>37916</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">в том числе:</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Амангельдинский сельский округ</td>
+<td>493</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Актуесайский сельский округ</td>
+<td>3522</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Акбулакский сельский округ</td>
+<td>7465</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Бидайыкский сельский округ</td>
+<td>10452</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Кайратский сельский округ</td>
+<td>3849</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Карасуский сельский округ</td>
+<td>507</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Каратерекский сельский округ</td>
+<td>449</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Коктерекский сельский округ</td>
+<td>3457</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Кулыкольский сельский округ</td>
+<td>5764</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Тельжанский сельский округ</td>
+<td>1958</td>
+</tr>
+<tr>
+<td colspan="3">13</td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Прочие</td>
+<td>12595</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2">123</td>
+<td></td>
+<td colspan="2">Аппарат акима района в городе, города районного значения, поселка, села, сельского округа</td>
+<td>12595</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>040</td>
+<td colspan="2">Реализация мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
+<td>12595</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">в том числе:</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Амангельдинский сельский округ</td>
+<td>1000</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Актуесайский сельский округ</td>
+<td>613</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Акбулакский сельский округ</td>
+<td>1000</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Бидайыкский сельский округ</td>
+<td>2875</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Кайратский сельский округ</td>
+<td>1048</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Карасуский сельский округ</td>
+<td>689</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Каратерекский сельский округ</td>
+<td>1170</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Коктерекский сельский округ</td>
+<td>1500</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Кулыкольский сельский округ</td>
+<td>1200</td>
+</tr>
+<tr>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">Тельжанский сельский округ</td>
+<td>1500</td>
+</tr>
+</table>
 
 > *Приложение 7*  
 > *к решению Уалихановского*  
@@ -333,6 +656,8 @@ source: https://zan.gov.kz/client/#!/doc/128183/rus/26.03.2019
 
 ## Социальные выплаты отдельным категориям нуждающихся граждан по бюджетной программе 451.007.000 «Социальная помощь отдельным категориям нуждающихся граждан по решениям местных представительных органов» на 2019 год
 
+> *Сноска. Приложение 8 в редакции решения Уалихановского районного маслихата Северо-Казахстанской области от 26.06.2019 № 2-39 с (вводится в действие с 01.01.2019).*
+
 <table>
 <tr>
 <td colspan="6">Функциональная группа</td>
@@ -358,21 +683,21 @@ source: https://zan.gov.kz/client/#!/doc/128183/rus/26.03.2019
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">Социальная помощь и социальное обеспечение</td>
-<td>18313</td>
+<td>17813</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="2">451</td>
 <td></td>
 <td colspan="2">Отдел занятости и социальных программ района (города областного значения)</td>
-<td>18313</td>
+<td>17813</td>
 </tr>
 <tr>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>007</td>
 <td colspan="2">Социальная помощь отдельным категориям нуждающихся граждан по решениям местных представительных органов</td>
-<td>18313</td>
+<td>17813</td>
 </tr>
 </table>
 

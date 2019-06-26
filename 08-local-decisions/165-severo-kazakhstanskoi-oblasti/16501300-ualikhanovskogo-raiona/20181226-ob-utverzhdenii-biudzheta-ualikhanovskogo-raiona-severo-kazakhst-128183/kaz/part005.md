@@ -1,7 +1,297 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128183/kaz/26.03.2019
+source: https://zan.gov.kz/client/#!/doc/128183/kaz/26.06.2019
 ---
+
+> *Уәлиханов аудандық мәслихатының*  
+> *2018 жылғы 26 желтоқсандағы*  
+> *№ 2-32 с шешіміне*  
+> *5-қосымша*
+
+## 2019 жылға арналған ауылдық округтерінің бюджеттік бағдарламалар тізімі
+
+> *Ескерту. 5-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Уәлиханов аудандық мәслихатының 26.06.2019 № 2-39 с (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+
+<table>
+<tr>
+<td colspan="6">Функционалдық топ</td>
+<td colspan="2" rowspan="3">Аталуы</td>
+<td rowspan="3">Сомасы, мың теңге</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="4">Бюджеттік бағдарламалардың әкімшісі</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Бағдарлама</td>
+</tr>
+<tr>
+<td colspan="6">1</td>
+<td colspan="2">2</td>
+<td>3</td>
+</tr>
+<tr>
+<td colspan="2">01</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
+<td>121564</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">123</td>
+<td colspan="2"></td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>121564</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">001</td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қаланың, кент, ауыл, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
+<td>121564</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">оның ішінде:</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Аманкелді ауылдық округі</td>
+<td>12419</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Ақтүйесай ауылдық округі</td>
+<td>12102</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Ақбұлақ ауылдық округі</td>
+<td>12418</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Бидайық ауылдық округі</td>
+<td>12958</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қайрат ауылдық округі</td>
+<td>11156</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қарасу ауылдық округі</td>
+<td>10425</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қаратерек ауылдық округі</td>
+<td>12023</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Көктерек ауылдық округі</td>
+<td>13002</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қулыкөл ауылдық округі</td>
+<td>12305</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Телжан ауылдық округі</td>
+<td>12756</td>
+</tr>
+<tr>
+<td colspan="2">08</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
+<td>48453</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">123</td>
+<td colspan="2"></td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>48453</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">006</td>
+<td colspan="2">Жергілікті деңгейде мәдени-демалыс жұмыстарын қолдау</td>
+<td>48453</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">оның ішінде:</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Аманкелді ауылдық округі</td>
+<td>579</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Ақтүйесай ауылдық округі</td>
+<td>4477</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Ақбұлақ ауылдық округі</td>
+<td>10003</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Бидайық ауылдық округі</td>
+<td>12431</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қайрат ауылдық округі</td>
+<td>5078</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қарасу ауылдық округі</td>
+<td>1450</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қаратерек ауылдық округі</td>
+<td>534</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Көктерек ауылдық округі</td>
+<td>4511</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қулыкөл ауылдық округі</td>
+<td>7071</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Телжан ауылдық округі</td>
+<td>2319</td>
+</tr>
+<tr>
+<td colspan="2">13</td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Басқалар</td>
+<td>11720</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2">123</td>
+<td colspan="2"></td>
+<td colspan="2">Қаладағы аудан, аудандық маңызы бар қала, кент, ауыл, ауылдық округ әкімінің аппараты</td>
+<td>11720</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">040</td>
+<td colspan="2">Өңірлерді дамытудың 2020 жылға дейінгі бағдарламасы шеңберінде өңірлерді экономикалық дамытуға жәрдемдесу бойынша шараларды іске асыру</td>
+<td>11720</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">оның ішінде:</td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Ақтүйесай ауылдық округі</td>
+<td>1603</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Бидайық ауылдық округі</td>
+<td>5040</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қайрат ауылдық округі</td>
+<td>2036</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қарасу ауылдық округі</td>
+<td>1878</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2">Қаратерек ауылдық округі</td>
+<td>1163</td>
+</tr>
+</table>
 
 > *Уәлиханов аудандық мәслихатының*  
 > *2018 жылғы 26 желтоқсандағы*  
@@ -656,6 +946,8 @@ source: https://zan.gov.kz/client/#!/doc/128183/kaz/26.03.2019
 
 ## 451.007.000 «Жергілікті өкілетті органдардың шешімі бойынша мұқтаж азаматтардың жекелеген топтарына әлеуметтік көмек» бюджеттік бағдарламасы бойынша 2019 жылға арналған мұқтаж азаматтардың жекелеген топтарына әлеуметтік көмек
 
+> *Ескерту. 8-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Уәлиханов аудандық мәслихатының 26.06.2019 № 2-39 с (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+
 <table>
 <tr>
 <td colspan="6">Функционалдық топ</td>
@@ -681,21 +973,21 @@ source: https://zan.gov.kz/client/#!/doc/128183/kaz/26.03.2019
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>18313</td>
+<td>17813</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>18313</td>
+<td>17813</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">007</td>
 <td colspan="2">Жергілікті өкілетті органдардың шешімі бойынша мұқтаж азаматтардың жекелеген топтарына әлеуметтік көмек</td>
-<td>18313</td>
+<td>17813</td>
 </tr>
 </table>
 
