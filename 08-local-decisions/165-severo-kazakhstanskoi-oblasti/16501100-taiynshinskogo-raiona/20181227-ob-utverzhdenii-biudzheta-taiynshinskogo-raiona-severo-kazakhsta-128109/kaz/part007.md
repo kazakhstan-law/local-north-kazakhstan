@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128109/kaz/23.05.2019
+source: https://zan.gov.kz/client/#!/doc/128109/kaz/21.08.2019
 ---
 
 > *Солтүстік Қазақстан oблысы*  
