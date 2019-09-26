@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/127786/kaz/08.08.2019
+source: https://zan.gov.kz/client/#!/doc/127786/kaz/26.09.2019
 ---
 
 > *Солтүстік Қазақстан облысы*  
@@ -11,7 +11,7 @@ source: https://zan.gov.kz/client/#!/doc/127786/kaz/08.08.2019
 
 ## Мағжан Жұмабаев ауданының 2019 жылға арналған бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Мағжан Жұмабаев ауданы мәслихатының 08.08.2019 № 31-10 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Мағжан Жұмабаев ауданы мәслихатының 26.09.2019 № 32-1 (01.01.2019 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -258,7 +258,7 @@ source: https://zan.gov.kz/client/#!/doc/127786/kaz/08.08.2019
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="4">Бағдарлама</td>
 </tr>
 <tr>
@@ -448,7 +448,7 @@ source: https://zan.gov.kz/client/#!/doc/127786/kaz/08.08.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Бiлiм беру</td>
-<td>3 673 765,8</td>
+<td>3 666 465,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -469,7 +469,7 @@ source: https://zan.gov.kz/client/#!/doc/127786/kaz/08.08.2019
 <td colspan="2">464</td>
 <td colspan="3"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) білім бөлімі</td>
-<td>3 633 424,8</td>
+<td>3 626 124,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -483,7 +483,7 @@ source: https://zan.gov.kz/client/#!/doc/127786/kaz/08.08.2019
 <td colspan="2"></td>
 <td colspan="3">003</td>
 <td colspan="2">Жалпы білім беру</td>
-<td>2 962 364,3</td>
+<td>2 955 064,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -560,14 +560,14 @@ source: https://zan.gov.kz/client/#!/doc/127786/kaz/08.08.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td>630 935,5</td>
+<td>637 935,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2">451</td>
 <td colspan="3"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td>597 708,5</td>
+<td>604 708,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -595,7 +595,7 @@ source: https://zan.gov.kz/client/#!/doc/127786/kaz/08.08.2019
 <td colspan="2"></td>
 <td colspan="3">005</td>
 <td colspan="2">Мемлекеттік атаулы әлеуметтік көмек</td>
-<td>192 182,0</td>
+<td>199 182,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -707,7 +707,7 @@ source: https://zan.gov.kz/client/#!/doc/127786/kaz/08.08.2019
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td>927 183,9</td>
+<td>927 483,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -735,7 +735,7 @@ source: https://zan.gov.kz/client/#!/doc/127786/kaz/08.08.2019
 <td colspan="2">458</td>
 <td colspan="3"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td>277 229,1</td>
+<td>277 529,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -756,7 +756,7 @@ source: https://zan.gov.kz/client/#!/doc/127786/kaz/08.08.2019
 <td colspan="2"></td>
 <td colspan="3">012</td>
 <td colspan="2">Сумен жабдықтау және су бұру жүйесінің жұмыс істеуі</td>
-<td>35 868,0</td>
+<td>36 168,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1169,14 +1169,14 @@ source: https://zan.gov.kz/client/#!/doc/127786/kaz/08.08.2019
 <td colspan="2"></td>
 <td colspan="3">026</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ бюджеттеріне азаматтық қызметшілердің жекелеген санаттарының, мемлекеттік бюджет қаражаты есебінен ұсталатын ұйымдар қызметкерлерінің, қазыналық кәсіпорындар қызметкерлерінің жалақысын көтеруге берілетін ағымдағы нысаналы трансферттер</td>
-<td>6 627,7</td>
+<td>6824,0</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="3">066</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ бюджеттеріне мемлекеттік әкімшілік қызметшілердің жекелеген санаттарының жалақысын көтеруге берілетін ағымдағы нысаналы трансферттер</td>
-<td>3 823,0</td>
+<td>3626,7</td>
 </tr>
 <tr>
 <td colspan="2">14</td>
@@ -1270,7 +1270,7 @@ source: https://zan.gov.kz/client/#!/doc/127786/kaz/08.08.2019
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="4">Бағдарлама</td>
+<td colspan="3">Бағдарлама</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
@@ -1474,7 +1474,7 @@ source: https://zan.gov.kz/client/#!/doc/127786/kaz/08.08.2019
 <tr>
 <td colspan="2"></td>
 <td colspan="2"></td>
-<td colspan="4">Бағдарлама</td>
+<td colspan="5">Бағдарлама</td>
 </tr>
 <tr>
 <td colspan="2">16</td>
