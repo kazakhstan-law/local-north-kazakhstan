@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/128411/rus/03.06.2019
+source: https://zan.gov.kz/client/#!/doc/128411/rus/14.10.2019
 ---
 
 # Об утверждении бюджета Куйбышевского сельского округа Кызылжарского района на 2019-2021 годы
@@ -8,9 +8,9 @@ source: https://zan.gov.kz/client/#!/doc/128411/rus/03.06.2019
 
 1. Утвердить бюджет Куйбышевского сельского округа Кызылжарского района на 2019-2021 годы согласно приложениям 1, 2 и 3 к настоящему решению соответственно, в том числе на 2019 год в следующих объемах:
 
-   1) доходы – 30 187,2 тысяч тенге:
+   1) доходы – 30 290 тысяч тенге:
 
-      налоговые поступления – 4 232 тысяч тенге;
+      налоговые поступления – 4 443,8 тысяч тенге;
 
       неналоговые поступления – 0 тысяч тенге;
 
@@ -18,7 +18,7 @@ source: https://zan.gov.kz/client/#!/doc/128411/rus/03.06.2019
 
       поступления трансфертов – 25 955,2 тысяч тенге;
 
-   2) затраты – 31 315,1 тысяч тенге;
+   2) затраты – 31 417,9 тысяч тенге;
 
    3) чистое бюджетное кредитование - 0 тысяч тенге:
 
@@ -42,7 +42,7 @@ source: https://zan.gov.kz/client/#!/doc/128411/rus/03.06.2019
 
       используемые остатки бюджетных средств – 1 127,9 тысяч тенге.
 
-> *Сноска. Пункт 1 в редакции решения Кызылжарского районного маслихата Северо-Казахстанской области от 03.06.2019 № 42/4 (вводится в действие с 01.01.2019).*
+> *Сноска. Пункт 1 в редакции решения Кызылжарского районного маслихата Северо-Казахстанской области от 14.10.2019 № 45/5 (вводится в действие с 01.01.2019).*
 
 2. Установить, что доходы Куйбышевского сельского округа на 2019 год формируются в соответствии с Бюджетным кодексом Республики Казахстан за счет следующих налоговых поступлений:
 
@@ -107,354 +107,383 @@ source: https://zan.gov.kz/client/#!/doc/128411/rus/03.06.2019
 
 ## Бюджет Куйбышевского сельского округа Кызылжарского района на 2019 год
 
-> *Сноска. Приложение 1 в редакции решения Кызылжарского районного маслихата Северо-Казахстанской области от 03.06.2019 № 42/4 (вводится в действие с 01.01.2019).*
+> *Сноска. Приложение 1 в редакции решения Кызылжарского районного маслихата Северо-Казахстанской области от 14.10.2019 № 45/5 (вводится в действие с 01.01.2019).*
 
 <table>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="6">Категория</td>
 <td rowspan="3">Наименование</td>
 <td rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td rowspan="2"></td>
-<td colspan="4">Класс</td>
+<td colspan="3"></td>
+<td colspan="3">Класс</td>
 </tr>
 <tr>
 <td colspan="3"></td>
+<td colspan="2"></td>
 <td>Подкласс</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="3">2</td>
+<td colspan="3">1</td>
+<td colspan="2">2</td>
 <td>3</td>
 <td>4</td>
 <td>5</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="3"></td>
+<td colspan="2"></td>
 <td></td>
 <td>1) Доходы</td>
-<td>30 187,2</td>
+<td>30 290</td>
 </tr>
 <tr>
-<td>1</td>
-<td colspan="3"></td>
+<td colspan="3">1</td>
+<td colspan="2"></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>4 232</td>
+<td>4 443,8</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">01</td>
+<td colspan="3"></td>
+<td colspan="2">01</td>
 <td></td>
 <td>Подоходный налог</td>
-<td>1 270</td>
+<td>1 372,8</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="3"></td>
+<td colspan="2"></td>
 <td>2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>1 270</td>
+<td>1 372,8</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">04</td>
+<td colspan="3"></td>
+<td colspan="2">04</td>
 <td></td>
 <td>Налоги на собственность</td>
 <td>2 962</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="3"></td>
+<td colspan="2"></td>
 <td>1</td>
 <td>Налоги на имущество</td>
 <td>27</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="3"></td>
+<td colspan="2"></td>
 <td>3</td>
 <td>Земельный налог</td>
 <td>301</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="3"></td>
+<td colspan="2"></td>
 <td>4</td>
 <td>Налог на транспортные средства</td>
 <td>2 634</td>
 </tr>
 <tr>
-<td>2</td>
-<td colspan="3"></td>
+<td colspan="3">2</td>
+<td colspan="2"></td>
 <td></td>
 <td>Неналоговые поступления</td>
 <td>0</td>
 </tr>
 <tr>
-<td>3</td>
-<td colspan="3"></td>
+<td colspan="3">3</td>
+<td colspan="2"></td>
 <td></td>
 <td>Поступления от продажи основного капитала</td>
 <td>0</td>
 </tr>
 <tr>
-<td>4</td>
-<td colspan="3"></td>
+<td colspan="3">4</td>
+<td colspan="2"></td>
 <td></td>
 <td>Поступления трансфертов</td>
 <td>25 955,2</td>
 </tr>
 <tr>
-<td></td>
-<td colspan="3">02</td>
+<td colspan="3"></td>
+<td colspan="2">02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
 <td>25 955,2</td>
 </tr>
 <tr>
-<td></td>
 <td colspan="3"></td>
+<td colspan="2"></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
 <td>25 955,2</td>
 </tr>
 <tr>
-<td colspan="5">Функциональная группа</td>
+<td colspan="6">Функциональная группа</td>
 <td rowspan="3">Наименование</td>
 <td rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td colspan="3">Администратор бюджетных программ</td>
+<td></td>
+<td colspan="5">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td colspan="2">1</td>
-<td>2</td>
+<td>1</td>
+<td colspan="3">2</td>
 <td colspan="2">3</td>
 <td>4</td>
 <td>5</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td>2) Затраты</td>
-<td>31 315,1</td>
+<td>31 417,9</td>
 </tr>
 <tr>
-<td colspan="2">01</td>
-<td></td>
+<td>01</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td>Государственные услуги общего характера</td>
-<td>14 620,3</td>
+<td>14 723,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>124</td>
+<td></td>
+<td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>14 620,3</td>
+<td>14 723,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2">001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>14 320,3</td>
+<td>14 723,1</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2">022</td>
 <td>Капитальные расходы государственного органа</td>
 <td>300</td>
 </tr>
 <tr>
-<td colspan="2">07</td>
-<td></td>
+<td>07</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td>Жилищно-коммунальное хозяйство</td>
 <td>3 516,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>124</td>
+<td></td>
+<td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
 <td>3 516,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2">014</td>
 <td>Организация водоснабжения населенных пунктов</td>
 <td>198,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2">008</td>
 <td>Освещение улиц в населенных пунктах</td>
 <td>2 701,2</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2">011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
 <td>617</td>
 </tr>
 <tr>
-<td colspan="2">08</td>
-<td></td>
+<td>08</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
 <td>11 778,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>124</td>
+<td></td>
+<td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
 <td>11 778,4</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2">006</td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
 <td>11 778,4</td>
 </tr>
 <tr>
-<td colspan="2">13</td>
-<td></td>
+<td>13</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td>Прочие</td>
 <td>1 400</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td>124</td>
+<td></td>
+<td colspan="3">124</td>
 <td colspan="2"></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
 <td>1 400</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2">040</td>
 <td>Реализация мероприятий для решения вопросов обустройства населенных пунктов в реализацию мер по содействию экономическому развитию регионов в рамках Программы развития регионов до 2020 года</td>
 <td>1 400</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td>3) Чистое бюджетное кредитование</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td>Бюджетные кредиты</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6">Категория</td>
+<td rowspan="3">Наименование</td>
+<td rowspan="3">Сумма, тысяч тенге</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Класс</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td>5</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td>Погашение бюджетных кредитов</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td>4) Сальдо по операциям с финансовыми активами</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td>Приобретение финансовых активов</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
+<td>6</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td>Поступления от продажи финансовых активов государства</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td>5) Дефицит (профицит) бюджета</td>
 <td>-1 127,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
 <td></td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td>6) Финансирование дефицита (использование профицита) бюджета</td>
 <td>1 127,9</td>
 </tr>
 <tr>
-<td colspan="2"></td>
-<td></td>
+<td>7</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td>Поступления займов</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="2"></td>
+<td colspan="6">Функциональная группа</td>
+<td rowspan="3">Наименование</td>
+<td rowspan="3">Сумма, тысяч тенге</td>
+</tr>
+<tr>
 <td></td>
+<td colspan="5">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">Программа</td>
+</tr>
+<tr>
+<td>16</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td>Погашение займов</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="6">Категория</td>
 <td rowspan="3">Наименование</td>
 <td rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td colspan="3">Класс</td>
+<td colspan="4">Класс</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
 <td colspan="2">8</td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>Используемые остатки бюджетных средств</td>
 <td>1 127,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td>01</td>
+<td colspan="2">01</td>
 <td colspan="2"></td>
 <td>Остатки бюджетных средств</td>
 <td>1 127,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">1</td>
 <td>Свободные остатки бюджетных средств</td>
 <td>1 127,9</td>
