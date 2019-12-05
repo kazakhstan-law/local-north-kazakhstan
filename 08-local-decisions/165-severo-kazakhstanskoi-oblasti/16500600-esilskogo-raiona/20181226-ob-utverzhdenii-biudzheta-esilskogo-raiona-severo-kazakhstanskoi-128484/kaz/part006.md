@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/128484/kaz/07.11.2019
+source: https://zan.gov.kz/client/#!/doc/128484/kaz/05.12.2019
 ---
 
 > *2018 жылғы 26 желтоқсандағы № 34/193*  
