@@ -1,6 +1,6 @@
 ---
 part_of: ../kaz.md
-source: https://zan.gov.kz/client/#!/doc/137163/kaz/28.05.2020
+source: https://zan.gov.kz/client/#!/doc/137163/kaz/27.07.2020
 ---
 
 > *Солтүстік Қазақстан*  
