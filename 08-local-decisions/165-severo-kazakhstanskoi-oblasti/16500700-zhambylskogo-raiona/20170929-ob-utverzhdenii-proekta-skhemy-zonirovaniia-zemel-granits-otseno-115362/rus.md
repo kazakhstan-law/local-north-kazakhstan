@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
+source: https://zan.gov.kz/client/#!/doc/115362/rus/24.12.2021
 ---
 
 # Об утверждении проекта (схемы) зонирования земель, границ оценочных зон и поправочных коэффициентов к базовым ставкам платы за земельные участки села Пресновка и сельских населенных пунктов Жамбылского района Северо-Казахстанской области
@@ -113,9 +113,13 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 > *Приложение 4*  
 > *к решению маслихата*  
 > *Жамбылского района*  
-> *от 29 сентября 2017 года № 15/2*
+> *Северо-Казахстанской области*  
+> *от 29 сентября 2017 года*  
+> *№ 15/2*
 
-# Поправочные коэффициенты к базовым ставкам платы за земельные участки сельских населенных пунктов Жамбылского района Северо-Казахстанской области
+## Поправочные коэффициенты к базовым ставкам платы за земельные участки сельских населенных пунктов Жамбылского района Северо-Казахстанской области
+
+> *Сноска. Приложение 4 в редакции решения маслихата Жамбылского района Северо-Казахстанской области от 24.12.2021 № 10/2 (вводится в действие по истечении десяти календарных дней после дня его первого официального опубликования).*
 
 <table>
 <tr>
@@ -131,7 +135,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Архангельский сельский округ</td>
+<td colspan="6">Архангельский сельский округ</td>
 </tr>
 <tr>
 <td>1.</td>
@@ -175,7 +179,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Благовещенский сельский округ</td>
+<td colspan="6">Благовещенский сельский округ</td>
 </tr>
 <tr>
 <td>6.</td>
@@ -202,19 +206,11 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.04</td>
 </tr>
 <tr>
-<td>9.</td>
-<td>село Талпын</td>
-<td>0.92</td>
-<td>1.02</td>
-<td>1.12</td>
-<td>1.02</td>
-</tr>
-<tr>
 <td></td>
-<td colspan="5">Жамбылский сельский округ</td>
+<td colspan="6">Жамбылский сельский округ</td>
 </tr>
 <tr>
-<td>10.</td>
+<td>9.</td>
 <td>село Жамбыл</td>
 <td>1</td>
 <td>1.11</td>
@@ -222,7 +218,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.11</td>
 </tr>
 <tr>
-<td>11.</td>
+<td>10.</td>
 <td>село Амангельды</td>
 <td>0.92</td>
 <td>1.02</td>
@@ -230,7 +226,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.02</td>
 </tr>
 <tr>
-<td>12.</td>
+<td>11.</td>
 <td>ауыл Есперли</td>
 <td>0.93</td>
 <td>1.03</td>
@@ -238,7 +234,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.03</td>
 </tr>
 <tr>
-<td>13.</td>
+<td>12.</td>
 <td>село Караагаш</td>
 <td>0.92</td>
 <td>1.02</td>
@@ -246,7 +242,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.02</td>
 </tr>
 <tr>
-<td>14.</td>
+<td>13.</td>
 <td>село Суатколь</td>
 <td>0.93</td>
 <td>1.03</td>
@@ -255,10 +251,10 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Казанский сельский округ</td>
+<td colspan="6">Казанский сельский округ</td>
 </tr>
 <tr>
-<td>15.</td>
+<td>14.</td>
 <td>село Казанка</td>
 <td>1.04</td>
 <td>1.15</td>
@@ -266,7 +262,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.15</td>
 </tr>
 <tr>
-<td>16.</td>
+<td>15.</td>
 <td>село Екатериновка</td>
 <td>1</td>
 <td>1.11</td>
@@ -274,7 +270,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.11</td>
 </tr>
 <tr>
-<td>17.</td>
+<td>16.</td>
 <td>село Светлое</td>
 <td>0.94</td>
 <td>1.04</td>
@@ -282,19 +278,11 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.04</td>
 </tr>
 <tr>
-<td>18.</td>
-<td>село Матросовка</td>
-<td>0.9</td>
-<td>1</td>
-<td>1.1</td>
-<td>1</td>
-</tr>
-<tr>
 <td></td>
-<td colspan="5">Кайранкольский сельских округ</td>
+<td colspan="6">Кайранкольский сельский округ</td>
 </tr>
 <tr>
-<td>19.</td>
+<td>17.</td>
 <td>село Кайранколь</td>
 <td>1.04</td>
 <td>1.16</td>
@@ -302,7 +290,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.16</td>
 </tr>
 <tr>
-<td>20.</td>
+<td>18.</td>
 <td>село Новое</td>
 <td>0.91</td>
 <td>1.01</td>
@@ -310,7 +298,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.01</td>
 </tr>
 <tr>
-<td>21.</td>
+<td>19.</td>
 <td>село Украинское</td>
 <td>0.99</td>
 <td>1.1</td>
@@ -319,10 +307,10 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Кладбинский сельских округ</td>
+<td colspan="6">Кладбинский сельский округ</td>
 </tr>
 <tr>
-<td>22.</td>
+<td>20.</td>
 <td>село Кладбинка</td>
 <td>1.06</td>
 <td>1.18</td>
@@ -330,7 +318,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.18</td>
 </tr>
 <tr>
-<td>23.</td>
+<td>21.</td>
 <td>село Сенжарка</td>
 <td>0.95</td>
 <td>1.06</td>
@@ -338,7 +326,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.06</td>
 </tr>
 <tr>
-<td>24.</td>
+<td>22.</td>
 <td>село Симаки</td>
 <td>0.92</td>
 <td>1.02</td>
@@ -346,15 +334,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.02</td>
 </tr>
 <tr>
-<td>25.</td>
-<td>село Уткино</td>
-<td>0.92</td>
-<td>1.02</td>
-<td>1.12</td>
-<td>1.02</td>
-</tr>
-<tr>
-<td>26.</td>
+<td>23.</td>
 <td>село Новорыбинка</td>
 <td>1</td>
 <td>1.11</td>
@@ -362,7 +342,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.11</td>
 </tr>
 <tr>
-<td>27.</td>
+<td>24.</td>
 <td>село Миролюбово</td>
 <td>0.96</td>
 <td>1.07</td>
@@ -371,10 +351,10 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Майбалыкский сельский округ</td>
+<td colspan="6">Майбалыкский сельский округ</td>
 </tr>
 <tr>
-<td>28.</td>
+<td>25.</td>
 <td>село Святодуховка</td>
 <td>1.02</td>
 <td>1.13</td>
@@ -382,7 +362,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.13</td>
 </tr>
 <tr>
-<td>29.</td>
+<td>26.</td>
 <td>село Сабит</td>
 <td>0.94</td>
 <td>1.04</td>
@@ -390,7 +370,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.04</td>
 </tr>
 <tr>
-<td>30.</td>
+<td>27.</td>
 <td>село Ольговка</td>
 <td>0.93</td>
 <td>1.03</td>
@@ -398,7 +378,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.03</td>
 </tr>
 <tr>
-<td>31.</td>
+<td>28.</td>
 <td>село Жанажол</td>
 <td>0.98</td>
 <td>1.09</td>
@@ -407,10 +387,10 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Мирный сельский округ</td>
+<td colspan="6">Мирный сельский округ</td>
 </tr>
 <tr>
-<td>32.</td>
+<td>29.</td>
 <td>село Мирное</td>
 <td>1.01</td>
 <td>1.12</td>
@@ -418,7 +398,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.12</td>
 </tr>
 <tr>
-<td>33.</td>
+<td>30.</td>
 <td>село Айымжан</td>
 <td>0.95</td>
 <td>1.06</td>
@@ -426,7 +406,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.06</td>
 </tr>
 <tr>
-<td>34.</td>
+<td>31.</td>
 <td>село Узынколь</td>
 <td>0.95</td>
 <td>1.05</td>
@@ -434,7 +414,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.05</td>
 </tr>
 <tr>
-<td>35.</td>
+<td>32.</td>
 <td>село Петровка</td>
 <td>0.95</td>
 <td>1.05</td>
@@ -442,7 +422,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.05</td>
 </tr>
 <tr>
-<td>36.</td>
+<td>33.</td>
 <td>село Рождественка</td>
 <td>0.93</td>
 <td>1.03</td>
@@ -451,10 +431,10 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Озерный сельский округ</td>
+<td colspan="6">Озерный сельский округ</td>
 </tr>
 <tr>
-<td>37.</td>
+<td>34.</td>
 <td>село Озерное</td>
 <td>1.04</td>
 <td>1.16</td>
@@ -462,15 +442,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.16</td>
 </tr>
 <tr>
-<td>38.</td>
-<td>село Акбалык</td>
-<td>0.91</td>
-<td>1.01</td>
-<td>1.11</td>
-<td>1.01</td>
-</tr>
-<tr>
-<td>39.</td>
+<td>35.</td>
 <td>село Бауманское</td>
 <td>0.96</td>
 <td>1.07</td>
@@ -478,7 +450,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.07</td>
 </tr>
 <tr>
-<td>40.</td>
+<td>36.</td>
 <td>село Каракамыс</td>
 <td>0.92</td>
 <td>1.02</td>
@@ -487,10 +459,10 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Первомайский сельский округ</td>
+<td colspan="6">Первомайский сельский округ</td>
 </tr>
 <tr>
-<td>41.</td>
+<td>37.</td>
 <td>село Буденное</td>
 <td>1.04</td>
 <td>1.16</td>
@@ -498,7 +470,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.16</td>
 </tr>
 <tr>
-<td>42.</td>
+<td>38.</td>
 <td>село Калиновка</td>
 <td>0.95</td>
 <td>1.05</td>
@@ -506,7 +478,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.05</td>
 </tr>
 <tr>
-<td>43.</td>
+<td>39.</td>
 <td>село Кабань</td>
 <td>0.93</td>
 <td>1.03</td>
@@ -514,7 +486,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.03</td>
 </tr>
 <tr>
-<td>44.</td>
+<td>40.</td>
 <td>село Чапаевка</td>
 <td>0.93</td>
 <td>1.03</td>
@@ -523,18 +495,10 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Пресновский сельский округ</td>
+<td colspan="6">Пресновский сельский округ</td>
 </tr>
 <tr>
-<td>45.</td>
-<td>село Островка</td>
-<td>0.95</td>
-<td>1.06</td>
-<td>1.17</td>
-<td>1.06</td>
-</tr>
-<tr>
-<td>46.</td>
+<td>41.</td>
 <td>село Железное</td>
 <td>0.97</td>
 <td>1.08</td>
@@ -543,10 +507,10 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Пресноредутский сельский округ</td>
+<td colspan="6">Пресноредутский сельский округ</td>
 </tr>
 <tr>
-<td>47.</td>
+<td>42.</td>
 <td>село Пресноредуть</td>
 <td>1.04</td>
 <td>1.16</td>
@@ -554,7 +518,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.16</td>
 </tr>
 <tr>
-<td>48.</td>
+<td>43.</td>
 <td>село Макарьевка</td>
 <td>0.97</td>
 <td>1.08</td>
@@ -562,7 +526,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.08</td>
 </tr>
 <tr>
-<td>49.</td>
+<td>44.</td>
 <td>ауыл Нурумбет</td>
 <td>0.97</td>
 <td>1.08</td>
@@ -570,7 +534,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.08</td>
 </tr>
 <tr>
-<td>50.</td>
+<td>45.</td>
 <td>село Ястребинка</td>
 <td>0.92</td>
 <td>1.02</td>
@@ -579,10 +543,10 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 </tr>
 <tr>
 <td></td>
-<td colspan="5">Троицкий сельский округ</td>
+<td colspan="6">Троицкий сельский округ</td>
 </tr>
 <tr>
-<td>51.</td>
+<td>46.</td>
 <td>село Троицкое</td>
 <td>1.03</td>
 <td>1.14</td>
@@ -590,7 +554,7 @@ source: https://zan.gov.kz/client/#!/doc/115362/rus/29.09.2017
 <td>1.14</td>
 </tr>
 <tr>
-<td>52.</td>
+<td>47.</td>
 <td>село Орталык</td>
 <td>0.92</td>
 <td>1.02</td>
