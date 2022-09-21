@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/163884/rus/29.07.2022
+source: https://zan.gov.kz/client/#!/doc/163884/rus/21.09.2022
 ---
 
 # Об утверждении бюджета Кызыласкерского сельского округа Мамлютского района Северо-Казахстанской области на 2022-2024 годы
@@ -10,17 +10,17 @@ source: https://zan.gov.kz/client/#!/doc/163884/rus/29.07.2022
 
 1. Утвердить бюджет Кызыласкерского сельского округа Мамлютского района Северо-Казахстанской области на 2022-2024 годы согласно приложениям 1, 2 и 3 соответственно, к настоящему решению, в том числе на 2022 год в следующих объемах:
 
-   1) доходы –40107,6 тысячи тенге,
+   1) доходы –39692,7 тысячи тенге,
 
-      налоговые поступления – 2764 тысячи тенге;
+      налоговые поступления – 2117 тысячи тенге;
 
       неналоговые поступления – 0 тысяч тенге;
 
-      поступлениям от продажи основного капитала – 0 тысяч тенге;
+      поступлениям от продажи основного капитала – 1392,5 тысяч тенге;
 
-      поступления трансфертов – 37343,6 тысяч тенге;
+      поступления трансфертов – 36183,2 тысяч тенге;
 
-   2) затраты – 40446,6 тысячи тенге;
+   2) затраты – 40031,7 тысячи тенге;
 
    3) чистое бюджетное кредитование -0 тысяч тенге,
 
@@ -42,7 +42,7 @@ source: https://zan.gov.kz/client/#!/doc/163884/rus/29.07.2022
 
       используемые остатки бюджетных средств – 339 тысяч тенге.
 
-> *Сноска. Пункт 1 в редакции решения маслихата Мамлютского района Северо-Казахстанской области от 29.07.2022 № 24/3 (вводится в действие с 01.01.2022).*
+> *Сноска. Пункт 1 в редакции решения маслихата Мамлютского района Северо-Казахстанской области от 29.07.2022 № 24/3 (вводится в действие с 01.01.2022); от 21.09.2022 № 27/3 (вводится в действие с 01.01.2022).*
 
 2. Установить, что доходы бюджета сельского округа на 2022 год формируются в соответствии с Бюджетным кодексом Республики Казахстан за счет следующих налоговых поступлений:
 
@@ -120,22 +120,158 @@ source: https://zan.gov.kz/client/#!/doc/163884/rus/29.07.2022
 
 ## Бюджет Кызыласкерского сельского округа Мамлютского района Северо-Казахстанской области на 2022 год
 
-> *Сноска. Приложение 1 в редакции решения маслихата Мамлютского района Северо-Казахстанской области от 29.07.2022 № 24/3 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 1 в редакции решения маслихата Мамлютского района Северо-Казахстанской области от 29.07.2022 № 24/3 (вводится в действие с01.01.2022); от 21.09.2022 № 27/3 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="6">Категория</td>
+<td colspan="7">Категория</td>
 <td rowspan="3">Наименование</td>
 <td rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="5">Класс</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="3"></td>
 <td colspan="2">Подкласс</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td colspan="3">2</td>
+<td colspan="2">3</td>
+<td>4</td>
+<td>5</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>1) Доходы</td>
+<td>39692,7</td>
+</tr>
+<tr>
+<td colspan="2">1</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Налоговые поступления</td>
+<td>2117</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td>Подоходный налог</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">2</td>
+<td>Индивидуальный подоходный налог</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">04</td>
+<td colspan="2"></td>
+<td>Налоги на собственность</td>
+<td>2117</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td>Налоги на имущество</td>
+<td>62</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">3</td>
+<td>Земельный налог</td>
+<td>420</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">4</td>
+<td>Налог на транспортные средства</td>
+<td>1635</td>
+</tr>
+<tr>
+<td colspan="2">2</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Неналоговые поступления</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2">3</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Поступления от продажи основного капитала</td>
+<td>1392,5</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">03</td>
+<td colspan="2"></td>
+<td>Продажа земли и нематериальных активов</td>
+<td>0</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">1</td>
+<td>Продажа земли</td>
+<td>1392,5</td>
+</tr>
+<tr>
+<td colspan="2">4</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>Поступления трансфертов</td>
+<td>36183,2</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3">02</td>
+<td colspan="2"></td>
+<td>Трансферты из вышестоящих органов государственного управления</td>
+<td>36183,2</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2">3</td>
+<td>Трансферты из районного (города областного значения) бюджета</td>
+<td>36183,2</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="7">Функциональная группа</td>
+<td rowspan="4">Наименование</td>
+<td rowspan="4">Сумма, тысяч тенге</td>
+</tr>
+<tr>
+<td rowspan="3"></td>
+<td colspan="6">Функциональная подгруппа</td>
+</tr>
+<tr>
+<td colspan="3" rowspan="2"></td>
+<td colspan="3">Администратор бюджетных программ</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td>Программа</td>
 </tr>
 <tr>
 <td>1</td>
@@ -143,183 +279,106 @@ source: https://zan.gov.kz/client/#!/doc/163884/rus/29.07.2022
 <td colspan="2">3</td>
 <td>4</td>
 <td>5</td>
+<td>6</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>1) Доходы</td>
-<td>40107,6</td>
-</tr>
-<tr>
-<td>1</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>Налоговые поступления</td>
-<td>2764</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">01</td>
-<td colspan="2"></td>
-<td>Подоходный налог</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">2</td>
-<td>Индивидуальный подоходный налог</td>
-<td>0</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">04</td>
-<td colspan="2"></td>
-<td>Налоги на собственность</td>
-<td>2764</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">1</td>
-<td>Налоги на имущество</td>
-<td>62</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">3</td>
-<td>Земельный налог</td>
-<td>420</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">4</td>
-<td>Налог на транспортные средства</td>
-<td>1635</td>
-</tr>
-<tr>
-<td>2</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>Неналоговые поступления</td>
-<td>0</td>
-</tr>
-<tr>
-<td>3</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>Поступления от продажи основного капитала</td>
-<td>0</td>
-</tr>
-<tr>
-<td>4</td>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>Поступления трансфертов</td>
-<td>37343,6</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3">02</td>
-<td colspan="2"></td>
-<td>Трансферты из вышестоящих органов государственного управления</td>
-<td>37343,6</td>
-</tr>
-<tr>
-<td></td>
-<td colspan="3"></td>
-<td colspan="2">3</td>
-<td>Трансферты из районного (города областного значения) бюджета</td>
-<td>37343,6</td>
-</tr>
-<tr>
-<td colspan="6">Функциональная группа</td>
-<td rowspan="3">Наименование</td>
-<td rowspan="3">Сумма, тысяч тенге</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="3">Администратор бюджетных программ</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>Программа</td>
-</tr>
-<tr>
-<td colspan="3">1</td>
-<td colspan="2">2</td>
-<td>3</td>
-<td>4</td>
-<td>5</td>
-</tr>
-<tr>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td></td>
 <td>2) Затраты</td>
-<td>40446,6</td>
+<td>40031,7</td>
 </tr>
 <tr>
-<td colspan="3">01</td>
+<td>01</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>25401,6</td>
+<td>24986,7</td>
 </tr>
 <tr>
-<td colspan="3"></td>
-<td colspan="2">124</td>
 <td></td>
-<td>Аппарат акима города районного значения, села, поселка,сельского округа</td>
-<td>25401,6</td>
-</tr>
-<tr>
-<td colspan="3"></td>
-<td colspan="2"></td>
-<td>001</td>
-<td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>25401,6</td>
-</tr>
-<tr>
-<td colspan="3">07</td>
+<td colspan="3">01</td>
 <td colspan="2"></td>
 <td></td>
-<td>Жилищно-коммунальное хозяйство</td>
-<td>5703,0</td>
+<td>Представительные,исполнительные и другие органы,выполняющие общие функции государственного управления</td>
+<td>24986,7</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="3"></td>
 <td colspan="2">124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>5703,0</td>
+<td>24986,7</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td>001</td>
+<td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
+<td>24986,7</td>
+</tr>
+<tr>
+<td>07</td>
+<td colspan="3"></td>
+<td colspan="2"></td>
+<td></td>
+<td>Жилищно-коммунальное хозяйство</td>
+<td>5703</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3">03</td>
+<td colspan="2"></td>
+<td></td>
+<td>Благоустройство населенных пунктов</td>
+<td>5703</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="3"></td>
+<td colspan="2">124</td>
+<td></td>
+<td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
+<td>5703</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>008</td>
 <td>Освещение улиц населенных пунктов</td>
-<td>873</td>
+<td>4873</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>4830</td>
+<td>830</td>
 </tr>
 <tr>
-<td colspan="3">08</td>
+<td>08</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
 <td>7758</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td></td>
+<td>Деятельность в области культуры</td>
+<td>7758</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="3"></td>
 <td colspan="2">124</td>
 <td></td>
@@ -327,6 +386,7 @@ source: https://zan.gov.kz/client/#!/doc/163884/rus/29.07.2022
 <td>7758</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>006</td>
@@ -334,13 +394,23 @@ source: https://zan.gov.kz/client/#!/doc/163884/rus/29.07.2022
 <td>7758</td>
 </tr>
 <tr>
-<td colspan="3">12</td>
+<td>12</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
 <td>630</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="3">01</td>
+<td colspan="2"></td>
+<td></td>
+<td>Автомобильный транспорт</td>
+<td>630</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="3"></td>
 <td colspan="2">124</td>
 <td></td>
@@ -348,6 +418,7 @@ source: https://zan.gov.kz/client/#!/doc/163884/rus/29.07.2022
 <td>630</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>013</td>
@@ -355,13 +426,23 @@ source: https://zan.gov.kz/client/#!/doc/163884/rus/29.07.2022
 <td>630</td>
 </tr>
 <tr>
-<td colspan="3">13</td>
+<td>13</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td></td>
 <td>Прочие</td>
 <td>954</td>
 </tr>
 <tr>
+<td></td>
+<td colspan="3">09</td>
+<td colspan="2"></td>
+<td></td>
+<td>Прочие</td>
+<td>954</td>
+</tr>
+<tr>
+<td></td>
 <td colspan="3"></td>
 <td colspan="2">124</td>
 <td></td>
@@ -369,6 +450,7 @@ source: https://zan.gov.kz/client/#!/doc/163884/rus/29.07.2022
 <td>954</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td>040</td>
@@ -376,6 +458,7 @@ source: https://zan.gov.kz/client/#!/doc/163884/rus/29.07.2022
 <td>954</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td></td>
@@ -383,6 +466,7 @@ source: https://zan.gov.kz/client/#!/doc/163884/rus/29.07.2022
 <td>0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td></td>
@@ -390,13 +474,15 @@ source: https://zan.gov.kz/client/#!/doc/163884/rus/29.07.2022
 <td>0</td>
 </tr>
 <tr>
-<td colspan="3">5</td>
+<td>5</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td></td>
 <td>Погашение бюджетных кредитов</td>
 <td>0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td></td>
@@ -404,6 +490,7 @@ source: https://zan.gov.kz/client/#!/doc/163884/rus/29.07.2022
 <td>0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td></td>
@@ -411,13 +498,15 @@ source: https://zan.gov.kz/client/#!/doc/163884/rus/29.07.2022
 <td>0</td>
 </tr>
 <tr>
-<td colspan="3">6</td>
+<td>6</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td></td>
 <td>Поступления от продажи финансовых активов государства</td>
 <td>0</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td></td>
@@ -425,6 +514,7 @@ source: https://zan.gov.kz/client/#!/doc/163884/rus/29.07.2022
 <td>-339</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="3"></td>
 <td colspan="2"></td>
 <td></td>
@@ -432,41 +522,47 @@ source: https://zan.gov.kz/client/#!/doc/163884/rus/29.07.2022
 <td>339</td>
 </tr>
 <tr>
-<td colspan="3">7</td>
+<td>7</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td></td>
 <td>Поступления займов</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="3">16</td>
+<td>16</td>
+<td colspan="3"></td>
 <td colspan="2"></td>
 <td></td>
 <td>Погашение займов</td>
 <td>0</td>
 </tr>
 <tr>
-<td colspan="6">Категория</td>
+<td colspan="7">Категория</td>
 <td rowspan="3">Наименование</td>
 <td rowspan="3">Сумма, тысяч тенге</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>Подкласс</td>
 </tr>
 <tr>
-<td colspan="2">8</td>
+<td>8</td>
+<td colspan="2"></td>
 <td colspan="3"></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
 <td>339</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="3">01</td>
 <td></td>
@@ -474,6 +570,7 @@ source: https://zan.gov.kz/client/#!/doc/163884/rus/29.07.2022
 <td>339</td>
 </tr>
 <tr>
+<td></td>
 <td colspan="2"></td>
 <td colspan="3"></td>
 <td>1</td>
