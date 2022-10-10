@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
+source: https://zan.gov.kz/client/#!/doc/163475/rus/10.10.2022
 ---
 
 # Об утверждении бюджета города Булаево района Магжана Жумабаева на 2022-2024 годы
@@ -10,17 +10,17 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 
 1. Утвердить бюджет города Булаево района Магжана Жумабаева на 2022-2024 годы согласно приложениям 1, 2 и 3 к настоящему решению соответственно, в том числе на 2022 год в следующих объемах:
 
-   1) доходы – 963 465,7 тысяч тенге:
+   1) доходы – 968 495,7 тысяч тенге:
 
-      налоговые поступления – 24 316,0 тысяч тенге;
+      налоговые поступления – 29 315,3 тысяч тенге;
 
       неналоговые поступления – 0,0 тысяч тенге;
 
-      поступления от продажи основного капитала – 7 100,0 тысяч тенге;
+      поступления от продажи основного капитала – 7 790,7 тысяч тенге;
 
-      поступления трансфертов – 932 049,7 тысяч тенге;
+      поступления трансфертов – 931 389,7 тысяч тенге;
 
-   2) затраты – 967 013,1 тысяч тенге;
+   2) затраты – 972 043,1 тысяч тенге;
 
    3) чистое бюджетное кредитование – 0,0 тысяч тенге:
 
@@ -44,7 +44,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 
       используемые остатки бюджетных средств – 3 547,4 тысяч тенге.
 
-> *Сноска. Пункт 1 в редакции решений маслихата района Магжана Жумабаева Северо-Казахстанской области от 15.03.2022 № 12-13 (вводится в действие с 01.01.2022); от 30.05.2022 № 15-5 (вводится в действие с 01.01.2022); от 20.06.2022 № 16-2 (вводится в действие с 01.01.2022); от 23.08.2022 № 17-7 (вводится в действие с 01.01.2022).*
+> *Сноска. Пункт 1 в редакции решений маслихата района Магжана Жумабаева Северо-Казахстанской области от 15.03.2022 № 12-13 (вводится в действие с 01.01.2022); от 30.05.2022 № 15-5 (вводится в действие с 01.01.2022); от 20.06.2022 № 16-2 (вводится в действие с 01.01.2022); от 23.08.2022 № 17-7 (вводится в действие с 01.01.2022); от 10.10.2022 № 19-5 (вводится в действие с 01.01.2022).*
 
 2. Установить, что доходы бюджета города на 2022 год формируются в соответствии с Бюджетным Кодексом Республики Казахстан от 4 декабря 2008 года за счет следующих налоговых поступлений:
 
@@ -116,11 +116,11 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 
 ## Бюджет города Булаево района Магжана Жумабаева на 2022 год
 
-> *Сноска. Приложение 1 в редакции решений маслихата района Магжана Жумабаева Северо-Казахстанской области от 15.03.2022 № 12-13 (вводится в действие с 01.01.2022); от 30.05.2022 № 15-5 (вводится в действие с 01.01.2022); от 20.06.2022 № 16-2 (вводится в действие с 01.01.2022); от 23.08.2022 № 17-7 (вводится в действие с 01.01.2022).*
+> *Сноска. Приложение 1 в редакции решений маслихата района Магжана Жумабаева Северо-Казахстанской области от 15.03.2022 № 12-13 (вводится в действие с 01.01.2022); от 30.05.2022 № 15-5 (вводится в действие с 01.01.2022); от 20.06.2022 № 16-2 (вводится в действие с 01.01.2022); от 23.08.2022 № 17-7 (вводится в действие с 01.01.2022); от 10.10.2022 № 19-5 (вводится в действие с 01.01.2022).*
 
 <table>
 <tr>
-<td colspan="4"></td>
+<td colspan="5"></td>
 <td>Наименование</td>
 <td rowspan="4">
 Сумма,
@@ -128,145 +128,145 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 </td>
 </tr>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="6">Категория</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td>Доходы</td>
-<td>963 465,7</td>
+<td>968 495,7</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
 <td></td>
 <td>Налоговые поступления</td>
-<td>24 316,0</td>
+<td>29 315,3</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">01</td>
 <td></td>
 <td>Подоходный налог</td>
-<td>5 200,0</td>
+<td>6 498,9</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>2</td>
 <td>Индивидуальный подоходный налог</td>
-<td>5 200,0</td>
+<td>6 498,9</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">04</td>
 <td></td>
 <td>Налоги на собственность</td>
-<td>19 000,0</td>
+<td>21 854,4</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>1</td>
 <td>Hалоги на имущество</td>
-<td>500,0</td>
+<td>705,1</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>3</td>
 <td>Земельный налог</td>
-<td>4 600,0</td>
+<td>5 327,4</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>4</td>
 <td>Hалог на транспортные средства</td>
-<td>13 900,0</td>
+<td>15 821,9</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">05</td>
 <td></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
-<td>116,0</td>
+<td>962,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>3</td>
 <td>Поступления за использование природных и других ресурсов</td>
-<td>116,0</td>
+<td>962,0</td>
 </tr>
 <tr>
-<td>2</td>
+<td colspan="2">2</td>
 <td colspan="2"></td>
 <td></td>
 <td>Неналоговые поступления</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td>3</td>
+<td colspan="2">3</td>
 <td colspan="2"></td>
 <td></td>
 <td>Поступления от продажи основного капитала</td>
-<td>7 100,0</td>
+<td>7 790,7</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">03</td>
 <td></td>
 <td>Продажа земли и нематериальных активов</td>
-<td>7 100,0</td>
+<td>7 790,7</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>1</td>
 <td>Продажа земли</td>
-<td>4 400,0</td>
+<td>5 090,7</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>2</td>
 <td>Продажа нематериальных активов</td>
 <td>2 700,0</td>
 </tr>
 <tr>
-<td>4</td>
+<td colspan="2">4</td>
 <td colspan="2"></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>932 049,7</td>
+<td>931 389,7</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>932 049,7</td>
+<td>931 389,7</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>932 049,7</td>
+<td>931 389,7</td>
 </tr>
 <tr>
-<td colspan="4"></td>
+<td colspan="5"></td>
 <td>Наименование</td>
 <td rowspan="5">
 Сумма,
@@ -274,57 +274,57 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 </td>
 </tr>
 <tr>
-<td colspan="5">Функциональная группа</td>
+<td colspan="6">Функциональная группа</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Затраты</td>
-<td>967 013,1</td>
+<td>972 043,1</td>
 </tr>
 <tr>
-<td>01</td>
+<td colspan="2">01</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>53 048,5</td>
+<td>52 748,5</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>53 048,5</td>
+<td>52 748,5</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>53 048,5</td>
+<td>52 748,5</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
@@ -332,127 +332,127 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>52 581,8</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>022</td>
 <td>Капитальные расходы государственного органа</td>
-<td>466,7</td>
+<td>166,7</td>
 </tr>
 <tr>
-<td>07</td>
+<td colspan="2">07</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>120 865,0</td>
+<td>125 265,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
 <td>Коммунальное хозяйство</td>
-<td>28 949,0</td>
+<td>32 339,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>28 949,0</td>
+<td>32 339,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>014</td>
 <td>Организация водоснабжения населенных пунктов</td>
-<td>28 949,0</td>
+<td>32 339,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>3</td>
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>92 965,0</td>
+<td>92 926,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>91 916,0</td>
+<td>92 926,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>008</td>
 <td>Освещение улиц в населенных пунктах</td>
-<td>47 791,0</td>
+<td>48 841,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>009</td>
 <td>Обеспечение санитарии населенных пунктов</td>
-<td>10 800,0</td>
+<td>10 510,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>010</td>
 <td>Содержание мест захоронений и погребение безродных</td>
-<td>1 200,0</td>
+<td>800,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>32 125,0</td>
+<td>32 775,0</td>
 </tr>
 <tr>
-<td>08</td>
+<td colspan="2">08</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Культура, спорт, туризм и информационное пространство</td>
-<td>4 300,0</td>
+<td>5 230,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Деятельность в области культуры</td>
-<td>4 300,0</td>
+<td>5 230,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>4 300,0</td>
+<td>5 230,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
 <td>Поддержка культурно-досуговой работы на местном уровне</td>
-<td>4 300,0</td>
+<td>5 230,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>2</td>
 <td></td>
 <td></td>
@@ -460,7 +460,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -468,7 +468,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>028</td>
@@ -476,7 +476,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>0,0</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">12</td>
 <td></td>
 <td></td>
 <td></td>
@@ -484,7 +484,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>788 796,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -492,7 +492,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>788 796,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -500,7 +500,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>788 796,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>012</td>
@@ -508,7 +508,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>589 298,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>013</td>
@@ -516,7 +516,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>89 500,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>045</td>
@@ -524,7 +524,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>109 998,0</td>
 </tr>
 <tr>
-<td>14</td>
+<td colspan="2">14</td>
 <td></td>
 <td></td>
 <td></td>
@@ -532,7 +532,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>0,5</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -540,7 +540,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>0,5</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -548,7 +548,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>0,5</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>042</td>
@@ -556,7 +556,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>0,5</td>
 </tr>
 <tr>
-<td>15</td>
+<td colspan="2">15</td>
 <td></td>
 <td></td>
 <td></td>
@@ -564,7 +564,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>3,1</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -572,7 +572,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>3,1</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -580,7 +580,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>3,1</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>044</td>
@@ -588,7 +588,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>0,1</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>048</td>
@@ -596,7 +596,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>3,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -604,7 +604,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -612,7 +612,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -620,7 +620,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -628,7 +628,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -636,7 +636,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -644,7 +644,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -652,7 +652,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>-3 547,4</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -660,7 +660,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>3 547,4</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -668,7 +668,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -676,7 +676,7 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="4"></td>
+<td colspan="5"></td>
 <td>Наименование</td>
 <td rowspan="4">
 Сумма,
@@ -684,34 +684,34 @@ source: https://zan.gov.kz/client/#!/doc/163475/rus/23.08.2022
 </td>
 </tr>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="6">Категория</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="5">Класс</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
 <td>8</td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
 <td>3 547,4</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
+<td colspan="3">1</td>
 <td></td>
 <td>Остатки бюджетных средств</td>
 <td>3 547,4</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td>1</td>
 <td>Свободные остатки бюджетных средств</td>
 <td>3 547,4</td>
