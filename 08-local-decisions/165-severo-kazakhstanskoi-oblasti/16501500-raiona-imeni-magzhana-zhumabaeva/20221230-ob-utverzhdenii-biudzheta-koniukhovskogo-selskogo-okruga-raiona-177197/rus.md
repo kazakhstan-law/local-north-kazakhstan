@@ -1,5 +1,5 @@
 ---
-version_id: '177197_629381'
+version_id: '177197_645696'
 act_code: '177197'
 language: rus
 title: Об утверждении бюджета Конюховского сельского округа района Магжана Жумабаева на 2023-2025 годы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '165015000002'
 approval_date: 2022-12-30
-version_date: 2023-04-26
+version_date: 2023-07-25
 registry_number: '177197'
 caused_by:
-  code: '180913'
-  title: О внесении изменений и дополнений в решение маслихата района Магжана Жумабаева Северо-Казахстанской области от 30 декабря 2022 года № 21-22 «Об утверждении бюджета Конюховского сельского округа района Магжана Жумабаева на 2023-2025 годы»
-  link: https://zan.gov.kz/client/#!/doc/180913/rus
-source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
+  code: '184421'
+  title: О внесении изменений в решение маслихата района Магжана Жумабаева Северо-Казахстанской области от 30 декабря 2022 года № 21-22 «Об утверждении бюджета Конюховского сельского округа района Магжана Жумабаева на 2023-2025 годы»
+  link: https://zan.gov.kz/client/#!/doc/184421/rus
+source: https://zan.gov.kz/client/#!/doc/177197/rus/25.07.2023
 ---
 
 # Об утверждении бюджета Конюховского сельского округа района Магжана Жумабаева на 2023-2025 годы
@@ -27,7 +27,7 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 
 1. Утвердить бюджет Конюховского сельского округа района Магжана Жумабаева на 2023-2025 годы согласно приложениям 1, 2 и 3 к настоящему решению соответственно, в том числе на 2023 год в следующих объемах:
 
-   1) доходы – 34 997,0 тысяч тенге:
+   1) доходы – 34 982,8 тысяч тенге:
 
       налоговые поступления – 862,0 тысяч тенге;
 
@@ -35,9 +35,9 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 
       поступления от продажи основного капитала – 318,0 тысяч тенге;
 
-      поступления трансфертов – 33 817,0 тысяч тенге;
+      поступления трансфертов – 33 802,8 тысяч тенге;
 
-   2) затраты – 35 203,1 тысяч тенге;
+   2) затраты – 35 188,9 тысяч тенге;
 
    3) чистое бюджетное кредитование – 0,0 тысяч тенге:
 
@@ -61,7 +61,7 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 
       используемые остатки бюджетных средств – 206,1 тысяч тенге.
 
-> *Сноска. Пункт 1 в редакции решения маслихата района Магжана Жумабаева Северо-Казахстанской области от 26.04.2023 № 3-11 (вводится в действие с 01.01.2023).*
+> *Сноска. Пункт 1 в редакции решений маслихата района Магжана Жумабаева Северо-Казахстанской области от 26.04.2023 № 3-11 (вводится в действие с 01.01.2023); от 25.07.2023 № 5-13 (вводится в действие с 01.01.2023).*
 
 2. Установить, что доходы бюджета сельского округа на 2023 год формируются в соответствии с Бюджетным Кодексом Республики Казахстан за счет следующих налоговых поступлений:
 
@@ -115,11 +115,11 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 
 ## Бюджет Конюховского сельского округа района Магжана Жумабаева на 2023 год
 
-> *Сноска. Приложение 1 в редакции решения маслихата района Магжана Жумабаева Северо-Казахстанской области от 26.04.2023 № 3-11 (вводится в действие с 01.01.2023).*
+> *Сноска. Приложение 1 в редакции решений маслихата района Магжана Жумабаева Северо-Казахстанской области от 26.04.2023 № 3-11 (вводится в действие с 01.01.2023); от 25.07.2023 № 5-13 (вводится в действие с 01.01.2023).*
 
 <table>
 <tr>
-<td colspan="4"></td>
+<td colspan="5"></td>
 <td>Наименование</td>
 <td rowspan="4">
 Сумма,
@@ -127,131 +127,131 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 </td>
 </tr>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="6">Категория</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="4">Класс</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td></td>
 <td>Доходы</td>
-<td>34 997,0</td>
+<td>34 982,8</td>
 </tr>
 <tr>
-<td>1</td>
+<td colspan="2">1</td>
 <td colspan="2"></td>
 <td></td>
 <td>Налоговые поступления</td>
 <td>862,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">01</td>
 <td></td>
 <td>Подоходный налог</td>
 <td>1,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>2</td>
 <td>Индивидуальный подоходный налог</td>
 <td>1,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">04</td>
 <td></td>
 <td>Налоги на собственность</td>
 <td>854,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>1</td>
 <td>Hалоги на имущество</td>
 <td>110,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>4</td>
 <td>Hалог на транспортные средства</td>
 <td>744,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">05</td>
 <td></td>
 <td>Внутренние налоги на товары, работы и услуги</td>
 <td>7,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>3</td>
 <td>Поступления за использование природных и других ресурсов</td>
 <td>7,0</td>
 </tr>
 <tr>
-<td>2</td>
+<td colspan="2">2</td>
 <td colspan="2"></td>
 <td></td>
 <td>Неналоговые поступления</td>
 <td>0,0</td>
 </tr>
 <tr>
-<td>3</td>
+<td colspan="2">3</td>
 <td colspan="2"></td>
 <td></td>
 <td>Поступления от продажи основного капитала</td>
 <td>318,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">03</td>
 <td></td>
 <td>Продажа земли и нематериальных активов</td>
 <td>318,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>1</td>
 <td>Продажа земли</td>
 <td>318,0</td>
 </tr>
 <tr>
-<td>4</td>
+<td colspan="2">4</td>
 <td colspan="2"></td>
 <td></td>
 <td>Поступления трансфертов</td>
-<td>33 817,0</td>
+<td>33 802,8</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2">02</td>
 <td></td>
 <td>Трансферты из вышестоящих органов государственного управления</td>
-<td>33 817,0</td>
+<td>33 802,8</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="2"></td>
 <td>3</td>
 <td>Трансферты из районного (города областного значения) бюджета</td>
-<td>33 817,0</td>
+<td>33 802,8</td>
 </tr>
 <tr>
-<td colspan="4"></td>
+<td colspan="5"></td>
 <td>Наименование</td>
 <td rowspan="5">
 Сумма,
@@ -259,89 +259,89 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 </td>
 </tr>
 <tr>
-<td colspan="5">Функциональная группа</td>
+<td colspan="6">Функциональная группа</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td colspan="4">Функциональная подгруппа</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="3">Администратор бюджетных программ</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td colspan="2">Программа</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
 <td>Затраты</td>
-<td>35 203,1</td>
+<td>35 188,9</td>
 </tr>
 <tr>
-<td>01</td>
+<td colspan="2">01</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Государственные услуги общего характера</td>
-<td>27 186,3</td>
+<td>27 616,3</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>27 186,3</td>
+<td>27 616,3</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>27 186,3</td>
+<td>27 616,3</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>001</td>
 <td>Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>27 186,3</td>
+<td>27 616,3</td>
 </tr>
 <tr>
-<td>07</td>
+<td colspan="2">07</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Жилищно-коммунальное хозяйство</td>
-<td>1 851,0</td>
+<td>1 409,1</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>3</td>
 <td></td>
 <td></td>
 <td>Благоустройство населенных пунктов</td>
-<td>1 851,0</td>
+<td>1 409,1</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>1 851,0</td>
+<td>1 409,1</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>008</td>
@@ -349,15 +349,15 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 <td>851,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>011</td>
 <td>Благоустройство и озеленение населенных пунктов</td>
-<td>1 000,0</td>
+<td>558,1</td>
 </tr>
 <tr>
-<td>08</td>
+<td colspan="2">08</td>
 <td></td>
 <td></td>
 <td></td>
@@ -365,7 +365,7 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 <td>1 165,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -373,7 +373,7 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 <td>1 165,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -381,7 +381,7 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 <td>1 165,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>006</td>
@@ -389,39 +389,39 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 <td>1 165,0</td>
 </tr>
 <tr>
-<td>12</td>
+<td colspan="2">12</td>
 <td></td>
 <td></td>
 <td></td>
 <td>Транспорт и коммуникации</td>
-<td>5 000,0</td>
+<td>4 997,7</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
 <td>Автомобильный транспорт</td>
-<td>5 000,0</td>
+<td>4 997,7</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
 <td></td>
 <td>Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>5 000,0</td>
+<td>4 997,7</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>013</td>
 <td>Обеспечение функционирования автомобильных дорог в городах районного значения, села, поселках, сельских округах</td>
-<td>5 000,0</td>
+<td>4 997,7</td>
 </tr>
 <tr>
-<td>15</td>
+<td colspan="2">15</td>
 <td></td>
 <td></td>
 <td></td>
@@ -429,7 +429,7 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 <td>0,8</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td>1</td>
 <td></td>
 <td></td>
@@ -437,7 +437,7 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 <td>0,8</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td>124</td>
 <td></td>
@@ -445,7 +445,7 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 <td>0,8</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td>048</td>
@@ -453,7 +453,7 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 <td>0,8</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -461,7 +461,7 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -469,7 +469,7 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -477,7 +477,7 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -485,7 +485,7 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -493,7 +493,7 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -501,7 +501,7 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -509,7 +509,7 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 <td>-206,1</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -517,7 +517,7 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 <td>206,1</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -525,7 +525,7 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 <td>0,0</td>
 </tr>
 <tr>
-<td></td>
+<td colspan="2"></td>
 <td></td>
 <td></td>
 <td></td>
@@ -533,7 +533,7 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 <td>0,0</td>
 </tr>
 <tr>
-<td colspan="4"></td>
+<td colspan="5"></td>
 <td>Наименование</td>
 <td rowspan="4">
 Сумма,
@@ -541,34 +541,34 @@ source: https://zan.gov.kz/client/#!/doc/177197/rus/26.04.2023
 </td>
 </tr>
 <tr>
-<td colspan="5">Категория</td>
+<td colspan="6">Категория</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="4">Класс</td>
+<td colspan="5">Класс</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td colspan="2">Подкласс</td>
 </tr>
 <tr>
 <td>8</td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td></td>
 <td>Используемые остатки бюджетных средств</td>
 <td>206,1</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2">1</td>
+<td colspan="3">1</td>
 <td></td>
 <td>Остатки бюджетных средств</td>
 <td>206,1</td>
 </tr>
 <tr>
 <td></td>
-<td colspan="2"></td>
+<td colspan="3"></td>
 <td>1</td>
 <td>Свободные остатки бюджетных средств</td>
 <td>206,1</td>
