@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
+source: https://zan.gov.kz/client/#!/doc/177693/rus/15.08.2023
 ---
 
 # Об утверждении бюджета Киялинского сельского округа Аккайынского района на 2023 - 2025 годы
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 
 1. Утвердить бюджет Киялинского сельского округа Аккайынского района на 2023-2025 годы согласно приложениям 1, 2 и 3 к настоящему решению соответственно, в том числе на 2023 год в следующих объемах:
 
-   1) доходы – 51165 тысяч тенге:
+   1) доходы – 66649,5 тысяч тенге:
 
       налоговые поступления – 10346 тысяч тенге;
 
@@ -18,9 +18,9 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 
       поступления от продажи основного капитала - 0 тысяч тенге;
 
-      поступления трансфертов – 40 819 тысяч тенге;
+      поступления трансфертов – 56303,5 тысяч тенге;
 
-   2) затраты – 55072,2 тысяч тенге;
+   2) затраты – 70556,7 тысяч тенге;
 
    3) чистое бюджетное кредитование - 0 тысяч тенге:
 
@@ -34,7 +34,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 
       поступления от продажи финансовых активов государства - 0 тысяч тенге;
 
-   5) дефицит (профицит) бюджета – -3907,2 тысяч тенге;
+   5) дефицит (профицит) бюджета – - 3907,2 тысяч тенге;
 
    5-1) ненефтяной дефицит (профицит) бюджета – 0 тысяч тенге;
 
@@ -46,7 +46,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 
       используемые остатки бюджетных средств – 3 907,2 тысяч тенге.
 
-   > *Сноска. Пункт 1 в редакции решения маслихата Аккайынского района Северо-Казахстанской области от 28.04.2023 № 3-6 (вводится в действие с 01.01.2023).*
+> *Сноска. Пункт 1 в редакции решений маслихата Аккайынского района Северо-Казахстанской области от 28.04.2023 № 3-6 (вводится в действие с 01.01.2023); от 15.08.2023 № 7-6 (вводится в действие с 01.01.2023).*
 
 2. Установить, что доходы бюджета сельского округа на 2023 год формируются в соответствии с Бюджетным кодексом Республики Казахстан за счет следующих налоговых поступлений:
 
@@ -112,19 +112,20 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 
 **________ E. Жакенов**
 
-> *Приложение 1 к решению*  
-> *маслихата Аккайынского района*  
+> *Приложение 1*  
+> *к решению маслихата*  
+> *Аккайынского района*  
 > *Северо-Казахстанской области*  
-> *от 30 декабря 2022 года*  
-> *№ 25-6*
+> *от 30 декабря 2022 года № 25-6*
 
 ## Бюджет Киялинского сельского округа Аккайынского района на 2023 год
 
-> *Сноска. Приложение 1 в редакции решения маслихата Аккайынского района Северо-Казахстанской области от 28.04.2023 № 3-6 (вводится в действие с 01.01.2023).*
+> *Сноска. Приложение 1 в редакции решений маслихата Аккайынского района Северо-Казахстанской области от 28.04.2023 № 3-6 (вводится в действие с 01.01.2023); от 15.08.2023 № 7-6 (вводится в действие с 01.01.2023.*
 
 <table>
 <tr>
 <td>Категория</td>
+<td colspan="2"></td>
 <td>Класс</td>
 <td colspan="2">Подкласс</td>
 <td colspan="3">Наименование</td>
@@ -135,13 +136,15 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">1) Доходы</td>
-<td>51165</td>
+<td>66649,5</td>
 </tr>
 <tr>
 <td>1</td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Налоговые поступления</td>
@@ -149,6 +152,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td>01</td>
 <td colspan="2"></td>
 <td colspan="3">Подоходный налог</td>
@@ -156,6 +160,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">2</td>
 <td colspan="3">Индивидуальный подоходный налог</td>
@@ -163,6 +168,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td>04</td>
 <td colspan="2"></td>
 <td colspan="3">Налоги на собственность</td>
@@ -170,6 +176,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="3">Налоги на имущество</td>
@@ -177,6 +184,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">3</td>
 <td colspan="3">Земельный налог</td>
@@ -184,6 +192,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">4</td>
 <td colspan="3">Налог на транспортные средства</td>
@@ -191,6 +200,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td>05</td>
 <td colspan="2"></td>
 <td colspan="3">Внутренние налоги на товары работы и услуги</td>
@@ -198,6 +208,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">3</td>
 <td colspan="3">Поступления за использование природных и других ресурсов</td>
@@ -205,6 +216,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td>2</td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Неналоговые поступления</td>
@@ -212,6 +224,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td>3</td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Поступления от продажи основного капитала</td>
@@ -219,29 +232,33 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td>4</td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Поступления трансфертов</td>
-<td>40819</td>
+<td>56303,5</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td>02</td>
 <td colspan="2"></td>
 <td colspan="3">Трансферты из вышестоящих органов государственного управления</td>
-<td>40819</td>
+<td>56303,5</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">3</td>
 <td colspan="3">Трансферты из районного (города областного значения) бюджета</td>
-<td>40819</td>
+<td>56303,5</td>
 </tr>
 <tr>
 <td>Функцио-нальная группа</td>
+<td colspan="2">Функцио-нальная подгруппа</td>
 <td>Админи-стратор бюджетных программ</td>
-<td colspan="2">Прог-рамма</td>
+<td colspan="2">Программа</td>
 <td colspan="3">Наименование</td>
 <td>
 Сумма,
@@ -250,41 +267,47 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">2) Затраты</td>
-<td>55072,2</td>
+<td>70556,7</td>
 </tr>
 <tr>
 <td>01</td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Государственные услуги общего характера</td>
-<td>30372,6</td>
+<td>32056,3</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2">1</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td>30372,6</td>
+<td>32056,3</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>30372,6</td>
+<td>32056,3</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td colspan="3">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td>29361</td>
+<td>31044,7</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">022</td>
 <td colspan="3">Капитальные расходы государственного органа</td>
@@ -292,34 +315,39 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td>07</td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Жилищно-коммунальное хозяйство</td>
-<td>8281,4</td>
+<td>22082,2</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2">3</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Благоустройство населенных пунктов</td>
-<td>8281,4</td>
+<td>22082,2</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>8281,4</td>
+<td>22082,2</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">008</td>
 <td colspan="3">Освещение улиц в населенных пунктах</td>
-<td>5069</td>
+<td>18869,8</td>
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">009</td>
 <td colspan="3">Обеспечение санитарии населенных пунктов</td>
@@ -327,6 +355,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">010</td>
 <td colspan="3">Содержание мест захоронений и погребение безродных</td>
@@ -334,6 +363,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">011</td>
 <td colspan="3">Благоустройство и озеленение населенных пунктов</td>
@@ -341,6 +371,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td>08</td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Культура, спорт, туризм и информационное пространство</td>
@@ -348,6 +379,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2">1</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Деятельность в области культуры</td>
@@ -355,6 +387,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
@@ -362,6 +395,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">006</td>
 <td colspan="3">Поддержка культурно-досуговой работы на местном уровне</td>
@@ -369,6 +403,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td>12</td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Транспорт и коммуникации</td>
@@ -376,6 +411,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2">1</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Автомобильный транспорт</td>
@@ -383,6 +419,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
@@ -390,6 +427,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">013</td>
 <td colspan="3">Обеспечение функционирования автомобильных дорог в городах районного значения, селах, поселках, сельских округах</td>
@@ -397,6 +435,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td>15</td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Трансферты</td>
@@ -404,6 +443,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2">1</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Трансферты</td>
@@ -411,6 +451,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
@@ -418,6 +459,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">048</td>
 <td colspan="3">Возврат неиспользованных (недоиспользованных) целевых трансфертов</td>
@@ -425,6 +467,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">3) Чистое бюджетное кредитование</td>
@@ -432,6 +475,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Бюджетные кредиты</td>
@@ -439,6 +483,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Погашение бюджетных кредитов</td>
@@ -446,6 +491,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">4) Сальдо по операциям с финансовыми активами</td>
@@ -453,6 +499,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Приобретение финансовых активов</td>
@@ -460,6 +507,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Поступления от продажи финансовых активов государства</td>
@@ -467,6 +515,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">5) Дефицит (профицит) бюджета</td>
@@ -474,6 +523,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">5-1) Ненефтяной дефицит (профицит) бюджета</td>
@@ -481,6 +531,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">6) Финансирование дефицита (использование профицита) бюджета</td>
@@ -488,6 +539,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Поступления займов</td>
@@ -495,6 +547,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Погашение займов</td>
@@ -502,6 +555,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td>Категория</td>
+<td colspan="2"></td>
 <td>Класс</td>
 <td colspan="2">Подкласс</td>
 <td colspan="3">Наименование</td>
@@ -512,6 +566,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td>8</td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="3">Используемые остатки бюджетных средств</td>
@@ -519,6 +574,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td>01</td>
 <td colspan="2"></td>
 <td colspan="3">Остатки бюджетных средств</td>
@@ -526,6 +582,7 @@ source: https://zan.gov.kz/client/#!/doc/177693/rus/28.04.2023
 </tr>
 <tr>
 <td></td>
+<td colspan="2"></td>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="3">Свободные остатки бюджетных средств</td>
