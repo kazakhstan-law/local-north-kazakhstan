@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
+source: https://zan.gov.kz/client/#!/doc/176933/kaz/22.09.2023
 ---
 
 # 2023-2025 жылдарға арналған Ғабит Мүсірепов атындағы Шөптікөл ауылдық округінің бюджетін бекіту туралы
@@ -10,17 +10,17 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 
 1. 2023-2025 жылдарға арналған Ғабит Мүсірепов атындағы ауданы Шөптікөл ауылдық округінің бюджеті осы шешімге тиісінше 1, 2 және 3-қосымшаларға сәйкес, cоның ішінде 2023 жылға келесі көлемдерде бекітілсін:
 
-   1) кірістер – 89 359,1 мың теңге:
+   1) кірістер – 90 161,5 мың теңге:
 
-      салықтық түсімдер – 5 525 мың теңге;
+      салықтық түсімдер – 6 449,3 мың теңге;
 
       салықтық емес түсімдер – 0;
 
-      негізгі капиталды сатудан түсетін түсімдер – 0;
+      негізгі капиталды сатудан түсетін түсімдер – 798,7 тың теңге;
 
-      трансферттер түсімі – 83 834,1 мың теңге;
+      трансферттер түсімі – 82 913,5 мың теңге;
 
-   2) шығындар – 89 859,9 мың теңге;
+   2) шығындар – 90 662,3 мың теңге;
 
    3) таза бюджеттік кредиттеу – 0:
 
@@ -44,7 +44,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 
       бюджет қаражатының пайдаланылатын қалдықтары – 500,8 мың теңге.
 
-> *Ескерту. 1-тармақ жаңа редакцияда - Солтүстік Қазақстан облысы Ғабит Мүсірепов атындағы ауданы мәслихатының 23.05.2023 № 3-37 (01.01.2023 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-тармақ жаңа редакцияда - Солтүстік Қазақстан облысы Ғабит Мүсірепов атындағы ауданы мәслихатының 23.05.2023 № 3-37 (01.01.2023 бастап қолданысқа енгізіледі); 22.09.2023 № 8-5 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 2. 2023 жылға арналған Шөптікөл ауылдық округінің кірістері Қазақстан Республикасы Бюджет кодексінің 52-1-бабына сәйкес, мынадай салықтық түсімдер есебінен қалыптастырылатындығы белгіленсін:
 
@@ -84,7 +84,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 
 ## 2023 жылға арналған Ғабит Мүсірепов атындағы ауданы Шөптікөл ауылдық округінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Ғабит Мүсірепов атындағы ауданы мәслихатының 23.05.2023 № 3-37 (01.01.2023 бастап қолданысқа енгізіледі) шешімімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Ғабит Мүсірепов атындағы ауданы мәслихатының 23.05.2023 № 3-37 (01.01.2023 бастап қолданысқа енгізіледі); 22.09.2023 № 8-5 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -92,21 +92,24 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td>Сыныбы</td>
 <td colspan="2">Кіші сыныбы</td>
 <td colspan="2">Атауы</td>
-<td colspan="2">Сома (мың теңге)</td>
+<td colspan="2">
+Сома (мың
+теңге)
+</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1. Кiрiстер</td>
-<td colspan="2">89 359,1</td>
+<td colspan="2">90 161,5</td>
 </tr>
 <tr>
 <td>1</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td colspan="2">5 525</td>
+<td colspan="2">6 449,3</td>
 </tr>
 <tr>
 <td></td>
@@ -127,7 +130,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td>04</td>
 <td colspan="2"></td>
 <td colspan="2">Меншiкке салынатын салықтар</td>
-<td colspan="2">5 015</td>
+<td colspan="2">5 728</td>
 </tr>
 <tr>
 <td></td>
@@ -140,7 +143,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td></td>
 <td></td>
 <td colspan="2">3</td>
-<td colspan="2">Жерсалығы</td>
+<td colspan="2">Жер салығы</td>
 <td colspan="2">900</td>
 </tr>
 <tr>
@@ -148,7 +151,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td></td>
 <td colspan="2">4</td>
 <td colspan="2">Көлiк құралдарына салынатын салық</td>
-<td colspan="2">3 815</td>
+<td colspan="2">4 528</td>
 </tr>
 <tr>
 <td></td>
@@ -162,14 +165,14 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td>05</td>
 <td colspan="2"></td>
 <td colspan="2">Тауарларға, жұмыстарға және қызметтерге салынатын iшкi салықтар</td>
-<td colspan="2">10</td>
+<td colspan="2">221,3</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td colspan="2">Табиғи және басқа да ресурстарды пайдаланғаны үшiн түсетiн түсiмдер</td>
-<td colspan="2">10</td>
+<td colspan="2">221,3</td>
 </tr>
 <tr>
 <td>2</td>
@@ -183,77 +186,96 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Негізгі капиталды сатудан түсетін түсімдер</td>
-<td colspan="2">0</td>
+<td colspan="2">798,7</td>
+</tr>
+<tr>
+<td></td>
+<td>03</td>
+<td colspan="2"></td>
+<td colspan="2">Жерді және материалдық емес активтерді сату</td>
+<td colspan="2">798,7</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">1</td>
+<td colspan="2">Жерді сату</td>
+<td colspan="2">798,7</td>
 </tr>
 <tr>
 <td>4</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттердің түсімдері</td>
-<td colspan="2">83 834,1</td>
+<td colspan="2">82 913,5</td>
 </tr>
 <tr>
 <td></td>
 <td>02</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жоғары тұрған органдарынан түсетiн трансферттер</td>
-<td colspan="2">83 834,1</td>
+<td colspan="2">82 913,5</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">3</td>
 <td colspan="2">Аудандық (облыстық маңызы бар қаланың) бюджетінен түсетін трансферттер</td>
-<td colspan="2">83 834,1</td>
+<td colspan="2">82 913,5</td>
 </tr>
 <tr>
 <td>Функцио-налдық топ</td>
 <td>Бюджеттік бағдарла-малардың әкімшісі</td>
 <td colspan="2">Бағдар-лама</td>
 <td colspan="2">Атауы</td>
-<td colspan="2">Сома (мың теңге)</td>
+<td colspan="2">
+Сома (мың
+теңге)
+</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2. Шығындар</td>
-<td colspan="2">89 859,9</td>
+<td colspan="2">90 662,3</td>
+<td colspan="2"></td>
 </tr>
 <tr>
 <td>01</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td colspan="2">26 923,5</td>
+<td colspan="2">29 537,8</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">26 923,5</td>
+<td colspan="2">29 537,8</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">26 923,5</td>
+<td colspan="2">29 537,8</td>
 </tr>
 <tr>
 <td>07</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">5 671</td>
+<td colspan="2">3 859</td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">5 671</td>
+<td colspan="2">3 859</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -261,34 +283,39 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td colspan="2">008</td>
 <td colspan="2">Елді мекендердегі көшелері жарықтандыру</td>
 <td colspan="2">1 171</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
-<td colspan="2">011</td>
+<td colspan="2">014</td>
 <td colspan="2">Елді мекендерді сумен қамтамасыз етуді ұйымдастыру</td>
-<td colspan="2">4 500</td>
+<td colspan="2">2 688</td>
+<td></td>
 </tr>
 <tr>
 <td>13</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Басқалар</td>
-<td colspan="2">57 265,1</td>
+<td colspan="2">57 265,2</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">57 265,1</td>
+<td colspan="2">57 265,2</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2">045</td>
 <td colspan="2">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарын күрделі және орташа жөндеу</td>
-<td colspan="2">57 265,1</td>
+<td colspan="2">57 265,2</td>
+<td></td>
 </tr>
 <tr>
 <td>15</td>
@@ -296,6 +323,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td colspan="2"></td>
 <td colspan="2">Трансферттер</td>
 <td colspan="2">0,3</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -303,6 +331,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td colspan="2"></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
 <td colspan="2">0,3</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -310,6 +339,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td colspan="2">048</td>
 <td colspan="2">Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
 <td colspan="2">0,3</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -317,6 +347,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td colspan="2"></td>
 <td colspan="2">3. Таза бюджеттік кредиттеу</td>
 <td colspan="2">0</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -324,6 +355,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td colspan="2"></td>
 <td colspan="2">Бюджеттік кредиттер</td>
 <td colspan="2">0</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -331,6 +363,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td colspan="2"></td>
 <td colspan="2">Бюджеттік кредиттерді өтеу</td>
 <td colspan="2">0</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -338,6 +371,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td colspan="2"></td>
 <td colspan="2">4. Қаржы активтерiмен операциялар бойынша сальдо</td>
 <td colspan="2">0</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -345,6 +379,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td colspan="2"></td>
 <td colspan="2">Қаржы активтерін сатып алу</td>
 <td colspan="2">0</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -352,6 +387,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттің қаржы активтерін сатудан түсетін түсімдер</td>
 <td colspan="2">0</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -359,6 +395,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td colspan="2"></td>
 <td colspan="2">5. Бюджет тапшылығы (профициті)</td>
 <td colspan="2">-500,8</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -366,6 +403,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td colspan="2"></td>
 <td colspan="2">6. Бюджеттің тапшылығын қаржыландыру (профицитін пайдалану)</td>
 <td colspan="2">500,8</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -373,6 +411,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td colspan="2"></td>
 <td colspan="2">Қарыздар түсімдері</td>
 <td colspan="2">0</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -380,6 +419,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td colspan="2"></td>
 <td colspan="2">Қарыздарды өтеу</td>
 <td colspan="2">0</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -387,6 +427,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
 <td colspan="2">500,8</td>
+<td></td>
 </tr>
 <tr>
 <td>Санаты</td>
@@ -394,6 +435,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td colspan="2">Кіші сыныбы</td>
 <td colspan="2">Атауы</td>
 <td colspan="2">Сома (мың теңге)</td>
+<td></td>
 </tr>
 <tr>
 <td>8</td>
@@ -401,6 +443,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының пайдаланылатын қалдықтары</td>
 <td colspan="2">500,8</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -408,6 +451,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td colspan="2"></td>
 <td colspan="2">Бюджет қаражатының қалдықтары</td>
 <td colspan="2">500,8</td>
+<td></td>
 </tr>
 <tr>
 <td></td>
@@ -415,6 +459,7 @@ source: https://zan.gov.kz/client/#!/doc/176933/kaz/23.05.2023
 <td colspan="2">1</td>
 <td colspan="2">Бюджет қаражатының бос қалдықтары</td>
 <td colspan="2">500,8</td>
+<td></td>
 </tr>
 </table>
 
