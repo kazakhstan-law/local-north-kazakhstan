@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/177696/kaz/15.08.2023
+source: https://zan.gov.kz/client/#!/doc/177696/kaz/20.11.2023
 ---
 
 # 2023-2025 жылдарға арналған Аққайың ауданының Ивановка ауылдық округінің бюджетін бекіту туралы
@@ -120,7 +120,7 @@ source: https://zan.gov.kz/client/#!/doc/177696/kaz/15.08.2023
 
 ## 2023 жылға арналған Аққайың ауданының Ивановка ауылдық округінің бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Аққайың ауданы мәслихатының 28.04.2023 № 3-5 (01.01.2023 бастап қолданысқа енгізіледі); 15.08.2023 № 7-5 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Аққайың ауданы мәслихатының 28.04.2023 № 3-5 (01.01.2023 бастап қолданысқа енгізіледі); 15.08.2023 № 7-5 (01.01.2023 бастап қолданысқа енгізіледі); 20.11.2023 № 10-5 (01.01.2023 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -149,42 +149,42 @@ source: https://zan.gov.kz/client/#!/doc/177696/kaz/15.08.2023
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2">Табыс салығы</td>
-<td colspan="2">33</td>
+<td colspan="2">97,2</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>2</td>
 <td colspan="2">Жеке табыс салығы</td>
-<td colspan="2">33</td>
+<td colspan="2">97,2</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td></td>
 <td colspan="2">Меншікке салынатын салықтар</td>
-<td colspan="2">2483</td>
+<td colspan="2">2418,8</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>1</td>
 <td colspan="2">Мүлікке салынатын салықтар</td>
-<td colspan="2">138</td>
+<td colspan="2">85,1</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>3</td>
 <td colspan="2">Жер салығы</td>
-<td colspan="2">96</td>
+<td colspan="2">67,7</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td>4</td>
 <td colspan="2">Көлік құралдарына салынатын салық</td>
-<td colspan="2">2249</td>
+<td colspan="2">2266</td>
 </tr>
 <tr>
 <td></td>
@@ -260,7 +260,7 @@ source: https://zan.gov.kz/client/#!/doc/177696/kaz/15.08.2023
 <td></td>
 <td></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттік қызметтер</td>
-<td colspan="2">28392</td>
+<td colspan="2">28402</td>
 </tr>
 <tr>
 <td></td>
@@ -268,7 +268,7 @@ source: https://zan.gov.kz/client/#!/doc/177696/kaz/15.08.2023
 <td></td>
 <td></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">28392</td>
+<td colspan="2">28402</td>
 </tr>
 <tr>
 <td></td>
@@ -276,7 +276,7 @@ source: https://zan.gov.kz/client/#!/doc/177696/kaz/15.08.2023
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">28392</td>
+<td colspan="2">28402</td>
 </tr>
 <tr>
 <td></td>
@@ -284,7 +284,7 @@ source: https://zan.gov.kz/client/#!/doc/177696/kaz/15.08.2023
 <td></td>
 <td>001</td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="2">28392</td>
+<td colspan="2">28402</td>
 </tr>
 <tr>
 <td>07</td>
@@ -308,7 +308,7 @@ source: https://zan.gov.kz/client/#!/doc/177696/kaz/15.08.2023
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">3565</td>
+<td colspan="2">3564</td>
 </tr>
 <tr>
 <td></td>
@@ -340,15 +340,15 @@ source: https://zan.gov.kz/client/#!/doc/177696/kaz/15.08.2023
 <td></td>
 <td></td>
 <td colspan="2">Көлiк және коммуникация</td>
-<td colspan="2">400</td>
+<td colspan="2">390</td>
 </tr>
 <tr>
 <td></td>
-<td></td>
+<td>1</td>
 <td></td>
 <td></td>
 <td colspan="2">Автомобиль көлігі</td>
-<td colspan="2">400</td>
+<td colspan="2">390</td>
 </tr>
 <tr>
 <td></td>
@@ -356,7 +356,7 @@ source: https://zan.gov.kz/client/#!/doc/177696/kaz/15.08.2023
 <td>124</td>
 <td></td>
 <td colspan="2">Аудандық маңызы бар қала, ауыл, кент, ауылдық округ әкімінің аппараты</td>
-<td colspan="2">400</td>
+<td colspan="2">390</td>
 </tr>
 <tr>
 <td></td>
@@ -364,7 +364,7 @@ source: https://zan.gov.kz/client/#!/doc/177696/kaz/15.08.2023
 <td></td>
 <td>013</td>
 <td colspan="2">Аудандық маңызы бар қалаларда, ауылдарда, кенттерде, ауылдық округтерде автомобиль жолдарының жұмыс істеуін қамтамасыз ету</td>
-<td colspan="2">400</td>
+<td colspan="2">390</td>
 </tr>
 <tr>
 <td>15</td>
