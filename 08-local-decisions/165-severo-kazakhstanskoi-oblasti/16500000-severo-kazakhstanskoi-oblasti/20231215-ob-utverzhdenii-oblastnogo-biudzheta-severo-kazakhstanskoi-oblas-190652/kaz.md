@@ -1,5 +1,5 @@
 ---
-version_id: '190652_706146'
+version_id: '190652_709227'
 act_code: '190652'
 language: kaz
 title: Солтүстік Қазақстан облысының 2024 - 2026 жылдарға арналған облыстық бюджетін бекіту туралы
@@ -10,13 +10,13 @@ type_codes:
 approved_by:
 - '165000000002'
 approval_date: 2023-12-15
-version_date: 2024-04-23
+version_date: 2024-05-31
 registry_number: '190652'
 caused_by:
-  code: '196026'
+  code: '197442'
   title: Солтүстік Қазақстан облыстық мәслихатының 2023 жылғы 15 желтоқсандағы № 9/1 «Солтүстік Қазақстан облысының 2024 – 2026 жылдарға арналған облыстық бюджетін бекіту туралы» шешіміне өзгерістер енгізу туралы
-  link: https://zan.gov.kz/client/#!/doc/196026/kaz
-source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
+  link: https://zan.gov.kz/client/#!/doc/197442/kaz
+source: https://zan.gov.kz/client/#!/doc/190652/kaz/31.05.2024
 ---
 
 # Солтүстік Қазақстан облысының 2024 - 2026 жылдарға арналған облыстық бюджетін бекіту туралы
@@ -27,41 +27,41 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 
 1. Солтүстік Қазақстан облысының 2024 – 2026 жылдарға арналған облыстық бюджеті тиісінше осы шешімнің 1, 2 және 3-қосымшаларына сәйкес, оның ішінде 2024 жылға мынадай көлемдерде бекітілсін:
 
-   1) кірістер – 445 917 822,7 мың теңге:
+   1) кірістер – 448 887 888,2 мың теңге:
 
-      салықтық түсімдер – 64 717 055,8 мың теңге;
+      салықтық түсімдер – 67 004 093,6 мың теңге;
 
-      салықтық емес түсімдер – 3 030 205 мың теңге;
+      салықтық емес түсімдер – 3 687 175,7 мың теңге;
 
-      негізгі капиталды сатудан түсетін түсімдер – 13 028 мың тенге;
+      негізгі капиталды сатудан түсетін түсімдер – 39 085 мың тенге;
 
       трансферттер түсімі – 378 157 533,9 мың теңге;
 
-   2) шығындар – 448 945 319,2 мың теңге;
+   2) шығындар – 456 454 221,8 мың теңге;
 
-   3) таза бюджеттік кредиттеу – 10 381 832,6 мың теңге, оның ішінде:
+   3) таза бюджеттік кредиттеу – 8 722 907,5 мың теңге, оның ішінде:
 
-      бюджеттік кредиттер – 24 259 572,7 мың теңге;
+      бюджеттік кредиттер – 22 630 582,1 мың теңге;
 
-      бюджеттік кредиттерді өтеу – 13 877 740,1 мың теңге;
+      бюджеттік кредиттерді өтеу – 13 907 674,6 мың теңге;
 
-   4) қаржылық активтермен операциялар бойынша сальдо – 148 560 мың теңге, оның ішінде:
+   4) қаржылық активтермен операциялар бойынша сальдо – 0 мың теңге, оның ішінде:
 
-      қаржы активтерін сатып алу – 148 560 мың теңге;
+      қаржы активтерін сатып алу – 0 мың теңге;
 
       мемлекеттің қаржы активтерін сатудан түсетін түсімдер – 0 мың теңге;
 
-   5) бюджет тапшылығы (профициті) – -13 557 889,1 мың теңге;
+   5) бюджет тапшылығы (профициті) – -16 289 241,1 мың теңге;
 
-   6) бюджет тапшылығын қаржыландыру (профицитін пайдалану) – 13 557 889,1 мың теңге:
+   6) бюджет тапшылығын қаржыландыру (профицитін пайдалану) – 16 289 241,1 мың теңге:
 
-      қарыздар түсімі – 18 510 757 мың теңге;
+      қарыздар түсімі – 16 510 757 мың теңге;
 
-      қарыздарды өтеу – 25 501 387,9 мың теңге;
+      қарыздарды өтеу – 20 770 035,9 мың теңге;
 
       бюджет қаражатының пайдаланылатын қалдықтары – 20 548 520 мың теңге.
 
-> *Ескерту. 1-тармақ жаңа редакцияда – Солтүстік Қазақстан облысы мәслихатының 15.02.2024 № 11-1 (01.01.2024 бастап қолданысқа енгізіледі); 29.03.2024 № 12/3 (01.01.2024 бастап қолданысқа енгізіледі); 23.04.2024 № 13/1 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 1-тармақ жаңа редакцияда – Солтүстік Қазақстан облысы мәслихатының 15.02.2024 № 11-1 (01.01.2024 бастап қолданысқа енгізіледі); 29.03.2024 № 12/3 (01.01.2024 бастап қолданысқа енгізіледі); 23.04.2024 № 13/1 (01.01.2024 бастап қолданысқа енгізіледі); 31.05.2024 № 14/1 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 2. 2024 жылға облыстық бюджетке аудандар мен Петропавл қаласының бюджеттерінен алынатын салық түсімдерінің жалпы сомасын бөлу мынадай мөлшерлерде белгіленсін:
 
@@ -235,7 +235,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 
 ## 2024 жылға арналған Солтүстiк Қазақстан облыстық бюджеті
 
-> *Ескерту. 1-қосымша жаңа редакцияда – Солтүстік Қазақстан облысы мәслихатының 15.02.2024 № 11-1 (01.01.2024 бастап қолданысқа енгізіледі); 29.03.2024 № 12/3 (01.01.2024 бастап қолданысқа енгізіледі); 23.04.2024 № 13/1 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. 1-қосымша жаңа редакцияда – Солтүстік Қазақстан облысы мәслихатының 15.02.2024 № 11-1 (01.01.2024 бастап қолданысқа енгізіледі); 29.03.2024 № 12/3 (01.01.2024 бастап қолданысқа енгізіледі); 23.04.2024 № 13/1 (01.01.2024 бастап қолданысқа енгізіледі); 31.05.2024 № 14/1 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
 
 <table>
 <tr>
@@ -268,21 +268,21 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1) Кірістер</td>
-<td colspan="3">445 917 822,7</td>
+<td colspan="3">448 887 888,2</td>
 </tr>
 <tr>
 <td colspan="2">1</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық түсімдер</td>
-<td colspan="3">64 717 055,8</td>
+<td colspan="3">67 004 093,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>01</td>
 <td colspan="2"></td>
 <td colspan="2">Табыс салығы</td>
-<td colspan="3">47 928 485,1</td>
+<td colspan="3">49 426 992,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -296,21 +296,21 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">2</td>
 <td colspan="2">Жеке табыс салығы</td>
-<td colspan="3">36 836 163,1</td>
+<td colspan="3">38 334 670,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>03</td>
 <td colspan="2"></td>
 <td colspan="2">Әлеуметтік салық</td>
-<td colspan="3">13 822 929,7</td>
+<td colspan="3">14 611 459,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="2">Әлеуметтік салық</td>
-<td colspan="3">13 822 929,7</td>
+<td colspan="3">14 611 459,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -338,14 +338,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық емес түсiмдер</td>
-<td colspan="3">3 030 205</td>
+<td colspan="3">3 687 175,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>01</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттік меншіктен түсетін кірістер</td>
-<td colspan="3">382 955</td>
+<td colspan="3">1 037 200,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -353,6 +353,13 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td colspan="2">1</td>
 <td colspan="2">Мемлекеттік кәсіпорындардың таза кірісі бөлігінің түсімдері</td>
 <td colspan="3">48 957</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">3</td>
+<td colspan="2">Мемлекет меншігіндегі акциялардың мемлекеттік пакеттеріне дивидендтер</td>
+<td colspan="3">648 838</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -366,7 +373,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">7</td>
 <td colspan="2">Мемлекеттік бюджеттен берілген кредиттер бойынша сыйақылар</td>
-<td colspan="3">212 278</td>
+<td colspan="3">217 685,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -415,35 +422,35 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td>06</td>
 <td colspan="2"></td>
 <td colspan="2">Басқа да салықтық емес түсiмдер</td>
-<td colspan="3">1 103 910,2</td>
+<td colspan="3">1 106 635,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="2">Басқа да салықтық емес түсiмдер</td>
-<td colspan="3">1 103 910,2</td>
+<td colspan="3">1 106 635,2</td>
 </tr>
 <tr>
 <td colspan="2">3</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Негізгі капиталды сатудан түсетін түсімдер</td>
-<td colspan="3">13 028</td>
+<td colspan="3">39 085</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>01</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
-<td colspan="3">13 028</td>
+<td colspan="3">39 085</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="2">Мемлекеттік мекемелерге бекітілген мемлекеттік мүлікті сату</td>
-<td colspan="3">13 028</td>
+<td colspan="3">39 085</td>
 </tr>
 <tr>
 <td colspan="2">4</td>
@@ -509,14 +516,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2) Шығындар</td>
-<td colspan="3">448 945 319,2</td>
+<td colspan="3">456 454 221,8</td>
 </tr>
 <tr>
 <td colspan="2">01</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк көрсетілетін қызметтер</td>
-<td colspan="3">7 334 130,8</td>
+<td colspan="3">7 461 371</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -530,7 +537,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Облыс мәслихатының қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="3">120 646</td>
+<td colspan="3">117 248,6</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">003</td>
+<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="3">3 397,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -544,14 +558,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td>120</td>
 <td colspan="2"></td>
 <td colspan="2">Облыс әкімінің аппараты</td>
-<td colspan="3">3 857 863,3</td>
+<td colspan="3">4 011 191,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Облыс әкімінің қызметін қамтамасыз ету жөніндегі қызметтер</td>
-<td colspan="3">2 294 028,2</td>
+<td colspan="3">2 373 689,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -565,7 +579,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">007</td>
 <td colspan="2">Ведомстволық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
-<td colspan="3">978 085,1</td>
+<td colspan="3">1 027 654,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -579,21 +593,21 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">113</td>
 <td colspan="2">Төменгі тұрған бюджеттерге берілетін нысаналы ағымдағы трансферттер</td>
-<td colspan="3">66 978</td>
+<td colspan="3">91 076</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>257</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың қаржы басқармасы</td>
-<td colspan="3">479 410</td>
+<td colspan="3">495 010</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Жергілікті бюджетті атқару, коммуналдық меншікті басқару және бюджеттік жоспарлау саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="3">437 190</td>
+<td colspan="3">452 790</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -684,14 +698,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td>288</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың құрылыс, сәулет және қала құрылысы басқармасы</td>
-<td colspan="3">1 856 055</td>
+<td colspan="3">1 812 939,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">061</td>
 <td colspan="2">Мемлекеттік органдардың объектілерін дамыту</td>
-<td colspan="3">1 856 055</td>
+<td colspan="3">1 812 939,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -712,14 +726,21 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td>727</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың экономика басқармасы</td>
-<td colspan="3">204 501</td>
+<td colspan="3">205 928,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Экономикалық саясатты қалыптастыру мен дамыту саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="3">197 081</td>
+<td colspan="3">197 684</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">004</td>
+<td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
+<td colspan="3">824,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -796,21 +817,21 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Қоғамдық тәртіп, қауіпсіздік, құқықтық, сот, қылмыстық-атқару қызметі</td>
-<td colspan="3">12 027 145,4</td>
+<td colspan="3">12 114 534,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>252</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстық бюджеттен қаржыландырылатын атқарушы ішкі істер органы</td>
-<td colspan="3">12 027 145,4</td>
+<td colspan="3">12 114 534,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Облыс аумағында қоғамдық тәртіпті және қауіпсіздікті сақтауды қамтамасыз ету саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="3">11 302 673,4</td>
+<td colspan="3">11 314 595,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -824,14 +845,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">006</td>
 <td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="3">718 277</td>
+<td colspan="3">793 744</td>
 </tr>
 <tr>
 <td colspan="2">04</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Бiлiм беру</td>
-<td colspan="3">169 926 218,2</td>
+<td colspan="3">170 537 776,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -880,7 +901,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td>261</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың білім басқармасы</td>
-<td colspan="3">150 897 471,1</td>
+<td colspan="3">151 389 973,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -894,7 +915,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">003</td>
 <td colspan="2">Арнайы білім беретін оқу бағдарламалары бойынша жалпы білім беру</td>
-<td colspan="3">4 135 837</td>
+<td colspan="3">4 073 975</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -950,7 +971,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">024</td>
 <td colspan="2">Техникалық және кәсіптік білім беру ұйымдарында мамандар даярлау</td>
-<td colspan="3">10 348 713</td>
+<td colspan="3">10 355 169</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -964,42 +985,42 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">052</td>
 <td colspan="2">Нәтижелі жұмыспен қамтуды және жаппай кәсіпкерлікті дамытудың 2017–2021 жылдарға арналған «Еңбек» мемлекеттік бағдарламасы шеңберінде кадрлардың біліктілігін арттыру, даярлау және қайта даярлау</td>
-<td colspan="3">218 667</td>
+<td colspan="3">212 211</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">055</td>
 <td colspan="2">Балалар мен жасөспірімдерге қосымша білім беру</td>
-<td colspan="3">3 705 909,3</td>
+<td colspan="3">3 923 415,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">057</td>
 <td colspan="2">Жоғары, жоғары оқу орнынан кейінгі білімі бар мамандар даярлау және білім алушыларға әлеуметтік қолдау көрсету</td>
-<td colspan="3">99 362</td>
+<td colspan="3">103 275</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">067</td>
 <td colspan="2">Ведомстволық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
-<td colspan="3">7 363 094,3</td>
+<td colspan="3">7 244 159,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">081</td>
 <td colspan="2">Мектепке дейінгі тәрбиелеу және оқыту</td>
-<td colspan="3">6 081 063</td>
+<td colspan="3">6 931 063</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">082</td>
 <td colspan="2">Мемлекеттік бастауыш, негізгі және жалпы орта білім беру ұйымдарында жалпы білім беру</td>
-<td colspan="3">83 415 731,1</td>
+<td colspan="3">82 861 524,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1027,7 +1048,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">202</td>
 <td colspan="2">Мектепке дейінгі білім беру ұйымдарында мемлекеттік білім беру тапсырысын іске асыру</td>
-<td colspan="3">11 099 569</td>
+<td colspan="3">11 255 656</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1041,14 +1062,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td>285</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың дене шынықтыру және спорт басқармасы</td>
-<td colspan="3">6 219 856,4</td>
+<td colspan="3">6 260 950,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">006</td>
 <td colspan="2">Балалар мен жасөспірімдерге спорт бойынша қосымша білім беру</td>
-<td colspan="3">5 156 641,4</td>
+<td colspan="3">5 197 735,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1062,7 +1083,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td>288</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың құрылыс, сәулет және қала құрылысы басқармасы</td>
-<td colspan="3">12 230 922,7</td>
+<td colspan="3">12 308 885</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1076,7 +1097,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">012</td>
 <td colspan="2">Бастауыш, негізгі орта және жалпы орта білім беру объектілерін салу және реконструкциялау</td>
-<td colspan="3">1 381 675,2</td>
+<td colspan="3">1 460 703,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1097,21 +1118,21 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">205</td>
 <td colspan="2">«Жайлы мектеп» пилоттық ұлттық жобасы шеңберінде бастауыш, негізгі орта және жалпы орта білім беру объектілерін салу</td>
-<td colspan="3">7 843 395,2</td>
+<td colspan="3">7 842 328,8</td>
 </tr>
 <tr>
 <td colspan="2">05</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Денсаулық сақтау</td>
-<td colspan="3">11 830 005,9</td>
+<td colspan="3">12 082 694,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>253</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың денсаулық сақтау басқармасы</td>
-<td colspan="3">9 795 129,2</td>
+<td colspan="3">9 994 144,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1167,7 +1188,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">027</td>
 <td colspan="2">Халыққа иммундық профилактика жүргізу үшін вакциналарды және басқа медициналық иммундық биологиялық препараттарды орталықтандырылған сатып алу және сақтау</td>
-<td colspan="3">775 805</td>
+<td colspan="3">781 549,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1181,7 +1202,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">033</td>
 <td colspan="2">Медициналық денсаулық сақтау ұйымдарының күрделі шығыстары</td>
-<td colspan="3">6 567 361,2</td>
+<td colspan="3">6 622 549,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1195,7 +1216,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">041</td>
 <td colspan="2">Облыстардың жергілікті өкілдік органдарының шешімі бойынша тегін медициналық көмектің кепілдік берілген көлемімен қосымша қамтамасыз ету</td>
-<td colspan="3">454 577</td>
+<td colspan="3">592 660,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1209,28 +1230,28 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td>288</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың құрылыс, сәулет және қала құрылысы басқармасы</td>
-<td colspan="3">2 034 876,7</td>
+<td colspan="3">2 088 550,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">038</td>
 <td colspan="2">Деңсаулық сақтау объектілерін салу және реконструкциялау</td>
-<td colspan="3">2 034 876,7</td>
+<td colspan="3">2 088 550,1</td>
 </tr>
 <tr>
 <td colspan="2">06</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td colspan="3">19 938 099,1</td>
+<td colspan="3">19 641 831,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>256</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың жұмыспен қамтуды үйлестіру және әлеуметтік бағдарламалар басқармасы</td>
-<td colspan="3">17 812 861,1</td>
+<td colspan="3">17 516 593,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1314,7 +1335,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">061</td>
 <td colspan="2">Жұмыс күшінің ұтқырлығын арттыру үшін адамдардың ерікті түрде қоныс аударуына жәрдемдесу</td>
-<td colspan="3">3 363 088,7</td>
+<td colspan="3">3 066 821</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1433,14 +1454,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="3">27 695 896,1</td>
+<td colspan="3">29 435 601,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>279</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың энергетика және тұрғын үй-коммуналдық шаруашылық басқармасы</td>
-<td colspan="3">27 695 896,1</td>
+<td colspan="3">29 435 601,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1482,28 +1503,28 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">113</td>
 <td colspan="2">Төменгі тұрған бюджеттерге берілетін нысаналы ағымдағы трансферттер</td>
-<td colspan="3">8 655 074,6</td>
+<td colspan="3">10 308 383,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">114</td>
 <td colspan="2">Төменгі тұрған бюджеттерге берілетін нысаналы даму трансферттері</td>
-<td colspan="3">15 253 526,5</td>
+<td colspan="3">15 339 922,5</td>
 </tr>
 <tr>
 <td colspan="2">08</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td colspan="3">22 002 151,8</td>
+<td colspan="3">22 122 264,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>263</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың ішкі саясат басқармасы</td>
-<td colspan="3">1 151 862</td>
+<td colspan="3">1 215 862</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1524,7 +1545,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">007</td>
 <td colspan="2">Мемлекеттік ақпараттық саясат жүргізу жөніндегі қызметтер</td>
-<td colspan="3">837 171</td>
+<td colspan="3">901 171</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1566,7 +1587,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td>285</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың дене шынықтыру және спорт басқармасы</td>
-<td colspan="3">6 434 488,9</td>
+<td colspan="3">6 470 251,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1594,28 +1615,28 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">032</td>
 <td colspan="2">Ведомстволық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
-<td colspan="3">425 142,9</td>
+<td colspan="3">468 967,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">113</td>
 <td colspan="2">Төменгі тұрған бюджеттерге берілетін нысаналы ағымдағы трансферттер</td>
-<td colspan="3">745 692</td>
+<td colspan="3">737 630</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>288</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың құрылыс, сәулет және қала құрылысы басқармасы</td>
-<td colspan="3">5 271 273</td>
+<td colspan="3">5 261 768,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">024</td>
 <td colspan="2">Cпорт объектілерін дамыту</td>
-<td colspan="3">5 271 273</td>
+<td colspan="3">5 261 768,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1643,7 +1664,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td>748</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың мәдениет, тілдерді дамыту және архив ісі басқармасы</td>
-<td colspan="3">8 784 983</td>
+<td colspan="3">8 814 837,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1664,14 +1685,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">005</td>
 <td colspan="2">Мәдени-демалыс жұмысын қолдау</td>
-<td colspan="3">1 270 790</td>
+<td colspan="3">1 281 790</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">007</td>
 <td colspan="2">Тарихи-мәдени мұраны сақтауды және оған қолжетімділікті қамтамасыз ету</td>
-<td colspan="3">731 634</td>
+<td colspan="3">744 215</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1699,14 +1720,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">032</td>
 <td colspan="2">Ведомстволық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
-<td colspan="3">1 347 104</td>
+<td colspan="3">1 337 603</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">113</td>
 <td colspan="2">Төменгі тұрған бюджеттерге берілетін нысаналы ағымдағы трансферттер</td>
-<td colspan="3">1 727 807</td>
+<td colspan="3">1 743 581,2</td>
 </tr>
 <tr>
 <td colspan="2">09</td>
@@ -1734,14 +1755,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td colspan="3">71 626 383,8</td>
+<td colspan="3">70 531 861,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>254</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың табиғи ресурстар және табиғат пайдалануды реттеу басқармасы</td>
-<td colspan="3">5 718 384,1</td>
+<td colspan="3">4 623 862,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1762,7 +1783,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">005</td>
 <td colspan="2">Ормандарды сақтау, қорғау, молайту және орман өсiру</td>
-<td colspan="3">4 933 705</td>
+<td colspan="3">3 824 002</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1797,7 +1818,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">032</td>
 <td colspan="2">Ведомстволық бағыныстағы мемлекеттік мекемелер мен ұйымдардың күрделі шығыстары</td>
-<td colspan="3">422 910</td>
+<td colspan="3">438 091</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1832,14 +1853,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Жергілікті деңгейде ветеринария саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="3">206 625</td>
+<td colspan="3">220 625</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">003</td>
 <td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="3">573 000</td>
+<td colspan="3">576 000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1881,7 +1902,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">030</td>
 <td colspan="2">Жануарлардың энзоотиялық ауруларының профилактикасы мен диагностикасына арналған ветеринариялық препараттарды, олардың профилактикасы мен диагностикасы жөніндегі қызметтерді орталықтандырып сатып алу, оларды сақтауды және аудандардың (облыстық маңызы бар қалалардың) жергілікті атқарушы органдарына тасымалдауды (жеткізуді) ұйымдастыру</td>
-<td colspan="3">49 205</td>
+<td colspan="3">35 205</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -1916,7 +1937,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">040</td>
 <td colspan="2">Мемлекеттік ветеринариялық ұйымдарды материалдық-техникалық жабдықтау үшін, қызметкелердің жеке қорғану заттарын, аспаптарды, құралдарды, техниканы, жабдықтарды және инвентарды орталықтандырып сатып алу</td>
-<td colspan="3">331 920</td>
+<td colspan="3">328 920</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2028,21 +2049,21 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Өнеркәсіп, сәулет, қала құрылысы және құрылыс қызметі</td>
-<td colspan="3">15 326 601,9</td>
+<td colspan="3">16 066 340,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>288</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың құрылыс, сәулет және қала құрылысы басқармасы</td>
-<td colspan="3">15 201 512,9</td>
+<td colspan="3">15 935 071,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Жергілікті деңгейде құрылыс, сәулет және қала құрылысы саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="3">239 051</td>
+<td colspan="3">505 851,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2056,49 +2077,49 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">113</td>
 <td colspan="2">Төменгі тұрған бюджеттерге берілетін нысаналы ағымдағы трансферттер</td>
-<td colspan="3">4 057 611,5</td>
+<td colspan="3">4 207 349,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">114</td>
 <td colspan="2">Төменгі тұрған бюджеттерге берілетін нысаналы даму трансферттері</td>
-<td colspan="3">10 871 270,4</td>
+<td colspan="3">11 188 290,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>728</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың мемлекеттік сәулет-құрылыс бақылау және лицензиялау басқармасы</td>
-<td colspan="3">125 089</td>
+<td colspan="3">131 268,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">001</td>
 <td colspan="2">Жергілікті деңгейде сәулет-құрылыс бақылау және лицензиялау саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="3">95 705</td>
+<td colspan="3">99 701</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">003</td>
 <td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="3">29 384</td>
+<td colspan="3">31 567,8</td>
 </tr>
 <tr>
 <td colspan="2">12</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Көлiк және коммуникация</td>
-<td colspan="3">45 390 777,7</td>
+<td colspan="3">48 211 135,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>268</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың жолаушылар көлігі және автомобиль жолдары басқармасы</td>
-<td colspan="3">45 390 777,7</td>
+<td colspan="3">48 211 135,3</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2133,14 +2154,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">011</td>
 <td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="3">20 148</td>
+<td colspan="3">27 148</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">025</td>
 <td colspan="2">Облыстық автомобиль жолдарын жәнеелді-мекендердің көшелерін күрделі және орташа жөндеу</td>
-<td colspan="3">9 528 463,7</td>
+<td colspan="3">9 183 038,8</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2154,21 +2175,21 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">113</td>
 <td colspan="2">Төменгі тұрған бюджеттерге берілетін нысаналы ағымдағы трансферттер</td>
-<td colspan="3">29 707 722,5</td>
+<td colspan="3">32 616 505</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">114</td>
 <td colspan="2">Төменгі тұрған бюджеттерге берілетін нысаналы даму трансферттері</td>
-<td colspan="3">2 386 587,1</td>
+<td colspan="3">2 636 587,1</td>
 </tr>
 <tr>
 <td colspan="2">13</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Басқалар</td>
-<td colspan="3">24 126 274,6</td>
+<td colspan="3">26 526 274,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2189,14 +2210,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td>257</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың қаржы басқармасы</td>
-<td colspan="3">12 225 528,2</td>
+<td colspan="3">14 525 528,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">012</td>
 <td colspan="2">Облыстық жергілікті атқарушы органының резервi</td>
-<td colspan="3">12 225 528,2</td>
+<td colspan="3">14 525 528,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2301,14 +2322,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td>288</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың құрылыс, сәулет және қала құрылысы басқармасы</td>
-<td colspan="3">5 432 889,6</td>
+<td colspan="3">5 532 889,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">040</td>
 <td colspan="2">Арнайы экономикалық аймақтардың, индустриялық аймақтардың, индустриялық парктердің инфрақұрылымын дамыту</td>
-<td colspan="3">2 802 649,1</td>
+<td colspan="3">2 902 649,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2364,14 +2385,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Трансферттер</td>
-<td colspan="3">18 531 332,9</td>
+<td colspan="3">18 532 234,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>257</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың қаржы басқармасы</td>
-<td colspan="3">18 531 332,9</td>
+<td colspan="3">18 532 234,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2385,7 +2406,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">011</td>
 <td colspan="2">Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
-<td colspan="3">137 989,2</td>
+<td colspan="3">138 891,2</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2406,14 +2427,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3) Таза бюджеттік кредиттеу</td>
-<td colspan="3">10 381 832,6</td>
+<td colspan="3">8 722 907,5</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджеттік кредиттер</td>
-<td colspan="3">24 259 572,7</td>
+<td colspan="3">22 630 582,1</td>
 </tr>
 <tr>
 <td colspan="2">06</td>
@@ -2441,7 +2462,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="3">13 525 898,7</td>
+<td colspan="3">13 896 908,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2462,21 +2483,28 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td>288</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың құрылыс, сәулет және қала құрылысы басқармасы</td>
-<td colspan="3">13 432 085,7</td>
+<td colspan="3">13 803 095,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">009</td>
 <td colspan="2">Аудандардың (облыстық маңызы бар қалалардың) бюджеттеріне тұрғын үй жобалауға және салуға кредит беру</td>
-<td colspan="3">13 432 085,7</td>
+<td colspan="3">9 911 766,1</td>
+</tr>
+<tr>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2">064</td>
+<td colspan="2">Аудандық (облыстық маңызы бар қалалардың) бюджеттеріне тұрғын үй сатып алуға кредит беру</td>
+<td colspan="3">3 891 329</td>
 </tr>
 <tr>
 <td colspan="2">10</td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td colspan="3">10 053 674</td>
+<td colspan="3">8 053 674</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2497,7 +2525,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td>741</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың ауыл шаруашылығы және жер қатынастары басқармасы</td>
-<td colspan="3">8 911 000</td>
+<td colspan="3">6 911 000</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2511,7 +2539,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">092</td>
 <td colspan="2">Агроөнеркәсіптік кешендегі инвестициялық жобаларға кредит беру</td>
-<td colspan="3">8 000 000</td>
+<td colspan="3">6 000 000</td>
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
@@ -2533,21 +2561,21 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Бюджеттік кредиттерді өтеу</td>
-<td colspan="3">13 877 740,1</td>
+<td colspan="3">13 907 674,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>01</td>
 <td colspan="2"></td>
 <td colspan="2">Бюджеттік кредиттерді өтеу</td>
-<td colspan="3">13 877 740,1</td>
+<td colspan="3">13 907 674,6</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">1</td>
 <td colspan="2">Мемлекеттік бюджеттен берілген бюджеттіқ кредиттерді өтеу</td>
-<td colspan="3">13 822 510,9</td>
+<td colspan="3">13 852 445,4</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2575,35 +2603,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4) Қаржы активтерімен операциялар бойынша сальдо</td>
-<td colspan="3">148 560</td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Қаржы активтерін сатып алу</td>
-<td colspan="3">148 560</td>
-</tr>
-<tr>
-<td colspan="2">13</td>
-<td></td>
-<td colspan="2"></td>
-<td colspan="2">Басқалар</td>
-<td colspan="3">148 560</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td>279</td>
-<td colspan="2"></td>
-<td colspan="2">Облыстың энергетика және тұрғын үй-коммуналдық шаруашылық басқармасы</td>
-<td colspan="3">148 560</td>
-</tr>
-<tr>
-<td colspan="2"></td>
-<td></td>
-<td colspan="2">065</td>
-<td colspan="2">Заңды тұлғалардың жарғылық капиталын қалыптастыру немесе ұлғайту</td>
-<td colspan="3">148 560</td>
+<td colspan="3"></td>
 </tr>
 <tr>
 <td colspan="5">Санаты</td>
@@ -2626,14 +2633,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">5) Бюджет тапшылығы (профицитi)</td>
-<td colspan="3">-13 557 889,1</td>
+<td colspan="3">-16 289 241,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">6) Бюджет тапшылығын қаржыландыру</td>
-<td colspan="3">13 557 889,1</td>
+<td colspan="3">16 289 241,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2647,14 +2654,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Қарыздар түсімдері</td>
-<td colspan="3">18 510 757</td>
+<td colspan="3">16 510 757</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>01</td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттік ішкі қарыздар</td>
-<td colspan="3">18 510 757</td>
+<td colspan="3">16 510 757</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -2668,7 +2675,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2">2</td>
 <td colspan="2">Қарыз алу келісім-шарттары</td>
-<td colspan="3">10 733 674</td>
+<td colspan="3">8 733 674</td>
 </tr>
 <tr>
 <td colspan="5">Функционалдық топ</td>
@@ -2689,28 +2696,28 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">Қарыздарды өтеу</td>
-<td colspan="3">25 501 387,9</td>
+<td colspan="3">20 770 035,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td>257</td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың қаржы басқармасы</td>
-<td colspan="3">25 501 387,9</td>
+<td colspan="3">20 770 035,9</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">008</td>
 <td colspan="2">Жергілікті атқарушы органның борышын өтеу</td>
-<td colspan="3">22 229 167,3</td>
+<td colspan="3">17 467 882,7</td>
 </tr>
 <tr>
 <td colspan="2"></td>
 <td></td>
 <td colspan="2">015</td>
 <td colspan="2">Жергілікті атқарушы органның жоғары тұрған бюджет алдындағы борышын өтеу</td>
-<td colspan="3">3 216 991,5</td>
+<td colspan="3">3 246 924,1</td>
 </tr>
 <tr>
 <td colspan="2"></td>
@@ -6465,13 +6472,14 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 > *Солтүстік Қазақстан*  
 > *облыстық мәслихатының*  
 > *2023 жылғы 15 желтоқсандағы*  
-> *№ 9/1 шешіміне 5-қосымша*
+> *№ 9/1 шешіміне*  
+> *5-қосымша*
 
 ## 2024 жылғы 1 қаңтарға қалыптасқан бюджет қаражатының бос қалдықтары мен облыстық бюджеттен және республикалық бюджеттен берілген 2023 жылы пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару есебінен 2024 жылға арналған облыстық бюджеттің шығысы
 
-> *Ескерту. Шешім 5-қосымшамен толықтырылды – Солтүстік Қазақстан облысы мәслихатының 15.02.2024 № 11-1 (01.01.2024 бастап қолданысқа енгізіледі); жаңа редакцияда - Солтүстік Қазақстан облысы мәслихатының 29.03.2024 № 12/3 (01.01.2024 бастап қолданысқа енгізіледі); 23.04.2024 № 13/1 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
+> *Ескерту. Шешім 5-қосымшамен толықтырылды – Солтүстік Қазақстан облысы мәслихатының 15.02.2024 № 11-1 (01.01.2024 бастап қолданысқа енгізіледі); жаңа редакцияда - Солтүстік Қазақстан облысы мәслихатының 29.03.2024 № 12/3 (01.01.2024 бастап қолданысқа енгізіледі); 23.04.2024 № 13/1 (01.01.2024 бастап қолданысқа енгізіледі); 31.05.2024 № 14/1 (01.01.2024 бастап қолданысқа енгізіледі) шешімдерімен.*
 
-Кірістер:
+## Кірістер:
 
 <table>
 <tr>
@@ -6504,7 +6512,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Салықтық емес түсiмдер</td>
-<td colspan="3">1 600,2</td>
+<td colspan="3">2 502,2</td>
 </tr>
 <tr>
 <td></td>
@@ -6512,7 +6520,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Басқа да салықтық емес түсiмдер</td>
-<td colspan="3">1 600,2</td>
+<td colspan="3">2 502,2</td>
 </tr>
 <tr>
 <td></td>
@@ -6520,7 +6528,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td colspan="2">1</td>
 <td colspan="2"></td>
 <td colspan="2">Басқа да салықтық емес түсiмдер</td>
-<td colspan="3">1 600,2</td>
+<td colspan="3">2 502,2</td>
 </tr>
 <tr>
 <td></td>
@@ -6536,7 +6544,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td colspan="2"></td>
 <td colspan="2">09</td>
 <td colspan="2">Білім беру инфрақұрылымын қолдау қорынан түсетін түсімдерді қоспағанда, жергіліктік бюджетке түсетін салықтық емес басқа да түсімдер</td>
-<td colspan="3">7</td>
+<td colspan="3">909</td>
 </tr>
 <tr>
 <td>4</td>
@@ -6989,15 +6997,31 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <tr>
 <td colspan="6">Барлығы:</td>
 <td colspan="2"></td>
-<td colspan="3">20 624 919,3</td>
+<td colspan="3">20 625 821,3</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="3"></td>
 </tr>
 </table>
 
-Шығыстар:
+## Шығыстар:
 
-1. Жергілікті бюджет қаражаты есебінен
+### 1. Жергілікті бюджет қаражаты есебінен
 
 <table>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+</tr>
 <tr>
 <td>Функционалдық топ</td>
 <td colspan="2">Бюджеттік бағдарламалардың әкімшісі</td>
@@ -7348,7 +7372,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Облыстың қаржы басқармасы</td>
-<td colspan="2">354 756,9</td>
+<td colspan="2">355 658,9</td>
 </tr>
 <tr>
 <td></td>
@@ -7356,7 +7380,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td colspan="2">011</td>
 <td colspan="2"></td>
 <td colspan="2">Пайдаланылмаған (толық пайдаланылмаған) нысаналы трансферттерді қайтару</td>
-<td colspan="2">137 989,2</td>
+<td colspan="2">138 891,2</td>
 </tr>
 <tr>
 <td></td>
@@ -7364,7 +7388,7 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <td colspan="2"></td>
 <td colspan="2">015</td>
 <td colspan="2">Жергілікті бюджет қаражаты есебінен</td>
-<td colspan="2">137 989,2</td>
+<td colspan="2">138 891,2</td>
 </tr>
 <tr>
 <td></td>
@@ -7409,11 +7433,19 @@ source: https://zan.gov.kz/client/#!/doc/190652/kaz/23.04.2024
 <tr>
 <td colspan="7">Барлығы:</td>
 <td colspan="2"></td>
-<td colspan="2">18 994 636,9</td>
+<td colspan="2">18 995 538,9</td>
+</tr>
+<tr>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
+<td colspan="2"></td>
 </tr>
 </table>
 
-2. Ішкі қарыздар есебінен
+### 2. Ішкі қарыздар есебінен
 
 <table>
 <tr>
