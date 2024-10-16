@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
+source: https://zan.gov.kz/client/#!/doc/192347/rus/16.10.2024
 ---
 
 # Об утверждении бюджета Киялинского сельского округа Аккайынского района на 2024 - 2026 годы
@@ -10,7 +10,7 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 
 1. Утвердить бюджет Киялинского сельского округа Аккайынского района на 2024-2026 годы согласно приложениям 1, 2 и 3 к настоящему решению соответственно, в том числе на 2024 год в следующих объемах:
 
-   1) доходы – 230599,4 тысяч тенге:
+   1) доходы – 222076,6 тысяч тенге:
 
       налоговые поступления – 15221 тысяч тенге;
 
@@ -18,9 +18,9 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 
       поступления от продажи основного капитала - 0 тысяч тенге;
 
-      поступления трансфертов – 215378,4 тысяч тенге;
+      поступления трансфертов – 206855,6 тысяч тенге;
 
-   2) затраты – 232523,7 тысяч тенге;
+   2) затраты – 224000,9 тысяч тенге;
 
    3) чистое бюджетное кредитование - 0 тысяч тенге:
 
@@ -46,7 +46,7 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 
       используемые остатки бюджетных средств – 1924,3 тысяч тенге.
 
-> *Сноска. Пункт 1 в редакции решения маслихата Аккайынского района Северо-Казахстанской области от 10.06.2024 № 17-25 (вводится в действие с 01.01.2024).*
+> *Сноска. Пункт 1 в редакции решений маслихата Аккайынского района Северо-Казахстанской области от 10.06.2024 № 17-25 (вводится в действие с 01.01.2024); от 16.10.2024 № 20-18 (вводится в действие с 01.01.2024).*
 
 2. Установить, что доходы бюджета сельского округа на 2024 год формируются в соответствии с Бюджетным кодексом Республики Казахстан за счет следующих налоговых поступлений:
 
@@ -120,7 +120,7 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 
 ## Бюджет Киялинского сельского округа Аккайынского района на 2024 год
 
-> *Сноска. Приложение 1 в редакции решения маслихата Аккайынского района Северо-Казахстанской области от 10.06.2024 № 17-25 (вводится в действие с 01.01.2024).*
+> *Сноска. Приложение 1 в редакции решений маслихата Аккайынского района Северо-Казахстанской области от 10.06.2024 № 17-25 (вводится в действие с 01.01.2024); от 16.10.2024 № 20-18 (вводится в действие с 01.01.2024).*
 
 <table>
 <tr>
@@ -138,7 +138,7 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">1) Доходы</td>
-<td colspan="2">230599,4</td>
+<td colspan="2">222076,6</td>
 </tr>
 <tr>
 <td>1</td>
@@ -152,63 +152,63 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 <td colspan="2">01</td>
 <td colspan="2"></td>
 <td colspan="4">Подоходный налог</td>
-<td colspan="2">3073</td>
+<td colspan="2">6641,6</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">2</td>
 <td colspan="4">Индивидуальный подоходный налог</td>
-<td colspan="2">3073</td>
+<td colspan="2">6641,6</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">04</td>
 <td colspan="2"></td>
 <td colspan="4">Налоги на собственность</td>
-<td colspan="2">12106</td>
+<td colspan="2">8547,5</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">1</td>
 <td colspan="4">Налоги на имущество</td>
-<td colspan="2">277</td>
+<td colspan="2">176,2</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="4">Земельный налог</td>
-<td colspan="2">518</td>
+<td colspan="2">405,9</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">4</td>
 <td colspan="4">Налог на транспортные средства</td>
-<td colspan="2">6811</td>
+<td colspan="2">6795,3</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">5</td>
 <td colspan="4">Единый земельный налог</td>
-<td colspan="2">4500</td>
+<td colspan="2">1170,1</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">05</td>
 <td colspan="2"></td>
 <td colspan="4">Внутренние налоги на товары, работы и услуги</td>
-<td colspan="2">42</td>
+<td colspan="2">31,9</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="4">Поступления за использование природных и других ресурсов</td>
-<td colspan="2">42</td>
+<td colspan="2">31,9</td>
 </tr>
 <tr>
 <td>2</td>
@@ -229,21 +229,21 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="4">Поступления трансфертов</td>
-<td colspan="2">215378,4</td>
+<td colspan="2">206855,6</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2">02</td>
 <td colspan="2"></td>
 <td colspan="4">Трансферты из вышестоящих органов государственного управления</td>
-<td colspan="2">215378,4</td>
+<td colspan="2">206855,6</td>
 </tr>
 <tr>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">3</td>
 <td colspan="4">Трансферты из районного (города областного значения) бюджета</td>
-<td colspan="2">215378,4</td>
+<td colspan="2">206855,6</td>
 </tr>
 <tr>
 <td>Функциональная группа</td>
@@ -262,7 +262,7 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">2) Затраты</td>
-<td colspan="2">232523,7</td>
+<td colspan="2">224000,9</td>
 </tr>
 <tr>
 <td>01</td>
@@ -270,7 +270,7 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">Государственные услуги общего характера</td>
-<td colspan="2">35556,4</td>
+<td colspan="2">35869,7</td>
 </tr>
 <tr>
 <td></td>
@@ -278,7 +278,7 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">Представительные, исполнительные и другие органы, выполняющие общие функции государственного управления</td>
-<td colspan="2">35556,4</td>
+<td colspan="2">35869,7</td>
 </tr>
 <tr>
 <td></td>
@@ -286,7 +286,7 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="4">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">35556,4</td>
+<td colspan="2">35869,7</td>
 </tr>
 <tr>
 <td></td>
@@ -294,7 +294,7 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 <td></td>
 <td colspan="2">001</td>
 <td colspan="4">Услуги по обеспечению деятельности акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">34646,4</td>
+<td colspan="2">35151,9</td>
 </tr>
 <tr>
 <td></td>
@@ -302,7 +302,7 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 <td></td>
 <td colspan="2">022</td>
 <td colspan="4">Капитальные расходы государственного органа</td>
-<td colspan="2">910</td>
+<td colspan="2">717,8</td>
 </tr>
 <tr>
 <td>07</td>
@@ -310,7 +310,7 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">Жилищно-коммунальное хозяйство</td>
-<td colspan="2">26698</td>
+<td colspan="2">18169,9</td>
 </tr>
 <tr>
 <td></td>
@@ -342,7 +342,7 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">Благоустройство населенных пунктов</td>
-<td colspan="2">26171</td>
+<td colspan="2">17642,9</td>
 </tr>
 <tr>
 <td></td>
@@ -350,7 +350,7 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="4">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">26171</td>
+<td colspan="2">17642,9</td>
 </tr>
 <tr>
 <td></td>
@@ -358,7 +358,7 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 <td></td>
 <td colspan="2">008</td>
 <td colspan="4">Освещение улиц в населенных пунктах</td>
-<td colspan="2">15576</td>
+<td colspan="2">7913,2</td>
 </tr>
 <tr>
 <td></td>
@@ -382,7 +382,7 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 <td></td>
 <td colspan="2">011</td>
 <td colspan="4">Благоустройство и озеленение населенных пунктов</td>
-<td colspan="2">9490</td>
+<td colspan="2">8624,7</td>
 </tr>
 <tr>
 <td>08</td>
@@ -390,7 +390,7 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">Культура, спорт, туризм и информационное пространство</td>
-<td colspan="2">19121</td>
+<td colspan="2">18813</td>
 </tr>
 <tr>
 <td></td>
@@ -398,7 +398,7 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 <td></td>
 <td colspan="2"></td>
 <td colspan="4">Деятельность в области культуры</td>
-<td colspan="2">19121</td>
+<td colspan="2">18813</td>
 </tr>
 <tr>
 <td></td>
@@ -406,7 +406,7 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 <td>124</td>
 <td colspan="2"></td>
 <td colspan="4">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td colspan="2">19121</td>
+<td colspan="2">18813</td>
 </tr>
 <tr>
 <td></td>
@@ -414,7 +414,7 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 <td></td>
 <td colspan="2">006</td>
 <td colspan="4">Поддержка культурно-досуговой работы на местном уровне</td>
-<td colspan="2">19121</td>
+<td colspan="2">18813</td>
 </tr>
 <tr>
 <td>12</td>
@@ -642,6 +642,12 @@ source: https://zan.gov.kz/client/#!/doc/192347/rus/10.06.2024
 <td></td>
 <td colspan="3">Свободные остатки бюджетных средств</td>
 <td colspan="2">1924,3</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td></td>
 </tr>
 </table>
 
