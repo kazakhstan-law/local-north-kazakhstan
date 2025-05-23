@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/210058/rus/05.05.2025
+source: https://zan.gov.kz/client/#!/doc/210058/rus/23.05.2025
 ---
 
 # Об утверждении бюджета Аккайынского района на 2025-2027 годы
