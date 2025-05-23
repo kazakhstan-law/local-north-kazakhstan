@@ -1,5 +1,5 @@
 ---
-version_id: '210058_765584'
+version_id: '210058_778496'
 act_code: '210058'
 language: kaz
 title: 2025-2027 жылдарға арналған Аққайың ауданының бюджетін бекіту туралы
@@ -10,9 +10,13 @@ type_codes:
 approved_by:
 - '165005000002'
 approval_date: 2025-05-05
-version_date: 2025-05-05
+version_date: 2025-05-23
 registry_number: '210058'
-source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
+caused_by:
+  code: '210767'
+  title: Солтүстік Қазақстан облысы Аққайың ауданы мәслихатының 2025 жылғы 5 мамырдағы № 26-1 «2025-2027 жылдарға арналған  Аққайың ауданының бюджетін бекіту туралы» шешіміне өзгеріс енгізу туралы
+  link: https://zan.gov.kz/client/#!/doc/210767/kaz
+source: https://zan.gov.kz/client/#!/doc/210058/kaz/23.05.2025
 ---
 
 # 2025-2027 жылдарға арналған Аққайың ауданының бюджетін бекіту туралы
@@ -186,6 +190,8 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 > *1-қосымша*
 
 ## 2025 жылға арналған Аққайың ауданының бюджеті
+
+> *Ескерту. 1-қосымша жаңа редакцияда - Солтүстік Қазақстан облысы Аққайың ауданы мәслихатының 23.05.2025 № 27-8 (01.01.2025 бастап қолданысқа енгізіледі) шешімімен.*
 
 <table>
 <tr>
@@ -430,7 +436,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жалпы сипаттағы мемлекеттiк қызметтер</td>
-<td colspan="2">1307688,4</td>
+<td colspan="2">1289075,7</td>
 </tr>
 <tr>
 <td></td>
@@ -438,7 +444,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мемлекеттiк басқарудың жалпы функцияларын орындайтын өкiлдi, атқарушы және басқа органдар</td>
-<td colspan="2">382666,4</td>
+<td colspan="2">380667,4</td>
 </tr>
 <tr>
 <td></td>
@@ -470,7 +476,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2">122</td>
 <td colspan="2"></td>
 <td colspan="2">Аудан (облыстық маңызы бар қала) әкімінің аппараты</td>
-<td colspan="2">294103,4</td>
+<td colspan="2">292104,4</td>
 </tr>
 <tr>
 <td></td>
@@ -494,7 +500,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2">113</td>
 <td colspan="2">Төменгі тұрған бюджеттерге берілетін нысаналы ағымдағы трансферттер</td>
-<td colspan="2">32762,4</td>
+<td colspan="2">30763,4</td>
 </tr>
 <tr>
 <td></td>
@@ -534,7 +540,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жалпы сипаттағы өзге де мемлекеттiк қызметтер</td>
-<td colspan="2">921822</td>
+<td colspan="2">905208,3</td>
 </tr>
 <tr>
 <td></td>
@@ -542,7 +548,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2">495</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) сәулет, құрылыс, тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td colspan="2">783491,8</td>
+<td colspan="2">767378,1</td>
 </tr>
 <tr>
 <td></td>
@@ -550,7 +556,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="2">Жергілікті деңгейде сәулет, құрылыс, тұрғын үй-коммуналдық шаруашылық, жолаушылар көлігі және автомобиль жолдары саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="2">90567</td>
+<td colspan="2">84922,9</td>
 </tr>
 <tr>
 <td></td>
@@ -558,7 +564,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2">003</td>
 <td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">76770,3</td>
+<td colspan="2">78200,3</td>
 </tr>
 <tr>
 <td></td>
@@ -566,7 +572,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2">113</td>
 <td colspan="2">Төменгі тұрған бюджеттерге берілетін нысаналы ағымдағы трансферттер</td>
-<td colspan="2">616154,9</td>
+<td colspan="2">604254,9</td>
 </tr>
 <tr>
 <td></td>
@@ -590,7 +596,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2">475</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) кәсіпкерлік, ауыл шаруашылығы және ветеринария бөлімі</td>
-<td colspan="2">66794,2</td>
+<td colspan="2">66294,2</td>
 </tr>
 <tr>
 <td></td>
@@ -598,7 +604,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2">001</td>
 <td colspan="2">Жергілікті деңгейде кәсіпкерлікті, ауыл шаруашылығы мен ветеринарияны дамыту саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
-<td colspan="2">66794,2</td>
+<td colspan="2">66294,2</td>
 </tr>
 <tr>
 <td>02</td>
@@ -670,7 +676,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Әлеуметтiк көмек және әлеуметтiк қамсыздандыру</td>
-<td colspan="2">668536</td>
+<td colspan="2">668140</td>
 </tr>
 <tr>
 <td></td>
@@ -774,7 +780,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Әлеуметтiк көмек және әлеуметтiк қамтамасыз ету салаларындағы өзге де қызметтер</td>
-<td colspan="2">57756</td>
+<td colspan="2">57360</td>
 </tr>
 <tr>
 <td></td>
@@ -782,7 +788,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2">451</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) жұмыспен қамту және әлеуметтік бағдарламалар бөлімі</td>
-<td colspan="2">57756</td>
+<td colspan="2">57360</td>
 </tr>
 <tr>
 <td></td>
@@ -798,7 +804,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2">021</td>
 <td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">1404</td>
+<td colspan="2">1008</td>
 </tr>
 <tr>
 <td></td>
@@ -822,7 +828,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй-коммуналдық шаруашылық</td>
-<td colspan="2">1889730,3</td>
+<td colspan="2">1903057,8</td>
 </tr>
 <tr>
 <td></td>
@@ -830,7 +836,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Тұрғын үй шаруашылығы</td>
-<td colspan="2">68199,3</td>
+<td colspan="2">80026,8</td>
 </tr>
 <tr>
 <td></td>
@@ -838,7 +844,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2">495</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) сәулет, құрылыс, тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td colspan="2">68199,3</td>
+<td colspan="2">80026,8</td>
 </tr>
 <tr>
 <td></td>
@@ -846,7 +852,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2">008</td>
 <td colspan="2">Мемлекеттік тұрғын үй қорын сақтауды үйымдастыру</td>
-<td colspan="2">54079,3</td>
+<td colspan="2">65906,8</td>
 </tr>
 <tr>
 <td></td>
@@ -862,7 +868,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Коммуналдық шаруашылық</td>
-<td colspan="2">1821531</td>
+<td colspan="2">1823031</td>
 </tr>
 <tr>
 <td></td>
@@ -870,7 +876,15 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2">495</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) сәулет, құрылыс, тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td colspan="2">1821531</td>
+<td colspan="2">1823031</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">013</td>
+<td colspan="2">Коммуналдық шаруашылықты дамыту</td>
+<td colspan="2">1500</td>
 </tr>
 <tr>
 <td></td>
@@ -910,7 +924,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мәдениет, спорт, туризм және ақпараттық кеңістiк</td>
-<td colspan="2">741468,4</td>
+<td colspan="2">747884,6</td>
 </tr>
 <tr>
 <td></td>
@@ -918,7 +932,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Мәдениет саласындағы қызмет</td>
-<td colspan="2">337600,4</td>
+<td colspan="2">342017,6</td>
 </tr>
 <tr>
 <td></td>
@@ -926,7 +940,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2">478</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) ішкі саясат, мәдениет және тілдерді дамыту бөлімі</td>
-<td colspan="2">135600,4</td>
+<td colspan="2">140410,4</td>
 </tr>
 <tr>
 <td></td>
@@ -934,7 +948,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2">009</td>
 <td colspan="2">Мәдени-демалыс жұмысын қолдау</td>
-<td colspan="2">135600,4</td>
+<td colspan="2">140410,4</td>
 </tr>
 <tr>
 <td></td>
@@ -942,7 +956,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2">495</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) сәулет, құрылыс, тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
-<td colspan="2">202000</td>
+<td colspan="2">201607,2</td>
 </tr>
 <tr>
 <td></td>
@@ -950,7 +964,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2">021</td>
 <td colspan="2">Мәдениет объектілерін дамыту</td>
-<td colspan="2">202000</td>
+<td colspan="2">201607,2</td>
 </tr>
 <tr>
 <td></td>
@@ -998,7 +1012,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Ақпараттық кеңiстiк</td>
-<td colspan="2">158361</td>
+<td colspan="2">160360</td>
 </tr>
 <tr>
 <td></td>
@@ -1006,7 +1020,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2">478</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) ішкі саясат, мәдениет және тілдерді дамыту бөлімі</td>
-<td colspan="2">158361</td>
+<td colspan="2">160360</td>
 </tr>
 <tr>
 <td></td>
@@ -1031,6 +1045,22 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2">008</td>
 <td colspan="2">Мемлекеттiк тiлдi және Қазақстан халқының басқа да тiлдерін дамыту</td>
 <td colspan="2">1013</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2">495</td>
+<td colspan="2"></td>
+<td colspan="2">Ауданның (облыстық маңызы бар қаланың) сәулет, құрылыс, тұрғын үй-коммуналдық шаруашылығы, жолаушылар көлігі және автомобиль жолдары бөлімі</td>
+<td colspan="2">1999</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td colspan="2"></td>
+<td colspan="2">075</td>
+<td colspan="2">Байланыс желілерін салу</td>
+<td colspan="2">1999</td>
 </tr>
 <tr>
 <td></td>
@@ -1098,7 +1128,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Ауыл, су, орман, балық шаруашылығы, ерекше қорғалатын табиғи аумақтар, қоршаған ортаны және жануарлар дүниесін қорғау, жер қатынастары</td>
-<td colspan="2">59703</td>
+<td colspan="2">58968</td>
 </tr>
 <tr>
 <td></td>
@@ -1106,7 +1136,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2"></td>
 <td colspan="2">Жер қатынастары</td>
-<td colspan="2">35263</td>
+<td colspan="2">34528</td>
 </tr>
 <tr>
 <td></td>
@@ -1114,14 +1144,17 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2">463</td>
 <td colspan="2"></td>
 <td colspan="2">Ауданның (облыстық маңызы бар қаланың) жер қатынастары бөлімі</td>
-<td colspan="2">35263</td>
+<td colspan="2">34528</td>
 </tr>
 <tr>
 <td></td>
 <td></td>
 <td colspan="2"></td>
 <td colspan="2">001</td>
-<td colspan="2">Аудан (облыстық маңызы бар қала) аумағында жер қатынастарын реттеу саласындағы мемлекеттік саясатты іске асыру жөніндегі қызметтер</td>
+<td colspan="2">
+Аудан (облыстық маңызы бар қала) аумағында жер қатынастарын реттеу саласындағы мемлекеттік саясатты іске асыру
+жөніндегі қызметтер
+</td>
 <td colspan="2">30428</td>
 </tr>
 <tr>
@@ -1146,7 +1179,7 @@ source: https://zan.gov.kz/client/#!/doc/210058/kaz/05.05.2025
 <td colspan="2"></td>
 <td colspan="2">007</td>
 <td colspan="2">Мемлекеттік органның күрделі шығыстары</td>
-<td colspan="2">1835</td>
+<td colspan="2">1100</td>
 </tr>
 <tr>
 <td></td>
