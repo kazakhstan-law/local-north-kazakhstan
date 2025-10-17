@@ -1,5 +1,5 @@
 ---
-source: https://zan.gov.kz/client/#!/doc/210209/rus/08.05.2025
+source: https://zan.gov.kz/client/#!/doc/210209/rus/17.10.2025
 ---
 
 # Об утверждении бюджета Астраханского сельского округа Аккайынского района на 2025 -2027 годы
@@ -123,6 +123,8 @@ source: https://zan.gov.kz/client/#!/doc/210209/rus/08.05.2025
 > *№ 26-3*
 
 ## Бюджет Астраханского сельского округа Аккайынского района на 2025 год
+
+> *Сноска. Приложение 1 в редакции решения маслихата Аккайынского района Северо-Казахстанской области от 17.10.2025 № 28-13 (вводится в действие с 01.01.2025).*
 
 <table>
 <tr>
@@ -313,7 +315,7 @@ source: https://zan.gov.kz/client/#!/doc/210209/rus/08.05.2025
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Жилищно-коммунальное хозяйство</td>
-<td>10033,9</td>
+<td>9632,9</td>
 </tr>
 <tr>
 <td></td>
@@ -321,7 +323,7 @@ source: https://zan.gov.kz/client/#!/doc/210209/rus/08.05.2025
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Благоустройство населенных пунктов</td>
-<td>10033,9</td>
+<td>9632,9</td>
 </tr>
 <tr>
 <td></td>
@@ -329,7 +331,7 @@ source: https://zan.gov.kz/client/#!/doc/210209/rus/08.05.2025
 <td colspan="3">124</td>
 <td></td>
 <td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>10033,9</td>
+<td>9632,9</td>
 </tr>
 <tr>
 <td></td>
@@ -345,7 +347,7 @@ source: https://zan.gov.kz/client/#!/doc/210209/rus/08.05.2025
 <td colspan="3"></td>
 <td>009</td>
 <td colspan="3">Обеспечение санитарии населенных пунктов</td>
-<td>533</td>
+<td>336</td>
 </tr>
 <tr>
 <td></td>
@@ -353,7 +355,7 @@ source: https://zan.gov.kz/client/#!/doc/210209/rus/08.05.2025
 <td colspan="3"></td>
 <td>011</td>
 <td colspan="3">Благоустройство и озеленение населенных пунктов</td>
-<td>6800,9</td>
+<td>6596,9</td>
 </tr>
 <tr>
 <td>08</td>
@@ -361,7 +363,7 @@ source: https://zan.gov.kz/client/#!/doc/210209/rus/08.05.2025
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Культура, спорт, туризм и информационное пространство</td>
-<td>15006</td>
+<td>15407</td>
 </tr>
 <tr>
 <td></td>
@@ -369,7 +371,7 @@ source: https://zan.gov.kz/client/#!/doc/210209/rus/08.05.2025
 <td colspan="3"></td>
 <td></td>
 <td colspan="3">Деятельность в области культуры</td>
-<td>15006</td>
+<td>15407</td>
 </tr>
 <tr>
 <td></td>
@@ -377,7 +379,7 @@ source: https://zan.gov.kz/client/#!/doc/210209/rus/08.05.2025
 <td colspan="3">124</td>
 <td></td>
 <td colspan="3">Аппарат акима города районного значения, села, поселка, сельского округа</td>
-<td>15006</td>
+<td>15407</td>
 </tr>
 <tr>
 <td></td>
@@ -385,7 +387,7 @@ source: https://zan.gov.kz/client/#!/doc/210209/rus/08.05.2025
 <td colspan="3"></td>
 <td>006</td>
 <td colspan="3">Поддержка культурно-досуговой работы на местном уровне</td>
-<td>15006</td>
+<td>15407</td>
 </tr>
 <tr>
 <td>12</td>
